@@ -1,0 +1,15 @@
+{
+  "source": "workable",
+  "snapshot_at": "2026-09-23T13:39:36.647Z",
+  "active_jobs": 167082,
+  "verified_japan_eligible_jobs": 576,
+  "japanese_jobs": 767,
+  "remote_jobs": 48242,
+  "candidate_jobs_saved": 576,
+  "new_jobs_since_previous_snapshot": 1158,
+  "closed_jobs_confirmed_this_snapshot": 172,
+  "remote_ratio": 0.28873247866317137,
+  "employer_recurrence_count": 4597,
+  "median_observed_survival_days": 20.460810416666668,
+  "intelligence_status": "history_available"
+}
