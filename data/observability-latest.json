@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-09-23T19:51:26.950Z",
+  "observed_at": "2026-09-23T20:28:50.415Z",
   "run": {
-    "github_run_id": "35898869737",
-    "github_run_attempt": "4",
-    "github_sha": "020928d1a236e8ac409167fdcfc794ab3db6e805",
+    "github_run_id": "35916101182",
+    "github_run_attempt": "1",
+    "github_sha": "95b10232fd6a6a7fb4ec60843e27ad1efdf434d7",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,59 +16,17 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 8,
+    "meaningful_change_count": 1,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 8,
+    "changed_count": 1,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-289bfd575d",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-df615622cc",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
         "id": "workable-af4569242d",
         "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-2ab2a5dade",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-5fa3f41b2f",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-1cbef22854",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-8dbf1771be",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-ecfebe59ae",
-        "fields": [
-          "hiring_momentum_state"
+          "location"
         ]
       }
     ]
