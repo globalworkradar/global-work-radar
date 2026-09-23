@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-09-23T19:27:50.101Z",
+  "observed_at": "2026-09-23T19:51:26.950Z",
   "run": {
     "github_run_id": "35898869737",
-    "github_run_attempt": "3",
+    "github_run_attempt": "4",
     "github_sha": "020928d1a236e8ac409167fdcfc794ab3db6e805",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 472,
+    "previous_count": 474,
     "current_count": 474,
     "source_counts": {
       "lever": 0,
@@ -17,13 +17,10 @@
   },
   "change_detection": {
     "meaningful_change_count": 8,
-    "added_count": 2,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 6,
-    "added_ids": [
-      "workable-8dbf1771be",
-      "workable-ecfebe59ae"
-    ],
+    "changed_count": 8,
+    "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
@@ -41,7 +38,6 @@
       {
         "id": "workable-af4569242d",
         "fields": [
-          "location",
           "hiring_momentum_state"
         ]
       },
@@ -59,6 +55,18 @@
       },
       {
         "id": "workable-1cbef22854",
+        "fields": [
+          "hiring_momentum_state"
+        ]
+      },
+      {
+        "id": "workable-8dbf1771be",
+        "fields": [
+          "hiring_momentum_state"
+        ]
+      },
+      {
+        "id": "workable-ecfebe59ae",
         "fields": [
           "hiring_momentum_state"
         ]
@@ -82,7 +90,7 @@
         "REVIEW": 40
       },
       "reopened_after_confirmed_close_count": 0,
-      "changed_within_7d_count": 69,
+      "changed_within_7d_count": 71,
       "thresholds_days": {
         "aging": 30,
         "long_running": 60,
