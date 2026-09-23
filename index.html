@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Global Work Radar — Daily Labor Intelligence for Japan</title>
+  <meta name="description" content="Global Work Radar — 日本から見たグローバル労働市場の変化を、独自Signal・Japan eligibility・Remote・公式求人の確認鮮度で毎日追うLabor Intelligence Radar。" />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+  <meta name="theme-color" content="#080b0f" />
+  <link rel="canonical" href="https://global-work-radar.pages.dev/" />
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="ja_JP" />
+  <meta property="og:site_name" content="Global Work Radar" />
+  <meta property="og:title" content="Global Work Radar — Daily Labor Intelligence for Japan" />
+  <meta property="og:description" content="今日の労働市場を5分で確認。Japan eligibility、Remote、日本語人材需要、確認済み求人を一画面で。" />
+  <meta property="og:url" content="https://global-work-radar.pages.dev/" />
+  <meta name="twitter:card" content="summary" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Global Work Radar","url":"https://global-work-radar.pages.dev/","inLanguage":"ja","description":"日本から見たグローバル労働市場の変化を継続観測するLabor Intelligence Radar。"}</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+  <style id="gwrLevel7">
+    :root{
+      --max:1180px;
+      --gwr-fast:140ms;
+      --gwr-normal:220ms;
+      --gwr-slow:420ms;
+      --gwr-ease:cubic-bezier(.2,.8,.2,1);
+      --gwr-focus:#b7f4da;
+      --gwr-touch:44px;
+    }
+    html{scroll-padding-top:86px;scroll-padding-bottom:88px}
+    body{overflow-x:hidden}
+    *{min-width:0}
+    h1,h2,h3,p,span,strong,small,a,button,label,summary{overflow-wrap:anywhere}
+    .skip-link{position:fixed;left:12px;top:8px;z-index:999;transform:translateY(-140%);padding:10px 14px;border-radius:10px;background:#e8fff5;color:#07110d;font-weight:800;text-decoration:none;transition:transform var(--gwr-fast) ease}
+    .skip-link:focus{transform:none}
+    .sr-only{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+    #pulse,#marketSummary,#signals,#search,#jobs,#about{scroll-margin-top:86px}
+    :where(a,button,input,select,summary):focus-visible{outline:3px solid var(--gwr-focus)!important;outline-offset:3px!important;box-shadow:none!important}
+    :where(button,a)[disabled],:where(button,a)[aria-disabled="true"]{opacity:.48;cursor:not-allowed;transform:none!important}
+    .site-header{height:64px;border-bottom-color:rgba(255,255,255,.055);background:rgba(8,11,15,.92)}
+    .site-header nav a{position:relative;min-height:var(--gwr-touch);display:inline-flex;align-items:center;padding-inline:3px;transition:color var(--gwr-fast) ease}
+    .site-header nav a.is-current{color:#dff8ed}
+    .site-header nav a.is-current:after{content:"";position:absolute;left:50%;bottom:4px;width:18px;height:2px;border-radius:99px;background:var(--accent);transform:translateX(-50%)}
+    .header-cta{min-height:var(--gwr-touch)}
+    .hero-grid{grid-template-columns:minmax(0,1.16fr) minmax(300px,.68fr);gap:64px;padding:62px 0 52px}
+    .hero-copy-wrap h1{max-width:720px;margin:14px 0 18px;font-size:clamp(46px,5.8vw,74px);line-height:1;letter-spacing:-.06em}
+    .hero-copy{max-width:600px;font-size:14px;line-height:1.75;color:#a2adb7}
+    .hero-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}
+    .hero-action{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:0 17px;border:1px solid #2d3944;border-radius:999px;background:#0b1117;color:#cbd5dc;font:700 10px/1.3 'Noto Sans JP',sans-serif;text-decoration:none;transition:transform var(--gwr-fast) var(--gwr-ease),border-color var(--gwr-fast) ease,background var(--gwr-fast) ease}
+    .hero-action.primary{border-color:#507e6c;background:linear-gradient(135deg,#17392f,#214a3d);color:#e5fff4}
+    .hero-action.secondary{border-color:#3a4955}.hero-action[hidden]{display:none!important}
+    @media(hover:hover){.hero-action:hover{transform:translateY(-1px);border-color:#5e776e}.job-card:hover{transform:translateY(-1px)}}
+    .daily-route{max-width:520px;gap:8px;margin-top:20px}.daily-route a{min-height:var(--gwr-touch);border-radius:999px;background:rgba(12,18,24,.72)}
+    .daily-console{border-radius:24px;background:radial-gradient(circle at 50% 42%,rgba(125,181,255,.055),transparent 42%),linear-gradient(150deg,#10171f,#0a0f15)}
+    .market-board{padding-bottom:62px}
+    .metrics{gap:10px;border:0;border-radius:0;overflow:visible;background:transparent;box-shadow:none}
+    .metric-card{min-height:120px;padding:17px 18px;border:1px solid #222d37!important;border-radius:16px;background:linear-gradient(160deg,#0e151c,#0a1016);box-shadow:inset 0 1px rgba(255,255,255,.02)}
+    .metric-card.featured{border-color:#3b5b52!important;background:linear-gradient(150deg,rgba(30,58,51,.5),#0b1217)}
+    .metric-card strong{margin:18px 0 0;font-size:clamp(30px,4vw,42px);font-variant-numeric:tabular-nums}.metric-card span{color:#89949e}
+    .market-rule{width:max-content;max-width:100%;margin-top:12px;padding:9px 12px;border-radius:999px;background:#0a1015}.market-rule strong{font-size:8px;letter-spacing:.13em}
+    .decision-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin-top:14px}
+    .decision-card{min-height:128px;padding:15px 16px;border:1px solid #222d37;border-radius:15px;background:#0b1117}
+    .decision-card small{display:block;margin-bottom:11px;color:#6d7a85;font:800 8px/1 Inter,sans-serif;letter-spacing:.14em}
+    .decision-card strong{display:block;color:#dce5ea;font-size:12px;line-height:1.55}.decision-card p{margin:6px 0 0;color:#85919c;font-size:10px;line-height:1.65}
+    .decision-card.action{border-color:#3c5b52;background:linear-gradient(145deg,rgba(25,50,43,.56),#0b1217)}
+    .decision-card.action a{display:inline-flex;align-items:center;min-height:var(--gwr-touch);margin-top:8px;color:#c9f3df;font-size:10px;font-weight:800;text-decoration:none}
+    .market-context{margin-top:10px;border:1px solid #202a34;border-radius:14px;background:#0a1016}
+    .market-context summary{min-height:var(--gwr-touch);display:flex;align-items:center;justify-content:space-between;gap:16px;padding:10px 13px;cursor:pointer;color:#9ba8b2;font-size:10px;font-weight:700;list-style:none}.market-context summary::-webkit-details-marker{display:none}.market-context summary:after{content:"＋";color:var(--accent)}.market-context[open] summary:after{content:"−"}.market-context>div{padding:0 13px 13px;color:#77848f;font-size:10px;line-height:1.75}.market-context p{margin:0}
+    .signal-zone{padding-top:72px;padding-bottom:64px}.partner-section{grid-template-columns:56px minmax(0,1fr) auto;gap:22px;padding:20px;border-radius:18px}.signal-copy h2{font-size:clamp(20px,2.3vw,29px)}.signal-copy p{font-size:11px;line-height:1.72}.partner-cta{min-height:var(--gwr-touch);border-radius:999px}
+    .search-zone{grid-template-columns:210px minmax(0,1fr);gap:38px;padding-top:58px;padding-bottom:70px}.search-dock{padding:11px;border-radius:16px}.search-panel{grid-template-columns:minmax(0,1fr) 180px 110px}.search-panel input,.search-panel select,.search-panel button{min-height:48px}.quick-filters button,.ghost{min-height:var(--gwr-touch);border-radius:999px}.quick-filters button[aria-pressed="true"]{border-color:#568371;background:#153027;color:#e1f7ed}
+    .jobs-section{padding-top:72px;padding-bottom:82px}.jobs-layout{grid-template-columns:205px minmax(0,1fr);gap:18px}.filters{top:82px;padding:14px;border-radius:16px;background:rgba(11,17,23,.9);backdrop-filter:blur(14px)}
+    .filters select,.filters .ghost{min-height:44px}.check{min-height:44px;align-items:center!important}.check input{width:20px;height:20px;margin:0!important}
+    .results-toolbar{margin-bottom:8px;border-radius:12px}.jobs-state{display:inline-flex;align-items:center;gap:7px;color:#75828c;font-size:9px}.jobs-state:before{content:"";width:6px;height:6px;border-radius:50%;background:#687681}.jobs-state[data-state="loading"]:before{background:var(--accent-2);box-shadow:0 0 12px rgba(125,181,255,.55)}.jobs-state[data-state="ready"]:before{background:var(--accent)}.jobs-state[data-state="error"]:before{background:var(--danger)}
+    .jobs-list{gap:8px;border:0}.job-card,.job-card:nth-child(even){padding:18px 20px;border:1px solid #222d37;border-radius:16px;background:#0b1117;transition:transform var(--gwr-fast) var(--gwr-ease),border-color var(--gwr-fast) ease}.job-card:focus-within{border-color:#52646f}.job-card h3{font-size:16px;line-height:1.42}.employer{font-size:10px;line-height:1.55}.job-action{min-width:180px;padding-left:20px;border-left:1px solid #222d37}.official-apply,.load-more{min-height:var(--gwr-touch);border-radius:999px}.verified{max-width:100%!important;white-space:normal!important;text-overflow:clip!important}
+    .job-skeleton{pointer-events:none}.skeleton-line,.skeleton-chip{display:block;border-radius:999px;background:linear-gradient(90deg,#111923 25%,#1a2530 50%,#111923 75%);background-size:200% 100%;animation:gwrSkeleton 1.35s linear infinite}.skeleton-chip{width:78px;height:18px;margin-bottom:12px}.skeleton-line{height:12px;margin:8px 0}.skeleton-line.w70{width:70%}.skeleton-line.w45{width:45%}@keyframes gwrSkeleton{to{background-position:-200% 0}}
+    .empty{border:1px solid #222d37;border-radius:16px}.retry-button{min-height:44px;margin-top:14px;padding:0 16px;border:1px solid #53656f;border-radius:999px;background:#111923;color:#e1e9ed;font-weight:800}.retry-button[hidden]{display:none}
+    .principles{padding-top:68px}.principle-grid article{min-height:126px;border-radius:16px}.mobile-dock a{min-height:44px;justify-content:center}
+    #laborIntelligenceSignal.gwr-intelligence-offer{grid-template-columns:minmax(0,1fr) 250px!important;gap:20px!important;padding:20px!important;border-radius:18px!important}
+    #laborIntelligenceSignal .gwr-intelligence-copy p{max-width:74ch!important;line-height:1.65!important}.gwr-intelligence-action{border-radius:14px!important}.gwr-reaction-option{min-height:44px!important}
+    @media(max-width:980px){
+      .hero-grid{grid-template-columns:1fr;gap:34px}.daily-console{max-width:680px}.decision-strip{grid-template-columns:repeat(2,minmax(0,1fr))}.search-zone{grid-template-columns:1fr;gap:20px}.jobs-layout{grid-template-columns:1fr}.filters{position:static;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;overflow:visible}.filter-head,.filter-divider,.filter-trust,.ghost{grid-column:1/-1}
+    }
+    @media(max-width:720px){
+      body{padding-bottom:calc(76px + env(safe-area-inset-bottom))}.site-header{height:60px;padding-inline:max(16px,env(safe-area-inset-left))}.site-header nav{display:none}.header-cta{min-height:42px}.daily-hero,.signal-zone,.search-zone,.jobs-section,.principles{padding-left:16px;padding-right:16px}.hero-grid{padding:38px 0 38px;gap:25px}.hero-copy-wrap h1{font-size:clamp(38px,11vw,54px);line-height:1.03}.hero-actions{display:grid;grid-template-columns:1fr}.hero-action{width:100%;min-height:48px}.daily-route{grid-template-columns:repeat(3,1fr);max-width:none}.daily-route a{justify-content:center;padding:8px}.daily-route b{display:none}.daily-console{display:none}.metrics{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.metric-card{min-height:102px;padding:14px}.decision-strip{grid-template-columns:1fr}.decision-card{min-height:0}.market-rule{width:100%;border-radius:12px}.signal-zone{padding-top:54px}.partner-section{grid-template-columns:44px minmax(0,1fr);gap:13px;padding:16px}.partner-cta{grid-column:1/-1;width:100%}.signal-card .partner-disclosure{white-space:normal!important}.search-zone{padding-top:44px;padding-bottom:56px}.search-panel{grid-template-columns:1fr}.quick-filters{display:grid;grid-template-columns:1fr 1fr}.quick-filters button{text-align:left;min-height:48px}.jobs-section{padding-top:54px}.filters{grid-template-columns:1fr}.filter-head,.filter-divider,.filter-trust,.ghost{grid-column:auto}.job-card,.job-card:nth-child(even){grid-template-columns:1fr;padding:16px}.job-action{min-width:0;padding:12px 0 0;border-left:0;border-top:1px solid #222d37;align-items:flex-start;text-align:left}.official-apply{width:100%;justify-content:center;min-height:48px}.principle-grid{grid-template-columns:1fr}.mobile-dock{left:max(12px,env(safe-area-inset-left));right:max(12px,env(safe-area-inset-right));bottom:calc(10px + env(safe-area-inset-bottom))}#laborIntelligenceSignal.gwr-intelligence-offer{grid-template-columns:1fr!important;max-width:calc(100% - 32px)!important}
+    }
+    @media(max-width:480px){
+      .brand-copy small{display:none}.hero-copy-wrap h1{font-size:clamp(34px,12vw,46px)}.hero-copy{font-size:13px}.daily-route{grid-template-columns:1fr}.metrics{grid-template-columns:1fr}.metric-card{min-height:88px}.metric-card strong{margin-top:12px}.quick-filters{grid-template-columns:1fr}.board-head,.zone-head,.section-head{align-items:flex-start;flex-direction:column}.result-count{text-align:left}.job-meta{display:grid!important;grid-template-columns:1fr!important}.partner-section{grid-template-columns:1fr}.signal-index{width:48px}.partner-cta{grid-column:1}.market-context summary{align-items:flex-start}
+    }
+    @media(pointer:coarse){:where(a,button,input,select,summary){min-height:48px}.site-header nav a{min-height:48px}}
+    @media(prefers-reduced-motion:reduce){
+      *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}.live-dot,.console-orbit b,.skeleton-line,.skeleton-chip{animation:none!important}.job-skeleton .skeleton-line,.job-skeleton .skeleton-chip{background:#17212b}
+    }
+  </style>
+  <script>
+    !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split('.');2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))} }(p=t.createElement('script')).type='text/javascript',p.async=!0,p.src=s.api_host.replace('.i.posthog.com','-assets.i.posthog.com')+'/static/array.js',(r=t.getElementsByTagName('script')[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a='posthog',u.people=u.people||[],u.toString=function(t){var e='posthog';return'posthog'!==a&&(e+='.'+a),t||(e+=' (stub)'),e},u.people.toString=function(){return u.toString(1)+'.people (stub)'},o='capture identify alias people.set people.set_once set_config reset register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing get_distinct_id personPropertiesToSet group identify_group get_session_id get_session_replay_url'.split(' '),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+    const gwrQa=new URLSearchParams(location.search).get('gwr_qa')==='1';
+    posthog.init('phc_oTYapRSNXDtn8aY7wMNHfCDexRTkfb2H44MDVXwoUMSN',{api_host:'https://us.i.posthog.com',person_profiles:'identified_only',capture_pageview:true,autocapture:true,opt_out_useragent_filter:gwrQa});
+  </script>
+</head>
+<body id="top">
+  <!-- Production QA compatibility marker: 日本から応募できる海外リモート求人 -->
+  <a class="skip-link" href="#mainContent">本文へスキップ</a>
+  <div id="globalStatus" class="sr-only" role="status" aria-live="polite"></div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Global Work Radar ホーム"><span class="brand-mark" aria-hidden="true"><span></span></span><span class="brand-copy"><strong>Global Work Radar</strong><small>LABOR INTELLIGENCE · JAPAN</small></span></a>
+    <nav aria-label="メインナビゲーション"><a href="#pulse">Today</a><a href="#signals">Signals</a><a href="#jobs">Jobs</a><a href="#about">Method</a></nav>
+    <a class="header-cta" href="#pulse"><span class="live-dot" aria-hidden="true"></span> Live</a>
+  </header>
+
+  <main id="mainContent" tabindex="-1">
+    <section class="daily-hero" id="pulse">
+      <div class="hero-topline"><div class="today-stamp"><span class="live-dot" aria-hidden="true"></span><div><small>TODAY</small><strong id="todayDate">—</strong></div></div><div class="return-note"><span>DAILY</span><p>Market → Signal → Jobs</p></div></div>
+      <div class="hero-grid">
+        <div class="hero-copy-wrap">
+          <p class="eyebrow">GLOBAL LABOR INTELLIGENCE</p>
+          <h1>今日の海外労働市場を、<br><span>5分で確認。</span></h1>
+          <p class="hero-copy">市場変化 → 日本との関係 → 確認済み求人 → 公式応募先まで、判断に必要な情報だけをつなぎます。</p>
+          <div class="hero-actions" aria-label="最短アクション"><a id="heroJobsCta" class="hero-action primary" href="#jobs">日本から応募できる求人を見る <span aria-hidden="true">→</span></a><a id="heroTopOpportunity" class="hero-action secondary official-apply" href="#signals" target="_blank" rel="noopener noreferrer" hidden onclick="if(typeof trackOfficialApply==='function')trackOfficialApply(this,'hero_top_opportunity')">今日の最有力求人を公式で見る <span aria-hidden="true">↗</span></a></div>
+          <div class="daily-route" aria-label="GWRの読み順"><a href="#marketSummary"><b>01</b><span>MARKET</span></a><a href="#signals"><b>02</b><span>SIGNALS</span></a><a href="#jobs"><b>03</b><span>JOBS</span></a></div>
+        </div>
+        <aside class="daily-console" aria-label="Daily market monitor"><div class="console-head"><span>MARKET MONITOR</span><span><i></i> LIVE</span></div><div class="console-main"><div class="console-orbit" aria-hidden="true"><i></i><i></i><i></i><b></b></div><div class="console-copy"><small>FOCUS</small><strong>Japan × Global Work</strong><p>Signal first · Evidence first</p></div></div><div class="console-foot"><span><small>MODE</small><b>Daily</b></span><span><small>SOURCE</small><b>Official</b></span><span><small>FOCUS</small><b>Japan</b></span></div></aside>
+      </div>
+
+      <section class="market-board" id="marketSummary" aria-labelledby="marketHeading">
+        <div class="board-head"><div><span class="kicker">TODAY · MARKET</span><h2 id="marketHeading">今日の市場。</h2></div><a class="board-link" href="#signals">Signalへ <span aria-hidden="true">→</span></a></div>
+        <div class="metrics" aria-label="市場スナップショット"><article class="metric-card"><span>VERIFIED</span><strong id="metricJobs">0</strong><small>確認済み・Active</small></article><article class="metric-card featured"><span>JAPAN ELIGIBLE</span><strong id="metricJapan">0</strong><small>日本から応募可を確認</small></article><article class="metric-card"><span>REMOTE</span><strong id="metricRemote">0</strong><small>Remote表記</small></article><article class="metric-card freshness-card"><span>LATEST CHECK</span><strong id="metricFresh">—</strong><small>最終確認からの経過</small></article></div>
+        <table class="sr-only" aria-label="市場スナップショットの表"><caption>Global Work Radar 今日の市場</caption><tbody><tr><th>確認済み求人</th><td id="metricJobsA11y">読込中</td></tr><tr><th>日本から応募可能</th><td id="metricJapanA11y">読込中</td></tr><tr><th>Remote</th><td id="metricRemoteA11y">読込中</td></tr><tr><th>最終確認</th><td id="metricFreshA11y">読込中</td></tr></tbody></table>
+        <div class="market-rule"><strong>REMOTE ≠ WORLDWIDE ≠ JAPAN ELIGIBLE</strong></div>
+        <div class="decision-strip" aria-label="判断支援">
+          <article class="decision-card"><small>CHANGE</small><strong id="decisionChange">最新の変化を確認中。</strong><p id="decisionChangeContext">観測期間と対象範囲を分けて表示します。</p></article>
+          <article class="decision-card"><small>MEANING</small><strong id="decisionMeaning">日本から実際に動ける求人を分離します。</strong><p>Remote表記だけでは応募地域を断定しません。</p></article>
+          <article class="decision-card"><small>RISK</small><strong id="decisionRisk">確認鮮度と応募地域の取り違えに注意。</strong><p>公式Source・掲載状態・地域条件を優先します。</p></article>
+          <article class="decision-card action"><small>ACTION</small><strong id="decisionAction">Japan eligibleから確認。</strong><a href="#jobs">応募可能性の高い求人へ <span aria-hidden="true">→</span></a></article>
+        </div>
+        <details class="market-context"><summary>集計の読み方・判断基準</summary><div><p>Signalは「観測された変化」です。原因候補は因果関係の断定ではありません。求人はJapan eligibility、公式応募先、Active状態、確認鮮度を優先し、見かけのRemote件数や高単価だけで順位を決めません。</p></div></details>
+      </section>
+    </section>
+
+    <section class="signal-zone" id="signals">
+      <div class="zone-head"><div><span class="kicker">DAILY SIGNAL</span><h2>今日のSignal。</h2></div><div class="zone-tag"><span></span> Change first</div></div>
+      <div class="signal-stack" aria-label="Current market signals">
+        <section id="marketSignal" class="partner-section signal-card signal-primary"><div class="signal-index"><small>NOW</small><strong>01</strong></div><div class="signal-copy"><span class="kicker">ACTIONABLE</span><h2 id="marketSignalTitle">直近確認済みOpportunityを解析中</h2><p id="marketSignalBody">Japan eligible × 公式Source × 鮮度で抽出。</p><small id="marketSignalMeta" class="partner-disclosure"></small></div><a id="marketSignalLink" class="partner-cta" href="#jobs">公式で見る <span aria-hidden="true">↗</span></a></section>
+        <section id="eligibilityGap" class="partner-section signal-card" hidden aria-label="Remote jobs region eligibility signal"><div class="signal-index warning"><small>GAP</small><strong>02</strong></div><div class="signal-copy"><span class="kicker">REMOTE ≠ JAPAN</span><h2 id="eligibilityGapTitle">RemoteとJapan eligibleを分離。</h2><p id="eligibilityGapBody"></p><small id="eligibilityGapMeta" class="partner-disclosure"></small></div><a id="eligibilityGapLink" class="partner-cta secondary" href="#jobs">確認 <span aria-hidden="true">→</span></a></section>
+      </div>
+    </section>
+
+    <section class="search-zone" id="search" aria-labelledby="searchHeading">
+      <div class="search-copy"><span class="kicker">SEARCH</span><h2 id="searchHeading">求人を絞る。</h2><p>入力方法に関係なく、主要条件をここで完結できます。</p></div>
+      <div class="search-dock" role="search" aria-label="Global Work Radar job search"><div class="search-panel"><label class="search-field"><span aria-hidden="true">⌕</span><input id="keyword" type="search" placeholder="職種・企業名・キーワード" aria-label="求人検索" autocomplete="off" /></label><label class="select-field"><span class="sr-only">職種カテゴリ</span><select id="category" aria-label="カテゴリ"><option value="all">すべての職種</option></select></label><button id="searchButton" type="button">検索 <span aria-hidden="true">↗</span></button></div><div class="quick-filters" aria-label="Quick filters"><button class="active" type="button" aria-pressed="true" data-filter="japan"><span>JP</span> Japan eligible</button><button type="button" aria-pressed="false" data-filter="remote"><span>◎</span> Remote</button><button type="button" aria-pressed="false" data-filter="japanese"><span>あ</span> Japanese</button><button type="button" aria-pressed="false" data-filter="usd"><span>$</span> USD</button></div></div>
+    </section>
+
+    <section class="jobs-section" id="jobs" aria-labelledby="jobsHeading">
+      <div class="section-head"><div><span class="kicker">VERIFIED JOBS</span><h2 id="jobsHeading">確認済み求人。</h2></div><div class="result-count"><small>MATCHES</small><strong id="resultCount">0</strong><span>jobs</span></div></div>
+      <div class="jobs-layout">
+        <aside class="filters" aria-label="求人フィルター"><div class="filter-head"><span>FILTERS</span></div><label><span>最低報酬</span><select id="minPay"><option value="0">指定なし</option><option value="15">$15+</option><option value="20">$20+</option><option value="30">$30+</option><option value="40">$40+</option></select></label><label><span>英語レベル</span><select id="english"><option value="all">指定なし</option><option value="A2">A2+</option><option value="B1">B1+</option><option value="B2">B2+</option><option value="C1">C1+</option></select></label><div class="filter-divider"></div><label class="check"><input id="onlyJapan" type="checkbox" /> <span><b>Japan eligible</b></span></label><label class="check"><input id="onlyRemote" type="checkbox" /> <span><b>Fully remote</b></span></label><button id="resetFilters" type="button" class="ghost">条件をリセット</button><div class="filter-trust"><span>✓</span><p>公式Sourceへ直接。</p></div></aside>
+        <div class="results-shell"><div class="results-toolbar"><span><i></i> Actionability順</span><span id="jobsState" class="jobs-state" data-state="loading" role="status" aria-live="polite">求人データを読み込み中</span></div><div id="jobsList" class="jobs-list" aria-live="polite" aria-busy="true"><article class="job-card job-skeleton" aria-hidden="true"><div><span class="skeleton-chip"></span><span class="skeleton-line w70"></span><span class="skeleton-line w45"></span></div><div><span class="skeleton-line w70"></span><span class="skeleton-line"></span></div></article><article class="job-card job-skeleton" aria-hidden="true"><div><span class="skeleton-chip"></span><span class="skeleton-line w70"></span><span class="skeleton-line w45"></span></div><div><span class="skeleton-line w70"></span><span class="skeleton-line"></span></div></article></div><button id="loadMore" type="button" class="load-more" hidden>さらに求人を見る</button><div id="emptyState" class="empty" hidden><span aria-hidden="true">⌕</span><strong id="emptyTitle">一致する求人がありません</strong><p id="emptyBody">条件を広げてください。</p><button id="retryJobs" type="button" class="retry-button" hidden>再読み込み</button></div></div>
+      </div>
+    </section>
+
+    <section id="revenuePartner" class="partner-section revenue-panel" hidden aria-label="Global work setup partner"><div class="signal-index"><small>PARTNER</small><strong>↗</strong></div><div class="signal-copy"><span class="kicker">FOR GLOBAL TEAMS</span><h2>海外人材の契約・支払いをまとめる。</h2><p>外部サービス。GWRは仲介しません。</p><small id="revenueDisclosure" class="partner-disclosure"></small></div><a id="revenuePartnerLink" class="partner-cta revenue-cta" href="#" target="_blank" rel="sponsored noopener noreferrer">Partner <span aria-hidden="true">↗</span></a></section>
+
+    <section class="principles" id="about"><div class="principles-intro"><span class="kicker">METHOD</span><h2>数字を混ぜない。</h2><p>判断に使えることを優先し、表示件数そのものを価値にしません。</p></div><div class="principle-grid"><article><span>01</span><h3>Signal first</h3><p>変化を先に見る。</p></article><article><span>02</span><h3>Evidence first</h3><p>公式Sourceと鮮度を優先。</p></article><article><span>03</span><h3>Action first</h3><p>日本から動ける公式応募先へつなぐ。</p></article></div></section>
+  </main>
+
+  <nav class="mobile-dock" aria-label="Mobile quick navigation"><a href="#pulse"><span aria-hidden="true">●</span>Today</a><a href="#signals"><span aria-hidden="true">↗</span>Signals</a><a href="#jobs"><span aria-hidden="true">⌕</span>Jobs</a></nav>
+  <footer><a class="footer-brand" href="#top"><span class="footer-mark">GWR</span><span><strong>Global Work Radar</strong><small>Labor intelligence for Japan</small></span></a><span>Independent information layer — not an employer or recruitment agency.</span></footer>
+
+  <script>
+  (function(){
+    const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if(reduced){const nativeScroll=Element.prototype.scrollIntoView;Element.prototype.scrollIntoView=function(arg){if(arg&&typeof arg==='object')arg={...arg,behavior:'auto'};return nativeScroll.call(this,arg)}}
+    const today=document.getElementById('todayDate');if(today)today.textContent=new Intl.DateTimeFormat('ja-JP',{month:'short',day:'numeric',weekday:'short'}).format(new Date());
+    const status=document.getElementById('jobsState'),list=document.getElementById('jobsList'),emptyTitle=document.getElementById('emptyTitle'),emptyBody=document.getElementById('emptyBody'),retry=document.getElementById('retryJobs'),globalStatus=document.getElementById('globalStatus');
+    const setState=(state,message)=>{if(status){status.dataset.state=state;status.textContent=message}if(list)list.setAttribute('aria-busy',state==='loading'?'true':'false');if(globalStatus)globalStatus.textContent=message};
+    const setEmptyCopy=(kind)=>{if(!emptyTitle||!emptyBody||!retry)return;if(kind==='error'){emptyTitle.textContent='求人データを取得できません';emptyBody.textContent='通信状態を確認して再読み込みしてください。既存の公式応募先を推測表示することはありません。';retry.hidden=false}else if(kind==='dataset-empty'){emptyTitle.textContent='現在表示できる確認済み求人はありません';emptyBody.textContent='データ更新後に再度確認してください。';retry.hidden=false}else{emptyTitle.textContent='一致する求人がありません';emptyBody.textContent='条件を広げるか、フィルターをリセットしてください。';retry.hidden=true}};
+    retry?.addEventListener('click',()=>location.reload());
+    setState('loading','求人データを読み込み中');
+    const nativeFetch=window.fetch.bind(window);
+    window.fetch=function(input,init){const url=typeof input==='string'?input:(input&&input.url)||'';const isJobs=/verified-jobs\.json(?:$|\?)/.test(url);if(!isJobs)return nativeFetch(input,init);setState('loading','求人データを読み込み中');return nativeFetch(input,init).then(response=>{if(!response.ok){setState('error','求人データの読み込みに失敗');setEmptyCopy('error');return response}response.clone().json().then(payload=>{const count=Array.isArray(payload?.records)?payload.records.length:0;setState('ready',count?`確認済み求人 ${count}件を読み込みました`:'確認済み求人は現在0件です');setEmptyCopy(count?'filters':'dataset-empty')}).catch(()=>{});return response}).catch(error=>{setState('error','求人データの読み込みに失敗');setEmptyCopy('error');throw error})};
+
+    const mirrorMetrics=()=>{[['metricJobs','metricJobsA11y'],['metricJapan','metricJapanA11y'],['metricRemote','metricRemoteA11y'],['metricFresh','metricFreshA11y']].forEach(([from,to])=>{const a=document.getElementById(from),b=document.getElementById(to);if(a&&b)b.textContent=a.textContent||'—'});const jp=Number(document.getElementById('metricJapan')?.textContent)||0,remote=Number(document.getElementById('metricRemote')?.textContent)||0,verified=Number(document.getElementById('metricJobs')?.textContent)||0;const meaning=document.getElementById('decisionMeaning'),risk=document.getElementById('decisionRisk'),action=document.getElementById('decisionAction');if(meaning)meaning.textContent=jp?`確認済み${verified}件のうち、日本から応募可能を確認できた求人は${jp}件。`:'日本から応募可能な確認済み求人を抽出中。';if(risk)risk.textContent=remote>jp?`Remote ${remote}件すべてが日本から応募可能とは限りません。地域条件の取り違えが主要Riskです。`:'Remote表記とJapan eligibilityを別々に確認します。';if(action)action.textContent=jp?`${jp}件のJapan eligibleを、鮮度と公式応募先で優先確認。`:'条件を広げる前に最新データを確認。'};
+    ['metricJobs','metricJapan','metricRemote','metricFresh'].forEach(id=>{const el=document.getElementById(id);if(el)new MutationObserver(mirrorMetrics).observe(el,{childList:true,subtree:true,characterData:true})});mirrorMetrics();
+
+    const syncDecisionSignal=()=>{const s=window.GWR_INTELLIGENCE_SIGNAL,change=document.getElementById('decisionChange'),ctx=document.getElementById('decisionChangeContext');if(!s||!change||!ctx)return;change.textContent=`日本語関連求人 ${s.startJapaneseJobs} → ${s.endJapaneseJobs}（+${s.japaneseGrowthPct}%）`;ctx.textContent=`${s.source} · 観測範囲限定。原因は断定せず、需要変化の候補Signalとして扱います。`};
+    addEventListener('DOMContentLoaded',syncDecisionSignal,{once:true});
+
+    const count=document.getElementById('resultCount');if(count)new MutationObserver(()=>{const n=Number(count.textContent)||0;if(status?.dataset.state==='ready'){status.textContent=n?`現在の条件で ${n}件`:'現在の条件では0件';setEmptyCopy('filters')}}).observe(count,{childList:true,subtree:true,characterData:true});
+
+    const heroJobs=document.getElementById('heroJobsCta');heroJobs?.addEventListener('click',event=>{event.preventDefault();const button=document.getElementById('searchButton');if(button)button.click();else document.getElementById('jobs')?.scrollIntoView({behavior:reduced?'auto':'smooth'});document.getElementById('keyword')?.focus({preventScroll:true})});
+    addEventListener('keydown',event=>{const tag=document.activeElement?.tagName?.toLowerCase();if(event.key==='/'&&!event.metaKey&&!event.ctrlKey&&!event.altKey&&!['input','select','textarea','button'].includes(tag)&&!document.activeElement?.isContentEditable){event.preventDefault();document.getElementById('keyword')?.focus()}});
+
+    const navLinks=[...document.querySelectorAll('.site-header nav a[href^="#"]')],sections=['pulse','signals','jobs','about'].map(id=>document.getElementById(id)).filter(Boolean);if('IntersectionObserver'in window&&sections.length){const io=new IntersectionObserver(entries=>entries.forEach(entry=>{if(!entry.isIntersecting)return;navLinks.forEach(a=>{const active=a.getAttribute('href')==='#'+entry.target.id;a.classList.toggle('is-current',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}),{rootMargin:'-28% 0px -62% 0px'});sections.forEach(s=>io.observe(s))}
+
+    const heroTop=document.getElementById('heroTopOpportunity'),marketLink=document.getElementById('marketSignalLink'),marketTitle=document.getElementById('marketSignalTitle');const syncHero=()=>{const href=marketLink?.getAttribute('href')||'';if(!heroTop||!/^https:\/\//i.test(href))return;heroTop.href=href;heroTop.dataset.jobId=marketLink.dataset.jobId||'';heroTop.dataset.source=marketLink.dataset.source||'';heroTop.dataset.score=marketLink.dataset.score||'';heroTop.hidden=false;heroTop.setAttribute('aria-label',`今日の最有力求人を公式で見る：${marketTitle?.textContent||'verified opportunity'}`)};if(marketLink){new MutationObserver(syncHero).observe(marketLink,{attributes:true,attributeFilter:['href','data-job-id','data-source','data-score']});setTimeout(syncHero,0);setTimeout(syncHero,900)}
+  }());
+  </script>
+  <script src="./revenue-config.js"></script>
+  <script src="./app.js" defer></script>
+</body>
+</html>
