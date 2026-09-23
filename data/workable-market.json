@@ -1,6 +1,6 @@
 {
   "source": "workable",
-  "snapshot_at": "2026-09-23T20:03:07.718Z",
+  "snapshot_at": "2026-09-23T20:08:56.745Z",
   "active_jobs": 167683,
   "verified_japan_eligible_jobs": 606,
   "japanese_jobs": 770,
@@ -10,6 +10,6 @@
   "closed_jobs_confirmed_this_snapshot": 0,
   "remote_ratio": 0.2912698365367986,
   "employer_recurrence_count": 4600,
-  "median_observed_survival_days": 0.08832302083333333,
+  "median_observed_survival_days": 0.09236268518518519,
   "intelligence_status": "history_available"
 }
