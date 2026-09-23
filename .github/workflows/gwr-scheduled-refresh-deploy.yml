@@ -1,0 +1,244 @@
+name: GWR Scheduled Refresh & Deploy
+
+on:
+  schedule:
+    - cron: '17 */4 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/gwr-scheduled-refresh-deploy.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gwr-scheduled-refresh-deploy
+  cancel-in-progress: true
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout canonical GWR
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Stage current Lever watchlist signals
+        run: node ingest-lever.mjs
+
+      - name: Download Workable feed with retry
+        run: |
+          set -euo pipefail
+          rm -f /tmp/workable.xml
+          for attempt in 1 2 3 4; do
+            echo "Workable download attempt ${attempt}"
+            if curl --fail --location --silent --show-error               --connect-timeout 20 --max-time 300               --retry 2 --retry-delay 3 --retry-all-errors               --output /tmp/workable.xml               https://www.workable.com/boards/workable.xml; then
+              if grep -q '<job' /tmp/workable.xml && grep -q '</job>' /tmp/workable.xml; then
+                echo "Workable feed downloaded: $(wc -c < /tmp/workable.xml) bytes"
+                break
+              fi
+            fi
+            rm -f /tmp/workable.xml
+            if [ "$attempt" = "4" ]; then
+              echo "Workable feed unavailable after retries"
+              exit 1
+            fi
+            sleep $((attempt * 5))
+          done
+
+      - name: Ingest Workable
+        env:
+          WORKABLE_XML_FILE: /tmp/workable.xml
+        run: node ingest-workable.mjs
+
+      - name: Build verified public jobs
+        run: node build-public-jobs.mjs
+
+      - name: Enrich lifecycle and hiring intent
+        run: node enrich-lifecycle.mjs
+
+      - name: Validate outputs
+        run: |
+          node - <<'NODE'
+          const fs=require('fs');
+          const zlib=require('zlib');
+          const root='data/';
+          for (const f of ['staging-lever.json','workable-current.json','workable-market.json','verified-jobs.json']) {
+            JSON.parse(fs.readFileSync(root+f,'utf8'));
+          }
+          if (fs.existsSync(root+'workable-state.json.gz')) {
+            JSON.parse(zlib.gunzipSync(fs.readFileSync(root+'workable-state.json.gz')).toString('utf8'));
+          }
+          const verified=JSON.parse(fs.readFileSync(root+'verified-jobs.json','utf8'));
+          if(!verified.records?.length) throw new Error('GWR verified inventory empty');
+          if(!verified.generated_at) throw new Error('GWR generated_at missing');
+          if(!verified.intelligence) throw new Error('GWR intelligence missing');
+          if(!verified.intelligence.lifecycle||!verified.intelligence.hiring_intent) throw new Error('GWR lifecycle/hiring intent summary missing');
+          if(!verified.records.every(r=>r.freshness&&r.hiringMomentum&&r.skillSalary&&r.laborBenchmark&&r.lifecycle&&r.hiringIntent)) throw new Error('GWR intelligence fields missing from records');
+          if(verified.records.some(r=>r.hiringIntent.is_hiring_probability!==false||r.hiringIntent.is_ghost_job_determination!==false)) throw new Error('GWR hiring intent safety semantics invalid');
+          console.log(`GWR_GENERATED_AT=${verified.generated_at}`);
+          console.log(`GWR_JOB_COUNT=${verified.records.length}`);
+          NODE
+
+      - name: Validate Agent Lab downstream handoff
+        run: node agent-lab-handoff.mjs --validate-log
+
+      - name: Validate Publishing downstream handoff
+        run: node publishing-handoff.mjs --validate-log
+
+      - name: Record evidence-first observability
+        env:
+          GWR_BASELINE_REF: HEAD
+        run: node observability.mjs
+
+      - name: Remove legacy oversized state/history
+        run: |
+          rm -f data/workable-state.json
+          rm -f data/workable-history.jsonl
+
+      - name: Commit snapshot evidence
+        run: |
+          set -euo pipefail
+          git config user.name "gwr-bot"
+          git config user.email "globalworkradar@gmail.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "No snapshot changes"
+          else
+            git commit -m "data(gwr): scheduled market observation snapshot"
+            git push origin HEAD:main
+          fi
+
+      - name: Require Cloudflare credentials
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "Cloudflare deploy blocked: CLOUDFLARE_API_TOKEN and/or CLOUDFLARE_ACCOUNT_ID is not configured."
+            exit 1
+          fi
+          echo "Cloudflare credentials detected."
+
+      - name: Build public-only bundle
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/gwr-public
+          mkdir -p /tmp/gwr-public/data
+          cp index.html /tmp/gwr-public/
+          cp styles.css /tmp/gwr-public/
+          cp app.js /tmp/gwr-public/
+          printf '\n' >> /tmp/gwr-public/app.js
+          cat measurement-contract.js >> /tmp/gwr-public/app.js
+          cp revenue-config.js /tmp/gwr-public/
+          cp favicon.svg /tmp/gwr-public/
+          cp robots.txt /tmp/gwr-public/
+          cp sitemap.xml /tmp/gwr-public/
+          cp d3af1ce8e69e0a9f87870bc03e522daf.txt /tmp/gwr-public/
+          cp data/verified-jobs.json /tmp/gwr-public/data/
+          cp data/workable-market.json /tmp/gwr-public/data/
+          printf '%s\n' '/* /index.html 200' > /tmp/gwr-public/_redirects
+          node --check /tmp/gwr-public/app.js
+          grep -q "gwr_job_view" /tmp/gwr-public/app.js
+          grep -q "gwr_official_source_click" /tmp/gwr-public/app.js
+          grep -q "gwr_apply_click" /tmp/gwr-public/app.js
+          echo "GWR_MEASUREMENT_CONTRACT_QA=PASS"
+
+      - name: Resolve Cloudflare Pages production branch
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error             --header "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"             "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages/projects/global-work-radar"             --output /tmp/gwr-cf-project.json
+          node - <<'NODE'
+          const fs=require('fs');
+          const p=JSON.parse(fs.readFileSync('/tmp/gwr-cf-project.json','utf8'));
+          const branch=p?.result?.production_branch;
+          if(!branch) throw new Error('Cloudflare Pages production_branch missing');
+          console.log(`GWR_CF_PRODUCTION_BRANCH=${branch}`);
+          if(branch !== 'main') {
+            console.error(`Expected Cloudflare production branch main, got ${branch}`);
+            process.exit(1);
+          }
+          NODE
+
+      - name: Deploy to Cloudflare Pages production branch
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          set -euo pipefail
+          npx --yes wrangler@4 pages deploy /tmp/gwr-public             --project-name=global-work-radar             --branch=main             --commit-dirty=true
+
+      - name: Verify production artifact identity and freshness
+        env:
+          GWR_URL: https://global-work-radar.pages.dev
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 20); do
+            if curl --fail --location --silent --show-error --max-time 30 "$GWR_URL/data/verified-jobs.json" -o /tmp/gwr-live-jobs.json; then
+              if node - <<'NODE'
+          const fs=require('fs');
+          const crypto=require('crypto');
+          const localRaw=fs.readFileSync('data/verified-jobs.json');
+          const liveRaw=fs.readFileSync('/tmp/gwr-live-jobs.json');
+          const local=JSON.parse(localRaw.toString('utf8'));
+          const live=JSON.parse(liveRaw.toString('utf8'));
+          const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
+          const localSha=sha(localRaw);
+          const liveSha=sha(liveRaw);
+          console.log(`GWR_EXPECTED_GENERATED_AT=${local.generated_at}`);
+          console.log(`GWR_LIVE_GENERATED_AT=${live.generated_at}`);
+          console.log(`GWR_EXPECTED_JOB_COUNT=${local.records?.length ?? 0}`);
+          console.log(`GWR_LIVE_JOB_COUNT=${live.records?.length ?? 0}`);
+          console.log(`GWR_EXPECTED_SHA256=${localSha}`);
+          console.log(`GWR_LIVE_SHA256=${liveSha}`);
+          if(!live.records?.length) process.exit(1);
+          if(local.generated_at!==live.generated_at) process.exit(2);
+          if((local.records?.length ?? 0)!==live.records.length) process.exit(3);
+          if(localSha!==liveSha) process.exit(4);
+          const generated=Date.parse(live.generated_at || '');
+          if(!Number.isFinite(generated)) process.exit(5);
+          const ageMs=Date.now()-generated;
+          const maxAgeMs=12*60*60*1000;
+          console.log(`GWR_LIVE_AGE_MINUTES=${Math.round(ageMs/60000)}`);
+          if(ageMs < -5*60*1000 || ageMs > maxAgeMs) process.exit(6);
+          NODE
+              then
+                echo "GWR_PRODUCTION_ARTIFACT_MATCH=PASS"
+                echo "GWR_PRODUCTION_FRESHNESS_QA=PASS"
+                break
+              fi
+            fi
+            if [ "$attempt" = "20" ]; then
+              echo "Production artifact identity verification failed after retries"
+              exit 1
+            fi
+            sleep 15
+          done
+
+      - name: Notify IndexNow of GWR update
+        continue-on-error: true
+        env:
+          GWR_URL: https://global-work-radar.pages.dev
+          INDEXNOW_KEY: d3af1ce8e69e0a9f87870bc03e522daf
+        run: |
+          set -euo pipefail
+          HTTP_CODE=$(curl --silent --show-error --max-time 30             --output /tmp/gwr-indexnow-response.txt             --write-out '%{http_code}'             --request POST 'https://api.indexnow.org/IndexNow'             --header 'Content-Type: application/json; charset=utf-8'             --data "{\"host\":\"global-work-radar.pages.dev\",\"key\":\"${INDEXNOW_KEY}\",\"keyLocation\":\"${GWR_URL}/${INDEXNOW_KEY}.txt\",\"urlList\":[\"${GWR_URL}/\"]}")
+          echo "GWR_INDEXNOW_HTTP=$HTTP_CODE"
+          if [ "$HTTP_CODE" != "200" ] && [ "$HTTP_CODE" != "202" ]; then
+            cat /tmp/gwr-indexnow-response.txt || true
+            exit 1
+          fi
+          echo "GWR_INDEXNOW_SUBMITTED=1"
