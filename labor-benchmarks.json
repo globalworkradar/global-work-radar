@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-08-27",
+  "source": "U.S. Bureau of Labor Statistics Employment Projections 2025-2035",
+  "source_url": "https://www.bls.gov/emp/",
+  "ai_exposure_source_url": "https://www.bls.gov/emp/publications/ai-exposure-categories.htm",
+  "baseline_all_occupations_growth_pct": 3.5,
+  "matching_policy": "conservative_title_keyword_match_only",
+  "notes": [
+    "BLS outlook is a U.S. long-term benchmark, not a Japan-specific forecast and not an apply-ranking truth by itself.",
+    "AI exposure does not imply job loss, automation probability, wage impact, or productivity impact.",
+    "AI exposure category remains null until an occupation is mapped to the official BLS supplemental table with sufficient confidence."
+  ],
+  "occupations": [
+    {
+      "occupation": "Data scientists",
+      "soc": "15-2051",
+      "title_patterns": ["data scientist"],
+      "growth_2025_2035_pct": 34.6,
+      "median_annual_wage_usd_2025": 120230,
+      "ai_exposure_category": null,
+      "source_url": "https://www.bls.gov/ooh/math/data-scientists.htm"
+    },
+    {
+      "occupation": "Software developers",
+      "soc": "15-1252",
+      "title_patterns": ["software developer", "software engineer", "frontend engineer", "front-end engineer", "backend engineer", "back-end engineer", "full stack engineer", "full-stack engineer"],
+      "growth_2025_2035_pct": 10.2,
+      "median_annual_wage_usd_2025": 135980,
+      "ai_exposure_category": null,
+      "source_url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm"
+    },
+    {
+      "occupation": "Market research analysts and marketing specialists",
+      "soc": "13-1161",
+      "title_patterns": ["market research analyst", "marketing analyst"],
+      "growth_2025_2035_pct": 7.0,
+      "median_annual_wage_usd_2025": null,
+      "ai_exposure_category": null,
+      "source_url": "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm"
+    },
+    {
+      "occupation": "Interpreters and translators",
+      "soc": "27-3091",
+      "title_patterns": ["translator", "interpreter"],
+      "growth_2025_2035_pct": 2.0,
+      "median_annual_wage_usd_2025": null,
+      "ai_exposure_category": null,
+      "source_url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm"
+    },
+    {
+      "occupation": "Computer programmers",
+      "soc": "15-1251",
+      "title_patterns": ["computer programmer"],
+      "growth_2025_2035_pct": -7.0,
+      "median_annual_wage_usd_2025": null,
+      "ai_exposure_category": null,
+      "source_url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm"
+    }
+  ]
+}
