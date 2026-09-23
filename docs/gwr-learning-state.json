@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-08T14:37:00+09:00",
+  "target_cases": 10000,
+  "verified_cases_learned": 501,
+  "learning_dimensions": [
+    "Japan eligibility",
+    "remote scope",
+    "language fit",
+    "compensation",
+    "official-source integrity",
+    "freshness",
+    "apply distance",
+    "AI-completability",
+    "Owner-labor requirement",
+    "distribution angle",
+    "human visit/search/apply behavior",
+    "verified revenue/reward evidence"
+  ],
+  "reusable_findings": [
+    "Remote scope and Japan eligibility are separate signals; never infer Japan eligibility from Remote alone.",
+    "Revenue probability must penalize identity, interview, ongoing-owner-labor, and financial-account gates even when nominal reward is high.",
+    "Algora-style bounty routes require checking active bounty status, attempt/competition density, and payout readiness before implementation.",
+    "Marketplace open counts are not enough: canonical issue state and repository activity must be verified before treating a bounty as executable.",
+    "Stale or superseded bounty listings can remain visible after canonical closure; freshness must be established from the issue/PR source of truth.",
+    "Reward ownership matters: a public fixable issue is not a solver revenue route when the bounty is reserved for the original reporter or another role.",
+    "AI-oriented bounties attract dense automated competition; high comment/solver density materially lowers payment probability even when the work is AI-completable.",
+    "Canonical repository state must outrank marketplace labels such as Featured, Available, or zero solvers; open issue, no competing implementation, and fresh sponsor intent are required before Claim.",
+    "Marketplace zero-solver labels can lag reality: a canonical issue may already be closed or have multiple active claim PRs, so zero-solvers is never sufficient evidence of low competition.",
+    "An Opire-enabled issue is not evidence of a funded bounty: actual unclaimed reward state must be verified, and marketplace headline amounts can remain misleading after canonical closure or prior claim.",
+    "An explicitly AI-agent-friendly open bounty is still a CUT when canonical comments already show several independent claims, attempts, or submitted PRs; competition evidence must be checked immediately before Claim.",
+    "Verified payout history and actionable inventory are separate signals: a market can prove real settlements while having zero open work, so current open inventory must be checked before any wallet or spend gate is considered.",
+    "Mirrored bounty issues are discovery hints only when the platform declares itself source of truth; canonical platform availability must be rechecked immediately before Claim.",
+    "A marketplace can keep a bounty visibly Open while months of competing claim PRs remain unresolved; inspect issue comments and repository PRs rather than relying on the issue Development summary or marketplace Open label.",
+    "A ready-to-earn label can still hide negative solver economics: routes that require the solver to fund child demand, depend on another wallet completing it, and pay relay/proof costs are not autonomous no-spend earning routes even when reward escrow and accepted-entry count look favorable.",
+    "High nominal bounty value is not enough when payout eligibility requires a separate marketplace account, API key, social amplification, or maintainer pre-approval; these gates materially increase apply distance and Owner burden.",
+    "Competition density must be checked from current issue comments and submitted work immediately before a claim; a simple AI-completable workflow bounty can become economically unattractive once many claims and complete submissions already exist.",
+    "Audit bounties with public code and payout-to-handle support reduce identity friction, but expected value collapses when the maintainer has already enumerated and paid the obvious defect classes; novelty must be verified before submission.",
+    "A developer bounty that requires sign-up plus maintainer confirmation before work begins is not autonomous claimable inventory even when the GitHub issue is open and the cash reward is explicit.",
+    "Funded competition inventory is not equivalent to no-spend solver work: if participation requires the entrant wallet to fund downstream demand or authorize spending before any reward is possible, financial-gate distance dominates nominal escrow value.",
+    "Japan-eligible remote AI/data/language listings can be strong public GWR inventory while still being invalid for the autonomous revenue lane when they require a human worker, identity-dependent employment or freelance onboarding, and ongoing owner labor."
+  ],
+  "recent_observation": {
+    "observed_at": "2026-09-08T14:37:00+09:00",
+    "case_count_effect": 4,
+    "summary": "Fresh official Lever listings confirmed active Japan-eligible remote demand in Japanese-language and AI/data work, but all four require human employment/freelance labor and therefore improve public GWR demand matching without qualifying for autonomous AI-income execution."
+  },
+  "revenue_truth": {
+    "rule": "Only verified Reward, Purchase, Commission, Paid Contract, or accepted/contracted paid work counts as revenue evidence.",
+    "current_verified_revenue": 0
+  },
+  "next_learning_goal": 1000,
+  "mode": "revenue_first"
+}
