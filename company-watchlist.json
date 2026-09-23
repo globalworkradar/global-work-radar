@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "last_reviewed": "2026-09-03",
+  "policy": "official_ats_only",
+  "companies": [
+    {
+      "name": "RWS TrainAI",
+      "lever_site": "rws",
+      "careers_url": "https://jobs.lever.co/rws",
+      "status": "active_watch",
+      "reason": "Current Japanese remote roles verified on Lever."
+    },
+    {
+      "name": "CrowdGen by Appen",
+      "lever_site": "appen",
+      "careers_url": "https://jobs.lever.co/appen",
+      "status": "active_watch",
+      "reason": "Current Japan-based Japanese language project roles verified on Lever."
+    },
+    {
+      "name": "Welo Global",
+      "lever_site": "weloglobal",
+      "careers_url": "https://jobs.lever.co/weloglobal",
+      "status": "active_watch",
+      "reason": "Current Japanese remote roles verified on Lever."
+    },
+    {
+      "name": "TSMG",
+      "lever_site": "tsmg",
+      "careers_url": "https://jobs.lever.co/tsmg",
+      "status": "watch_with_region_validation",
+      "reason": "Japanese-language roles exist, but role-level geography must be checked because some postings are restricted despite generic location labels."
+    }
+  ]
+}
