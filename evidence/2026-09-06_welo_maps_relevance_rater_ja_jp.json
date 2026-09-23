@@ -1,0 +1,29 @@
+{
+  "record_type": "verified_job_signal",
+  "verified_at": "2026-09-06T21:12:00+09:00",
+  "source_policy": "official",
+  "source_name": "Welo Global / Welo Data",
+  "source_url": "https://jobs.lever.co/weloglobal/adc87abf-ed8c-40d9-b5b4-2c893d71525b",
+  "official_url": "https://jobs.lever.co/weloglobal/adc87abf-ed8c-40d9-b5b4-2c893d71525b",
+  "employer": "Welo Global",
+  "title": "Maps Personalization Relevance Rater - Japanese (Japan)",
+  "location": "Japan",
+  "remote_type": "remote",
+  "japan_eligible": true,
+  "japanese_required": true,
+  "employment_type": "freelance",
+  "category": "Search / Ads Evaluation",
+  "workload_volume_min": 8,
+  "workload_volume_max": 10,
+  "workload_unit": "hours",
+  "workload_period": "estimated project volume",
+  "application_status": "open",
+  "verification_status": "verified_active",
+  "source_status": "active",
+  "evidence_notes": [
+    "Official Lever listing was active at verification time.",
+    "Listing states Japan, remote, freelance, Japanese (Japan), estimated volume 8-10 hours.",
+    "No compensation amount was stated in the verified listing; compensation remains unknown.",
+    "No inference is made about non-exclusivity, paid idle time, simultaneous work, or response SLA."
+  ]
+}
