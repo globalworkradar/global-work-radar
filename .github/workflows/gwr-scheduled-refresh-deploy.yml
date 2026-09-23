@@ -163,13 +163,16 @@ jobs:
           grep -q "gwr_apply_click" /tmp/gwr-public/app.js
           echo "GWR_MEASUREMENT_CONTRACT_QA=PASS"
 
-      - name: Resolve Cloudflare Pages production branch
+      - name: Promote and verify Cloudflare Pages production branch
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
           set -euo pipefail
+          curl --fail --silent --show-error --request PATCH             --header "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"             --header "Content-Type: application/json"             --data '{"production_branch":"main"}'             "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages/projects/global-work-radar"             --output /tmp/gwr-cf-project-patch.json
+
           curl --fail --silent --show-error             --header "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"             "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages/projects/global-work-radar"             --output /tmp/gwr-cf-project.json
+
           node - <<'NODE'
           const fs=require('fs');
           const p=JSON.parse(fs.readFileSync('/tmp/gwr-cf-project.json','utf8'));
@@ -180,6 +183,7 @@ jobs:
             console.error(`Expected Cloudflare production branch main, got ${branch}`);
             process.exit(1);
           }
+          console.log('GWR_CF_PRODUCTION_BRANCH_PROMOTION=PASS');
           NODE
 
       - name: Deploy to Cloudflare Pages production branch
