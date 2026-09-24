@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-09-24T00:35:29.910Z",
+  "observed_at": "2026-09-24T04:29:06.908Z",
   "run": {
-    "github_run_id": "35939020021",
+    "github_run_id": "35955762604",
     "github_run_attempt": "1",
-    "github_sha": "837ec25b2da9ef35a5e6b69c44219be652ab3645",
+    "github_sha": "10a3a815a80808d4208621063b974056aad21ae1",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 474,
+    "previous_count": 473,
     "current_count": 473,
     "source_counts": {
       "lever": 0,
@@ -16,25 +16,49 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 3,
+    "meaningful_change_count": 6,
     "added_count": 0,
-    "removed_count": 1,
-    "changed_count": 2,
+    "removed_count": 0,
+    "changed_count": 6,
     "added_ids": [],
-    "removed_ids": [
-      "workable-542c383fce"
-    ],
+    "removed_ids": [],
     "changed": [
       {
-        "id": "workable-578ef65e44",
+        "id": "workable-27c9e3bc72",
+        "fields": [
+          "lifecycle_state",
+          "lifecycle_stale_risk"
+        ]
+      },
+      {
+        "id": "workable-af4569242d",
+        "fields": [
+          "location"
+        ]
+      },
+      {
+        "id": "workable-8b0296fb68",
         "fields": [
           "freshness_bucket"
         ]
       },
       {
+        "id": "workable-578ef65e44",
+        "fields": [
+          "lifecycle_state"
+        ]
+      },
+      {
         "id": "workable-5803b2de6d",
         "fields": [
-          "freshness_bucket"
+          "lifecycle_state"
+        ]
+      },
+      {
+        "id": "workable-debd151062",
+        "fields": [
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       }
     ]
@@ -42,18 +66,18 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "STALE_RISK_90D": 228,
+        "STALE_RISK_90D": 229,
         "ACTIVE": 102,
-        "LONG_RUNNING_60D": 40,
+        "LONG_RUNNING_60D": 39,
         "AGING_30D": 66,
         "FRESH_7D": 17,
-        "NEW_3D": 7,
-        "NEW_24H": 13
+        "NEW_3D": 10,
+        "NEW_24H": 10
       },
       "stale_risk_counts": {
-        "ELEVATED": 228,
+        "ELEVATED": 229,
         "LOW": 205,
-        "REVIEW": 40
+        "REVIEW": 39
       },
       "reopened_after_confirmed_close_count": 0,
       "changed_within_7d_count": 71,
