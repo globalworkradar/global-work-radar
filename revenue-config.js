@@ -109,8 +109,34 @@ function gwrAttributionProperties() {
   document.head.appendChild(style);
 }());
 
-(function setupIntelligencePreview() {
-  const signal = window.GWR_INTELLIGENCE_SIGNAL;
+(async function setupIntelligencePreview() {
+  let signal = window.GWR_INTELLIGENCE_SIGNAL;
+  try {
+    const response = await fetch('./data/workable-market.json', { cache: 'no-store' });
+    if (response.ok) {
+      const market = await response.json();
+      const activeJobs = Number(market.active_jobs);
+      const remoteJobs = Number(market.remote_jobs);
+      const japanEligibleJobs = Number(market.verified_japan_eligible_jobs);
+      const japaneseRelatedJobs = Number(market.japanese_jobs);
+      if ([activeJobs, remoteJobs, japanEligibleJobs, japaneseRelatedJobs].every(Number.isFinite) && activeJobs > 0) {
+        signal = Object.freeze({
+          ...signal,
+          id: `remote-vs-japan-eligibility-${String(market.snapshot_at || '').slice(0, 10) || 'current'}`,
+          asOf: market.snapshot_at || signal.asOf,
+          activeJobs,
+          remoteJobs,
+          japanEligibleJobs,
+          japaneseRelatedJobs,
+          remoteSharePct: Number(((remoteJobs / activeJobs) * 100).toFixed(2)),
+          japanEligibleSharePct: Number(((japanEligibleJobs / activeJobs) * 100).toFixed(2))
+        });
+        window.GWR_INTELLIGENCE_SIGNAL = signal;
+      }
+    }
+  } catch (_) {
+    // Keep the last verified embedded snapshot when live market data cannot be loaded.
+  }
   const summary = document.querySelector('#marketSummary');
   if (!summary || document.querySelector('#laborIntelligenceSignal')) return;
 
