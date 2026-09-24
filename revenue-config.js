@@ -7,19 +7,18 @@ window.GWR_REVENUE = Object.freeze({
 });
 
 window.GWR_INTELLIGENCE_SIGNAL = Object.freeze({
-  id: 'japanese-speaker-demand-2026-09-07',
-  theme: 'Japanese Speaker Demand',
-  asOf: '2026-09-07T11:02:40.422Z',
-  periodStart: '2026-09-03T02:49:09.780Z',
-  startJapaneseJobs: 672,
-  endJapaneseJobs: 702,
-  japaneseGrowthPct: 4.46,
-  activeGrowthPct: 0.50,
-  remoteGrowthPct: 1.47,
-  japanEligibleGrowthPct: 2.04,
-  source: 'Workable market snapshots',
+  id: 'remote-vs-japan-eligibility-2026-09-25',
+  theme: 'Remote vs Japan Eligibility',
+  asOf: '2026-09-24T16:30:17.781Z',
+  activeJobs: 166653,
+  remoteJobs: 47500,
+  japanEligibleJobs: 630,
+  japaneseRelatedJobs: 768,
+  remoteSharePct: 28.50,
+  japanEligibleSharePct: 0.38,
+  source: 'Workable market snapshot',
   scope: 'GWR-observed Workable market only',
-  score: 92,
+  score: 94,
   route: 'PAID_CONTRACT_CANDIDATE'
 });
 
@@ -123,10 +122,10 @@ function gwrAttributionProperties() {
     <div class="gwr-intelligence-copy">
       <div class="gwr-commercial-badge">B2B LABOR INTELLIGENCE</div>
       <span class="kicker">LABOR INTELLIGENCE · SCORE ${signal.score}/100</span>
-      <h2>日本語人材需要を、採用・市場判断に使える継続Signalへ。</h2>
-      <p>GWRが継続観測しているWorkable市場では、9月3日→9月7日に日本語関連求人が <strong>${signal.startJapaneseJobs} → ${signal.endJapaneseJobs}（+${signal.japaneseGrowthPct}%）</strong>。同期間の全求人は +${signal.activeGrowthPct}%、Remote求人は +${signal.remoteGrowthPct}%、Japan-eligible求人は +${signal.japanEligibleGrowthPct}% でした。</p>
-      <div class="gwr-offer-points" aria-label="Intelligence scope examples"><span>TREND BRIEF</span><span>JAPAN ELIGIBILITY</span><span>LANGUAGE DEMAND</span><span>CUSTOM SEGMENT</span><span>FRESH SIGNALS</span></div>
-      <small class="partner-disclosure">GWR独自の時系列集計です。対象はGWRが観測したWorkable市場であり、世界求人市場全体を代表する統計ではありません。As of 2026-09-07.</small>
+      <h2>Remote求人と「日本から応募可能」を、同じ数字として扱わない。</h2>
+      <p>GWRが2026年9月25日JST時点で観測したWorkable市場では、Active <strong>${signal.activeJobs.toLocaleString()}件</strong>のうちRemoteは <strong>${signal.remoteJobs.toLocaleString()}件（${signal.remoteSharePct}%）</strong>。一方、日本から応募可能と明示確認できた求人は <strong>${signal.japanEligibleJobs.toLocaleString()}件（${signal.japanEligibleSharePct}%）</strong>でした。Remote表記とJapan-eligibleは別のEvidence Layerとして扱います。</p>
+      <div class="gwr-offer-points" aria-label="Intelligence scope examples"><span>JAPAN ELIGIBILITY</span><span>REMOTE GAP</span><span>LANGUAGE DEMAND</span><span>CUSTOM SEGMENT</span><span>FRESH SIGNALS</span></div>
+      <small class="partner-disclosure">対象はGWRが観測したWorkable市場のSnapshotであり、世界求人市場全体を代表する統計ではありません。求人掲載の存在から採用確率・応募受理・収入は推定しません。As of 2026-09-25 JST.</small>
     </div>
     <div class="gwr-intelligence-action">
       <strong>WHAT WOULD MAKE THIS USEFUL?</strong>
