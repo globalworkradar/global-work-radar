@@ -1,32 +1,40 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-09-23T20:28:50.415Z",
+  "observed_at": "2026-09-24T00:35:29.910Z",
   "run": {
-    "github_run_id": "35916101182",
+    "github_run_id": "35939020021",
     "github_run_attempt": "1",
-    "github_sha": "95b10232fd6a6a7fb4ec60843e27ad1efdf434d7",
+    "github_sha": "837ec25b2da9ef35a5e6b69c44219be652ab3645",
     "baseline_ref": "HEAD"
   },
   "inventory": {
     "previous_count": 474,
-    "current_count": 474,
+    "current_count": 473,
     "source_counts": {
       "lever": 0,
-      "workable_publishable": 606
+      "workable_publishable": 605
     }
   },
   "change_detection": {
-    "meaningful_change_count": 1,
+    "meaningful_change_count": 3,
     "added_count": 0,
-    "removed_count": 0,
-    "changed_count": 1,
+    "removed_count": 1,
+    "changed_count": 2,
     "added_ids": [],
-    "removed_ids": [],
+    "removed_ids": [
+      "workable-542c383fce"
+    ],
     "changed": [
       {
-        "id": "workable-af4569242d",
+        "id": "workable-578ef65e44",
         "fields": [
-          "location"
+          "freshness_bucket"
+        ]
+      },
+      {
+        "id": "workable-5803b2de6d",
+        "fields": [
+          "freshness_bucket"
         ]
       }
     ]
@@ -35,7 +43,7 @@
     "lifecycle": {
       "state_counts": {
         "STALE_RISK_90D": 228,
-        "ACTIVE": 103,
+        "ACTIVE": 102,
         "LONG_RUNNING_60D": 40,
         "AGING_30D": 66,
         "FRESH_7D": 17,
@@ -44,7 +52,7 @@
       },
       "stale_risk_counts": {
         "ELEVATED": 228,
-        "LOW": 206,
+        "LOW": 205,
         "REVIEW": 40
       },
       "reopened_after_confirmed_close_count": 0,
@@ -59,7 +67,7 @@
     "hiring_intent": {
       "signal_level_counts": {
         "WEAK_EVIDENCE": 330,
-        "MODERATE_EVIDENCE": 123,
+        "MODERATE_EVIDENCE": 122,
         "STRONG_EVIDENCE": 21
       },
       "score_is_probability": false,
