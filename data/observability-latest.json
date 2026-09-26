@@ -1,39 +1,40 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-09-25T20:28:02.538Z",
+  "observed_at": "2026-09-26T00:34:41.589Z",
   "run": {
-    "github_run_id": "36185813539",
+    "github_run_id": "36205292896",
     "github_run_attempt": "1",
-    "github_sha": "546f6fde6708968f35811950135579375a02d9cc",
+    "github_sha": "721af7fc69f8db809b6beb2e70befc1e2c36d35f",
     "baseline_ref": "HEAD"
   },
   "inventory": {
     "previous_count": 478,
-    "current_count": 478,
+    "current_count": 479,
     "source_counts": {
       "lever": 0,
-      "workable_publishable": 637
+      "workable_publishable": 638
     }
   },
   "change_detection": {
-    "meaningful_change_count": 8,
-    "added_count": 0,
+    "meaningful_change_count": 10,
+    "added_count": 1,
     "removed_count": 0,
-    "changed_count": 8,
-    "added_ids": [],
+    "changed_count": 9,
+    "added_ids": [
+      "workable-be7cbf40db"
+    ],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-289bfd575d",
+        "id": "workable-578ef65e44",
         "fields": [
-          "location"
+          "freshness_bucket"
         ]
       },
       {
-        "id": "workable-4dfbcff3e5",
+        "id": "workable-5803b2de6d",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
+          "freshness_bucket"
         ]
       },
       {
@@ -61,16 +62,21 @@
         ]
       },
       {
+        "id": "workable-cd12a8ba2f",
+        "fields": [
+          "location"
+        ]
+      },
+      {
         "id": "workable-c8e60b4208",
         "fields": [
           "location"
         ]
       },
       {
-        "id": "workable-ee9aeec68b",
+        "id": "workable-ac5e7aeb10",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
+          "freshness_bucket"
         ]
       }
     ]
@@ -84,14 +90,14 @@
         "AGING_30D": 70,
         "FRESH_7D": 12,
         "NEW_3D": 20,
-        "NEW_24H": 5
+        "NEW_24H": 6
       },
       "stale_risk_counts": {
         "ELEVATED": 228,
         "LOW": 211,
-        "REVIEW": 39
+        "REVIEW": 40
       },
-      "reopened_after_confirmed_close_count": 0,
+      "reopened_after_confirmed_close_count": 1,
       "changed_within_7d_count": 76,
       "thresholds_days": {
         "aging": 30,
@@ -103,7 +109,7 @@
     "hiring_intent": {
       "signal_level_counts": {
         "WEAK_EVIDENCE": 332,
-        "MODERATE_EVIDENCE": 121,
+        "MODERATE_EVIDENCE": 122,
         "STRONG_EVIDENCE": 25
       },
       "score_is_probability": false,
