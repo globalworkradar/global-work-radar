@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-09-27T20:27:44.504Z",
+  "observed_at": "2026-09-28T00:38:20.865Z",
   "run": {
-    "github_run_id": "36348049150",
+    "github_run_id": "36362885394",
     "github_run_attempt": "1",
-    "github_sha": "4e992bf1d4686394ae4109570180cf7f2673af15",
+    "github_sha": "f45165ed0dcec741e4624a2149b72de14a658129",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,13 +16,27 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 7,
+    "meaningful_change_count": 9,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7,
+    "changed_count": 9,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
+      {
+        "id": "workable-b3ca8eabd2",
+        "fields": [
+          "lifecycle_state",
+          "lifecycle_stale_risk"
+        ]
+      },
+      {
+        "id": "workable-d45b156ab2",
+        "fields": [
+          "lifecycle_state",
+          "lifecycle_stale_risk"
+        ]
+      },
       {
         "id": "workable-289bfd575d",
         "fields": [
@@ -30,7 +44,7 @@
         ]
       },
       {
-        "id": "workable-2ab2a5dade",
+        "id": "workable-1cbef22854",
         "fields": [
           "location"
         ]
@@ -60,10 +74,9 @@
         ]
       },
       {
-        "id": "workable-ee9aeec68b",
+        "id": "workable-ac5e7aeb10",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
+          "freshness_bucket"
         ]
       }
     ]
@@ -73,15 +86,15 @@
       "state_counts": {
         "STALE_RISK_90D": 229,
         "ACTIVE": 99,
-        "LONG_RUNNING_60D": 55,
-        "AGING_30D": 63,
+        "LONG_RUNNING_60D": 57,
+        "AGING_30D": 61,
         "FRESH_7D": 26,
         "NEW_3D": 7
       },
       "stale_risk_counts": {
         "ELEVATED": 229,
-        "LOW": 194,
-        "REVIEW": 56
+        "LOW": 192,
+        "REVIEW": 58
       },
       "reopened_after_confirmed_close_count": 1,
       "changed_within_7d_count": 76,
