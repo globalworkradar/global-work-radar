@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-09-30T20:30:48.847Z",
+  "observed_at": "2026-10-01T00:40:15.713Z",
   "run": {
-    "github_run_id": "36773014133",
+    "github_run_id": "36797230752",
     "github_run_attempt": "1",
-    "github_sha": "fec81334f622157fdc2db06c2885613b99022ec4",
+    "github_sha": "15c157d1479ef0f2c3ae32cbbb6df1c65be3d7b9",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 485,
+    "previous_count": 484,
     "current_count": 484,
     "source_counts": {
       "lever": 0,
@@ -16,53 +16,29 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 9,
+    "meaningful_change_count": 5,
     "added_count": 0,
-    "removed_count": 1,
-    "changed_count": 8,
+    "removed_count": 0,
+    "changed_count": 5,
     "added_ids": [],
-    "removed_ids": [
-      "workable-d676a527a5"
-    ],
+    "removed_ids": [],
     "changed": [
       {
-        "id": "workable-2ab2a5dade",
+        "id": "workable-289bfd575d",
         "fields": [
           "location"
         ]
       },
       {
-        "id": "workable-5fa3f41b2f",
-        "fields": [
-          "location",
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
         "id": "workable-1cbef22854",
         "fields": [
-          "location",
-          "freshness_bucket",
-          "lifecycle_state",
-          "hiring_intent_level"
+          "location"
         ]
       },
       {
-        "id": "workable-8dbf1771be",
+        "id": "workable-04e2733a07",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-ecfebe59ae",
-        "fields": [
-          "location",
-          "freshness_bucket",
-          "lifecycle_state",
-          "hiring_intent_level"
+          "location"
         ]
       },
       {
@@ -72,16 +48,9 @@
         ]
       },
       {
-        "id": "workable-32357f0e6a",
+        "id": "workable-c8e60b4208",
         "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-0ee6eb3109",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
+          "location"
         ]
       }
     ]
