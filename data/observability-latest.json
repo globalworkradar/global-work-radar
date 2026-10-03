@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-03T00:36:52.337Z",
+  "observed_at": "2026-10-03T04:31:51.071Z",
   "run": {
-    "github_run_id": "37082724325",
+    "github_run_id": "37096799190",
     "github_run_attempt": "1",
-    "github_sha": "c23822ae97b6baad2f113d77583c9e40467d6562",
+    "github_sha": "d3c08af8067085d2a110cd44e34773b7b8a61c90",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,10 +16,10 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 7,
+    "meaningful_change_count": 8,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7,
+    "changed_count": 8,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "id": "workable-1cbef22854",
+        "id": "workable-5fa3f41b2f",
         "fields": [
           "location"
         ]
@@ -42,28 +42,37 @@
         ]
       },
       {
-        "id": "workable-cd12a8ba2f",
+        "id": "workable-2ef8c82b09",
         "fields": [
-          "location"
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       },
       {
-        "id": "workable-c8e60b4208",
+        "id": "workable-84d983d694",
         "fields": [
-          "location"
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       },
       {
-        "id": "workable-be7cbf40db",
+        "id": "workable-059a5c4247",
         "fields": [
-          "lifecycle_state",
-          "hiring_intent_level"
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       },
       {
-        "id": "workable-d676a527a5",
+        "id": "workable-0e4cd16d16",
         "fields": [
-          "hiring_momentum_state"
+          "freshness_bucket",
+          "lifecycle_state"
+        ]
+      },
+      {
+        "id": "workable-f099d9e249",
+        "fields": [
+          "freshness_bucket"
         ]
       }
     ]
@@ -75,9 +84,9 @@
         "ACTIVE": 107,
         "LONG_RUNNING_60D": 54,
         "AGING_30D": 63,
-        "FRESH_7D": 18,
-        "NEW_3D": 13,
-        "NEW_24H": 13
+        "FRESH_7D": 21,
+        "NEW_3D": 11,
+        "NEW_24H": 12
       },
       "stale_risk_counts": {
         "ELEVATED": 220,
