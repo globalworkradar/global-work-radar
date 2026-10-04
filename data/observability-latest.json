@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-04T15:48:20.606Z",
+  "observed_at": "2026-10-04T21:00:21.365Z",
   "run": {
-    "github_run_id": "37214290374",
+    "github_run_id": "37234222990",
     "github_run_attempt": "1",
-    "github_sha": "709f22711a5f2f1ed6ee2c134c5c900da213f20c",
+    "github_sha": "6fe161604f6003145a275c9c712d52fae62d8113",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,37 +16,18 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 20,
+    "meaningful_change_count": 6,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 20,
+    "changed_count": 6,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-d16157a33a",
-        "fields": [
-          "title"
-        ]
-      },
-      {
-        "id": "workable-560e7958c6",
-        "fields": [
-          "title"
-        ]
-      },
-      {
-        "id": "workable-a7a996cd91",
+        "id": "workable-509be5c3e9",
         "fields": [
           "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-7f93a46503",
-        "fields": [
-          "lifecycle_state",
-          "hiring_intent_level"
+          "lifecycle_stale_risk"
         ]
       },
       {
@@ -62,89 +43,13 @@
         ]
       },
       {
-        "id": "workable-5419011501",
+        "id": "workable-c8e60b4208",
         "fields": [
-          "lifecycle_state"
+          "location"
         ]
       },
       {
-        "id": "workable-8dd89a4704",
-        "fields": [
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-746f8fa391",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-cef5936369",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-238aef2e27",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-270efa8574",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-7eb776294d",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-45dc85c67f",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-9c9cab8b17",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-339d98f6bf",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-5d2b8ed971",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-247114d2f1",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-5ba0dc49b4",
+        "id": "workable-b17d213ba6",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
@@ -153,7 +58,7 @@
       {
         "id": "workable-d52e26f77f",
         "fields": [
-          "freshness_bucket"
+          "lifecycle_state"
         ]
       }
     ]
@@ -163,16 +68,15 @@
       "state_counts": {
         "STALE_RISK_90D": 220,
         "ACTIVE": 90,
-        "LONG_RUNNING_60D": 60,
-        "AGING_30D": 65,
-        "FRESH_7D": 29,
-        "NEW_3D": 22,
-        "NEW_24H": 1
+        "LONG_RUNNING_60D": 61,
+        "AGING_30D": 64,
+        "FRESH_7D": 30,
+        "NEW_3D": 22
       },
       "stale_risk_counts": {
         "ELEVATED": 220,
-        "LOW": 205,
-        "REVIEW": 62
+        "LOW": 204,
+        "REVIEW": 63
       },
       "reopened_after_confirmed_close_count": 2,
       "changed_within_7d_count": 86,
