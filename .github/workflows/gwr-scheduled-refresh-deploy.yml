@@ -141,3 +141,26 @@ jobs:
           echo "GWR_CANONICAL_REPO=globalworkradar/global-work-radar"
           echo "GWR_DEPLOY_BRIDGE=stratumpraxis/vector-praxis-japan::.github/workflows/gwr-cloudflare-deploy.yml"
           echo "Cloudflare credentials remain isolated in the existing deployment runner; canonical code/data stay in this repository."
+
+      - name: Production freshness readback
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          curl --fail --location --silent --show-error \
+            --connect-timeout 20 --max-time 90 \
+            https://global-work-radar.pages.dev/data/verified-jobs.json \
+            -o /tmp/gwr-production-verified-jobs.json
+          node - <<'NODE'
+          const fs=require('fs');
+          const local=JSON.parse(fs.readFileSync('data/verified-jobs.json','utf8'));
+          const remote=JSON.parse(fs.readFileSync('/tmp/gwr-production-verified-jobs.json','utf8'));
+          if(!local.generated_at||!remote.generated_at) throw new Error('generated_at missing in local or production');
+          const localAt=Date.parse(local.generated_at);
+          const remoteAt=Date.parse(remote.generated_at);
+          const lagMinutes=(localAt-remoteAt)/60000;
+          console.log('GWR_LOCAL_GENERATED_AT='+local.generated_at);
+          console.log('GWR_PRODUCTION_GENERATED_AT='+remote.generated_at);
+          console.log('GWR_PRODUCTION_LAG_MINUTES='+lagMinutes.toFixed(2));
+          if(!Number.isFinite(lagMinutes)) throw new Error('invalid production freshness timestamp');
+          if(lagMinutes>480) throw new Error('GWR production data is more than 8 hours behind canonical');
+          NODE
