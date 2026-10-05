@@ -88,6 +88,53 @@ function gwrAttributionProperties() {
   };
 }
 
+const GWR_SELF_MAKE_WEBHOOK = 'https://hook.eu1.make.com/96hncr771shitq6ylb3j6hk8tmqfh228';
+
+function gwrRevenueSessionId() {
+  const key = 'gwr_revenue_session_v1';
+  try {
+    let id = sessionStorage.getItem(key);
+    if (!id) {
+      id = (crypto?.randomUUID?.() || ('s_' + Date.now() + '_' + Math.random().toString(36).slice(2)));
+      sessionStorage.setItem(key, id);
+    }
+    return id;
+  } catch (_) {
+    return 's_' + Date.now();
+  }
+}
+
+function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', note='' } = {}) {
+  try {
+    const attribution = gwrAttributionProperties();
+    const now = new Date();
+    const sessionId = gwrRevenueSessionId();
+    const signalId = window.GWR_INTELLIGENCE_SIGNAL?.id || 'gwr-signal';
+    const payload = new URLSearchParams({
+      event_id: 'gwr_' + now.getTime() + '_' + Math.random().toString(36).slice(2, 9),
+      event_type: eventType,
+      source: 'global-work-radar',
+      project: 'gwr',
+      lane: 'labor-intelligence',
+      stage: String(stage || 'unknown'),
+      amount: '0',
+      currency: 'JPY',
+      external_id: String(externalId || attribution.buyer_key || sessionId),
+      dedupe_key: ['gwr', eventType, stage || 'unknown', signalId, attribution.buyer_key || sessionId].join('|'),
+      evidence_url: window.location.href.split('#')[0],
+      note: String(note || '').slice(0, 800),
+      occurred_at: now.toISOString()
+    });
+    fetch(GWR_SELF_MAKE_WEBHOOK, {
+      method: 'POST',
+      body: payload,
+      keepalive: true,
+      credentials: 'omit',
+      cache: 'no-store'
+    }).catch(() => {});
+  } catch (_) {}
+}
+
 (function setupCommercialStyles() {
   if (document.querySelector('#gwrCommercialStyles')) return;
   const style = document.createElement('style');
@@ -207,6 +254,12 @@ function gwrAttributionProperties() {
         window.posthog.capture('gwr_intelligence_interest_click', properties);
         if (reactionEventMap[reaction]) window.posthog.capture(reactionEventMap[reaction], properties);
       }
+      gwrSendSelfMakeEvent({
+        eventType: 'BUYER_SIGNAL',
+        stage: 'buyer_reaction',
+        externalId: properties.buyer_key || reaction,
+        note: JSON.stringify({ reaction, signal_id: signal.id, buyer_key: properties.buyer_key || null })
+      });
       section.querySelectorAll('.gwr-reaction-option').forEach((item) => {
         const selected = item === button;
         item.setAttribute('aria-pressed', selected ? 'true' : 'false');
@@ -260,6 +313,12 @@ function gwrAttributionProperties() {
         if (inquiry === 'commercial_terms') window.posthog.capture('gwr_commercial_terms_request', evidence);
         if (recoveryQualified) window.posthog.capture('gwr_buyer_reaction_recovered', evidence);
       }
+      gwrSendSelfMakeEvent({
+        eventType: 'BUYER_SIGNAL',
+        stage: 'buyer_inquiry',
+        externalId: attribution.buyer_key || inquiry,
+        note: JSON.stringify({ inquiry, reaction_context: reactionContext, signal_id: signal.id, buyer_key: attribution.buyer_key || null })
+      });
       section.querySelectorAll('.gwr-inquiry-option').forEach((item) => {
         const selected = item === button;
         item.setAttribute('aria-pressed', selected ? 'true' : 'false');
@@ -302,6 +361,12 @@ function gwrAttributionProperties() {
               contact_destination: 'globalworkradar@gmail.com'
             });
           }
+          gwrSendSelfMakeEvent({
+            eventType: 'BUYER_SIGNAL',
+            stage: 'commercial_contact_opened',
+            externalId: attribution.buyer_key || inquiry,
+            note: JSON.stringify({ inquiry, signal_id: signal.id, contact_channel: 'email', buyer_key: attribution.buyer_key || null })
+          });
         }, { once: true });
         status.insertAdjacentElement('afterend', contact);
       }
