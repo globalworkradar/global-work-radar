@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T13:40:41.157Z",
-  "source_generated_at": "2026-09-23T13:39:58.329Z",
+  "generated_at": "2026-10-05T12:21:52.902Z",
+  "source_generated_at": "2026-10-05T12:21:52.721Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,29 +32,29 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 12,
+  "candidate_count": 11,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-a77c4c469d4c",
+      "candidate_id": "gwr-alert-1f4230d2bba8",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "score": 99,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Cybersecurity & Software Engineering Specialist (AI Projects)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_cont…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Cybersecurity & Software Engineering Specialist (AI Projects)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a77c4c469d4c&q=Gramian…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Cybersecurity & Software Engineering Specialist (AI Projects)｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a77c4c469d4c&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】ESR Group｜Director/Senior Manager Legal, Compliance & Risk Control｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1f4230…",
+        "bluesky": "GWR ALERT｜ESR Group｜Director/Senior Manager Legal, Compliance & Risk Control｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1f4230d2bba8&q=ESR+Group&intent=general",
+        "linkedin": "GWR Market Alert ESR Group｜Director/Senior Manager Legal, Compliance & Risk Control｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1f4230d2bba8&q=ESR+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a77c4c469d4c&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1f4230d2bba8&q=ESR+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-578ef65e44",
-          "employer": "Gramian Consulting Group",
-          "title": "Cybersecurity & Software Engineering Specialist (AI Projects)",
+          "job_id": "workable-4c98bca498",
+          "employer": "ESR Group",
+          "title": "Director/Senior Manager Legal, Compliance & Risk Control",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/578EF65E44",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
+          "official_url": "https://apply.workable.com/j/4C98BCA498",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-9f4f4e9022e4",
+      "candidate_id": "gwr-alert-dd8eb1ea4553",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "score": 93,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Software Engineer - Backend & AI Code Evaluation｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Software Engineer - Backend & AI Code Evaluation｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9f4f4e9022e4&q=Gramian+Consulting+G…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Software Engineer - Backend & AI Code Evaluation｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9f4f4e9022e4&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】ELVTR｜High Ticket Sales Representative｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-dd8eb1ea4553&q=ELVTR&intent=general",
+        "bluesky": "GWR ALERT｜ELVTR｜High Ticket Sales Representative｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-dd8eb1ea4553&q=ELVTR&intent=general",
+        "linkedin": "GWR Market Alert ELVTR｜High Ticket Sales Representative｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-dd8eb1ea4553&q=ELVTR&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9f4f4e9022e4&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-dd8eb1ea4553&q=ELVTR&intent=general",
       "evidence": [
         {
-          "job_id": "workable-5803b2de6d",
-          "employer": "Gramian Consulting Group",
-          "title": "Software Engineer - Backend & AI Code Evaluation",
+          "job_id": "workable-d676a527a5",
+          "employer": "ELVTR",
+          "title": "High Ticket Sales Representative",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5803B2DE6D",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/D676A527A5",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-5ffa6e341c10",
+      "candidate_id": "gwr-alert-a509f0a7dff4",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "score": 93,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Backend Software Engineer - AI Training Projects｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Backend Software Engineer - AI Training Projects｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5ffa6e341c10&q=Gramian+Consulting+G…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Backend Software Engineer - AI Training Projects｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5ffa6e341c10&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Mindrift - Data annotation｜Monetize English & Chinese Skills - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a509f…",
+        "bluesky": "GWR ALERT｜Mindrift - Data annotation｜Monetize English & Chinese Skills - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a509f0a7dff4&q=Mindrift+-+Data+annotation…",
+        "linkedin": "GWR Market Alert Mindrift - Data annotation｜Monetize English & Chinese Skills - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a509f0a7dff4&q=Mindrift+-+Data+annotation&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5ffa6e341c10&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a509f0a7dff4&q=Mindrift+-+Data+annotation&intent=general",
       "evidence": [
         {
-          "job_id": "workable-e312bdc8d7",
-          "employer": "Gramian Consulting Group",
-          "title": "Backend Software Engineer - AI Training Projects",
+          "job_id": "workable-270efa8574",
+          "employer": "Mindrift - Data annotation",
+          "title": "Monetize English & Chinese Skills - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E312BDC8D7",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/270EFA8574",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-open-e1b00fd5b7c6",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-967952a6235a",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 93,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Cybersecurity & Software Engineering Specialist (AI Projects)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-op…",
-        "bluesky": "GWR OPEN｜Cybersecurity & Software Engineering Specialist (AI Projects)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e1b00fd5b7c6&q=Gramian…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Cybersecurity & Software Engineering Specialist (AI Projects)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e1b00fd5b7c6&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR ALERT】Mindrift - Data annotation｜Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth…",
+        "bluesky": "GWR ALERT｜Mindrift - Data annotation｜Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-967952a6235a&…",
+        "linkedin": "GWR Market Alert Mindrift - Data annotation｜Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-967952a6235a&q=Mindrift+-+Data+annotation&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e1b00fd5b7c6&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-967952a6235a&q=Mindrift+-+Data+annotation&intent=general",
       "evidence": [
         {
-          "job_id": "workable-578ef65e44",
-          "employer": "Gramian Consulting Group",
-          "title": "Cybersecurity & Software Engineering Specialist (AI Projects)",
+          "job_id": "workable-7eb776294d",
+          "employer": "Mindrift - Data annotation",
+          "title": "Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/578EF65E44",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/7EB776294D",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,26 +187,26 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-3bf9f96bac5a",
+      "candidate_id": "gwr-open-603200fb2929",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "score": 92,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Software Engineer - Backend & AI Code Evaluation｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3bf9f96bac…",
-        "bluesky": "GWR OPEN｜Software Engineer - Backend & AI Code Evaluation｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3bf9f96bac5a&q=Gramian+Consulting+G…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Software Engineer - Backend & AI Code Evaluation｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3bf9f96bac5a&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Director/Senior Manager Legal, Compliance & Risk Control｜ESR Group｜Roppongi, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-…",
+        "bluesky": "GWR OPEN｜Director/Senior Manager Legal, Compliance & Risk Control｜ESR Group｜Roppongi, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-603200fb2929&q=ESR+Group&…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Director/Senior Manager Legal, Compliance & Risk Control｜ESR Group｜Roppongi, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-603200fb2929&q=ESR+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3bf9f96bac5a&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-603200fb2929&q=ESR+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-5803b2de6d",
-          "employer": "Gramian Consulting Group",
-          "title": "Software Engineer - Backend & AI Code Evaluation",
+          "job_id": "workable-4c98bca498",
+          "employer": "ESR Group",
+          "title": "Director/Senior Manager Legal, Compliance & Risk Control",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5803B2DE6D",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
+          "official_url": "https://apply.workable.com/j/4C98BCA498",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-9ffb01e966d1",
+      "candidate_id": "gwr-open-85aa29b91882",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "score": 86,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Backend Software Engineer - AI Training Projects｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9ffb01e966…",
-        "bluesky": "GWR OPEN｜Backend Software Engineer - AI Training Projects｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9ffb01e966d1&q=Gramian+Consulting+G…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Backend Software Engineer - AI Training Projects｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9ffb01e966d1&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】High Ticket Sales Representative｜ELVTR｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-85aa29b91882&q=ELVTR&intent=remote",
+        "bluesky": "GWR OPEN｜High Ticket Sales Representative｜ELVTR｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-85aa29b91882&q=ELVTR&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 High Ticket Sales Representative｜ELVTR｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-85aa29b91882&q=ELVTR&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9ffb01e966d1&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-85aa29b91882&q=ELVTR&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-e312bdc8d7",
-          "employer": "Gramian Consulting Group",
-          "title": "Backend Software Engineer - AI Training Projects",
+          "job_id": "workable-d676a527a5",
+          "employer": "ELVTR",
+          "title": "High Ticket Sales Representative",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E312BDC8D7",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/D676A527A5",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-alert-2a8104f81299",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-f391a05909d5",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 86,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Enfinity Global｜Structured Finance Manager｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2a8104f81299&q=Enfinity+Global…",
-        "bluesky": "GWR ALERT｜Enfinity Global｜Structured Finance Manager｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2a8104f81299&q=Enfinity+Global&intent=general",
-        "linkedin": "GWR Market Alert Enfinity Global｜Structured Finance Manager｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2a8104f81299&q=Enfinity+Global&intent=general"
+        "x": "【GWR OPEN】Monetize English & Chinese Skills - AI Trainer｜Mindrift - Data annotation｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f391a05909…",
+        "bluesky": "GWR OPEN｜Monetize English & Chinese Skills - AI Trainer｜Mindrift - Data annotation｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f391a05909d5&q=Mindrift+-+Data+anno…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Monetize English & Chinese Skills - AI Trainer｜Mindrift - Data annotation｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f391a05909d5&q=Mindrift+-+Data+annotation&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2a8104f81299&q=Enfinity+Global&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f391a05909d5&q=Mindrift+-+Data+annotation&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-d8e4eb27ea",
-          "employer": "Enfinity Global",
-          "title": "Structured Finance Manager",
+          "job_id": "workable-270efa8574",
+          "employer": "Mindrift - Data annotation",
+          "title": "Monetize English & Chinese Skills - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D8E4EB27EA",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/270EFA8574",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-3be7497b5aef",
+      "candidate_id": "gwr-open-30383d71c402",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "score": 86,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Structured Finance Manager｜Enfinity Global｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3be7497b5aef&q=Enfinity+Glo…",
-        "bluesky": "GWR OPEN｜Structured Finance Manager｜Enfinity Global｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3be7497b5aef&q=Enfinity+Global&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Structured Finance Manager｜Enfinity Global｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3be7497b5aef&q=Enfinity+Global&intent=general"
+        "x": "【GWR OPEN】Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer｜Mindrift - Data annotation｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
+        "bluesky": "GWR OPEN｜Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer｜Mindrift - Data annotation｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-30383d7…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer｜Mindrift - Data annotation｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-30383d71c402&q=Mindrift+-+Data+annotation&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3be7497b5aef&q=Enfinity+Global&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-30383d71c402&q=Mindrift+-+Data+annotation&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-d8e4eb27ea",
-          "employer": "Enfinity Global",
-          "title": "Structured Finance Manager",
+          "job_id": "workable-7eb776294d",
+          "employer": "Mindrift - Data annotation",
+          "title": "Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D8E4EB27EA",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/7EB776294D",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -339,27 +339,27 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-ce41e647a6d4",
+      "candidate_id": "gwr-open-85d83f90bc83",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "score": 86,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Agent Evaluation Engineer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ce41e647a6d4&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜Freelance Agent Evaluation Engineer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ce41e647a6d4&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Agent Evaluation Engineer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ce41e647a6d4&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Freelance Web Designer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-85d83f90bc83&q=Mindrift&intent=remote",
+        "bluesky": "GWR OPEN｜Freelance Web Designer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-85d83f90bc83&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Web Designer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-85d83f90bc83&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ce41e647a6d4&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-85d83f90bc83&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-f17a872de5",
+          "job_id": "workable-45dc85c67f",
           "employer": "Mindrift",
-          "title": "Freelance Agent Evaluation Engineer",
+          "title": "Freelance Web Designer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/F17A872DE5",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/45DC85C67F",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -377,27 +377,27 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-0ef820017741",
+      "candidate_id": "gwr-open-8cd9924e615e",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "score": 86,
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Agent Evaluation Engineer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0ef820017741&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜Freelance Agent Evaluation Engineer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0ef820017741&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Agent Evaluation Engineer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0ef820017741&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Senior Python Data Scraping Engineer (Freelance)｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8cd9924e615e&q=Mindrift&in…",
+        "bluesky": "GWR OPEN｜Senior Python Data Scraping Engineer (Freelance)｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8cd9924e615e&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Python Data Scraping Engineer (Freelance)｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8cd9924e615e&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0ef820017741&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8cd9924e615e&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-15ba995957",
+          "job_id": "workable-9c9cab8b17",
           "employer": "Mindrift",
-          "title": "Freelance Agent Evaluation Engineer",
+          "title": "Senior Python Data Scraping Engineer (Freelance)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/15BA995957",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/9C9CAB8B17",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -415,60 +415,60 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-e000d29c03cf",
+      "candidate_id": "gwr-shift-20e122e769ac",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
       "score": 82,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
+      "source_generated_at": "2026-10-05T12:21:52.721Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Enfinity Global：GWR確認求人 3→4（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-e000d29c03cf&q=Enfinity+Global&intent=general",
-        "bluesky": "GWR SHIFT｜Enfinity Global：GWR確認求人 3→4（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-e000d29c03cf&q=Enfinity+Global&intent=general",
-        "linkedin": "GWR Market Shift Enfinity Global：GWR確認求人 3→4（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-e000d29c03cf&q=Enfinity+Global&intent=general"
+        "x": "【GWR SHIFT】ESR Group：GWR確認求人 5→6（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-20e122e769ac&q=ESR+Group&intent=general",
+        "bluesky": "GWR SHIFT｜ESR Group：GWR確認求人 5→6（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-20e122e769ac&q=ESR+Group&intent=general",
+        "linkedin": "GWR Market Shift ESR Group：GWR確認求人 5→6（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-20e122e769ac&q=ESR+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-e000d29c03cf&q=Enfinity+Global&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-20e122e769ac&q=ESR+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-aae8d6269a",
-          "employer": "Enfinity Global",
-          "title": "Senior Procurement Manager",
+          "job_id": "workable-437e5440df",
+          "employer": "ESR Group",
+          "title": "Business Development/Land Acquisition Manager アクイジションマネージャー",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AAE8D6269A",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
+          "official_url": "https://apply.workable.com/j/437E5440DF",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-98e3b4ff2d",
-          "employer": "Enfinity Global",
-          "title": "Human Resources Business Partner, Japan",
+          "job_id": "workable-abe4773ad7",
+          "employer": "ESR Group",
+          "title": "Senior Manager/Director, Debt Capital Markets",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/98E3B4FF2D",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
+          "official_url": "https://apply.workable.com/j/ABE4773AD7",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-4795570eef",
-          "employer": "Enfinity Global",
-          "title": "Structured Finance Specialist",
+          "job_id": "workable-e90c26d288",
+          "employer": "ESR Group",
+          "title": "Contracts & Procurement Manager, Data Centre",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/4795570EEF",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
+          "official_url": "https://apply.workable.com/j/E90C26D288",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-d8e4eb27ea",
-          "employer": "Enfinity Global",
-          "title": "Structured Finance Manager",
+          "job_id": "workable-7e19978f06",
+          "employer": "ESR Group",
+          "title": "Senior Director, Investment",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D8E4EB27EA",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/7E19978F06",
+          "last_verified_at": "2026-10-05T12:21:30.870Z",
+          "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         }
@@ -484,77 +484,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 11
-    },
-    {
-      "candidate_id": "gwr-shift-b3ad88717b7a",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-09-23T13:39:58.329Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Gramian Consulting Group：GWR確認求人 3→4（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b3ad88717b7a&q=Gramian+Consulting+Group&intent=gener…",
-        "bluesky": "GWR SHIFT｜Gramian Consulting Group：GWR確認求人 3→4（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b3ad88717b7a&q=Gramian+Consulting+Group&intent=general",
-        "linkedin": "GWR Market Shift Gramian Consulting Group：GWR確認求人 3→4（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b3ad88717b7a&q=Gramian+Consulting+Group&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b3ad88717b7a&q=Gramian+Consulting+Group&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-14bfe24950",
-          "employer": "Gramian Consulting Group",
-          "title": "Photographer / Photo Editor",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/14BFE24950",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "FRESH_7D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-578ef65e44",
-          "employer": "Gramian Consulting Group",
-          "title": "Cybersecurity & Software Engineering Specialist (AI Projects)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/578EF65E44",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-5803b2de6d",
-          "employer": "Gramian Consulting Group",
-          "title": "Software Engineer - Backend & AI Code Evaluation",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5803B2DE6D",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-e312bdc8d7",
-          "employer": "Gramian Consulting Group",
-          "title": "Backend Software Engineer - AI Training Projects",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E312BDC8D7",
-          "last_verified_at": "2026-09-23T13:39:36.647Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 12
     }
   ]
 }
