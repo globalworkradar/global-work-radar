@@ -164,3 +164,41 @@ jobs:
           if(!Number.isFinite(lagMinutes)) throw new Error('invalid production freshness timestamp');
           if(lagMinutes>480) throw new Error('GWR production data is more than 8 hours behind canonical');
           NODE
+
+      - name: Notify search discovery via IndexNow
+        continue-on-error: true
+        env:
+          INDEXNOW_KEY: 0438edae53323361c16578662b23f92a
+        run: |
+          set -euo pipefail
+          KEY_URL="https://global-work-radar.pages.dev/${INDEXNOW_KEY}.txt"
+          if ! curl --fail --location --silent --show-error --connect-timeout 15 --max-time 45 "${KEY_URL}" -o /tmp/indexnow-key.txt; then
+            echo "GWR_INDEXNOW=WAIT_KEY_PUBLICATION"
+            exit 0
+          fi
+          if [ "$(tr -d '\r\n' < /tmp/indexnow-key.txt)" != "${INDEXNOW_KEY}" ]; then
+            echo "GWR_INDEXNOW=KEY_MISMATCH"
+            exit 0
+          fi
+          cat > /tmp/indexnow.json <<JSON
+          {
+            "host": "global-work-radar.pages.dev",
+            "key": "${INDEXNOW_KEY}",
+            "keyLocation": "${KEY_URL}",
+            "urlList": [
+              "https://global-work-radar.pages.dev/",
+              "https://global-work-radar.pages.dev/world-work-data.html"
+            ]
+          }
+          JSON
+          code=$(curl --silent --show-error --output /tmp/indexnow-response.txt --write-out "%{http_code}" \
+            --request POST \
+            --header "Content-Type: application/json; charset=utf-8" \
+            --data-binary @/tmp/indexnow.json \
+            https://api.indexnow.org/indexnow)
+          echo "GWR_INDEXNOW_HTTP=${code}"
+          cat /tmp/indexnow-response.txt || true
+          case "${code}" in
+            200|202) echo "GWR_INDEXNOW=ACCEPTED" ;;
+            *) echo "GWR_INDEXNOW=REJECTED" ;;
+          esac
