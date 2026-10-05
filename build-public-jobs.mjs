@@ -49,7 +49,48 @@ const leverCurrent = (lever.records || []).map((job) => {
     verified: `Verified ${String(current.last_verified_at || '').slice(0, 10)}`
   };
 });
-const leverPublic = leverCurrent.filter(isFreshLeverRecord);
+const leverVerifiedSeedPublic = leverCurrent.filter(isFreshLeverRecord);
+
+const hasJapaneseTitle = (value = '') => /\bjapanese\b|日本語|日本人|nihongo/i.test(String(value));
+const explicitJapanLocation = (value = '') => /\bjapan\b|tokyo|日本|大阪|osaka|nagoya|横浜|yokohama/i.test(String(value));
+const worldwideRemoteLocation = (value = '') => /worldwide|global|remote/i.test(String(value));
+
+const leverAutoPublic = (leverStaging.records || [])
+  .filter((job) =>
+    job.source_status === 'active' &&
+    job.japan_eligible === true &&
+    hasJapaneseTitle(job.title) &&
+    (
+      explicitJapanLocation(job.location) ||
+      (job.remote_type === 'remote' && worldwideRemoteLocation(job.location))
+    )
+  )
+  .map((job) => ({
+    id: job.id,
+    employer: job.employer,
+    title: job.title,
+    category: job.category || 'Other',
+    location: job.location || 'Location not specified',
+    remote: job.remote_type || 'unknown',
+    japan: true,
+    japanese: true,
+    english: job.english_level || null,
+    payMin: job.compensation_min,
+    payMax: job.compensation_max,
+    currency: job.compensation_currency,
+    period: job.compensation_period,
+    verified: `Verified ${String(job.last_verified_at || '').slice(0, 10)}`,
+    status: 'VERIFIED ACTIVE',
+    url: job.official_url,
+    source: job.source_name,
+    confidence: 'high',
+    eligibilityEvidence: 'Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.',
+    publishedAt: null,
+    firstSeenAt: job.first_seen_at || null,
+    lastVerifiedAt: job.last_verified_at || null
+  }));
+
+const leverPublic = [...leverVerifiedSeedPublic, ...leverAutoPublic];
 
 const workablePublic = (workable.records || [])
   .filter((job) => job.publishable === true && job.verification_status === 'verified_active')
