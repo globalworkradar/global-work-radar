@@ -1,37 +1,127 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-05T12:39:33.011Z",
+  "observed_at": "2026-10-05T16:33:42.016Z",
   "run": {
-    "github_run_id": "37310940875",
+    "github_run_id": "37341637711",
     "github_run_attempt": "1",
-    "github_sha": "a4aa68f39a9ae0146970d6eb4848e83055b9eaa1",
+    "github_sha": "24421450adcd6cade323d3e3824bb2439a111797",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 488,
-    "current_count": 488,
+    "previous_count": 508,
+    "current_count": 509,
     "source_counts": {
-      "lever": 0,
-      "workable_publishable": 647
+      "lever": 28,
+      "workable_publishable": 646
     }
   },
   "change_detection": {
-    "meaningful_change_count": 2,
-    "added_count": 0,
-    "removed_count": 0,
-    "changed_count": 2,
-    "added_ids": [],
-    "removed_ids": [],
+    "meaningful_change_count": 18,
+    "added_count": 2,
+    "removed_count": 1,
+    "changed_count": 15,
+    "added_ids": [
+      "appen-japanese-thai-translation",
+      "welo-maps-relevance-rater-ja"
+    ],
+    "removed_ids": [
+      "workable-d676a527a5"
+    ],
     "changed": [
       {
-        "id": "workable-06da8e506c",
+        "id": "lever-d260f27c2b2c937206a47fee",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "lever-7f2322089d9e75091e9559f3",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "lever-3606070ccc092bf91134afa5",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "lever-39edfd7815fb0356833c7cf6",
+        "fields": [
+          "skill_salary_category_median"
+        ]
+      },
+      {
+        "id": "lever-6711a36b1891b895e82f21ba",
+        "fields": [
+          "labor_benchmark_soc"
+        ]
+      },
+      {
+        "id": "workable-8456d135c8",
+        "fields": [
+          "skill_salary_category_median"
+        ]
+      },
+      {
+        "id": "workable-8928b60bae",
+        "fields": [
+          "skill_salary_category_median"
+        ]
+      },
+      {
+        "id": "workable-bb3d68888f",
+        "fields": [
+          "skill_salary_category_median"
+        ]
+      },
+      {
+        "id": "workable-289bfd575d",
+        "fields": [
+          "location"
+        ]
+      },
+      {
+        "id": "workable-cd12a8ba2f",
+        "fields": [
+          "location"
+        ]
+      },
+      {
+        "id": "workable-b14eeea0f6",
+        "fields": [
+          "skill_salary_category_median"
+        ]
+      },
+      {
+        "id": "workable-228cd639a2",
         "fields": [
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-57a381d2b3",
+        "id": "workable-685a52348a",
         "fields": [
+          "freshness_bucket",
+          "lifecycle_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-8b8874eb9a",
+        "fields": [
+          "freshness_bucket",
+          "lifecycle_state"
+        ]
+      },
+      {
+        "id": "workable-a1a73c0f30",
+        "fields": [
+          "freshness_bucket",
           "lifecycle_state"
         ]
       }
@@ -40,21 +130,21 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
+        "NEW_24H": 28,
         "STALE_RISK_90D": 221,
-        "ACTIVE": 101,
+        "ACTIVE": 103,
         "LONG_RUNNING_60D": 58,
         "AGING_30D": 62,
         "FRESH_7D": 29,
-        "NEW_3D": 11,
-        "NEW_24H": 6
+        "NEW_3D": 8
       },
       "stale_risk_counts": {
+        "LOW": 228,
         "ELEVATED": 221,
-        "LOW": 207,
         "REVIEW": 60
       },
       "reopened_after_confirmed_close_count": 2,
-      "changed_within_7d_count": 87,
+      "changed_within_7d_count": 86,
       "thresholds_days": {
         "aging": 30,
         "long_running": 60,
@@ -64,9 +154,9 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
-        "WEAK_EVIDENCE": 337,
-        "MODERATE_EVIDENCE": 129,
-        "STRONG_EVIDENCE": 22
+        "MODERATE_EVIDENCE": 133,
+        "STRONG_EVIDENCE": 39,
+        "WEAK_EVIDENCE": 337
       },
       "score_is_probability": false,
       "ghost_job_classifier": false,
