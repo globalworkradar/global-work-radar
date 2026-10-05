@@ -137,6 +137,7 @@ function gwrAttributionProperties() {
   } catch (_) {
     // Keep the last verified embedded snapshot when live market data cannot be loaded.
   }
+  const signalAsOfJst = (() => { try { return new Date(signal.asOf).toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',year:'numeric',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}); } catch (_) { return String(signal.asOf || 'current'); } })();
   const summary = document.querySelector('#marketSummary');
   if (!summary || document.querySelector('#laborIntelligenceSignal')) return;
 
@@ -149,13 +150,13 @@ function gwrAttributionProperties() {
       <div class="gwr-commercial-badge">B2B LABOR INTELLIGENCE</div>
       <span class="kicker">LABOR INTELLIGENCE · SCORE ${signal.score}/100</span>
       <h2>Remote求人と「日本から応募可能」を、同じ数字として扱わない。</h2>
-      <p>GWRが2026年9月25日JST時点で観測したWorkable市場では、Active <strong>${signal.activeJobs.toLocaleString()}件</strong>のうちRemoteは <strong>${signal.remoteJobs.toLocaleString()}件（${signal.remoteSharePct}%）</strong>。一方、日本から応募可能と明示確認できた求人は <strong>${signal.japanEligibleJobs.toLocaleString()}件（${signal.japanEligibleSharePct}%）</strong>でした。Remote表記とJapan-eligibleは別のEvidence Layerとして扱います。</p>
+      <p>GWRが<strong>${signalAsOfJst} JST</strong>時点で観測したWorkable市場では、Active <strong>${signal.activeJobs.toLocaleString()}件</strong>のうちRemoteは <strong>${signal.remoteJobs.toLocaleString()}件（${signal.remoteSharePct}%）</strong>。一方、日本から応募可能と明示確認できた求人は <strong>${signal.japanEligibleJobs.toLocaleString()}件（${signal.japanEligibleSharePct}%）</strong>でした。Remote表記とJapan-eligibleは別のEvidence Layerとして扱います。</p>
       <div class="gwr-offer-points" aria-label="Intelligence scope examples"><span>JAPAN ELIGIBILITY</span><span>REMOTE GAP</span><span>LANGUAGE DEMAND</span><span>CUSTOM SEGMENT</span><span>FRESH SIGNALS</span></div>
-      <small class="partner-disclosure">対象はGWRが観測したWorkable市場のSnapshotであり、世界求人市場全体を代表する統計ではありません。求人掲載の存在から採用確率・応募受理・収入は推定しません。As of 2026-09-25 JST.</small>
+      <small class="partner-disclosure">対象はGWRが観測したWorkable市場のSnapshotであり、世界求人市場全体を代表する統計ではありません。求人掲載の存在から採用確率・応募受理・収入は推定しません。As of ${signalAsOfJst} JST.</small>
     </div>
     <div class="gwr-intelligence-action">
       <strong>WHAT WOULD MAKE THIS USEFUL?</strong>
-      <span>メール送信なし。欲しい使い方を1つ選ぶだけで、GWRの次の改善に反映します。</span>
+      <span>まず欲しい使い方を1つ選択。商談意向がある場合だけ、GWR専用窓口へ進めます。</span>
       <div class="gwr-reaction-options" role="group" aria-label="Buyer reaction options">
         <button type="button" class="gwr-reaction-option" data-reaction="recurring">定期的に欲しい</button>
         <button type="button" class="gwr-reaction-option" data-reaction="hiring_decision">採用判断に使いたい</button>
@@ -167,13 +168,13 @@ function gwrAttributionProperties() {
         <strong>NEXT · COMMERCIAL INQUIRY</strong>
         <p>ここからは単なるReactionではなく、GWR Paid Intelligenceへの明示的な問い合わせとして記録します。</p>
         <div class="gwr-inquiry-options" role="group" aria-label="Commercial inquiry options">
-          <button type="button" class="gwr-inquiry-option" data-inquiry="paid_pilot">Paid Pilotを検討したい</button>
+          <button type="button" class="gwr-inquiry-option" data-inquiry="paid_pilot">7-Day Custom Labor Signal Pilotを相談</button>
           <button type="button" class="gwr-inquiry-option" data-inquiry="custom_sample">自社向けSampleを見たい</button>
           <button type="button" class="gwr-inquiry-option" data-inquiry="commercial_terms">契約条件を確認したい</button>
         </div>
         <div class="gwr-inquiry-status" id="gwrInquiryStatus" aria-live="polite"></div>
       </div>
-      <small>Reaction / inquiry evidence only · no email · no account required</small>
+      <small>Reactionは匿名で記録 · 商談はGWR専用窓口へ任意送信</small>
     </div>
   `;
   summary.insertAdjacentElement('afterend', section);
@@ -265,9 +266,45 @@ function gwrAttributionProperties() {
         item.disabled = true;
       });
       const status = section.querySelector('#gwrInquiryStatus');
-      if (status) status.textContent = recoveryQualified
-        ? '明示的な問い合わせを記録しました。Buyer identity・時刻・Channel・Action・URLをRecovery evidenceとして保存しました。'
-        : '問い合わせ意向を記録しました。Buyer identityがないためRecovery Completeにはしません。';
+      if (status) {
+        status.textContent = recoveryQualified
+          ? '問い合わせ意向を記録しました。次のボタンからGWR専用窓口へ要件を送れます。'
+          : '問い合わせ意向を記録しました。次のボタンからGWR専用窓口へ要件を送れます。';
+        const priorLink = section.querySelector('.gwr-contact-link');
+        if (priorLink) priorLink.remove();
+        const subjectMap = {
+          paid_pilot: 'GWR｜7-Day Custom Labor Signal Pilot',
+          custom_sample: 'GWR｜Custom Labor Signal Sample',
+          commercial_terms: 'GWR｜Commercial Terms'
+        };
+        const body = [
+          'Global Work Radar ご担当者様',
+          '',
+          'GWRのLabor Intelligenceについて相談します。',
+          '',
+          '希望: ' + (subjectMap[inquiry] || inquiry),
+          '用途: ',
+          '対象職種 / 地域 / セグメント: ',
+          '判断したいこと: ',
+          '希望時期: ',
+          '',
+          '※送信前に必要事項をご記入ください。'
+        ].join('\n');
+        const contact = document.createElement('a');
+        contact.className = 'gwr-contact-link';
+        contact.href = 'mailto:globalworkradar@gmail.com?subject=' + encodeURIComponent(subjectMap[inquiry] || 'GWR Inquiry') + '&body=' + encodeURIComponent(body);
+        contact.textContent = 'GWRへ商談内容を送る →';
+        contact.addEventListener('click', () => {
+          if (window.posthog && typeof window.posthog.capture === 'function') {
+            window.posthog.capture('gwr_commercial_contact_opened', {
+              ...evidence,
+              contact_channel: 'email',
+              contact_destination: 'globalworkradar@gmail.com'
+            });
+          }
+        }, { once: true });
+        status.insertAdjacentElement('afterend', contact);
+      }
     });
   });
 
