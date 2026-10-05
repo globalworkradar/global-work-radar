@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:47:09.215Z",
+  "generated_at": "2026-10-05T13:16:14.371Z",
   "policy": "verified_active_structured_facts_only",
   "freshness_policy": {
     "lever_max_age_days": 3,
@@ -14,17 +14,39 @@
     ]
   },
   "source_counts": {
-    "lever": 0,
+    "lever": 8,
     "workable_publishable": 647
   },
   "intelligence": {
     "freshness_counts": {
-      "LONG_RUNNING": 442,
-      "FRESH_7D": 29,
+      "LONG_RUNNING": 443,
+      "FRESH_7D": 28,
       "NEW_3D": 11,
-      "NEW_24H": 6
+      "NEW_24H": 6,
+      "RECENTLY_VERIFIED": 8
     },
     "employer_momentum": [
+      {
+        "employer": "Welo Global",
+        "previous_count": 0,
+        "current_count": 5,
+        "delta": 5,
+        "state": "NEW_EMPLOYER_SIGNAL"
+      },
+      {
+        "employer": "RWS TrainAI",
+        "previous_count": 0,
+        "current_count": 2,
+        "delta": 2,
+        "state": "NEW_EMPLOYER_SIGNAL"
+      },
+      {
+        "employer": "CrowdGen by Appen",
+        "previous_count": 0,
+        "current_count": 1,
+        "delta": 1,
+        "state": "NEW_EMPLOYER_SIGNAL"
+      },
       {
         "employer": "Mercari, inc.",
         "previous_count": 64,
@@ -663,13 +685,38 @@
         "state": "STEADY"
       }
     ],
-    "category_pay_usd_hourly": {},
+    "category_pay_usd_hourly": {
+      "AI Trainer / Evaluator": {
+        "sample_count": 1,
+        "median_usd_hourly": 18,
+        "min_usd_hourly": 18,
+        "max_usd_hourly": 18
+      },
+      "Translation": {
+        "sample_count": 1,
+        "median_usd_hourly": 25,
+        "min_usd_hourly": 25,
+        "max_usd_hourly": 25
+      },
+      "Search / Maps Evaluation": {
+        "sample_count": 1,
+        "median_usd_hourly": 25,
+        "min_usd_hourly": 25,
+        "max_usd_hourly": 25
+      },
+      "AI Audio Data Collection": {
+        "sample_count": 1,
+        "median_usd_hourly": 30,
+        "min_usd_hourly": 30,
+        "max_usd_hourly": 30
+      }
+    },
     "labor_benchmark": {
       "source": "U.S. Bureau of Labor Statistics Employment Projections 2025-2035",
       "as_of": "2026-08-27",
       "baseline_all_occupations_growth_pct": 3.5,
       "matched_job_count": 31,
-      "total_job_count": 488,
+      "total_job_count": 496,
       "ai_exposure_source_url": "https://www.bls.gov/emp/publications/ai-exposure-categories.htm",
       "ai_exposure_rule": "Do not infer automation or job loss from exposure; category remains null until official occupation mapping is verified."
     },
@@ -681,11 +728,11 @@
         "AGING_30D": 62,
         "FRESH_7D": 29,
         "NEW_3D": 11,
-        "NEW_24H": 6
+        "NEW_24H": 14
       },
       "stale_risk_counts": {
         "ELEVATED": 221,
-        "LOW": 207,
+        "LOW": 215,
         "REVIEW": 60
       },
       "reopened_after_confirmed_close_count": 2,
@@ -701,7 +748,7 @@
       "signal_level_counts": {
         "WEAK_EVIDENCE": 337,
         "MODERATE_EVIDENCE": 129,
-        "STRONG_EVIDENCE": 22
+        "STRONG_EVIDENCE": 30
       },
       "score_is_probability": false,
       "ghost_job_classifier": false,
@@ -714,7 +761,7 @@
       ]
     }
   },
-  "count": 488,
+  "count": 496,
   "records": [
     {
       "id": "workable-eea57c6ee0",
@@ -817,7 +864,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 1020.2,
+        "age_days": 1020.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -1045,7 +1092,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 969.2,
+        "age_days": 969.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -2110,7 +2157,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 623.1,
+        "age_days": 623.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -2262,7 +2309,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 606.4,
+        "age_days": 606.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -2501,8 +2548,8 @@
       },
       "skillSalary": {
         "category": "Translation",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 25,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -2729,8 +2776,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -2870,7 +2917,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 497.2,
+        "age_days": 497.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -2946,7 +2993,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 469.8,
+        "age_days": 469.9,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -3327,7 +3374,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 433.3,
+        "age_days": 433.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -4401,7 +4448,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -4478,7 +4525,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -4555,7 +4602,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -4632,7 +4679,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -4709,7 +4756,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -4786,7 +4833,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -4863,7 +4910,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -4940,7 +4987,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -5017,7 +5064,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -5094,7 +5141,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 399.2,
+        "age_days": 399.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -5323,7 +5370,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 363.2,
+        "age_days": 363.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -5399,7 +5446,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 361.9,
+        "age_days": 362,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -5551,7 +5598,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 355.2,
+        "age_days": 355.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -7071,7 +7118,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 269.4,
+        "age_days": 269.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -8211,7 +8258,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 256.9,
+        "age_days": 257,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -9202,7 +9249,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 237.1,
+        "age_days": 237.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -9884,7 +9931,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 223.9,
+        "age_days": 224,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -11480,7 +11527,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 196.2,
+        "age_days": 196.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -11708,7 +11755,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 187.2,
+        "age_days": 187.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -12023,8 +12070,8 @@
       },
       "skillSalary": {
         "category": "Translation",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 25,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -12240,7 +12287,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 173.6,
+        "age_days": 173.7,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -12316,7 +12363,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 173.6,
+        "age_days": 173.7,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -12545,7 +12592,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 168.9,
+        "age_days": 169,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -12621,7 +12668,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 167.4,
+        "age_days": 167.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -12697,7 +12744,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 166.1,
+        "age_days": 166.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -12773,7 +12820,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 165.9,
+        "age_days": 166,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -13306,7 +13353,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 158.2,
+        "age_days": 158.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -13610,7 +13657,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 152.7,
+        "age_days": 152.8,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -14219,7 +14266,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 145,
+        "age_days": 145.1,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -14295,7 +14342,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 143.2,
+        "age_days": 143.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -14447,7 +14494,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 140.5,
+        "age_days": 140.6,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -14523,7 +14570,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 137.4,
+        "age_days": 137.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -15436,7 +15483,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 122,
+        "age_days": 122.1,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -15740,7 +15787,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 118.6,
+        "age_days": 118.7,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -16348,7 +16395,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 108.4,
+        "age_days": 108.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -16500,7 +16547,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 108.3,
+        "age_days": 108.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -17109,7 +17156,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 97.2,
+        "age_days": 97.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -17186,7 +17233,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 97.1,
+        "age_days": 97.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -17718,7 +17765,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 90.1,
+        "age_days": 90.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -17870,7 +17917,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 89.2,
+        "age_days": 89.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -17946,7 +17993,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 89.2,
+        "age_days": 89.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -18098,7 +18145,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 88.3,
+        "age_days": 88.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -18326,7 +18373,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 83.2,
+        "age_days": 83.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -18554,7 +18601,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 82.1,
+        "age_days": 82.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -18934,7 +18981,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 80.1,
+        "age_days": 80.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -19162,7 +19209,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 75.2,
+        "age_days": 75.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -19695,7 +19742,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 69.4,
+        "age_days": 69.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -20228,7 +20275,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 68.9,
+        "age_days": 69,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -20304,7 +20351,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 68.9,
+        "age_days": 69,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -20608,7 +20655,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 68.2,
+        "age_days": 68.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -20760,7 +20807,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 68.1,
+        "age_days": 68.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -21141,7 +21188,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 63.4,
+        "age_days": 63.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -21825,7 +21872,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 61.2,
+        "age_days": 61.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -22351,7 +22398,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 56.2,
+        "age_days": 56.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -22425,7 +22472,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 56.2,
+        "age_days": 56.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -22499,7 +22546,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 53.9,
+        "age_days": 54,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -22584,8 +22631,8 @@
       },
       "skillSalary": {
         "category": "Translation",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 25,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -22721,7 +22768,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 53.1,
+        "age_days": 53.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -22943,7 +22990,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 52.4,
+        "age_days": 52.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -23165,7 +23212,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 49.1,
+        "age_days": 49.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -23239,7 +23286,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 48.2,
+        "age_days": 48.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -23610,7 +23657,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 48.1,
+        "age_days": 48.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -23684,7 +23731,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 48,
+        "age_days": 48.1,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -23992,8 +24039,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -24203,7 +24250,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 42.3,
+        "age_days": 42.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -24277,7 +24324,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 40.9,
+        "age_days": 41,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -24426,7 +24473,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 40.1,
+        "age_days": 40.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -24723,7 +24770,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 38.3,
+        "age_days": 38.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -25019,7 +25066,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 38,
+        "age_days": 38.1,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -25093,7 +25140,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 38,
+        "age_days": 38.1,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -25611,7 +25658,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 34.4,
+        "age_days": 34.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -25759,7 +25806,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 33.3,
+        "age_days": 33.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -25833,7 +25880,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 33.3,
+        "age_days": 33.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -25907,7 +25954,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 33.3,
+        "age_days": 33.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -26352,7 +26399,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 31.4,
+        "age_days": 31.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -27174,7 +27221,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 27.2,
+        "age_days": 27.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -27399,7 +27446,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 27.1,
+        "age_days": 27.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -27701,7 +27748,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 26.7,
+        "age_days": 26.8,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -27776,7 +27823,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 26.7,
+        "age_days": 26.8,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -27928,7 +27975,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 26.3,
+        "age_days": 26.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -28153,7 +28200,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 25.8,
+        "age_days": 25.9,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -31611,7 +31658,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 17.1,
+        "age_days": 17.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -31686,7 +31733,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 16.8,
+        "age_days": 16.9,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -32290,7 +32337,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 13.4,
+        "age_days": 13.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -32440,7 +32487,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 12.5,
+        "age_days": 12.6,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -32904,8 +32951,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -33044,7 +33091,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 11.1,
+        "age_days": 11.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -33055,8 +33102,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -33131,8 +33178,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -33196,7 +33243,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 10.5,
+        "age_days": 10.6,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -33585,8 +33632,8 @@
       },
       "skillSalary": {
         "category": "Translation",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 25,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -33649,7 +33696,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 7.3,
+        "age_days": 7.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -33799,7 +33846,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 7.1,
+        "age_days": 7.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -33874,7 +33921,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 7.1,
+        "age_days": 7.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -33949,7 +33996,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 7.1,
+        "age_days": 7.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -34174,7 +34221,7 @@
       "firstSeenAt": "2026-09-28T16:32:21.308Z",
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
-        "bucket": "FRESH_7D",
+        "bucket": "LONG_RUNNING",
         "age_days": 7,
         "basis": "publishedAt"
       },
@@ -34563,8 +34610,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -34628,7 +34675,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "FRESH_7D",
-        "age_days": 5.9,
+        "age_days": 6,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -34703,7 +34750,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "FRESH_7D",
-        "age_days": 5.4,
+        "age_days": 5.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -34853,7 +34900,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "FRESH_7D",
-        "age_days": 5.3,
+        "age_days": 5.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -35834,7 +35881,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "FRESH_7D",
-        "age_days": 3.2,
+        "age_days": 3.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -35996,8 +36043,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36147,8 +36194,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36223,8 +36270,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36299,8 +36346,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36364,7 +36411,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "NEW_3D",
-        "age_days": 2.9,
+        "age_days": 3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -36591,7 +36638,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "NEW_3D",
-        "age_days": 2.2,
+        "age_days": 2.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -36602,8 +36649,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36678,8 +36725,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36906,8 +36953,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36982,8 +37029,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -37047,7 +37094,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "NEW_3D",
-        "age_days": 1.9,
+        "age_days": 2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -37058,8 +37105,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -37134,8 +37181,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -37199,7 +37246,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "NEW_24H",
-        "age_days": 0.4,
+        "age_days": 0.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -37499,7 +37546,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "NEW_24H",
-        "age_days": 0.2,
+        "age_days": 0.3,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -37617,6 +37664,614 @@
         "positive_signals": [
           "official_source_currently_verified_active",
           "fresh_posting_signal"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "rws-ai-data-specialist-japanese",
+      "employer": "RWS TrainAI",
+      "title": "AI Data Specialist - Japanese",
+      "category": "AI Trainer / Evaluator",
+      "location": "Tokyo",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": "TOEIC 785+",
+      "payMin": 18,
+      "payMax": 18,
+      "currency": "USD",
+      "period": "hour",
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
+      "source": "Lever / RWS",
+      "confidence": "high",
+      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "RECENTLY_VERIFIED",
+        "age_days": 0,
+        "basis": "lastVerifiedAt_fallback"
+      },
+      "hiringMomentum": {
+        "state": "NEW_EMPLOYER_SIGNAL",
+        "employer_jobs_previous_snapshot": 0,
+        "employer_jobs_current_snapshot": 2,
+        "delta": 2
+      },
+      "skillSalary": {
+        "category": "AI Trainer / Evaluator",
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 18,
+        "pay_vs_category_median_pct": 0,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "rws-search-engine-evaluator-japanese-japan",
+      "employer": "RWS TrainAI",
+      "title": "Search Engine Evaluator - Japanese (Japan)",
+      "category": "Search / AI Evaluation",
+      "location": "Tokyo",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": "B2 / TOEIC 785+",
+      "payMin": null,
+      "payMax": 15,
+      "currency": "USD",
+      "period": "hour",
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
+      "source": "Lever / RWS",
+      "confidence": "high",
+      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "RECENTLY_VERIFIED",
+        "age_days": 0,
+        "basis": "lastVerifiedAt_fallback"
+      },
+      "hiringMomentum": {
+        "state": "NEW_EMPLOYER_SIGNAL",
+        "employer_jobs_previous_snapshot": 0,
+        "employer_jobs_current_snapshot": 2,
+        "delta": 2
+      },
+      "skillSalary": {
+        "category": "Search / AI Evaluation",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "appen-japanese-thai-translation",
+      "employer": "CrowdGen by Appen",
+      "title": "Remote Japanese to Thai Translation Project",
+      "category": "Translation",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": 25,
+      "payMax": 25,
+      "currency": "USD",
+      "period": "hour",
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/appen/98bbe8f8-ab5c-48db-bcd6-93a8f747646b",
+      "source": "Lever / CrowdGen by Appen",
+      "confidence": "high",
+      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "RECENTLY_VERIFIED",
+        "age_days": 0,
+        "basis": "lastVerifiedAt_fallback"
+      },
+      "hiringMomentum": {
+        "state": "NEW_EMPLOYER_SIGNAL",
+        "employer_jobs_previous_snapshot": 0,
+        "employer_jobs_current_snapshot": 1,
+        "delta": 1
+      },
+      "skillSalary": {
+        "category": "Translation",
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 25,
+        "pay_vs_category_median_pct": 0,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "welo-scout-search-quality-rater-ja",
+      "employer": "Welo Global",
+      "title": "*Scout Search Quality Rater - Japanese  | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)",
+      "category": "Search / Ads Evaluation",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": "English required",
+      "payMin": 12,
+      "payMax": 12,
+      "currency": "USD",
+      "period": "hour_approx",
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/fd03d02c-3430-4174-abcd-d2b5f8f6f0dc/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "RECENTLY_VERIFIED",
+        "age_days": 0,
+        "basis": "lastVerifiedAt_fallback"
+      },
+      "hiringMomentum": {
+        "state": "NEW_EMPLOYER_SIGNAL",
+        "employer_jobs_previous_snapshot": 0,
+        "employer_jobs_current_snapshot": 5,
+        "delta": 5
+      },
+      "skillSalary": {
+        "category": "Search / Ads Evaluation",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "welo-japanese-content-reviewer",
+      "employer": "Welo Global",
+      "title": "Japanese Lead Multimedia Content Reviewer",
+      "category": "Localization",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": "English fluency required",
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/e4c9c72a-30e5-405f-87e6-8f702ac2f780/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "RECENTLY_VERIFIED",
+        "age_days": 0,
+        "basis": "lastVerifiedAt_fallback"
+      },
+      "hiringMomentum": {
+        "state": "NEW_EMPLOYER_SIGNAL",
+        "employer_jobs_previous_snapshot": 0,
+        "employer_jobs_current_snapshot": 5,
+        "delta": 5
+      },
+      "skillSalary": {
+        "category": "Localization",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "welo-maps-relevance-rater-ja",
+      "employer": "Welo Global",
+      "title": "Maps Personalization Relevance Rater - Japanese (Japan)",
+      "category": "Search / Maps Evaluation",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": 25,
+      "payMax": 25,
+      "currency": "USD",
+      "period": "hour",
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/adc87abf-ed8c-40d9-b5b4-2c893d71525b",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "RECENTLY_VERIFIED",
+        "age_days": 0,
+        "basis": "lastVerifiedAt_fallback"
+      },
+      "hiringMomentum": {
+        "state": "NEW_EMPLOYER_SIGNAL",
+        "employer_jobs_previous_snapshot": 0,
+        "employer_jobs_current_snapshot": 5,
+        "delta": 5
+      },
+      "skillSalary": {
+        "category": "Search / Maps Evaluation",
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 25,
+        "pay_vs_category_median_pct": 0,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "welo-ads-quality-rater-japanese",
+      "employer": "Welo Global",
+      "title": "Ads Quality Rater - Japanese | 広告品質評価者 - 日本語",
+      "category": "Ads Evaluation",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": "High English reading/writing proficiency required",
+      "payMin": 12,
+      "payMax": 12,
+      "currency": "USD",
+      "period": "hour_approx",
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/66c7a0de-67a3-49a2-b9d2-0e65780c296e/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "RECENTLY_VERIFIED",
+        "age_days": 0,
+        "basis": "lastVerifiedAt_fallback"
+      },
+      "hiringMomentum": {
+        "state": "NEW_EMPLOYER_SIGNAL",
+        "employer_jobs_previous_snapshot": 0,
+        "employer_jobs_current_snapshot": 5,
+        "delta": 5
+      },
+      "skillSalary": {
+        "category": "Ads Evaluation",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "welo-circinus-audio-contributor-japanese-japan",
+      "employer": "Welo Global",
+      "title": "Circinus - Audio Contributor Japanese (Japan)",
+      "category": "AI Audio Data Collection",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": "English proficiency for guidelines and communication",
+      "payMin": 30,
+      "payMax": 30,
+      "currency": "USD",
+      "period": "hour",
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/5a704b57-ec05-4c79-bb0b-0389bff1bb61/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "RECENTLY_VERIFIED",
+        "age_days": 0,
+        "basis": "lastVerifiedAt_fallback"
+      },
+      "hiringMomentum": {
+        "state": "NEW_EMPLOYER_SIGNAL",
+        "employer_jobs_previous_snapshot": 0,
+        "employer_jobs_current_snapshot": 5,
+        "delta": 5
+      },
+      "skillSalary": {
+        "category": "AI Audio Data Collection",
+        "category_sample_count": 1,
+        "category_median_usd_hourly": 30,
+        "pay_vs_category_median_pct": 0,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
         ],
         "caution_signals": [],
         "is_hiring_probability": false,
