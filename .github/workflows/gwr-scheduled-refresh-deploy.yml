@@ -67,6 +67,9 @@ jobs:
       - name: Enrich lifecycle and hiring intent
         run: node enrich-lifecycle.mjs
 
+      - name: Build fresh revenue growth candidates
+        run: node social-growth-engine.mjs
+
       - name: Validate outputs
         run: |
           node - <<'NODE'
@@ -80,6 +83,10 @@ jobs:
             JSON.parse(zlib.gunzipSync(fs.readFileSync(root+'workable-state.json.gz')).toString('utf8'));
           }
           const verified=JSON.parse(fs.readFileSync(root+'verified-jobs.json','utf8'));
+          const growth=JSON.parse(fs.readFileSync(root+'gwr-social-growth-candidates.json','utf8'));
+          if(!growth.generated_at||!growth.source_generated_at) throw new Error('GWR growth candidate timestamps missing');
+          if(growth.source_generated_at!==verified.generated_at) throw new Error('GWR growth candidates stale vs verified inventory');
+          if(!Array.isArray(growth.candidates)||!growth.candidates.length) throw new Error('GWR growth candidates empty');
           if(!verified.records?.length) throw new Error('GWR verified inventory empty');
           if(!verified.generated_at) throw new Error('GWR generated_at missing');
           if(!verified.intelligence) throw new Error('GWR intelligence missing');
