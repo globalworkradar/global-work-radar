@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:16:14.371Z",
+  "generated_at": "2026-10-05T13:19:22.770Z",
   "policy": "verified_active_structured_facts_only",
   "freshness_policy": {
     "lever_max_age_days": 3,
@@ -14,38 +14,37 @@
     ]
   },
   "source_counts": {
-    "lever": 8,
+    "lever": 20,
     "workable_publishable": 647
   },
   "intelligence": {
     "freshness_counts": {
+      "NEW_24H": 26,
       "LONG_RUNNING": 443,
       "FRESH_7D": 28,
-      "NEW_3D": 11,
-      "NEW_24H": 6,
-      "RECENTLY_VERIFIED": 8
+      "NEW_3D": 11
     },
     "employer_momentum": [
       {
         "employer": "Welo Global",
-        "previous_count": 0,
-        "current_count": 5,
-        "delta": 5,
-        "state": "NEW_EMPLOYER_SIGNAL"
+        "previous_count": 5,
+        "current_count": 15,
+        "delta": 10,
+        "state": "HIRING_UP"
       },
       {
         "employer": "RWS TrainAI",
-        "previous_count": 0,
-        "current_count": 2,
-        "delta": 2,
-        "state": "NEW_EMPLOYER_SIGNAL"
+        "previous_count": 2,
+        "current_count": 3,
+        "delta": 1,
+        "state": "HIRING_UP"
       },
       {
         "employer": "CrowdGen by Appen",
-        "previous_count": 0,
-        "current_count": 1,
+        "previous_count": 1,
+        "current_count": 2,
         "delta": 1,
-        "state": "NEW_EMPLOYER_SIGNAL"
+        "state": "HIRING_UP"
       },
       {
         "employer": "Mercari, inc.",
@@ -685,54 +684,29 @@
         "state": "STEADY"
       }
     ],
-    "category_pay_usd_hourly": {
-      "AI Trainer / Evaluator": {
-        "sample_count": 1,
-        "median_usd_hourly": 18,
-        "min_usd_hourly": 18,
-        "max_usd_hourly": 18
-      },
-      "Translation": {
-        "sample_count": 1,
-        "median_usd_hourly": 25,
-        "min_usd_hourly": 25,
-        "max_usd_hourly": 25
-      },
-      "Search / Maps Evaluation": {
-        "sample_count": 1,
-        "median_usd_hourly": 25,
-        "min_usd_hourly": 25,
-        "max_usd_hourly": 25
-      },
-      "AI Audio Data Collection": {
-        "sample_count": 1,
-        "median_usd_hourly": 30,
-        "min_usd_hourly": 30,
-        "max_usd_hourly": 30
-      }
-    },
+    "category_pay_usd_hourly": {},
     "labor_benchmark": {
       "source": "U.S. Bureau of Labor Statistics Employment Projections 2025-2035",
       "as_of": "2026-08-27",
       "baseline_all_occupations_growth_pct": 3.5,
       "matched_job_count": 31,
-      "total_job_count": 496,
+      "total_job_count": 508,
       "ai_exposure_source_url": "https://www.bls.gov/emp/publications/ai-exposure-categories.htm",
       "ai_exposure_rule": "Do not infer automation or job loss from exposure; category remains null until official occupation mapping is verified."
     },
     "lifecycle": {
       "state_counts": {
+        "NEW_24H": 26,
         "STALE_RISK_90D": 221,
         "ACTIVE": 101,
         "LONG_RUNNING_60D": 58,
         "AGING_30D": 62,
         "FRESH_7D": 29,
-        "NEW_3D": 11,
-        "NEW_24H": 14
+        "NEW_3D": 11
       },
       "stale_risk_counts": {
+        "LOW": 227,
         "ELEVATED": 221,
-        "LOW": 215,
         "REVIEW": 60
       },
       "reopened_after_confirmed_close_count": 2,
@@ -746,9 +720,9 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
+        "STRONG_EVIDENCE": 42,
         "WEAK_EVIDENCE": 337,
-        "MODERATE_EVIDENCE": 129,
-        "STRONG_EVIDENCE": 30
+        "MODERATE_EVIDENCE": 129
       },
       "score_is_probability": false,
       "ghost_job_classifier": false,
@@ -761,8 +735,1528 @@
       ]
     }
   },
-  "count": 496,
+  "count": 508,
   "records": [
+    {
+      "id": "lever-d260f27c2b2c937206a47fee",
+      "employer": "RWS TrainAI",
+      "title": "AI Data Specialist - Japanese",
+      "category": "TrainAI",
+      "location": "Tokyo",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
+      "source": "Lever / RWS TrainAI",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 2,
+        "employer_jobs_current_snapshot": 3,
+        "delta": 1
+      },
+      "skillSalary": {
+        "category": "TrainAI",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-7f2322089d9e75091e9559f3",
+      "employer": "RWS TrainAI",
+      "title": "Search Engine Evaluator - Japanese (Japan)",
+      "category": "TrainAI",
+      "location": "Tokyo",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
+      "source": "Lever / RWS TrainAI",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 2,
+        "employer_jobs_current_snapshot": 3,
+        "delta": 1
+      },
+      "skillSalary": {
+        "category": "TrainAI",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-3606070ccc092bf91134afa5",
+      "employer": "RWS TrainAI",
+      "title": "Speech AI Evaluation Specialist - Japanese (Japan)",
+      "category": "TrainAI",
+      "location": "Tokyo",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/rws/28b3d23d-7e18-4842-adfe-b708af798a9c/apply",
+      "source": "Lever / RWS TrainAI",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 2,
+        "employer_jobs_current_snapshot": 3,
+        "delta": 1
+      },
+      "skillSalary": {
+        "category": "TrainAI",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-22f3c8a5cb5d381ab408f00b",
+      "employer": "CrowdGen by Appen",
+      "title": "Native Japanese Kansai Dialect Speakers",
+      "category": "Data Collection",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/appen/bfc5b1f8-70a3-4be0-b8d3-15b18e620517/apply",
+      "source": "Lever / CrowdGen by Appen",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 1,
+        "employer_jobs_current_snapshot": 2,
+        "delta": 1
+      },
+      "skillSalary": {
+        "category": "Data Collection",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-39edfd7815fb0356833c7cf6",
+      "employer": "CrowdGen by Appen",
+      "title": "Remote Japanese to Thai Translation Project",
+      "category": "Translation",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/appen/98bbe8f8-ab5c-48db-bcd6-93a8f747646b/apply",
+      "source": "Lever / CrowdGen by Appen",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 1,
+        "employer_jobs_current_snapshot": 2,
+        "delta": 1
+      },
+      "skillSalary": {
+        "category": "Translation",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-8041b266fb404a565d93ca6c",
+      "employer": "Welo Global",
+      "title": "*Scout Search Quality Rater - Japanese  | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)",
+      "category": "Data Validation",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/fd03d02c-3430-4174-abcd-d2b5f8f6f0dc/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Data Validation",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-8357038fe4991a67910f01ef",
+      "employer": "Welo Global",
+      "title": "Ads Quality Rater - Japanese | 広告品質評価者 - 日本語",
+      "category": "Data Validation",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/66c7a0de-67a3-49a2-b9d2-0e65780c296e/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Data Validation",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-2f6b2207dd69b125b7fa29db",
+      "employer": "Welo Global",
+      "title": "AI Trainers Network - Japanese | 日本語AIトレーナー人材ネットワーク",
+      "category": "AI Service General Application",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/4f800f21-f75e-4721-add9-4cfbdbd60a98/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "AI Service General Application",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-958d7488af9f0c3236db1114",
+      "employer": "Welo Global",
+      "title": "Circinus - Audio Contributor Japanese (Japan)",
+      "category": "AI Service General Application",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/5a704b57-ec05-4c79-bb0b-0389bff1bb61/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "AI Service General Application",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-239258d83173f4e1db65b202",
+      "employer": "Welo Global",
+      "title": "English to Japanese Linguist & Copy Editor for Product, Marketing & UI Content",
+      "category": "Partner Questionaire (Agencies)",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/6eb4c91f-d032-4f47-a47e-97447f415c69/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Partner Questionaire (Agencies)",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-38d10402dc1b683255e4c692",
+      "employer": "Welo Global",
+      "title": "English to Japanese linguist for Patent",
+      "category": "Translation & Localization",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/4f12d1f4-06b8-4b9e-ab24-25b3b1c83e4e/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Translation & Localization",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-9b8ebf4f31d384d94a6840b2",
+      "employer": "Welo Global",
+      "title": "Generative AI Analyst | Japanese (Japan)",
+      "category": "Data Annotation",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/00e8ea72-93d3-4e45-8f3b-eb063011c62b/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Data Annotation",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-6711a36b1891b895e82f21ba",
+      "employer": "Welo Global",
+      "title": "Japanese | Korean Interpreters",
+      "category": "Interpretation",
+      "location": "Tokyo, Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/3dbc2103-964b-4b8e-9a84-ce6bf0ff522d/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Interpretation",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-120967390e5c6e20f19fb38c",
+      "employer": "Welo Global",
+      "title": "Japanese Lead Multimedia Content Reviewer",
+      "category": "Production",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/e4c9c72a-30e5-405f-87e6-8f702ac2f780/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Production",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-0efc57dc338f8d4fca40ea45",
+      "employer": "Welo Global",
+      "title": "Japanese Linguistic Evaluator & Functional Tester",
+      "category": "Production",
+      "location": "Tokyo, Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/9a2cd446-07d1-4dcc-8004-97fee0168886/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Production",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-42ce648bca4d15849a24844a",
+      "employer": "Welo Global",
+      "title": "Japanese Sports Localization Specialist (Football)",
+      "category": "Global Freelance & Agency Opportunities",
+      "location": "Remote, Worldwide",
+      "remote": "remote",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Global Freelance & Agency Opportunities",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-ef1f4149872e8c5b01b4e619",
+      "employer": "Welo Global",
+      "title": "Maps Personalization Quality Reviewer - Japanese (Japan)",
+      "category": "AI Service General Application",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/2e0cf51e-414f-409d-95e0-526c7079e26e/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "AI Service General Application",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-c50060398b38b6fee7901b2d",
+      "employer": "Welo Global",
+      "title": "Maps Personalization Relevance Rater - Japanese (Japan)",
+      "category": "AI Service General Application",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/adc87abf-ed8c-40d9-b5b4-2c893d71525b/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "AI Service General Application",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-3541ca0e544edd83c461a69e",
+      "employer": "Welo Global",
+      "title": "Senior Japanese Linguist",
+      "category": "Production",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/cdae8d3e-1f88-41b8-8c5e-7a0a4e8e44f3/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "Production",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
+    {
+      "id": "lever-7210ce693d87cf1091e51f86",
+      "employer": "Welo Global",
+      "title": "博士課程スペシャリスト — 日本語 |社会・行動科学、人文科学、芸術、言語学[PhD-JP]",
+      "category": "AI Service General Application",
+      "location": "Japan",
+      "remote": "unknown",
+      "japan": true,
+      "japanese": true,
+      "english": null,
+      "payMin": null,
+      "payMax": null,
+      "currency": null,
+      "period": null,
+      "verified": "Verified 2026-10-05",
+      "status": "VERIFIED ACTIVE",
+      "url": "https://jobs.lever.co/weloglobal/03e7007d-cb6d-4be7-ba89-46d7ffe82536/apply",
+      "source": "Lever / Welo Global",
+      "confidence": "high",
+      "eligibilityEvidence": "Official Lever ATS role: Japanese is explicit in the title and Japan eligibility is explicit in the location or worldwide-remote scope.",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-05T12:46:23.158Z",
+      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
+      "freshness": {
+        "bucket": "NEW_24H",
+        "age_days": 0,
+        "basis": "firstSeenAt"
+      },
+      "hiringMomentum": {
+        "state": "HIRING_UP",
+        "employer_jobs_previous_snapshot": 5,
+        "employer_jobs_current_snapshot": 15,
+        "delta": 10
+      },
+      "skillSalary": {
+        "category": "AI Service General Application",
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
+        "pay_vs_category_median_pct": null,
+        "scope": "GWR_verified_inventory_only"
+      },
+      "laborBenchmark": {
+        "matched": false,
+        "occupation": null,
+        "soc": null,
+        "growth_2025_2035_pct": null,
+        "growth_vs_all_occupations_pct_points": null,
+        "median_annual_wage_usd_2025": null,
+        "ai_exposure_category": null,
+        "source_url": null,
+        "benchmark_scope": null
+      },
+      "lifecycle": {
+        "state": "NEW_24H",
+        "observed_age_days": 0,
+        "reopened_after_confirmed_close": false,
+        "confirmed_close_count": 0,
+        "last_confirmed_closed_at": null,
+        "changed_within_7d": false,
+        "stale_risk": "LOW",
+        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
+      },
+      "hiringIntent": {
+        "evidence_score": 80,
+        "signal_level": "STRONG_EVIDENCE",
+        "positive_signals": [
+          "official_source_currently_verified_active",
+          "fresh_posting_signal",
+          "employer_hiring_momentum_positive"
+        ],
+        "caution_signals": [],
+        "is_hiring_probability": false,
+        "is_ghost_job_determination": false,
+        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
+      }
+    },
     {
       "id": "workable-eea57c6ee0",
       "employer": "Two95 International Inc.",
@@ -940,7 +2434,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 987.3,
+        "age_days": 987.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -1396,7 +2890,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 794.1,
+        "age_days": 794.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -1472,7 +2966,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 794.1,
+        "age_days": 794.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -2548,8 +4042,8 @@
       },
       "skillSalary": {
         "category": "Translation",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 25,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -2776,8 +4270,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -6282,7 +7776,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 319.1,
+        "age_days": 319.2,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -7194,7 +8688,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 266.4,
+        "age_days": 266.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -12070,8 +13564,8 @@
       },
       "skillSalary": {
         "category": "Translation",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 25,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -19666,7 +21160,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 70.4,
+        "age_days": 70.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -22631,8 +24125,8 @@
       },
       "skillSalary": {
         "category": "Translation",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 25,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -24039,8 +25533,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -28050,7 +29544,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 26.3,
+        "age_days": 26.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -32639,7 +34133,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "LONG_RUNNING",
-        "age_days": 12.4,
+        "age_days": 12.5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -32951,8 +34445,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -33102,8 +34596,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -33178,8 +34672,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -33632,8 +35126,8 @@
       },
       "skillSalary": {
         "category": "Translation",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 25,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -34610,8 +36104,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -35126,7 +36620,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "FRESH_7D",
-        "age_days": 4.9,
+        "age_days": 5,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -36043,8 +37537,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36194,8 +37688,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36270,8 +37764,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36346,8 +37840,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36649,8 +38143,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36725,8 +38219,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -36953,8 +38447,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -37029,8 +38523,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -37105,8 +38599,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -37181,8 +38675,8 @@
       },
       "skillSalary": {
         "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
+        "category_sample_count": 0,
+        "category_median_usd_hourly": null,
         "pay_vs_category_median_pct": null,
         "scope": "GWR_verified_inventory_only"
       },
@@ -37471,7 +38965,7 @@
       "lastVerifiedAt": "2026-10-05T12:46:46.925Z",
       "freshness": {
         "bucket": "NEW_24H",
-        "age_days": 0.3,
+        "age_days": 0.4,
         "basis": "publishedAt"
       },
       "hiringMomentum": {
@@ -37664,614 +39158,6 @@
         "positive_signals": [
           "official_source_currently_verified_active",
           "fresh_posting_signal"
-        ],
-        "caution_signals": [],
-        "is_hiring_probability": false,
-        "is_ghost_job_determination": false,
-        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
-      }
-    },
-    {
-      "id": "rws-ai-data-specialist-japanese",
-      "employer": "RWS TrainAI",
-      "title": "AI Data Specialist - Japanese",
-      "category": "AI Trainer / Evaluator",
-      "location": "Tokyo",
-      "remote": "unknown",
-      "japan": true,
-      "japanese": true,
-      "english": "TOEIC 785+",
-      "payMin": 18,
-      "payMax": 18,
-      "currency": "USD",
-      "period": "hour",
-      "verified": "Verified 2026-10-05",
-      "status": "VERIFIED ACTIVE",
-      "url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
-      "source": "Lever / RWS",
-      "confidence": "high",
-      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
-      "publishedAt": null,
-      "firstSeenAt": null,
-      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
-      "freshness": {
-        "bucket": "RECENTLY_VERIFIED",
-        "age_days": 0,
-        "basis": "lastVerifiedAt_fallback"
-      },
-      "hiringMomentum": {
-        "state": "NEW_EMPLOYER_SIGNAL",
-        "employer_jobs_previous_snapshot": 0,
-        "employer_jobs_current_snapshot": 2,
-        "delta": 2
-      },
-      "skillSalary": {
-        "category": "AI Trainer / Evaluator",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 18,
-        "pay_vs_category_median_pct": 0,
-        "scope": "GWR_verified_inventory_only"
-      },
-      "laborBenchmark": {
-        "matched": false,
-        "occupation": null,
-        "soc": null,
-        "growth_2025_2035_pct": null,
-        "growth_vs_all_occupations_pct_points": null,
-        "median_annual_wage_usd_2025": null,
-        "ai_exposure_category": null,
-        "source_url": null,
-        "benchmark_scope": null
-      },
-      "lifecycle": {
-        "state": "NEW_24H",
-        "observed_age_days": 0,
-        "reopened_after_confirmed_close": false,
-        "confirmed_close_count": 0,
-        "last_confirmed_closed_at": null,
-        "changed_within_7d": false,
-        "stale_risk": "LOW",
-        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
-      },
-      "hiringIntent": {
-        "evidence_score": 80,
-        "signal_level": "STRONG_EVIDENCE",
-        "positive_signals": [
-          "official_source_currently_verified_active",
-          "fresh_posting_signal",
-          "employer_hiring_momentum_positive"
-        ],
-        "caution_signals": [],
-        "is_hiring_probability": false,
-        "is_ghost_job_determination": false,
-        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
-      }
-    },
-    {
-      "id": "rws-search-engine-evaluator-japanese-japan",
-      "employer": "RWS TrainAI",
-      "title": "Search Engine Evaluator - Japanese (Japan)",
-      "category": "Search / AI Evaluation",
-      "location": "Tokyo",
-      "remote": "unknown",
-      "japan": true,
-      "japanese": true,
-      "english": "B2 / TOEIC 785+",
-      "payMin": null,
-      "payMax": 15,
-      "currency": "USD",
-      "period": "hour",
-      "verified": "Verified 2026-10-05",
-      "status": "VERIFIED ACTIVE",
-      "url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
-      "source": "Lever / RWS",
-      "confidence": "high",
-      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
-      "publishedAt": null,
-      "firstSeenAt": null,
-      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
-      "freshness": {
-        "bucket": "RECENTLY_VERIFIED",
-        "age_days": 0,
-        "basis": "lastVerifiedAt_fallback"
-      },
-      "hiringMomentum": {
-        "state": "NEW_EMPLOYER_SIGNAL",
-        "employer_jobs_previous_snapshot": 0,
-        "employer_jobs_current_snapshot": 2,
-        "delta": 2
-      },
-      "skillSalary": {
-        "category": "Search / AI Evaluation",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
-        "pay_vs_category_median_pct": null,
-        "scope": "GWR_verified_inventory_only"
-      },
-      "laborBenchmark": {
-        "matched": false,
-        "occupation": null,
-        "soc": null,
-        "growth_2025_2035_pct": null,
-        "growth_vs_all_occupations_pct_points": null,
-        "median_annual_wage_usd_2025": null,
-        "ai_exposure_category": null,
-        "source_url": null,
-        "benchmark_scope": null
-      },
-      "lifecycle": {
-        "state": "NEW_24H",
-        "observed_age_days": 0,
-        "reopened_after_confirmed_close": false,
-        "confirmed_close_count": 0,
-        "last_confirmed_closed_at": null,
-        "changed_within_7d": false,
-        "stale_risk": "LOW",
-        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
-      },
-      "hiringIntent": {
-        "evidence_score": 80,
-        "signal_level": "STRONG_EVIDENCE",
-        "positive_signals": [
-          "official_source_currently_verified_active",
-          "fresh_posting_signal",
-          "employer_hiring_momentum_positive"
-        ],
-        "caution_signals": [],
-        "is_hiring_probability": false,
-        "is_ghost_job_determination": false,
-        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
-      }
-    },
-    {
-      "id": "appen-japanese-thai-translation",
-      "employer": "CrowdGen by Appen",
-      "title": "Remote Japanese to Thai Translation Project",
-      "category": "Translation",
-      "location": "Japan",
-      "remote": "unknown",
-      "japan": true,
-      "japanese": true,
-      "english": null,
-      "payMin": 25,
-      "payMax": 25,
-      "currency": "USD",
-      "period": "hour",
-      "verified": "Verified 2026-10-05",
-      "status": "VERIFIED ACTIVE",
-      "url": "https://jobs.lever.co/appen/98bbe8f8-ab5c-48db-bcd6-93a8f747646b",
-      "source": "Lever / CrowdGen by Appen",
-      "confidence": "high",
-      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
-      "publishedAt": null,
-      "firstSeenAt": null,
-      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
-      "freshness": {
-        "bucket": "RECENTLY_VERIFIED",
-        "age_days": 0,
-        "basis": "lastVerifiedAt_fallback"
-      },
-      "hiringMomentum": {
-        "state": "NEW_EMPLOYER_SIGNAL",
-        "employer_jobs_previous_snapshot": 0,
-        "employer_jobs_current_snapshot": 1,
-        "delta": 1
-      },
-      "skillSalary": {
-        "category": "Translation",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 25,
-        "pay_vs_category_median_pct": 0,
-        "scope": "GWR_verified_inventory_only"
-      },
-      "laborBenchmark": {
-        "matched": false,
-        "occupation": null,
-        "soc": null,
-        "growth_2025_2035_pct": null,
-        "growth_vs_all_occupations_pct_points": null,
-        "median_annual_wage_usd_2025": null,
-        "ai_exposure_category": null,
-        "source_url": null,
-        "benchmark_scope": null
-      },
-      "lifecycle": {
-        "state": "NEW_24H",
-        "observed_age_days": 0,
-        "reopened_after_confirmed_close": false,
-        "confirmed_close_count": 0,
-        "last_confirmed_closed_at": null,
-        "changed_within_7d": false,
-        "stale_risk": "LOW",
-        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
-      },
-      "hiringIntent": {
-        "evidence_score": 80,
-        "signal_level": "STRONG_EVIDENCE",
-        "positive_signals": [
-          "official_source_currently_verified_active",
-          "fresh_posting_signal",
-          "employer_hiring_momentum_positive"
-        ],
-        "caution_signals": [],
-        "is_hiring_probability": false,
-        "is_ghost_job_determination": false,
-        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
-      }
-    },
-    {
-      "id": "welo-scout-search-quality-rater-ja",
-      "employer": "Welo Global",
-      "title": "*Scout Search Quality Rater - Japanese  | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)",
-      "category": "Search / Ads Evaluation",
-      "location": "Japan",
-      "remote": "unknown",
-      "japan": true,
-      "japanese": true,
-      "english": "English required",
-      "payMin": 12,
-      "payMax": 12,
-      "currency": "USD",
-      "period": "hour_approx",
-      "verified": "Verified 2026-10-05",
-      "status": "VERIFIED ACTIVE",
-      "url": "https://jobs.lever.co/weloglobal/fd03d02c-3430-4174-abcd-d2b5f8f6f0dc/apply",
-      "source": "Lever / Welo Global",
-      "confidence": "high",
-      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
-      "publishedAt": null,
-      "firstSeenAt": null,
-      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
-      "freshness": {
-        "bucket": "RECENTLY_VERIFIED",
-        "age_days": 0,
-        "basis": "lastVerifiedAt_fallback"
-      },
-      "hiringMomentum": {
-        "state": "NEW_EMPLOYER_SIGNAL",
-        "employer_jobs_previous_snapshot": 0,
-        "employer_jobs_current_snapshot": 5,
-        "delta": 5
-      },
-      "skillSalary": {
-        "category": "Search / Ads Evaluation",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
-        "pay_vs_category_median_pct": null,
-        "scope": "GWR_verified_inventory_only"
-      },
-      "laborBenchmark": {
-        "matched": false,
-        "occupation": null,
-        "soc": null,
-        "growth_2025_2035_pct": null,
-        "growth_vs_all_occupations_pct_points": null,
-        "median_annual_wage_usd_2025": null,
-        "ai_exposure_category": null,
-        "source_url": null,
-        "benchmark_scope": null
-      },
-      "lifecycle": {
-        "state": "NEW_24H",
-        "observed_age_days": 0,
-        "reopened_after_confirmed_close": false,
-        "confirmed_close_count": 0,
-        "last_confirmed_closed_at": null,
-        "changed_within_7d": false,
-        "stale_risk": "LOW",
-        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
-      },
-      "hiringIntent": {
-        "evidence_score": 80,
-        "signal_level": "STRONG_EVIDENCE",
-        "positive_signals": [
-          "official_source_currently_verified_active",
-          "fresh_posting_signal",
-          "employer_hiring_momentum_positive"
-        ],
-        "caution_signals": [],
-        "is_hiring_probability": false,
-        "is_ghost_job_determination": false,
-        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
-      }
-    },
-    {
-      "id": "welo-japanese-content-reviewer",
-      "employer": "Welo Global",
-      "title": "Japanese Lead Multimedia Content Reviewer",
-      "category": "Localization",
-      "location": "Japan",
-      "remote": "unknown",
-      "japan": true,
-      "japanese": true,
-      "english": "English fluency required",
-      "payMin": null,
-      "payMax": null,
-      "currency": null,
-      "period": null,
-      "verified": "Verified 2026-10-05",
-      "status": "VERIFIED ACTIVE",
-      "url": "https://jobs.lever.co/weloglobal/e4c9c72a-30e5-405f-87e6-8f702ac2f780/apply",
-      "source": "Lever / Welo Global",
-      "confidence": "high",
-      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
-      "publishedAt": null,
-      "firstSeenAt": null,
-      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
-      "freshness": {
-        "bucket": "RECENTLY_VERIFIED",
-        "age_days": 0,
-        "basis": "lastVerifiedAt_fallback"
-      },
-      "hiringMomentum": {
-        "state": "NEW_EMPLOYER_SIGNAL",
-        "employer_jobs_previous_snapshot": 0,
-        "employer_jobs_current_snapshot": 5,
-        "delta": 5
-      },
-      "skillSalary": {
-        "category": "Localization",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
-        "pay_vs_category_median_pct": null,
-        "scope": "GWR_verified_inventory_only"
-      },
-      "laborBenchmark": {
-        "matched": false,
-        "occupation": null,
-        "soc": null,
-        "growth_2025_2035_pct": null,
-        "growth_vs_all_occupations_pct_points": null,
-        "median_annual_wage_usd_2025": null,
-        "ai_exposure_category": null,
-        "source_url": null,
-        "benchmark_scope": null
-      },
-      "lifecycle": {
-        "state": "NEW_24H",
-        "observed_age_days": 0,
-        "reopened_after_confirmed_close": false,
-        "confirmed_close_count": 0,
-        "last_confirmed_closed_at": null,
-        "changed_within_7d": false,
-        "stale_risk": "LOW",
-        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
-      },
-      "hiringIntent": {
-        "evidence_score": 80,
-        "signal_level": "STRONG_EVIDENCE",
-        "positive_signals": [
-          "official_source_currently_verified_active",
-          "fresh_posting_signal",
-          "employer_hiring_momentum_positive"
-        ],
-        "caution_signals": [],
-        "is_hiring_probability": false,
-        "is_ghost_job_determination": false,
-        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
-      }
-    },
-    {
-      "id": "welo-maps-relevance-rater-ja",
-      "employer": "Welo Global",
-      "title": "Maps Personalization Relevance Rater - Japanese (Japan)",
-      "category": "Search / Maps Evaluation",
-      "location": "Japan",
-      "remote": "unknown",
-      "japan": true,
-      "japanese": true,
-      "english": null,
-      "payMin": 25,
-      "payMax": 25,
-      "currency": "USD",
-      "period": "hour",
-      "verified": "Verified 2026-10-05",
-      "status": "VERIFIED ACTIVE",
-      "url": "https://jobs.lever.co/weloglobal/adc87abf-ed8c-40d9-b5b4-2c893d71525b",
-      "source": "Lever / Welo Global",
-      "confidence": "high",
-      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
-      "publishedAt": null,
-      "firstSeenAt": null,
-      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
-      "freshness": {
-        "bucket": "RECENTLY_VERIFIED",
-        "age_days": 0,
-        "basis": "lastVerifiedAt_fallback"
-      },
-      "hiringMomentum": {
-        "state": "NEW_EMPLOYER_SIGNAL",
-        "employer_jobs_previous_snapshot": 0,
-        "employer_jobs_current_snapshot": 5,
-        "delta": 5
-      },
-      "skillSalary": {
-        "category": "Search / Maps Evaluation",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 25,
-        "pay_vs_category_median_pct": 0,
-        "scope": "GWR_verified_inventory_only"
-      },
-      "laborBenchmark": {
-        "matched": false,
-        "occupation": null,
-        "soc": null,
-        "growth_2025_2035_pct": null,
-        "growth_vs_all_occupations_pct_points": null,
-        "median_annual_wage_usd_2025": null,
-        "ai_exposure_category": null,
-        "source_url": null,
-        "benchmark_scope": null
-      },
-      "lifecycle": {
-        "state": "NEW_24H",
-        "observed_age_days": 0,
-        "reopened_after_confirmed_close": false,
-        "confirmed_close_count": 0,
-        "last_confirmed_closed_at": null,
-        "changed_within_7d": false,
-        "stale_risk": "LOW",
-        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
-      },
-      "hiringIntent": {
-        "evidence_score": 80,
-        "signal_level": "STRONG_EVIDENCE",
-        "positive_signals": [
-          "official_source_currently_verified_active",
-          "fresh_posting_signal",
-          "employer_hiring_momentum_positive"
-        ],
-        "caution_signals": [],
-        "is_hiring_probability": false,
-        "is_ghost_job_determination": false,
-        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
-      }
-    },
-    {
-      "id": "welo-ads-quality-rater-japanese",
-      "employer": "Welo Global",
-      "title": "Ads Quality Rater - Japanese | 広告品質評価者 - 日本語",
-      "category": "Ads Evaluation",
-      "location": "Japan",
-      "remote": "unknown",
-      "japan": true,
-      "japanese": true,
-      "english": "High English reading/writing proficiency required",
-      "payMin": 12,
-      "payMax": 12,
-      "currency": "USD",
-      "period": "hour_approx",
-      "verified": "Verified 2026-10-05",
-      "status": "VERIFIED ACTIVE",
-      "url": "https://jobs.lever.co/weloglobal/66c7a0de-67a3-49a2-b9d2-0e65780c296e/apply",
-      "source": "Lever / Welo Global",
-      "confidence": "high",
-      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
-      "publishedAt": null,
-      "firstSeenAt": null,
-      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
-      "freshness": {
-        "bucket": "RECENTLY_VERIFIED",
-        "age_days": 0,
-        "basis": "lastVerifiedAt_fallback"
-      },
-      "hiringMomentum": {
-        "state": "NEW_EMPLOYER_SIGNAL",
-        "employer_jobs_previous_snapshot": 0,
-        "employer_jobs_current_snapshot": 5,
-        "delta": 5
-      },
-      "skillSalary": {
-        "category": "Ads Evaluation",
-        "category_sample_count": 0,
-        "category_median_usd_hourly": null,
-        "pay_vs_category_median_pct": null,
-        "scope": "GWR_verified_inventory_only"
-      },
-      "laborBenchmark": {
-        "matched": false,
-        "occupation": null,
-        "soc": null,
-        "growth_2025_2035_pct": null,
-        "growth_vs_all_occupations_pct_points": null,
-        "median_annual_wage_usd_2025": null,
-        "ai_exposure_category": null,
-        "source_url": null,
-        "benchmark_scope": null
-      },
-      "lifecycle": {
-        "state": "NEW_24H",
-        "observed_age_days": 0,
-        "reopened_after_confirmed_close": false,
-        "confirmed_close_count": 0,
-        "last_confirmed_closed_at": null,
-        "changed_within_7d": false,
-        "stale_risk": "LOW",
-        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
-      },
-      "hiringIntent": {
-        "evidence_score": 80,
-        "signal_level": "STRONG_EVIDENCE",
-        "positive_signals": [
-          "official_source_currently_verified_active",
-          "fresh_posting_signal",
-          "employer_hiring_momentum_positive"
-        ],
-        "caution_signals": [],
-        "is_hiring_probability": false,
-        "is_ghost_job_determination": false,
-        "rule": "Evidence score ranks observable hiring-intent signals only; it is not a probability that the employer will hire."
-      }
-    },
-    {
-      "id": "welo-circinus-audio-contributor-japanese-japan",
-      "employer": "Welo Global",
-      "title": "Circinus - Audio Contributor Japanese (Japan)",
-      "category": "AI Audio Data Collection",
-      "location": "Japan",
-      "remote": "unknown",
-      "japan": true,
-      "japanese": true,
-      "english": "English proficiency for guidelines and communication",
-      "payMin": 30,
-      "payMax": 30,
-      "currency": "USD",
-      "period": "hour",
-      "verified": "Verified 2026-10-05",
-      "status": "VERIFIED ACTIVE",
-      "url": "https://jobs.lever.co/weloglobal/5a704b57-ec05-4c79-bb0b-0389bff1bb61/apply",
-      "source": "Lever / Welo Global",
-      "confidence": "high",
-      "eligibilityEvidence": "Previously high-confidence verified role; exact official Lever URL confirmed active in current watchlist refresh.",
-      "publishedAt": null,
-      "firstSeenAt": null,
-      "lastVerifiedAt": "2026-10-05T12:46:23.158Z",
-      "freshness": {
-        "bucket": "RECENTLY_VERIFIED",
-        "age_days": 0,
-        "basis": "lastVerifiedAt_fallback"
-      },
-      "hiringMomentum": {
-        "state": "NEW_EMPLOYER_SIGNAL",
-        "employer_jobs_previous_snapshot": 0,
-        "employer_jobs_current_snapshot": 5,
-        "delta": 5
-      },
-      "skillSalary": {
-        "category": "AI Audio Data Collection",
-        "category_sample_count": 1,
-        "category_median_usd_hourly": 30,
-        "pay_vs_category_median_pct": 0,
-        "scope": "GWR_verified_inventory_only"
-      },
-      "laborBenchmark": {
-        "matched": false,
-        "occupation": null,
-        "soc": null,
-        "growth_2025_2035_pct": null,
-        "growth_vs_all_occupations_pct_points": null,
-        "median_annual_wage_usd_2025": null,
-        "ai_exposure_category": null,
-        "source_url": null,
-        "benchmark_scope": null
-      },
-      "lifecycle": {
-        "state": "NEW_24H",
-        "observed_age_days": 0,
-        "reopened_after_confirmed_close": false,
-        "confirmed_close_count": 0,
-        "last_confirmed_closed_at": null,
-        "changed_within_7d": false,
-        "stale_risk": "LOW",
-        "policy": "Age/repost/change signals are review indicators, not proof of a ghost job."
-      },
-      "hiringIntent": {
-        "evidence_score": 80,
-        "signal_level": "STRONG_EVIDENCE",
-        "positive_signals": [
-          "official_source_currently_verified_active",
-          "fresh_posting_signal",
-          "employer_hiring_momentum_positive"
         ],
         "caution_signals": [],
         "is_hiring_probability": false,
