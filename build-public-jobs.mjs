@@ -90,7 +90,7 @@ const leverAutoPublic = (leverStaging.records || [])
     lastVerifiedAt: job.last_verified_at || null
   }));
 
-const leverPublic = [...leverVerifiedSeedPublic, ...leverAutoPublic];
+const leverPublic = [...leverAutoPublic, ...leverVerifiedSeedPublic];
 
 const workablePublic = (workable.records || [])
   .filter((job) => job.publishable === true && job.verification_status === 'verified_active')
@@ -121,15 +121,10 @@ const workablePublic = (workable.records || [])
 
 const merged = [...leverPublic, ...workablePublic];
 const seen = new Set();
-const normalizeIdentityPart = (value = '') => String(value).trim().toLowerCase().replace(/\s+/g, ' ');
 const baseRecords = merged.filter((job) => {
-  // URL-only dedupe collapsed distinct roles that share a generic employer/apply URL.
-  // Preserve distinct employer + title + URL identities while still removing true duplicates.
-  const key = [
-    normalizeIdentityPart(job.employer),
-    normalizeIdentityPart(job.title),
-    normalizeIdentityPart(job.url || job.id)
-  ].join('|');
+  // Official ATS URL is the stable role identity in the current feeds.
+  // Latest Lever staging is ordered first so refreshed title/location wins over older seed metadata.
+  const key = String(job.url || job.id || '').trim().toLowerCase().replace(/\/$/, '');
   if (!key || seen.has(key)) return false;
   seen.add(key);
   return true;
