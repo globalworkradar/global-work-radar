@@ -57,8 +57,15 @@ const workablePublic = (workable.records || [])
 
 const merged = [...leverPublic, ...workablePublic];
 const seen = new Set();
+const normalizeIdentityPart = (value = '') => String(value).trim().toLowerCase().replace(/\s+/g, ' ');
 const baseRecords = merged.filter((job) => {
-  const key = String(job.url || job.id || '').toLowerCase();
+  // URL-only dedupe collapsed distinct roles that share a generic employer/apply URL.
+  // Preserve distinct employer + title + URL identities while still removing true duplicates.
+  const key = [
+    normalizeIdentityPart(job.employer),
+    normalizeIdentityPart(job.title),
+    normalizeIdentityPart(job.url || job.id)
+  ].join('|');
   if (!key || seen.has(key)) return false;
   seen.add(key);
   return true;
