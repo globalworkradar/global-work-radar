@@ -2,6 +2,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const LEVER = new URL('./data/lever-verified-seed.json', import.meta.url);
 const WORKABLE = new URL('./data/workable-current.json', import.meta.url);
+const LEVER_STAGING = new URL('./data/staging-lever.json', import.meta.url);
 const BENCHMARKS = new URL('./labor-benchmarks.json', import.meta.url);
 const OUT = new URL('./data/verified-jobs.json', import.meta.url);
 
@@ -11,6 +12,7 @@ const readJson = async (url, fallback) => {
 
 const previous = await readJson(OUT, { records: [] });
 const lever = await readJson(LEVER, { records: [] });
+const leverStaging = await readJson(LEVER_STAGING, { records: [] });
 const workable = await readJson(WORKABLE, { records: [] });
 const benchmarks = await readJson(BENCHMARKS, { occupations: [] });
 
@@ -26,7 +28,28 @@ const isFreshLeverRecord = (job) => {
   return now - verifiedAt <= MAX_LEVER_AGE_DAYS * DAY_MS;
 };
 
-const leverPublic = (lever.records || []).filter(isFreshLeverRecord);
+const normUrl = (value = '') => String(value).trim().toLowerCase().replace(/\/$/, '');
+const stagingByUrl = new Map();
+for (const record of leverStaging.records || []) {
+  for (const raw of [record.official_url, record.source_url]) {
+    const url = normUrl(raw);
+    if (url) stagingByUrl.set(url, record);
+  }
+}
+const leverCurrent = (lever.records || []).map((job) => {
+  const current = stagingByUrl.get(normUrl(job.url));
+  if (!current || current.source_status !== 'active' || current.japan_eligible !== true) return job;
+  return {
+    ...job,
+    employer: current.employer || job.employer,
+    title: current.title || job.title,
+    location: current.location || job.location,
+    remote: current.remote_type || job.remote,
+    lastVerifiedAt: current.last_verified_at,
+    verified: `Verified ${String(current.last_verified_at || '').slice(0, 10)}`
+  };
+});
+const leverPublic = leverCurrent.filter(isFreshLeverRecord);
 
 const workablePublic = (workable.records || [])
   .filter((job) => job.publishable === true && job.verification_status === 'verified_active')
