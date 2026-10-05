@@ -139,7 +139,7 @@ jobs:
         run: |
           echo "GWR_CANONICAL_REFRESH=PASS"
           echo "GWR_CANONICAL_REPO=globalworkradar/global-work-radar"
-          echo "GWR_DEPLOY_BRIDGE=stratumpraxis/vector-praxis-japan::.github/workflows/gwr-cloudflare-deploy.yml"
+          echo "GWR_DEPLOY_BRIDGE=stratumpraxis/vector-praxis-japan::.github/workflows/gwr-scheduled-refresh-deploy.yml"
           echo "Cloudflare credentials remain isolated in the existing deployment runner; canonical code/data stay in this repository."
 
       - name: Production freshness readback
@@ -168,7 +168,7 @@ jobs:
       - name: Notify search discovery via IndexNow
         continue-on-error: true
         env:
-          INDEXNOW_KEY: 0438edae53323361c16578662b23f92a
+          INDEXNOW_KEY: d3af1ce8e69e0a9f87870bc03e522daf
         run: |
           set -euo pipefail
           KEY_URL="https://global-work-radar.pages.dev/${INDEXNOW_KEY}.txt"
