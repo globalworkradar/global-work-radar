@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T04:33:57.753Z",
-  "source_generated_at": "2026-10-07T04:33:57.556Z",
+  "generated_at": "2026-10-07T08:34:39.396Z",
+  "source_generated_at": "2026-10-07T08:34:39.241Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 10,
+  "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-8a766b22f197",
+      "candidate_id": "gwr-alert-333b4561a88c",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 99,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8a766b22f197&q=W…",
-        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8a766b22f197&q=Welo+Global&intent=general",
-        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8a766b22f197&q=Welo+Global&intent=general"
+        "x": "【GWR ALERT】CrowdGen by Appen｜Mobile Device Data Collection - Japanese (Japan)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-333b45…",
+        "bluesky": "GWR ALERT｜CrowdGen by Appen｜Mobile Device Data Collection - Japanese (Japan)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-333b4561a88c&q=CrowdGen+by+Appen&intent=ge…",
+        "linkedin": "GWR Market Alert CrowdGen by Appen｜Mobile Device Data Collection - Japanese (Japan)｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-333b4561a88c&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8a766b22f197&q=Welo+Global&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-333b4561a88c&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "lever-42ce648bca4d15849a24844a",
-          "employer": "Welo Global",
-          "title": "Japanese Sports Localization Specialist (Football)",
-          "source": "Lever / Welo Global",
-          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-07T04:32:58.275Z",
+          "job_id": "lever-2388c44d85928c2fe6c2f095",
+          "employer": "CrowdGen by Appen",
+          "title": "Mobile Device Data Collection - Japanese (Japan)",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/b2f4799c-4adb-4f31-88a9-335a819c3cf9/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-a5f0434ca000",
+      "candidate_id": "gwr-alert-0641f9fe669a",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 99,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a5f0434ca000&q=Mindrift…",
-        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a5f0434ca000&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a5f0434ca000&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】CrowdGen by Appen｜Native Japanese Kansai Dialect Speakers｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0641f9fe669a&q=…",
+        "bluesky": "GWR ALERT｜CrowdGen by Appen｜Native Japanese Kansai Dialect Speakers｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0641f9fe669a&q=CrowdGen+by+Appen&intent=general",
+        "linkedin": "GWR Market Alert CrowdGen by Appen｜Native Japanese Kansai Dialect Speakers｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0641f9fe669a&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a5f0434ca000&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0641f9fe669a&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c59b9b8c72",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C59B9B8C72",
-          "last_verified_at": "2026-10-07T04:33:35.602Z",
+          "job_id": "lever-22f3c8a5cb5d381ab408f00b",
+          "employer": "CrowdGen by Appen",
+          "title": "Native Japanese Kansai Dialect Speakers",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/bfc5b1f8-70a3-4be0-b8d3-15b18e620517/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-45568ae76271",
+      "candidate_id": "gwr-alert-f7a22922db92",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 99,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】LMG Staffing Solutions｜Local Digital Marketer - Japan｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-45568ae76271&q=LMG+Staffi…",
-        "bluesky": "GWR ALERT｜LMG Staffing Solutions｜Local Digital Marketer - Japan｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-45568ae76271&q=LMG+Staffing+Solutions&intent=general",
-        "linkedin": "GWR Market Alert LMG Staffing Solutions｜Local Digital Marketer - Japan｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-45568ae76271&q=LMG+Staffing+Solutions&intent=general"
+        "x": "【GWR ALERT】CrowdGen by Appen｜Remote Japanese to Thai Translation Project｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f7a22922db9…",
+        "bluesky": "GWR ALERT｜CrowdGen by Appen｜Remote Japanese to Thai Translation Project｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f7a22922db92&q=CrowdGen+by+Appen&intent=general",
+        "linkedin": "GWR Market Alert CrowdGen by Appen｜Remote Japanese to Thai Translation Project｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f7a22922db92&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-45568ae76271&q=LMG+Staffing+Solutions&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f7a22922db92&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "workable-5e1f2ddb25",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5E1F2DDB25",
-          "last_verified_at": "2026-10-07T04:33:35.602Z",
+          "job_id": "lever-39edfd7815fb0356833c7cf6",
+          "employer": "CrowdGen by Appen",
+          "title": "Remote Japanese to Thai Translation Project",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/98bbe8f8-ab5c-48db-bcd6-93a8f747646b/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-2f53fbf0b51d",
+      "candidate_id": "gwr-alert-ab70fe52aa60",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 99,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2f53fbf0b51d&q=Mindr…",
-        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2f53fbf0b51d&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2f53fbf0b51d&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Avomind｜HR Manager｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ab70fe52aa60&q=Avomind&intent=general",
+        "bluesky": "GWR ALERT｜Avomind｜HR Manager｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ab70fe52aa60&q=Avomind&intent=general",
+        "linkedin": "GWR Market Alert Avomind｜HR Manager｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ab70fe52aa60&q=Avomind&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2f53fbf0b51d&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ab70fe52aa60&q=Avomind&intent=general",
       "evidence": [
         {
-          "job_id": "workable-0fecba4b7c",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-411206a43d",
+          "employer": "Avomind",
+          "title": "HR Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0FECBA4B7C",
-          "last_verified_at": "2026-10-07T04:33:35.602Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/411206A43D",
+          "last_verified_at": "2026-10-07T08:34:21.390Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-da316bcb3e21",
+      "candidate_id": "gwr-open-f82d6733d62a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 92,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da316b…",
-        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da316bcb3e21&q=Welo+Global&inte…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da316bcb3e21&q=Welo+Global&intent=remote"
+        "x": "【GWR OPEN】Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f82d6733d62a&q…",
+        "bluesky": "GWR OPEN｜Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f82d6733d62a&q=CrowdGen+by+Appen&intent…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f82d6733d62a&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da316bcb3e21&q=Welo+Global&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f82d6733d62a&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "lever-42ce648bca4d15849a24844a",
-          "employer": "Welo Global",
-          "title": "Japanese Sports Localization Specialist (Football)",
-          "source": "Lever / Welo Global",
-          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-07T04:32:58.275Z",
+          "job_id": "lever-2388c44d85928c2fe6c2f095",
+          "employer": "CrowdGen by Appen",
+          "title": "Mobile Device Data Collection - Japanese (Japan)",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/b2f4799c-4adb-4f31-88a9-335a819c3cf9/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-4f63fe979a24",
+      "candidate_id": "gwr-open-237b72615c25",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 92,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4f63fe979a24&q=Mindrift&inte…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4f63fe979a24&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4f63fe979a24&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Native Japanese Kansai Dialect Speakers｜CrowdGen by Appen｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-237b72615c25&q=CrowdGen…",
+        "bluesky": "GWR OPEN｜Native Japanese Kansai Dialect Speakers｜CrowdGen by Appen｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-237b72615c25&q=CrowdGen+by+Appen&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Native Japanese Kansai Dialect Speakers｜CrowdGen by Appen｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-237b72615c25&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4f63fe979a24&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-237b72615c25&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c59b9b8c72",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C59B9B8C72",
-          "last_verified_at": "2026-10-07T04:33:35.602Z",
+          "job_id": "lever-22f3c8a5cb5d381ab408f00b",
+          "employer": "CrowdGen by Appen",
+          "title": "Native Japanese Kansai Dialect Speakers",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/bfc5b1f8-70a3-4be0-b8d3-15b18e620517/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-2b88430b464c",
+      "candidate_id": "gwr-open-da8dc2a7465b",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 92,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Local Digital Marketer - Japan｜LMG Staffing Solutions｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2b88430b464c&q=LMG+Staf…",
-        "bluesky": "GWR OPEN｜Local Digital Marketer - Japan｜LMG Staffing Solutions｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2b88430b464c&q=LMG+Staffing+Solutions&intent=rem…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Local Digital Marketer - Japan｜LMG Staffing Solutions｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2b88430b464c&q=LMG+Staffing+Solutions&intent=remote"
+        "x": "【GWR OPEN】Remote Japanese to Thai Translation Project｜CrowdGen by Appen｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da8dc2a7465b&q=Crow…",
+        "bluesky": "GWR OPEN｜Remote Japanese to Thai Translation Project｜CrowdGen by Appen｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da8dc2a7465b&q=CrowdGen+by+Appen&intent=gene…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Remote Japanese to Thai Translation Project｜CrowdGen by Appen｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da8dc2a7465b&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2b88430b464c&q=LMG+Staffing+Solutions&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da8dc2a7465b&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "workable-5e1f2ddb25",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5E1F2DDB25",
-          "last_verified_at": "2026-10-07T04:33:35.602Z",
+          "job_id": "lever-39edfd7815fb0356833c7cf6",
+          "employer": "CrowdGen by Appen",
+          "title": "Remote Japanese to Thai Translation Project",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/98bbe8f8-ab5c-48db-bcd6-93a8f747646b/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-a4c594a8bcc0",
+      "candidate_id": "gwr-open-d55f1142eee7",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 92,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a4c594a8bcc0&q=Mindrift&i…",
-        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a4c594a8bcc0&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a4c594a8bcc0&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】HR Manager｜Avomind｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d55f1142eee7&q=Avomind&intent=general",
+        "bluesky": "GWR OPEN｜HR Manager｜Avomind｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d55f1142eee7&q=Avomind&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 HR Manager｜Avomind｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d55f1142eee7&q=Avomind&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a4c594a8bcc0&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d55f1142eee7&q=Avomind&intent=general",
       "evidence": [
         {
-          "job_id": "workable-0fecba4b7c",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-411206a43d",
+          "employer": "Avomind",
+          "title": "HR Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0FECBA4B7C",
-          "last_verified_at": "2026-10-07T04:33:35.602Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/411206A43D",
+          "last_verified_at": "2026-10-07T08:34:21.390Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -339,27 +339,27 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-306eb9889bd0",
+      "candidate_id": "gwr-open-df4c89921dc9",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 91,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-306eb9889bd0&q=Mi…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-306eb9889bd0&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-306eb9889bd0&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-df4c89…",
+        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-df4c89921dc9&q=Welo+Global&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-df4c89921dc9&q=Welo+Global&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-306eb9889bd0&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-df4c89921dc9&q=Welo+Global&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-d348eeeadf",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D348EEEADF",
-          "last_verified_at": "2026-10-07T04:33:35.602Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -377,26 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-2eb6eb886f80",
+      "candidate_id": "gwr-open-4d632659096a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 83,
-      "source_generated_at": "2026-10-07T04:33:57.556Z",
+      "score": 91,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2eb6eb886f80&q=RWS+TrainAI&intent=gener…",
-        "bluesky": "GWR OPEN｜AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2eb6eb886f80&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2eb6eb886f80&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4d632659096a&q=Mindrift&inte…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4d632659096a&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4d632659096a&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2eb6eb886f80&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4d632659096a&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "lever-d260f27c2b2c937206a47fee",
-          "employer": "RWS TrainAI",
-          "title": "AI Data Specialist - Japanese",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
-          "last_verified_at": "2026-10-07T04:32:58.275Z",
+          "job_id": "workable-c59b9b8c72",
+          "employer": "Mindrift",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/C59B9B8C72",
+          "last_verified_at": "2026-10-07T08:34:21.390Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -413,6 +413,148 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
+    },
+    {
+      "candidate_id": "gwr-shift-3c8dc3955b2a",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 82,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】Avomind：GWR確認求人 4→5（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-3c8dc3955b2a&q=Avomind&intent=general",
+        "bluesky": "GWR SHIFT｜Avomind：GWR確認求人 4→5（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-3c8dc3955b2a&q=Avomind&intent=general",
+        "linkedin": "GWR Market Shift Avomind：GWR確認求人 4→5（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-3c8dc3955b2a&q=Avomind&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-3c8dc3955b2a&q=Avomind&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-8456d135c8",
+          "employer": "Avomind",
+          "title": "Investor Engagement Executive - English & Japanese speaking",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/8456D135C8",
+          "last_verified_at": "2026-10-07T08:34:21.390Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-0eceefe5df",
+          "employer": "Avomind",
+          "title": "Talent Acquisition Coordinator (Tokyo)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/0ECEEFE5DF",
+          "last_verified_at": "2026-10-07T08:34:21.390Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-8b0296fb68",
+          "employer": "Avomind",
+          "title": "Business Development Manager",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/8B0296FB68",
+          "last_verified_at": "2026-10-07T08:34:21.390Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-d1a4ea07b8",
+          "employer": "Avomind",
+          "title": "Membership Ambassador (Sales)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/D1A4EA07B8",
+          "last_verified_at": "2026-10-07T08:34:21.390Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 11
+    },
+    {
+      "candidate_id": "gwr-shift-e645d605e931",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 82,
+      "source_generated_at": "2026-10-07T08:34:39.241Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】CrowdGen by Appen：GWR確認求人 3→4（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-e645d605e931&q=CrowdGen+by+Appen&intent=general",
+        "bluesky": "GWR SHIFT｜CrowdGen by Appen：GWR確認求人 3→4（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-e645d605e931&q=CrowdGen+by+Appen&intent=general",
+        "linkedin": "GWR Market Shift CrowdGen by Appen：GWR確認求人 3→4（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-e645d605e931&q=CrowdGen+by+Appen&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-e645d605e931&q=CrowdGen+by+Appen&intent=general",
+      "evidence": [
+        {
+          "job_id": "lever-2388c44d85928c2fe6c2f095",
+          "employer": "CrowdGen by Appen",
+          "title": "Mobile Device Data Collection - Japanese (Japan)",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/b2f4799c-4adb-4f31-88a9-335a819c3cf9/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "lever-22f3c8a5cb5d381ab408f00b",
+          "employer": "CrowdGen by Appen",
+          "title": "Native Japanese Kansai Dialect Speakers",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/bfc5b1f8-70a3-4be0-b8d3-15b18e620517/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "lever-39edfd7815fb0356833c7cf6",
+          "employer": "CrowdGen by Appen",
+          "title": "Remote Japanese to Thai Translation Project",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/98bbe8f8-ab5c-48db-bcd6-93a8f747646b/apply",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "appen-japanese-thai-translation",
+          "employer": "CrowdGen by Appen",
+          "title": "Remote Japanese to Thai Translation Project",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/98bbe8f8-ab5c-48db-bcd6-93a8f747646b",
+          "last_verified_at": "2026-10-07T08:33:57.277Z",
+          "freshness_bucket": "RECENTLY_VERIFIED",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 12
     }
   ]
 }
