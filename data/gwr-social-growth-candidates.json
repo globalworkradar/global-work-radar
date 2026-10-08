@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T08:35:09.413Z",
-  "source_generated_at": "2026-10-08T08:35:09.233Z",
+  "generated_at": "2026-10-08T12:41:00.204Z",
+  "source_generated_at": "2026-10-08T12:41:00.008Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -35,28 +35,28 @@
   "candidate_count": 11,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-eb91d6906f9f",
+      "candidate_id": "gwr-alert-4dca8100bea3",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 104,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "score": 99,
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Hakluyt｜Strategic Advisor/Executive - Tokyo｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eb91d6906f9f&q=Hakl…",
-        "bluesky": "GWR ALERT｜Hakluyt｜Strategic Advisor/Executive - Tokyo｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eb91d6906f9f&q=Hakluyt&intent=general",
-        "linkedin": "GWR Market Alert Hakluyt｜Strategic Advisor/Executive - Tokyo｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eb91d6906f9f&q=Hakluyt&intent=general"
+        "x": "【GWR ALERT】Visit.org｜Freelance In-Person Event Specialist - Tokyo, Japan｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4dca8100bea…",
+        "bluesky": "GWR ALERT｜Visit.org｜Freelance In-Person Event Specialist - Tokyo, Japan｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4dca8100bea3&q=Visit.org&intent=general",
+        "linkedin": "GWR Market Alert Visit.org｜Freelance In-Person Event Specialist - Tokyo, Japan｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4dca8100bea3&q=Visit.org&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eb91d6906f9f&q=Hakluyt&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4dca8100bea3&q=Visit.org&intent=general",
       "evidence": [
         {
-          "job_id": "workable-290d0d5554",
-          "employer": "Hakluyt",
-          "title": "Strategic Advisor/Executive - Tokyo",
+          "job_id": "workable-9e1b1a6799",
+          "employer": "Visit.org",
+          "title": "Freelance In-Person Event Specialist - Tokyo, Japan",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/290D0D5554",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "official_url": "https://apply.workable.com/j/9E1B1A6799",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         }
       ],
@@ -73,18 +73,18 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-81e2cf91e4f7",
+      "candidate_id": "gwr-alert-8d9d317f936a",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 98,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-81e2cf91e4f7&q=W…",
-        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-81e2cf91e4f7&q=Welo+Global&intent=general",
-        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-81e2cf91e4f7&q=Welo+Global&intent=general"
+        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8d9d317f936a&q=W…",
+        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8d9d317f936a&q=Welo+Global&intent=general",
+        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8d9d317f936a&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-81e2cf91e4f7&q=Welo+Global&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8d9d317f936a&q=Welo+Global&intent=general",
       "evidence": [
         {
           "job_id": "lever-42ce648bca4d15849a24844a",
@@ -92,7 +92,7 @@
           "title": "Japanese Sports Localization Specialist (Football)",
           "source": "Lever / Welo Global",
           "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-08T08:34:08.672Z",
+          "last_verified_at": "2026-10-08T12:39:48.220Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -111,18 +111,18 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-ac4a58cf0969",
+      "candidate_id": "gwr-alert-fbf6e0e46987",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 98,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
         "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth…",
-        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ac4a58cf0969&…",
-        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ac4a58cf0969&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
+        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fbf6e0e46987&…",
+        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fbf6e0e46987&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ac4a58cf0969&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fbf6e0e46987&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
       "evidence": [
         {
           "job_id": "workable-fd15f5d966",
@@ -130,7 +130,7 @@
           "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/FD15F5D966",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -149,18 +149,18 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-3bb8a281e3bd",
+      "candidate_id": "gwr-alert-577ccc928a95",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 98,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
         "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Director of Legal Research｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
-        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Director of Legal Research｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3bb8a281e3bd&q=Di…",
-        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Director of Legal Research｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3bb8a281e3bd&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
+        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Director of Legal Research｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-577ccc928a95&q=Di…",
+        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Director of Legal Research｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-577ccc928a95&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3bb8a281e3bd&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-577ccc928a95&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
       "evidence": [
         {
           "job_id": "workable-23db8d977e",
@@ -168,7 +168,7 @@
           "title": "UNPAID VOLUNTEER - Director of Legal Research",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/23DB8D977E",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -187,28 +187,28 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-0259aba40993",
+      "candidate_id": "gwr-open-c3319a7b43e3",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 97,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "score": 92,
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Strategic Advisor/Executive - Tokyo｜Hakluyt｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0259aba40993&q=Hakluyt&int…",
-        "bluesky": "GWR OPEN｜Strategic Advisor/Executive - Tokyo｜Hakluyt｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0259aba40993&q=Hakluyt&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Strategic Advisor/Executive - Tokyo｜Hakluyt｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0259aba40993&q=Hakluyt&intent=general"
+        "x": "【GWR OPEN】Freelance In-Person Event Specialist - Tokyo, Japan｜Visit.org｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c3319a7b…",
+        "bluesky": "GWR OPEN｜Freelance In-Person Event Specialist - Tokyo, Japan｜Visit.org｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c3319a7b43e3&q=Visit.org&intent=g…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance In-Person Event Specialist - Tokyo, Japan｜Visit.org｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c3319a7b43e3&q=Visit.org&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0259aba40993&q=Hakluyt&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c3319a7b43e3&q=Visit.org&intent=general",
       "evidence": [
         {
-          "job_id": "workable-290d0d5554",
-          "employer": "Hakluyt",
-          "title": "Strategic Advisor/Executive - Tokyo",
+          "job_id": "workable-9e1b1a6799",
+          "employer": "Visit.org",
+          "title": "Freelance In-Person Event Specialist - Tokyo, Japan",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/290D0D5554",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "official_url": "https://apply.workable.com/j/9E1B1A6799",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         }
       ],
@@ -225,18 +225,18 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-ec81cdfd6765",
+      "candidate_id": "gwr-open-db38f01a1d2a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ec81cd…",
-        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ec81cdfd6765&q=Welo+Global&inte…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ec81cdfd6765&q=Welo+Global&intent=remote"
+        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-db38f0…",
+        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-db38f01a1d2a&q=Welo+Global&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-db38f01a1d2a&q=Welo+Global&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ec81cdfd6765&q=Welo+Global&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-db38f01a1d2a&q=Welo+Global&intent=remote",
       "evidence": [
         {
           "job_id": "lever-42ce648bca4d15849a24844a",
@@ -244,7 +244,7 @@
           "title": "Japanese Sports Localization Specialist (Football)",
           "source": "Lever / Welo Global",
           "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-08T08:34:08.672Z",
+          "last_verified_at": "2026-10-08T12:39:48.220Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -263,18 +263,18 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-4aafa85b077b",
+      "candidate_id": "gwr-open-503161d97dac",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
         "x": "【GWR OPEN】UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4aafa85…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4aafa85b077b&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-503161d…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-503161d97dac&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4aafa85b077b&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-503161d97dac&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
           "job_id": "workable-fd15f5d966",
@@ -282,7 +282,7 @@
           "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/FD15F5D966",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -301,18 +301,18 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-cb2a71741fc6",
+      "candidate_id": "gwr-open-186a50fb8065",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
         "x": "【GWR OPEN】UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb2a71741fc…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb2a71741fc6&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-186a50fb806…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-186a50fb8065&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb2a71741fc6&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-186a50fb8065&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
           "job_id": "workable-23db8d977e",
@@ -320,7 +320,7 @@
           "title": "UNPAID VOLUNTEER - Director of Legal Research",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/23DB8D977E",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -339,18 +339,18 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-7b8c322f8169",
+      "candidate_id": "gwr-open-ed24861debdd",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Presentation Designer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7b8c322f8169&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜Freelance Presentation Designer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7b8c322f8169&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Presentation Designer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7b8c322f8169&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Freelance Presentation Designer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed24861debdd&q=Mindrift&intent=remote",
+        "bluesky": "GWR OPEN｜Freelance Presentation Designer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed24861debdd&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Presentation Designer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed24861debdd&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7b8c322f8169&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed24861debdd&q=Mindrift&intent=remote",
       "evidence": [
         {
           "job_id": "workable-30964e450c",
@@ -358,7 +358,7 @@
           "title": "Freelance Presentation Designer",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/30964E450C",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,18 +377,18 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-6e47168f3639",
+      "candidate_id": "gwr-open-89f68acaa0de",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Thai Language & AI Training Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6e47168f3639&q=Gramian+C…",
-        "bluesky": "GWR OPEN｜Thai Language & AI Training Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6e47168f3639&q=Gramian+Consulting+Group&intent=re…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Thai Language & AI Training Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6e47168f3639&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Thai Language & AI Training Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-89f68acaa0de&q=Gramian+C…",
+        "bluesky": "GWR OPEN｜Thai Language & AI Training Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-89f68acaa0de&q=Gramian+Consulting+Group&intent=re…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Thai Language & AI Training Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-89f68acaa0de&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6e47168f3639&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-89f68acaa0de&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
           "job_id": "workable-d9abc7c91e",
@@ -396,10 +396,10 @@
           "title": "Thai Language & AI Training Expert",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/D9ABC7C91E",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_DOWN",
+          "hiring_delta": -2
         }
       ],
       "measurement_chain": [
@@ -415,28 +415,39 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-4e0c7ced7d78",
+      "candidate_id": "gwr-shift-c31971f51cdb",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 76,
-      "source_generated_at": "2026-10-08T08:35:09.233Z",
+      "score": 78,
+      "source_generated_at": "2026-10-08T12:41:00.008Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Hakluyt：GWR確認求人 0→1（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-4e0c7ced7d78&q=Hakluyt&intent=general",
-        "bluesky": "GWR SHIFT｜Hakluyt：GWR確認求人 0→1（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-4e0c7ced7d78&q=Hakluyt&intent=general",
-        "linkedin": "GWR Market Shift Hakluyt：GWR確認求人 0→1（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-4e0c7ced7d78&q=Hakluyt&intent=general"
+        "x": "【GWR SHIFT】Visit.org：GWR確認求人 1→2（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c31971f51cdb&q=Visit.org&intent=general",
+        "bluesky": "GWR SHIFT｜Visit.org：GWR確認求人 1→2（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c31971f51cdb&q=Visit.org&intent=general",
+        "linkedin": "GWR Market Shift Visit.org：GWR確認求人 1→2（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c31971f51cdb&q=Visit.org&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-4e0c7ced7d78&q=Hakluyt&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c31971f51cdb&q=Visit.org&intent=general",
       "evidence": [
         {
-          "job_id": "workable-290d0d5554",
-          "employer": "Hakluyt",
-          "title": "Strategic Advisor/Executive - Tokyo",
+          "job_id": "workable-603f263997",
+          "employer": "Visit.org",
+          "title": "Freelance In-Person Event Specialist - Koto City, Tokyo, Japan",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/290D0D5554",
-          "last_verified_at": "2026-10-08T08:34:47.375Z",
+          "official_url": "https://apply.workable.com/j/603F263997",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
+          "freshness_bucket": "FRESH_7D",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-9e1b1a6799",
+          "employer": "Visit.org",
+          "title": "Freelance In-Person Event Specialist - Tokyo, Japan",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/9E1B1A6799",
+          "last_verified_at": "2026-10-08T12:40:38.052Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         }
       ],
