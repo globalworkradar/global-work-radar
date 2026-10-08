@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T00:42:09.963Z",
-  "source_generated_at": "2026-10-08T00:42:09.825Z",
+  "generated_at": "2026-10-08T04:33:06.728Z",
+  "source_generated_at": "2026-10-08T04:33:06.567Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,29 +32,29 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 12,
+  "candidate_count": 11,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-6febd7df1d9f",
+      "candidate_id": "gwr-alert-0aab462c112d",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "score": 99,
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Thai Language & AI Training Expert｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6febd7df1d9f&…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Thai Language & AI Training Expert｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6febd7df1d9f&q=Gramian+Consulting+Group&intent=ge…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Thai Language & AI Training Expert｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6febd7df1d9f&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Rapyuta Robotics｜Logistics Consultant｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0aab462c112d&q=Rapyuta+Robotics&int…",
+        "bluesky": "GWR ALERT｜Rapyuta Robotics｜Logistics Consultant｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0aab462c112d&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Alert Rapyuta Robotics｜Logistics Consultant｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0aab462c112d&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6febd7df1d9f&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0aab462c112d&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-d9abc7c91e",
-          "employer": "Gramian Consulting Group",
-          "title": "Thai Language & AI Training Expert",
+          "job_id": "workable-7a2502bce8",
+          "employer": "Rapyuta Robotics",
+          "title": "Logistics Consultant",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D9ABC7C91E",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "official_url": "https://apply.workable.com/j/7A2502BCE8",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -73,26 +73,26 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-open-a0f35cee7675",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-6b115b0faa72",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 99,
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Thai Language & AI Training Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a0f35cee7675&q=Gramian+C…",
-        "bluesky": "GWR OPEN｜Thai Language & AI Training Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a0f35cee7675&q=Gramian+Consulting+Group&intent=re…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Thai Language & AI Training Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a0f35cee7675&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR ALERT】Rapyuta Robotics｜IT Security & Compliance Lead｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6b115b0faa72&q=Rapyuta+Rob…",
+        "bluesky": "GWR ALERT｜Rapyuta Robotics｜IT Security & Compliance Lead｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6b115b0faa72&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Alert Rapyuta Robotics｜IT Security & Compliance Lead｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6b115b0faa72&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a0f35cee7675&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6b115b0faa72&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-d9abc7c91e",
-          "employer": "Gramian Consulting Group",
-          "title": "Thai Language & AI Training Expert",
+          "job_id": "workable-21e5e580e6",
+          "employer": "Rapyuta Robotics",
+          "title": "IT Security & Compliance Lead",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D9ABC7C91E",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "official_url": "https://apply.workable.com/j/21E5E580E6",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-75264e4359cd",
+      "candidate_id": "gwr-alert-af3bd38760eb",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "score": 98,
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】SupplyCore｜Client Support Representative｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-75264e4359cd&q=SupplyCore&intent…",
-        "bluesky": "GWR ALERT｜SupplyCore｜Client Support Representative｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-75264e4359cd&q=SupplyCore&intent=general",
-        "linkedin": "GWR Market Alert SupplyCore｜Client Support Representative｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-75264e4359cd&q=SupplyCore&intent=general"
+        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-af3bd38760eb&q=W…",
+        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-af3bd38760eb&q=Welo+Global&intent=general",
+        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-af3bd38760eb&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-75264e4359cd&q=SupplyCore&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-af3bd38760eb&q=Welo+Global&intent=general",
       "evidence": [
         {
-          "job_id": "workable-b2a452f869",
-          "employer": "SupplyCore",
-          "title": "Client Support Representative",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B2A452F869",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-08T04:32:14.014Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,26 +149,26 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-61eef12cc89c",
+      "candidate_id": "gwr-alert-cbca818b78b8",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 98,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-61eef12cc89c&q=W…",
-        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-61eef12cc89c&q=Welo+Global&intent=general",
-        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-61eef12cc89c&q=Welo+Global&intent=general"
+        "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth…",
+        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbca818b78b8&…",
+        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbca818b78b8&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-61eef12cc89c&q=Welo+Global&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbca818b78b8&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
       "evidence": [
         {
-          "job_id": "lever-42ce648bca4d15849a24844a",
-          "employer": "Welo Global",
-          "title": "Japanese Sports Localization Specialist (Football)",
-          "source": "Lever / Welo Global",
-          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-08T00:41:09.734Z",
+          "job_id": "workable-fd15f5d966",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/FD15F5D966",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-alert-e92d376b91d1",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-76144f11d63b",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 92,
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth…",
-        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e92d376b91d1&…",
-        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e92d376b91d1&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
+        "x": "【GWR OPEN】Logistics Consultant｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-76144f11d63b&q=Rapyuta+Robot…",
+        "bluesky": "GWR OPEN｜Logistics Consultant｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-76144f11d63b&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Logistics Consultant｜Rapyuta Robotics｜Koto City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-76144f11d63b&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e92d376b91d1&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-76144f11d63b&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-fd15f5d966",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
+          "job_id": "workable-7a2502bce8",
+          "employer": "Rapyuta Robotics",
+          "title": "Logistics Consultant",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/FD15F5D966",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "official_url": "https://apply.workable.com/j/7A2502BCE8",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -225,26 +225,26 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-312c6335ed49",
+      "candidate_id": "gwr-open-cb283b9b7f3f",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 92,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Client Support Representative｜SupplyCore｜Iwakuni, Yamaguchi, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-312c6335ed49&q=SupplyCo…",
-        "bluesky": "GWR OPEN｜Client Support Representative｜SupplyCore｜Iwakuni, Yamaguchi, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-312c6335ed49&q=SupplyCore&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Client Support Representative｜SupplyCore｜Iwakuni, Yamaguchi, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-312c6335ed49&q=SupplyCore&intent=general"
+        "x": "【GWR OPEN】IT Security & Compliance Lead｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb283b9b7f3f&q=Rapy…",
+        "bluesky": "GWR OPEN｜IT Security & Compliance Lead｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb283b9b7f3f&q=Rapyuta+Robotics&intent=gener…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 IT Security & Compliance Lead｜Rapyuta Robotics｜Koto City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb283b9b7f3f&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-312c6335ed49&q=SupplyCore&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb283b9b7f3f&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-b2a452f869",
-          "employer": "SupplyCore",
-          "title": "Client Support Representative",
+          "job_id": "workable-21e5e580e6",
+          "employer": "Rapyuta Robotics",
+          "title": "IT Security & Compliance Lead",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B2A452F869",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "official_url": "https://apply.workable.com/j/21E5E580E6",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -263,18 +263,18 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-2ae3dc61bc0b",
+      "candidate_id": "gwr-open-c04139e49b65",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2ae3dc…",
-        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2ae3dc61bc0b&q=Welo+Global&inte…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2ae3dc61bc0b&q=Welo+Global&intent=remote"
+        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c04139…",
+        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c04139e49b65&q=Welo+Global&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c04139e49b65&q=Welo+Global&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2ae3dc61bc0b&q=Welo+Global&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c04139e49b65&q=Welo+Global&intent=remote",
       "evidence": [
         {
           "job_id": "lever-42ce648bca4d15849a24844a",
@@ -282,7 +282,7 @@
           "title": "Japanese Sports Localization Specialist (Football)",
           "source": "Lever / Welo Global",
           "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-08T00:41:09.734Z",
+          "last_verified_at": "2026-10-08T04:32:14.014Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -301,18 +301,18 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-1e3093f1c2bd",
+      "candidate_id": "gwr-open-2ad4b0c9dcad",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
         "x": "【GWR OPEN】UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1e3093f…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1e3093f1c2bd&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2ad4b0c…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2ad4b0c9dcad&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1e3093f1c2bd&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2ad4b0c9dcad&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
           "job_id": "workable-fd15f5d966",
@@ -320,7 +320,7 @@
           "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/FD15F5D966",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -339,18 +339,18 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-b7610c65c636",
+      "candidate_id": "gwr-open-9aa2637292ee",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
         "x": "【GWR OPEN】UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b7610c65c63…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b7610c65c636&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9aa2637292e…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9aa2637292ee&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b7610c65c636&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9aa2637292ee&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
           "job_id": "workable-23db8d977e",
@@ -358,7 +358,7 @@
           "title": "UNPAID VOLUNTEER - Director of Legal Research",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/23DB8D977E",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,18 +377,18 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-ef7933da7dc4",
+      "candidate_id": "gwr-open-4718a8267304",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Presentation Designer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ef7933da7dc4&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜Freelance Presentation Designer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ef7933da7dc4&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Presentation Designer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ef7933da7dc4&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Freelance Presentation Designer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4718a8267304&q=Mindrift&intent=remote",
+        "bluesky": "GWR OPEN｜Freelance Presentation Designer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4718a8267304&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Presentation Designer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4718a8267304&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ef7933da7dc4&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4718a8267304&q=Mindrift&intent=remote",
       "evidence": [
         {
           "job_id": "workable-30964e450c",
@@ -396,7 +396,7 @@
           "title": "Freelance Presentation Designer",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/30964E450C",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -415,60 +415,60 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-b3ad88717b7a",
+      "candidate_id": "gwr-shift-61c177c250a0",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
       "score": 82,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
+      "source_generated_at": "2026-10-08T04:33:06.567Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Gramian Consulting Group：GWR確認求人 3→4（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b3ad88717b7a&q=Gramian+Consulting+Group&intent=gener…",
-        "bluesky": "GWR SHIFT｜Gramian Consulting Group：GWR確認求人 3→4（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b3ad88717b7a&q=Gramian+Consulting+Group&intent=general",
-        "linkedin": "GWR Market Shift Gramian Consulting Group：GWR確認求人 3→4（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b3ad88717b7a&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR SHIFT】Rapyuta Robotics：GWR確認求人 30→31（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-61c177c250a0&q=Rapyuta+Robotics&intent=general",
+        "bluesky": "GWR SHIFT｜Rapyuta Robotics：GWR確認求人 30→31（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-61c177c250a0&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Shift Rapyuta Robotics：GWR確認求人 30→31（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-61c177c250a0&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b3ad88717b7a&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-61c177c250a0&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-578ef65e44",
-          "employer": "Gramian Consulting Group",
-          "title": "Cybersecurity & Software Engineering Specialist (AI Projects)",
+          "job_id": "workable-1835a11bd7",
+          "employer": "Rapyuta Robotics",
+          "title": "Sales Open Position",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/578EF65E44",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "official_url": "https://apply.workable.com/j/1835A11BD7",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-5803b2de6d",
-          "employer": "Gramian Consulting Group",
-          "title": "Software Engineer - Backend & AI Code Evaluation",
+          "job_id": "workable-3c04f92b5f",
+          "employer": "Rapyuta Robotics",
+          "title": "Warehouse Designer (CAD Operator)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5803B2DE6D",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "official_url": "https://apply.workable.com/j/3C04F92B5F",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-e312bdc8d7",
-          "employer": "Gramian Consulting Group",
-          "title": "Backend Software Engineer - AI Training Projects",
+          "job_id": "workable-e33749b0a4",
+          "employer": "Rapyuta Robotics",
+          "title": "Partner Sales",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E312BDC8D7",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
+          "official_url": "https://apply.workable.com/j/E33749B0A4",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-d9abc7c91e",
-          "employer": "Gramian Consulting Group",
-          "title": "Thai Language & AI Training Expert",
+          "job_id": "workable-3ee3968348",
+          "employer": "Rapyuta Robotics",
+          "title": "Account Sales",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D9ABC7C91E",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/3EE3968348",
+          "last_verified_at": "2026-10-08T04:32:48.748Z",
+          "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         }
@@ -484,55 +484,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 11
-    },
-    {
-      "candidate_id": "gwr-shift-8d1d06c012b9",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 78,
-      "source_generated_at": "2026-10-08T00:42:09.825Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】SupplyCore：GWR確認求人 1→2（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8d1d06c012b9&q=SupplyCore&intent=general",
-        "bluesky": "GWR SHIFT｜SupplyCore：GWR確認求人 1→2（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8d1d06c012b9&q=SupplyCore&intent=general",
-        "linkedin": "GWR Market Shift SupplyCore：GWR確認求人 1→2（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8d1d06c012b9&q=SupplyCore&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8d1d06c012b9&q=SupplyCore&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-be7cbf40db",
-          "employer": "SupplyCore",
-          "title": "Sourcing Expert",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/BE7CBF40DB",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-b2a452f869",
-          "employer": "SupplyCore",
-          "title": "Client Support Representative",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B2A452F869",
-          "last_verified_at": "2026-10-08T00:41:55.265Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 12
     }
   ]
 }
