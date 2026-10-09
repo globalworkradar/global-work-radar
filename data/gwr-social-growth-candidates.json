@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T04:33:34.357Z",
-  "source_generated_at": "2026-10-09T04:33:34.224Z",
+  "generated_at": "2026-10-09T08:34:54.597Z",
+  "source_generated_at": "2026-10-09T08:34:54.405Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 12,
+  "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-ee7eca82f0a3",
+      "candidate_id": "gwr-alert-562cf32b04d4",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 112,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
+      "score": 98,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】MASH｜Affiliate Marketing Specialist (Creator Commerce)｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ee7eca82…",
-        "bluesky": "GWR ALERT｜MASH｜Affiliate Marketing Specialist (Creator Commerce)｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ee7eca82f0a3&q=MASH&intent=general",
-        "linkedin": "GWR Market Alert MASH｜Affiliate Marketing Specialist (Creator Commerce)｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ee7eca82f0a3&q=MASH&intent=general"
+        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-562cf32b04d4&q=W…",
+        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-562cf32b04d4&q=Welo+Global&intent=general",
+        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-562cf32b04d4&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ee7eca82f0a3&q=MASH&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-562cf32b04d4&q=Welo+Global&intent=general",
       "evidence": [
         {
-          "job_id": "workable-1956cbf18f",
-          "employer": "MASH",
-          "title": "Affiliate Marketing Specialist (Creator Commerce)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1956CBF18F",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-09T08:34:02.426Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -73,18 +73,18 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-open-6d28f452a2f6",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-7573851848e6",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 105,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 98,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6d28f452a2f6&q=MASH&intent=re…",
-        "bluesky": "GWR OPEN｜Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6d28f452a2f6&q=MASH&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6d28f452a2f6&q=MASH&intent=remote"
+        "x": "【GWR ALERT】MASH｜Affiliate Marketing Specialist (Creator Commerce)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7573851848e6&q=MASH&inte…",
+        "bluesky": "GWR ALERT｜MASH｜Affiliate Marketing Specialist (Creator Commerce)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7573851848e6&q=MASH&intent=general",
+        "linkedin": "GWR Market Alert MASH｜Affiliate Marketing Specialist (Creator Commerce)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7573851848e6&q=MASH&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6d28f452a2f6&q=MASH&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7573851848e6&q=MASH&intent=general",
       "evidence": [
         {
           "job_id": "workable-1956cbf18f",
@@ -92,10 +92,10 @@
           "title": "Affiliate Marketing Specialist (Creator Commerce)",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/1956CBF18F",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
+          "last_verified_at": "2026-10-09T08:34:32.333Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-ea373ded1370",
+      "candidate_id": "gwr-alert-d2c0967196d9",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
+      "score": 93,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】ESR Group｜Senior Property Accounting Officer｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ea373ded1370&q=ESR+Group&int…",
-        "bluesky": "GWR ALERT｜ESR Group｜Senior Property Accounting Officer｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ea373ded1370&q=ESR+Group&intent=general",
-        "linkedin": "GWR Market Alert ESR Group｜Senior Property Accounting Officer｜前回スナップショット比 +3。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ea373ded1370&q=ESR+Group&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d2c0967196d9&q=Mindrift…",
+        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d2c0967196d9&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d2c0967196d9&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ea373ded1370&q=ESR+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d2c0967196d9&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-d16daeae24",
-          "employer": "ESR Group",
-          "title": "Senior Property Accounting Officer",
+          "job_id": "workable-c59b9b8c72",
+          "employer": "Mindrift",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D16DAEAE24",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
+          "official_url": "https://apply.workable.com/j/C59B9B8C72",
+          "last_verified_at": "2026-10-09T08:34:32.333Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-d2948df61d03",
+      "candidate_id": "gwr-alert-8c0a070bcfb6",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
+      "score": 93,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】ESR Group｜Manager, Japan Financial Planning & Data Analysis｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d2948df61d03&…",
-        "bluesky": "GWR ALERT｜ESR Group｜Manager, Japan Financial Planning & Data Analysis｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d2948df61d03&q=ESR+Group&intent=general",
-        "linkedin": "GWR Market Alert ESR Group｜Manager, Japan Financial Planning & Data Analysis｜前回スナップショット比 +3。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d2948df61d03&q=ESR+Group&intent=general"
+        "x": "【GWR ALERT】LMG Staffing Solutions｜Local Digital Marketer - Japan｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c0a070bcfb6&q=LMG+Staffi…",
+        "bluesky": "GWR ALERT｜LMG Staffing Solutions｜Local Digital Marketer - Japan｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c0a070bcfb6&q=LMG+Staffing+Solutions&intent=general",
+        "linkedin": "GWR Market Alert LMG Staffing Solutions｜Local Digital Marketer - Japan｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c0a070bcfb6&q=LMG+Staffing+Solutions&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d2948df61d03&q=ESR+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c0a070bcfb6&q=LMG+Staffing+Solutions&intent=general",
       "evidence": [
         {
-          "job_id": "workable-d9b50ca078",
-          "employer": "ESR Group",
-          "title": "Manager, Japan Financial Planning & Data Analysis",
+          "job_id": "workable-5e1f2ddb25",
+          "employer": "LMG Staffing Solutions",
+          "title": "Local Digital Marketer - Japan",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D9B50CA078",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
+          "official_url": "https://apply.workable.com/j/5E1F2DDB25",
+          "last_verified_at": "2026-10-09T08:34:32.333Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-alert-e4baa3d738d0",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-94393f84d1a3",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 91,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】ESR Group｜Director, Asset Management｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e4baa3d738d0&q=ESR+Group&intent=gene…",
-        "bluesky": "GWR ALERT｜ESR Group｜Director, Asset Management｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e4baa3d738d0&q=ESR+Group&intent=general",
-        "linkedin": "GWR Market Alert ESR Group｜Director, Asset Management｜前回スナップショット比 +3。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e4baa3d738d0&q=ESR+Group&intent=general"
+        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-94393f…",
+        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-94393f84d1a3&q=Welo+Global&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-94393f84d1a3&q=Welo+Global&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e4baa3d738d0&q=ESR+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-94393f84d1a3&q=Welo+Global&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-aba324f42c",
-          "employer": "ESR Group",
-          "title": "Director, Asset Management",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/ABA324F42C",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-09T08:34:02.426Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-da2b0ff74b2e",
+      "candidate_id": "gwr-open-b63c13c2fae8",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 94,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
+      "score": 91,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Senior Property Accounting Officer｜ESR Group｜Roppongi, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da2b0ff74b2e&q=ESR+Gro…",
-        "bluesky": "GWR OPEN｜Senior Property Accounting Officer｜ESR Group｜Roppongi, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da2b0ff74b2e&q=ESR+Group&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Property Accounting Officer｜ESR Group｜Roppongi, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da2b0ff74b2e&q=ESR+Group&intent=general"
+        "x": "【GWR OPEN】Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b63c13c2fae8&q=MASH&intent=re…",
+        "bluesky": "GWR OPEN｜Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b63c13c2fae8&q=MASH&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b63c13c2fae8&q=MASH&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-da2b0ff74b2e&q=ESR+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b63c13c2fae8&q=MASH&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-d16daeae24",
-          "employer": "ESR Group",
-          "title": "Senior Property Accounting Officer",
+          "job_id": "workable-1956cbf18f",
+          "employer": "MASH",
+          "title": "Affiliate Marketing Specialist (Creator Commerce)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D16DAEAE24",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
+          "official_url": "https://apply.workable.com/j/1956CBF18F",
+          "last_verified_at": "2026-10-09T08:34:32.333Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-353241de5f83",
+      "candidate_id": "gwr-open-82721b1bc489",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 94,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
+      "score": 86,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Manager, Japan Financial Planning & Data Analysis｜ESR Group｜Roppongi, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-353241d…",
-        "bluesky": "GWR OPEN｜Manager, Japan Financial Planning & Data Analysis｜ESR Group｜Roppongi, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-353241de5f83&q=ESR+Group&intent=…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Manager, Japan Financial Planning & Data Analysis｜ESR Group｜Roppongi, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-353241de5f83&q=ESR+Group&intent=general"
+        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-82721b1bc489&q=Mindrift&inte…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-82721b1bc489&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-82721b1bc489&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-353241de5f83&q=ESR+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-82721b1bc489&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-d9b50ca078",
-          "employer": "ESR Group",
-          "title": "Manager, Japan Financial Planning & Data Analysis",
+          "job_id": "workable-c59b9b8c72",
+          "employer": "Mindrift",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D9B50CA078",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
+          "official_url": "https://apply.workable.com/j/C59B9B8C72",
+          "last_verified_at": "2026-10-09T08:34:32.333Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-b7b0742b4d15",
+      "candidate_id": "gwr-open-04c77386fdb6",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 94,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
+      "score": 86,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Director, Asset Management｜ESR Group｜Roppongi, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b7b0742b4d15&q=ESR+Group&inten…",
-        "bluesky": "GWR OPEN｜Director, Asset Management｜ESR Group｜Roppongi, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b7b0742b4d15&q=ESR+Group&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Director, Asset Management｜ESR Group｜Roppongi, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b7b0742b4d15&q=ESR+Group&intent=general"
+        "x": "【GWR OPEN】Local Digital Marketer - Japan｜LMG Staffing Solutions｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-04c77386fdb6&q=LMG+Staf…",
+        "bluesky": "GWR OPEN｜Local Digital Marketer - Japan｜LMG Staffing Solutions｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-04c77386fdb6&q=LMG+Staffing+Solutions&intent=rem…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Local Digital Marketer - Japan｜LMG Staffing Solutions｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-04c77386fdb6&q=LMG+Staffing+Solutions&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b7b0742b4d15&q=ESR+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-04c77386fdb6&q=LMG+Staffing+Solutions&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-aba324f42c",
-          "employer": "ESR Group",
-          "title": "Director, Asset Management",
+          "job_id": "workable-5e1f2ddb25",
+          "employer": "LMG Staffing Solutions",
+          "title": "Local Digital Marketer - Japan",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/ABA324F42C",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
+          "official_url": "https://apply.workable.com/j/5E1F2DDB25",
+          "last_verified_at": "2026-10-09T08:34:32.333Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -339,27 +339,27 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-e3398cc94e4f",
+      "candidate_id": "gwr-open-b433b2aea141",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
+      "score": 86,
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e3398c…",
-        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e3398cc94e4f&q=Welo+Global&inte…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e3398cc94e4f&q=Welo+Global&intent=remote"
+        "x": "【GWR OPEN】UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b433b2a…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b433b2aea141&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e3398cc94e4f&q=Welo+Global&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b433b2aea141&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
-          "job_id": "lever-42ce648bca4d15849a24844a",
-          "employer": "Welo Global",
-          "title": "Japanese Sports Localization Specialist (Football)",
-          "source": "Lever / Welo Global",
-          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-09T04:32:51.990Z",
-          "freshness_bucket": "NEW_24H",
+          "job_id": "workable-fd15f5d966",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/FD15F5D966",
+          "last_verified_at": "2026-10-09T08:34:32.333Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -377,97 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-shift-2366cc2ff7ed",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 90,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】ESR Group：GWR確認求人 6→9（+3）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2366cc2ff7ed&q=ESR+Group&intent=general",
-        "bluesky": "GWR SHIFT｜ESR Group：GWR確認求人 6→9（+3）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2366cc2ff7ed&q=ESR+Group&intent=general",
-        "linkedin": "GWR Market Shift ESR Group：GWR確認求人 6→9（+3）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2366cc2ff7ed&q=ESR+Group&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2366cc2ff7ed&q=ESR+Group&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-437e5440df",
-          "employer": "ESR Group",
-          "title": "Business Development/Land Acquisition Manager アクイジションマネージャー",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/437E5440DF",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
-        },
-        {
-          "job_id": "workable-abe4773ad7",
-          "employer": "ESR Group",
-          "title": "Senior Manager/Director, Debt Capital Markets",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/ABE4773AD7",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
-        },
-        {
-          "job_id": "workable-e90c26d288",
-          "employer": "ESR Group",
-          "title": "Contracts & Procurement Manager, Data Centre",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E90C26D288",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
-        },
-        {
-          "job_id": "workable-7e19978f06",
-          "employer": "ESR Group",
-          "title": "Senior Director, Investment",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/7E19978F06",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 3
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 10
-    },
-    {
-      "candidate_id": "gwr-open-e34df61375b7",
+      "candidate_id": "gwr-open-fd464baf5a8f",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 86,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
+      "source_generated_at": "2026-10-09T08:34:54.405Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e34df61375b7&q=Mindrift&inte…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e34df61375b7&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e34df61375b7&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd464baf5a8…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd464baf5a8f&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e34df61375b7&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd464baf5a8f&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-c59b9b8c72",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+          "job_id": "workable-23db8d977e",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Director of Legal Research",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C59B9B8C72",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
+          "official_url": "https://apply.workable.com/j/23DB8D977E",
+          "last_verified_at": "2026-10-09T08:34:32.333Z",
           "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -483,45 +412,7 @@
       ],
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 11
-    },
-    {
-      "candidate_id": "gwr-shift-c3eedc51111a",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 76,
-      "source_generated_at": "2026-10-09T04:33:34.224Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】MASH：GWR確認求人 0→1（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c3eedc51111a&q=MASH&intent=general",
-        "bluesky": "GWR SHIFT｜MASH：GWR確認求人 0→1（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c3eedc51111a&q=MASH&intent=general",
-        "linkedin": "GWR Market Shift MASH：GWR確認求人 0→1（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c3eedc51111a&q=MASH&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c3eedc51111a&q=MASH&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-1956cbf18f",
-          "employer": "MASH",
-          "title": "Affiliate Marketing Specialist (Creator Commerce)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1956CBF18F",
-          "last_verified_at": "2026-10-09T04:33:19.516Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 12
+      "rank": 10
     }
   ]
 }
