@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-08T20:34:12.088Z",
+  "observed_at": "2026-10-09T00:44:40.964Z",
   "run": {
-    "github_run_id": "37840296679",
+    "github_run_id": "37866238002",
     "github_run_attempt": "1",
-    "github_sha": "e021d2a9048f1ef76154b1c71d90ba30bd4191b0",
+    "github_sha": "863fb89506ffa24633083892e832e614b93e77a9",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,134 +16,44 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 18,
+    "meaningful_change_count": 5,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 18,
+    "changed_count": 5,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-96e2307441",
+        "id": "workable-534d694ae5",
         "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-5352afe060",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-083cf27941",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-3de10463c5",
-        "fields": [
-          "hiring_momentum_state",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-aac09711ab",
-        "fields": [
-          "hiring_momentum_state",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-e03cdb2e20",
-        "fields": [
-          "hiring_momentum_state",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-c539486658",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-9eb9baa924",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-61faa9208e",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-81482c3c16",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-cd05d17bf0",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-155931dae8",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-bd6de01816",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-b17d213ba6",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-0fecba4b7c",
+        "id": "workable-d348eeeadf",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-fd15f5d966",
-        "fields": [
-          "freshness_bucket",
-          "hiring_momentum_state",
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-23db8d977e",
-        "fields": [
-          "freshness_bucket",
-          "hiring_momentum_state",
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-30964e450c",
+        "id": "workable-d9abc7c91e",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
+        ]
+      },
+      {
+        "id": "workable-b2a452f869",
+        "fields": [
+          "freshness_bucket",
+          "lifecycle_state"
+        ]
+      },
+      {
+        "id": "workable-b262043fae",
+        "fields": [
+          "freshness_bucket"
         ]
       }
     ]
@@ -151,13 +61,13 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 28,
+        "NEW_24H": 26,
         "STALE_RISK_90D": 220,
-        "ACTIVE": 95,
+        "ACTIVE": 94,
         "LONG_RUNNING_60D": 52,
-        "AGING_30D": 75,
-        "FRESH_7D": 16,
-        "NEW_3D": 18
+        "AGING_30D": 76,
+        "FRESH_7D": 17,
+        "NEW_3D": 19
       },
       "stale_risk_counts": {
         "LOW": 230,
