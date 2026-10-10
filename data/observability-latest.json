@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-10T04:32:14.487Z",
+  "observed_at": "2026-10-10T08:31:09.477Z",
   "run": {
-    "github_run_id": "38024354535",
+    "github_run_id": "38038086062",
     "github_run_attempt": "1",
-    "github_sha": "c3b2c4551213cc44bce1d2a88a149ddc6c115e3f",
+    "github_sha": "532414e367db535a9366f22d79027050f6b38aca",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,43 +16,22 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 6,
+    "meaningful_change_count": 3,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 6,
+    "changed_count": 3,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-d888760f30",
-        "fields": [
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-d559a11f60",
-        "fields": [
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-d16daeae24",
+        "id": "workable-411206a43d",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-d9b50ca078",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-aba324f42c",
+        "id": "workable-dbbc080f29",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
@@ -61,7 +40,7 @@
       {
         "id": "workable-1956cbf18f",
         "fields": [
-          "freshness_bucket"
+          "lifecycle_state"
         ]
       }
     ]
@@ -69,13 +48,13 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 29,
+        "NEW_24H": 28,
         "STALE_RISK_90D": 218,
         "ACTIVE": 96,
         "LONG_RUNNING_60D": 54,
         "AGING_30D": 80,
-        "FRESH_7D": 13,
-        "NEW_3D": 18
+        "FRESH_7D": 15,
+        "NEW_3D": 17
       },
       "stale_risk_counts": {
         "LOW": 234,
