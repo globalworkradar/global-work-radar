@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-10T12:35:33.477Z",
+  "observed_at": "2026-10-10T16:30:24.434Z",
   "run": {
-    "github_run_id": "38052465306",
+    "github_run_id": "38067847819",
     "github_run_attempt": "1",
-    "github_sha": "8950d89bed79e99e9634d97f05d71c182ea2d750",
+    "github_sha": "f1f0341ee80a0d46112777fd65994f61749e7006",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,53 +16,43 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 6,
+    "meaningful_change_count": 5,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 6,
+    "changed_count": 5,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-5d762a0fa4",
+        "id": "workable-07cbc75f5c",
+        "fields": [
+          "freshness_bucket"
+        ]
+      },
+      {
+        "id": "workable-76b86354bc",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-574c7d9f03",
+        "id": "workable-b20c8dea11",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-0d5cdb123c",
+        "id": "workable-a85a82c14d",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
+          "freshness_bucket"
         ]
       },
       {
-        "id": "workable-d2c2ecf786",
+        "id": "workable-ee71ac85d6",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-7a2502bce8",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-ba49fe81d9",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
+          "freshness_bucket"
         ]
       }
     ]
@@ -70,13 +60,13 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 27,
+        "NEW_24H": 25,
         "STALE_RISK_90D": 218,
         "ACTIVE": 96,
         "LONG_RUNNING_60D": 54,
         "AGING_30D": 80,
         "FRESH_7D": 20,
-        "NEW_3D": 13
+        "NEW_3D": 15
       },
       "stale_risk_counts": {
         "LOW": 234,

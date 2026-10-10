@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T12:35:33.097Z",
-  "source_generated_at": "2026-10-10T12:35:32.909Z",
+  "generated_at": "2026-10-10T16:30:24.062Z",
+  "source_generated_at": "2026-10-10T16:30:23.878Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -35,18 +35,18 @@
   "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-3ee2a4160943",
+      "candidate_id": "gwr-alert-eec73a4f99eb",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 98,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3ee2a4160943&q=W…",
-        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3ee2a4160943&q=Welo+Global&intent=general",
-        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3ee2a4160943&q=Welo+Global&intent=general"
+        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eec73a4f99eb&q=W…",
+        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eec73a4f99eb&q=Welo+Global&intent=general",
+        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eec73a4f99eb&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3ee2a4160943&q=Welo+Global&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eec73a4f99eb&q=Welo+Global&intent=general",
       "evidence": [
         {
           "job_id": "lever-42ce648bca4d15849a24844a",
@@ -54,7 +54,7 @@
           "title": "Japanese Sports Localization Specialist (Football)",
           "source": "Lever / Welo Global",
           "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-10T12:34:49.407Z",
+          "last_verified_at": "2026-10-10T16:29:23.192Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -73,27 +73,27 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-f4ecb462842e",
+      "candidate_id": "gwr-alert-31d45db97dfd",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "score": 93,
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】LMG Staffing Solutions｜Local Digital Marketer - Japan (Contractor)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f4ecb462842e…",
-        "bluesky": "GWR ALERT｜LMG Staffing Solutions｜Local Digital Marketer - Japan (Contractor)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f4ecb462842e&q=LMG+Staffing+Solutions&intent=gen…",
-        "linkedin": "GWR Market Alert LMG Staffing Solutions｜Local Digital Marketer - Japan (Contractor)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f4ecb462842e&q=LMG+Staffing+Solutions&intent=general"
+        "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth…",
+        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-31d45db97dfd&…",
+        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-31d45db97dfd&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f4ecb462842e&q=LMG+Staffing+Solutions&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-31d45db97dfd&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
       "evidence": [
         {
-          "job_id": "workable-b20c8dea11",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan (Contractor)",
+          "job_id": "workable-fd15f5d966",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B20C8DEA11",
-          "last_verified_at": "2026-10-10T12:35:11.046Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/FD15F5D966",
+          "last_verified_at": "2026-10-10T16:30:02.704Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -111,27 +111,27 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-a4c56935a0c5",
+      "candidate_id": "gwr-alert-dc3505701a0e",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "score": 93,
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a4c56935a0c5&q=Mindrift&inte…",
-        "bluesky": "GWR ALERT｜Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a4c56935a0c5&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a4c56935a0c5&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Director of Legal Research｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
+        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Director of Legal Research｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-dc3505701a0e&q=Di…",
+        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Director of Legal Research｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-dc3505701a0e&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a4c56935a0c5&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-dc3505701a0e&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a85a82c14d",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-23db8d977e",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Director of Legal Research",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A85A82C14D",
-          "last_verified_at": "2026-10-10T12:35:11.046Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/23DB8D977E",
+          "last_verified_at": "2026-10-10T16:30:02.704Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -149,27 +149,27 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-8e0794427651",
+      "candidate_id": "gwr-alert-4cb1edbb71d3",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "score": 93,
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Stellar Cyber｜シニアテクニカルサポートエンジニア（日本）｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8e0794427651&q=Stellar+Cyber&intent=general",
-        "bluesky": "GWR ALERT｜Stellar Cyber｜シニアテクニカルサポートエンジニア（日本）｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8e0794427651&q=Stellar+Cyber&intent=general",
-        "linkedin": "GWR Market Alert Stellar Cyber｜シニアテクニカルサポートエンジニア（日本）｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8e0794427651&q=Stellar+Cyber&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Thai Language & AI Training Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4cb1edbb71d3&q=Gram…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Thai Language & AI Training Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4cb1edbb71d3&q=Gramian+Consulting+Group&intent=general",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Thai Language & AI Training Expert｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4cb1edbb71d3&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8e0794427651&q=Stellar+Cyber&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4cb1edbb71d3&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-ee71ac85d6",
-          "employer": "Stellar Cyber",
-          "title": "シニアテクニカルサポートエンジニア（日本）",
+          "job_id": "workable-d9abc7c91e",
+          "employer": "Gramian Consulting Group",
+          "title": "Thai Language & AI Training Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/EE71AC85D6",
-          "last_verified_at": "2026-10-10T12:35:11.046Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/D9ABC7C91E",
+          "last_verified_at": "2026-10-10T16:30:02.704Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -187,18 +187,18 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-04fd57f58246",
+      "candidate_id": "gwr-open-afa30885e7ec",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-04fd57…",
-        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-04fd57f58246&q=Welo+Global&inte…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-04fd57f58246&q=Welo+Global&intent=remote"
+        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-afa308…",
+        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-afa30885e7ec&q=Welo+Global&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-afa30885e7ec&q=Welo+Global&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-04fd57f58246&q=Welo+Global&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-afa30885e7ec&q=Welo+Global&intent=remote",
       "evidence": [
         {
           "job_id": "lever-42ce648bca4d15849a24844a",
@@ -206,7 +206,7 @@
           "title": "Japanese Sports Localization Specialist (Football)",
           "source": "Lever / Welo Global",
           "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-10T12:34:49.407Z",
+          "last_verified_at": "2026-10-10T16:29:23.192Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -225,27 +225,27 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-e742e80f49d1",
+      "candidate_id": "gwr-open-197e63e4066a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "score": 86,
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e742e80f49…",
-        "bluesky": "GWR OPEN｜Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e742e80f49d1&q=LMG+Staffing+Solutio…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e742e80f49d1&q=LMG+Staffing+Solutions&intent=remote"
+        "x": "【GWR OPEN】UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-197e63e…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-197e63e4066a&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e742e80f49d1&q=LMG+Staffing+Solutions&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-197e63e4066a&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-b20c8dea11",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan (Contractor)",
+          "job_id": "workable-fd15f5d966",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B20C8DEA11",
-          "last_verified_at": "2026-10-10T12:35:11.046Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/FD15F5D966",
+          "last_verified_at": "2026-10-10T16:30:02.704Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -263,27 +263,27 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-ff9c1fe4d5bc",
+      "candidate_id": "gwr-open-ef525f0598d4",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "score": 86,
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ff9c1fe4d5bc&q=Mindrift&intent=re…",
-        "bluesky": "GWR OPEN｜Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ff9c1fe4d5bc&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ff9c1fe4d5bc&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ef525f0598d…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ef525f0598d4&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ff9c1fe4d5bc&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ef525f0598d4&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-a85a82c14d",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-23db8d977e",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Director of Legal Research",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A85A82C14D",
-          "last_verified_at": "2026-10-10T12:35:11.046Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/23DB8D977E",
+          "last_verified_at": "2026-10-10T16:30:02.704Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -301,27 +301,27 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-1b0f13160f9d",
+      "candidate_id": "gwr-open-e48c01e431db",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "score": 86,
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】シニアテクニカルサポートエンジニア（日本）｜Stellar Cyber｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1b0f13160f9d&q=Stellar+Cyber&inten…",
-        "bluesky": "GWR OPEN｜シニアテクニカルサポートエンジニア（日本）｜Stellar Cyber｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1b0f13160f9d&q=Stellar+Cyber&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 シニアテクニカルサポートエンジニア（日本）｜Stellar Cyber｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1b0f13160f9d&q=Stellar+Cyber&intent=remote"
+        "x": "【GWR OPEN】Thai Language & AI Training Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e48c01e431db&q=Gramian+C…",
+        "bluesky": "GWR OPEN｜Thai Language & AI Training Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e48c01e431db&q=Gramian+Consulting+Group&intent=re…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Thai Language & AI Training Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e48c01e431db&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1b0f13160f9d&q=Stellar+Cyber&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e48c01e431db&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-ee71ac85d6",
-          "employer": "Stellar Cyber",
-          "title": "シニアテクニカルサポートエンジニア（日本）",
+          "job_id": "workable-d9abc7c91e",
+          "employer": "Gramian Consulting Group",
+          "title": "Thai Language & AI Training Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/EE71AC85D6",
-          "last_verified_at": "2026-10-10T12:35:11.046Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/D9ABC7C91E",
+          "last_verified_at": "2026-10-10T16:30:02.704Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -339,26 +339,26 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-629dfc8746e9",
+      "candidate_id": "gwr-open-f57d77df852a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 86,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-629dfc8…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Chief Technology Officer (CTO)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-629dfc8746e9&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "x": "【GWR OPEN】Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f57d77df852a&q=MASH&intent=re…",
+        "bluesky": "GWR OPEN｜Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f57d77df852a&q=MASH&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Affiliate Marketing Specialist (Creator Commerce)｜MASH｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f57d77df852a&q=MASH&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-629dfc8746e9&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f57d77df852a&q=MASH&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-fd15f5d966",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Chief Technology Officer (CTO)",
+          "job_id": "workable-1956cbf18f",
+          "employer": "MASH",
+          "title": "Affiliate Marketing Specialist (Creator Commerce)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/FD15F5D966",
-          "last_verified_at": "2026-10-10T12:35:11.046Z",
+          "official_url": "https://apply.workable.com/j/1956CBF18F",
+          "last_verified_at": "2026-10-10T16:30:02.704Z",
           "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,26 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-2333b667814f",
+      "candidate_id": "gwr-open-c1e9e76d0aaf",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 86,
-      "source_generated_at": "2026-10-10T12:35:32.909Z",
+      "source_generated_at": "2026-10-10T16:30:23.878Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2333b667814…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Director of Legal Research｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2333b667814f&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "x": "【GWR OPEN】Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c1e9e76d0a…",
+        "bluesky": "GWR OPEN｜Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c1e9e76d0aaf&q=LMG+Staffing+Solutio…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c1e9e76d0aaf&q=LMG+Staffing+Solutions&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2333b667814f&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c1e9e76d0aaf&q=LMG+Staffing+Solutions&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-23db8d977e",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Director of Legal Research",
+          "job_id": "workable-b20c8dea11",
+          "employer": "LMG Staffing Solutions",
+          "title": "Local Digital Marketer - Japan (Contractor)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/23DB8D977E",
-          "last_verified_at": "2026-10-10T12:35:11.046Z",
+          "official_url": "https://apply.workable.com/j/B20C8DEA11",
+          "last_verified_at": "2026-10-10T16:30:02.704Z",
           "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
