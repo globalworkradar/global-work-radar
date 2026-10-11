@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-11T00:41:37.315Z",
+  "observed_at": "2026-10-11T04:32:05.909Z",
   "run": {
-    "github_run_id": "38099244384",
+    "github_run_id": "38111841932",
     "github_run_attempt": "1",
-    "github_sha": "dd1b4824ae23fda29a94e8b9c8c9997568225a80",
+    "github_sha": "0d44f81e6f41e4a979d552e044308f45d71e515a",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,49 +16,23 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 6,
+    "meaningful_change_count": 2,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 6,
+    "changed_count": 2,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-d16157a33a",
+        "id": "workable-b262043fae",
         "fields": [
-          "title"
-        ]
-      },
-      {
-        "id": "workable-704f38da2a",
-        "fields": [
-          "title",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-89f335698e",
-        "fields": [
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-d9abc7c91e",
-        "fields": [
-          "freshness_bucket",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-b262043fae",
+        "id": "workable-21e5e580e6",
         "fields": [
-          "freshness_bucket"
-        ]
-      },
-      {
-        "id": "workable-b2a452f869",
-        "fields": [
+          "freshness_bucket",
           "lifecycle_state"
         ]
       }
@@ -72,8 +46,8 @@
         "ACTIVE": 95,
         "LONG_RUNNING_60D": 54,
         "AGING_30D": 81,
-        "FRESH_7D": 24,
-        "NEW_3D": 14
+        "FRESH_7D": 26,
+        "NEW_3D": 12
       },
       "stale_risk_counts": {
         "LOW": 234,
