@@ -2,7 +2,6 @@
 const TYPES = new Set(['webhook_test','human_reaction','qualified_buyer_action','contract','payment_pending','paid_confirmed']);
 const encoder = new TextEncoder();
 const json = (body, status=200) => new Response(JSON.stringify(body), {status, headers:{'content-type':'application/json; charset=utf-8','cache-control':'no-store'}});
-const hex = bytes => Array.from(new Uint8Array(bytes), b=>b.toString(16).padStart(2,'0')).join('');
 export async function onRequestPost({request,env}) {
   if (!env.GWR_EVENT_SECRET || !env.GWR_EVENT_DB) return json({ok:false,error:'not_configured'},503);
   const length = Number(request.headers.get('content-length') || 0);
@@ -22,9 +21,9 @@ export async function onRequestPost({request,env}) {
   if(typeof event_id!=='string'|| !/^[a-zA-Z0-9_-]{8,100}$/.test(event_id) || !TYPES.has(event_type) || typeof source!=='string' || !/^gwr[-_a-zA-Z0-9]{0,60}$/.test(source) || typeof is_test!=='boolean') return json({ok:false,error:'invalid_fields'},400);
   const timestamp=Date.parse(occurred_at);
   if(!Number.isFinite(timestamp)||Math.abs(Date.now()-timestamp)>300000) return json({ok:false,error:'stale_event'},400);
+  if(!Number.isFinite(Date.parse(occurred_at)) || typeof occurred_at !== 'string') return json({ok:false,error:'invalid_timestamp'},400);
   if(['contract','payment_pending','paid_confirmed'].includes(event_type) && (typeof evidence_ref!=='string'||evidence_ref.length<8||evidence_ref.length>250)) return json({ok:false,error:'evidence_required'},400);
   // The receiver stores only unverified claims. Never promotes a claimed paid_confirmed event into actual revenue.
-  const keyName='gwr:event:'+event_id;
   const record={event_id,event_type,occurred_at,source,is_test,verification:'UNVERIFIED',received_at:new Date().toISOString()};
   // Durable Object / D1 with unique index is needed for atomic dedupe. KV alone cannot provide atomic insert.
   try{
