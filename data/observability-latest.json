@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-12T04:35:45.203Z",
+  "observed_at": "2026-10-12T08:39:14.866Z",
   "run": {
-    "github_run_id": "38204348140",
+    "github_run_id": "38224759920",
     "github_run_attempt": "1",
-    "github_sha": "6ad7fc8b98d2fbed7b68791a617b41c41d95429a",
+    "github_sha": "05dc5079d2ce50f94b80e739bb8cb1f5141659b2",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 508,
+    "previous_count": 509,
     "current_count": 509,
     "source_counts": {
       "lever": 28,
@@ -18,12 +18,14 @@
   "change_detection": {
     "meaningful_change_count": 14,
     "added_count": 1,
-    "removed_count": 0,
-    "changed_count": 13,
+    "removed_count": 1,
+    "changed_count": 12,
     "added_ids": [
-      "workable-c26d31b1b9"
+      "workable-a24461ca39"
     ],
-    "removed_ids": [],
+    "removed_ids": [
+      "workable-d348eeeadf"
+    ],
     "changed": [
       {
         "id": "workable-8456d135c8",
@@ -38,14 +40,21 @@
         ]
       },
       {
-        "id": "workable-2f0fd9cb3b",
+        "id": "workable-0208c3141d",
         "fields": [
           "lifecycle_state",
           "lifecycle_stale_risk"
         ]
       },
       {
-        "id": "workable-bb3d68888f",
+        "id": "workable-55d9ce3c58",
+        "fields": [
+          "lifecycle_state",
+          "lifecycle_stale_risk"
+        ]
+      },
+      {
+        "id": "workable-8bf3378732",
         "fields": [
           "lifecycle_state",
           "lifecycle_stale_risk"
@@ -66,53 +75,37 @@
         ]
       },
       {
-        "id": "workable-2998e02a0e",
+        "id": "workable-37076a668c",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-603f263997",
+        "id": "workable-195b599a2c",
         "fields": [
           "freshness_bucket",
-          "lifecycle_state",
-          "hiring_intent_level"
+          "lifecycle_state"
         ]
       },
       {
         "id": "workable-411206a43d",
         "fields": [
-          "japanese",
           "hiring_momentum_state",
           "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-d16daeae24",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-d9b50ca078",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-aba324f42c",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
         "id": "workable-1956cbf18f",
         "fields": [
-          "freshness_bucket"
+          "lifecycle_state"
+        ]
+      },
+      {
+        "id": "workable-c26d31b1b9",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
         ]
       }
     ]
@@ -120,21 +113,21 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 23,
-        "STALE_RISK_90D": 219,
-        "ACTIVE": 80,
-        "LONG_RUNNING_60D": 55,
-        "AGING_30D": 96,
-        "FRESH_7D": 29,
-        "NEW_3D": 7
+        "NEW_24H": 24,
+        "STALE_RISK_90D": 220,
+        "ACTIVE": 82,
+        "LONG_RUNNING_60D": 56,
+        "AGING_30D": 94,
+        "FRESH_7D": 27,
+        "NEW_3D": 6
       },
       "stale_risk_counts": {
-        "LOW": 233,
-        "ELEVATED": 219,
-        "REVIEW": 57
+        "LOW": 231,
+        "ELEVATED": 220,
+        "REVIEW": 58
       },
       "reopened_after_confirmed_close_count": 2,
-      "changed_within_7d_count": 81,
+      "changed_within_7d_count": 79,
       "thresholds_days": {
         "aging": 30,
         "long_running": 60,
@@ -144,9 +137,9 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
-        "MODERATE_EVIDENCE": 137,
+        "MODERATE_EVIDENCE": 142,
         "WEAK_EVIDENCE": 360,
-        "STRONG_EVIDENCE": 12
+        "STRONG_EVIDENCE": 7
       },
       "score_is_probability": false,
       "ghost_job_classifier": false,
