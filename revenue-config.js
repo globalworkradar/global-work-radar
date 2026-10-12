@@ -295,7 +295,7 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
         inquiry,
         reaction_context: reactionContext,
         commercial_intent: true,
-        evidence_stage: 'buyer_inquiry',
+        evidence_stage: 'inquiry_option_selected',
         evidence_timestamp: new Date().toISOString(),
         evidence_channel: attribution.attribution_channel || 'site_direct',
         evidence_action: inquiry,
@@ -307,15 +307,15 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
         ...attribution
       };
       if (window.posthog && typeof window.posthog.capture === 'function') {
-        window.posthog.capture('gwr_buyer_inquiry', evidence);
-        if (inquiry === 'paid_pilot') window.posthog.capture('gwr_paid_pilot_request', evidence);
-        if (inquiry === 'custom_sample') window.posthog.capture('gwr_custom_sample_request', evidence);
-        if (inquiry === 'commercial_terms') window.posthog.capture('gwr_commercial_terms_request', evidence);
+        window.posthog.capture('gwr_inquiry_option_selected', evidence);
+        if (inquiry === 'paid_pilot') window.posthog.capture('gwr_paid_pilot_option_selected', evidence);
+        if (inquiry === 'custom_sample') window.posthog.capture('gwr_custom_sample_option_selected', evidence);
+        if (inquiry === 'commercial_terms') window.posthog.capture('gwr_commercial_terms_option_selected', evidence);
         if (recoveryQualified) window.posthog.capture('gwr_buyer_reaction_recovered', evidence);
       }
       gwrSendSelfMakeEvent({
         eventType: 'BUYER_SIGNAL',
-        stage: 'buyer_inquiry',
+        stage: 'inquiry_option_selected',
         externalId: attribution.buyer_key || inquiry,
         note: JSON.stringify({ inquiry, reaction_context: reactionContext, signal_id: signal.id, buyer_key: attribution.buyer_key || null })
       });
@@ -327,8 +327,8 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
       const status = section.querySelector('#gwrInquiryStatus');
       if (status) {
         status.textContent = recoveryQualified
-          ? '問い合わせ意向を記録しました。次のボタンからGWR専用窓口へ要件を送れます。'
-          : '問い合わせ意向を記録しました。次のボタンからGWR専用窓口へ要件を送れます。';
+          ? '相談項目を選択しました。メール作成画面で必要事項を入力し、送信すると問い合わせが成立します。'
+          : '相談項目を選択しました。メール作成画面で必要事項を入力し、送信すると問い合わせが成立します。';
         const priorLink = section.querySelector('.gwr-contact-link');
         if (priorLink) priorLink.remove();
         const subjectMap = {
