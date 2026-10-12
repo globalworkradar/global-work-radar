@@ -346,13 +346,21 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
           '対象職種 / 地域 / セグメント: ',
           '判断したいこと: ',
           '希望時期: ',
+          '希望する成果物: 対象市場の求人変化・採用動向・地域別比較（相談時に調整）',
           '',
-          '※送信前に必要事項をご記入ください。'
+          '--- GWR参照情報（自動記入・本人確認ではありません） ---',
+          '対象Signal: ' + String(signal.id || 'unknown'),
+          'Signalテーマ: ' + String(signal.theme || 'unknown'),
+          '選択した相談: ' + String(inquiry),
+          '流入キャンペーン: ' + String(attribution.attribution_campaign || 'direct'),
+          '参照URL: ' + window.location.origin + window.location.pathname,
+          '',
+          '※送信前に必要事項をご記入ください。メール送信操作が完了するまで問い合わせは成立しません。'
         ].join('\n');
         const contact = document.createElement('a');
         contact.className = 'gwr-contact-link';
         contact.href = 'mailto:globalworkradar@gmail.com?subject=' + encodeURIComponent(subjectMap[inquiry] || 'GWR Inquiry') + '&body=' + encodeURIComponent(body);
-        contact.textContent = 'GWRへ商談内容を送る →';
+        contact.textContent = 'メールで商談を相談する（送信画面へ） →';
         contact.addEventListener('click', () => {
           if (window.posthog && typeof window.posthog.capture === 'function') {
             window.posthog.capture('gwr_commercial_contact_opened', {
