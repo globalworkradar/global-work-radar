@@ -213,7 +213,8 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
       <div class="gwr-reaction-status" id="gwrReactionStatus" aria-live="polite"></div>
       <div class="gwr-inquiry-step" id="gwrInquiryStep" hidden>
         <strong>NEXT · COMMERCIAL INQUIRY</strong>
-        <p>ここからは単なるReactionではなく、GWR Paid Intelligenceへの明示的な問い合わせとして記録します。</p>
+        <p>以下はGWRの既存B2B相談メニューです。項目の選択だけでは問い合わせは成立しません。メール送信後に個別確認します。</p>
+        <p><strong>7日間パイロットの相談内容：</strong>対象職種・対象地域を指定し、求人件数の変化、Remote条件、Japan eligibility、観測時点と根拠URLを比較するレポートの提供可否を確認します。具体的な対象範囲・納品形式・納期・価格は要件確認後の見積です。現時点で購入や自動納品は確約しません。</p>
         <div class="gwr-inquiry-options" role="group" aria-label="Commercial inquiry options">
           <button type="button" class="gwr-inquiry-option" data-inquiry="paid_pilot">7-Day Custom Labor Signal Pilotを相談</button>
           <button type="button" class="gwr-inquiry-option" data-inquiry="custom_sample">自社向けSampleを見たい</button>
