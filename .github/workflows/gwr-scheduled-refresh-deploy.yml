@@ -143,7 +143,7 @@ jobs:
           echo "Cloudflare credentials remain isolated in the existing deployment runner; canonical code/data stay in this repository."
 
       - name: Production freshness readback
-        continue-on-error: true
+        # Required gate: a stale or unreachable live site must fail this workflow.
         run: |
           set -euo pipefail
           curl --fail --location --silent --show-error \
