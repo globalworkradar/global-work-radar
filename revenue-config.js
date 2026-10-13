@@ -315,7 +315,7 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
         if (recoveryQualified) window.posthog.capture('gwr_buyer_reaction_recovered', evidence);
       }
       gwrSendSelfMakeEvent({
-        eventType: 'BUYER_SIGNAL',
+        eventType: 'INQUIRY_OPTION_SELECTED',
         stage: 'inquiry_option_selected',
         externalId: attribution.buyer_key || inquiry,
         note: JSON.stringify({ inquiry, reaction_context: reactionContext, signal_id: signal.id, buyer_key: attribution.buyer_key || null })
