@@ -107,7 +107,7 @@
   <div id="globalStatus" class="sr-only" role="status" aria-live="polite"></div>
   <header class="site-header">
     <a class="brand" href="#top" aria-label="Global Work Radar ホーム"><span class="brand-mark" aria-hidden="true"><span></span></span><span class="brand-copy"><strong>Global Work Radar</strong><small>LABOR INTELLIGENCE · JAPAN</small></span></a>
-    <nav aria-label="メインナビゲーション"><a href="#pulse">Today</a><a href="#signals">Signals</a><a href="#jobs">Jobs</a><a href="#about">Method</a></nav>
+    <nav aria-label="メインナビゲーション"><a href="#pulse">Today</a><a href="#signals">Signals</a><a href="#jobs">Jobs</a><a href="#about">Method</a><a href="#businessPilot">企業向け調査</a></nav>
     <a class="header-cta" href="#pulse"><span class="live-dot" aria-hidden="true"></span> Live</a>
   </header>
 
@@ -163,6 +163,17 @@
 
     <section id="revenuePartner" class="partner-section revenue-panel" hidden aria-label="Global work setup partner"><div class="signal-index"><small>PARTNER</small><strong>↗</strong></div><div class="signal-copy"><span class="kicker">FOR GLOBAL TEAMS</span><h2>海外人材の契約・支払いをまとめる。</h2><p>外部サービス。GWRは仲介しません。</p><small id="revenueDisclosure" class="partner-disclosure"></small></div><a id="revenuePartnerLink" class="partner-cta revenue-cta" href="#" target="_blank" rel="sponsored noopener noreferrer">Partner <span aria-hidden="true">↗</span></a></section>
 
+    <section class="principles" id="businessPilot" aria-labelledby="businessPilotTitle">
+      <div class="principles-intro">
+        <span class="kicker">FOR BUSINESS · CUSTOM RESEARCH</span>
+        <h2 id="businessPilotTitle">採用市場の比較調査を、意思決定に。</h2>
+        <p>7-Day Custom Labor Signal Pilot：ご指定の職種・地域・企業について、公開求人の条件と変化を調査します。対象・納品範囲・費用は事前のお見積りで確定します。</p>
+        <p>納品候補：企業別・職種別比較、Remote／Japan eligibility条件、公式求人リンク、調査時点、データの限界。成果や網羅性を保証するものではありません。</p>
+        <p><a class="header-cta" href="mailto:globalworkradar@gmail.com?subject=GWR%207-Day%20Labor%20Signal%20Pilot%20%E7%9B%B8%E8%AB%87">調査内容をメールで相談 <span aria-hidden="true">↗</span></a></p>
+        <p><small>メールソフトが開きます。ボタン操作だけでは問い合わせ送信・契約・決済は成立しません。</small></p>
+      </div>
+    </section>
+
     <section class="principles" id="about"><div class="principles-intro"><span class="kicker">METHOD</span><h2>数字を混ぜない。</h2><p>判断に使えることを優先し、表示件数そのものを価値にしません。</p></div><div class="principle-grid"><article><span>01</span><h3>Signal first</h3><p>変化を先に見る。</p></article><article><span>02</span><h3>Evidence first</h3><p>公式Sourceと鮮度を優先。</p></article><article><span>03</span><h3>Action first</h3><p>日本から動ける公式応募先へつなぐ。</p></article></div></section>
   </main>
 
@@ -193,7 +204,7 @@
     const heroJobs=document.getElementById('heroJobsCta');heroJobs?.addEventListener('click',event=>{event.preventDefault();const button=document.getElementById('searchButton');if(button)button.click();else document.getElementById('jobs')?.scrollIntoView({behavior:reduced?'auto':'smooth'});document.getElementById('keyword')?.focus({preventScroll:true})});
     addEventListener('keydown',event=>{const tag=document.activeElement?.tagName?.toLowerCase();if(event.key==='/'&&!event.metaKey&&!event.ctrlKey&&!event.altKey&&!['input','select','textarea','button'].includes(tag)&&!document.activeElement?.isContentEditable){event.preventDefault();document.getElementById('keyword')?.focus()}});
 
-    const navLinks=[...document.querySelectorAll('.site-header nav a[href^="#"]')],sections=['pulse','signals','jobs','about'].map(id=>document.getElementById(id)).filter(Boolean);if('IntersectionObserver'in window&&sections.length){const io=new IntersectionObserver(entries=>entries.forEach(entry=>{if(!entry.isIntersecting)return;navLinks.forEach(a=>{const active=a.getAttribute('href')==='#'+entry.target.id;a.classList.toggle('is-current',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}),{rootMargin:'-28% 0px -62% 0px'});sections.forEach(s=>io.observe(s))}
+    const navLinks=[...document.querySelectorAll('.site-header nav a[href^="#"]')],sections=['pulse','signals','jobs','businessPilot','about'].map(id=>document.getElementById(id)).filter(Boolean);if('IntersectionObserver'in window&&sections.length){const io=new IntersectionObserver(entries=>entries.forEach(entry=>{if(!entry.isIntersecting)return;navLinks.forEach(a=>{const active=a.getAttribute('href')==='#'+entry.target.id;a.classList.toggle('is-current',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}),{rootMargin:'-28% 0px -62% 0px'});sections.forEach(s=>io.observe(s))}
 
     const heroTop=document.getElementById('heroTopOpportunity'),marketLink=document.getElementById('marketSignalLink'),marketTitle=document.getElementById('marketSignalTitle');const syncHero=()=>{const href=marketLink?.getAttribute('href')||'';if(!heroTop||!/^https:\/\//i.test(href))return;heroTop.href=href;heroTop.dataset.jobId=marketLink.dataset.jobId||'';heroTop.dataset.source=marketLink.dataset.source||'';heroTop.dataset.score=marketLink.dataset.score||'';heroTop.hidden=false;heroTop.setAttribute('aria-label',`今日の最有力求人を公式で見る：${marketTitle?.textContent||'verified opportunity'}`)};if(marketLink){new MutationObserver(syncHero).observe(marketLink,{attributes:true,attributeFilter:['href','data-job-id','data-source','data-score']});setTimeout(syncHero,0);setTimeout(syncHero,900)}
   }());
