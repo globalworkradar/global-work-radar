@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T12:44:20.109Z",
-  "source_generated_at": "2026-10-13T12:44:19.943Z",
+  "generated_at": "2026-10-13T16:36:04.519Z",
+  "source_generated_at": "2026-10-13T16:36:04.327Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 11,
+  "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-82076ce361b3",
+      "candidate_id": "gwr-alert-428150c3d059",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 98,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜CFD Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-82076ce361b3&q=Mindrift&intent=general",
-        "bluesky": "GWR ALERT｜Mindrift｜CFD Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-82076ce361b3&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜CFD Engineer - AI Trainer｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-82076ce361b3&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-428150c3d059&q=W…",
+        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-428150c3d059&q=Welo+Global&intent=general",
+        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-428150c3d059&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-82076ce361b3&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-428150c3d059&q=Welo+Global&intent=general",
       "evidence": [
         {
-          "job_id": "workable-aa14415719",
-          "employer": "Mindrift",
-          "title": "CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AA14415719",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-13T16:35:17.716Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-4488dad30f72",
+      "candidate_id": "gwr-alert-833024123acf",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 98,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4488dad30f72&q=Mi…",
-        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4488dad30f72&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4488dad30f72&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Keywords Studios｜Localisation Quality Coordinator｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-833024123acf&q=Keywords+Studi…",
+        "bluesky": "GWR ALERT｜Keywords Studios｜Localisation Quality Coordinator｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-833024123acf&q=Keywords+Studios&intent=general",
+        "linkedin": "GWR Market Alert Keywords Studios｜Localisation Quality Coordinator｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-833024123acf&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4488dad30f72&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-833024123acf&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-e44f729af4",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+          "job_id": "workable-b7e8e21aa3",
+          "employer": "Keywords Studios",
+          "title": "Localisation Quality Coordinator",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E44F729AF4",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
+          "official_url": "https://apply.workable.com/j/B7E8E21AA3",
+          "last_verified_at": "2026-10-13T16:35:42.375Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-7d60d9f63a90",
+      "candidate_id": "gwr-alert-42cd935d7124",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 98,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜CAD Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7d60d9f63a90&q=Mindrift&intent=general",
-        "bluesky": "GWR ALERT｜Mindrift｜CAD Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7d60d9f63a90&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜CAD Engineer - AI Trainer｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7d60d9f63a90&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】BoostDraft｜Head of Design｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-42cd935d7124&q=BoostDraft&intent=general",
+        "bluesky": "GWR ALERT｜BoostDraft｜Head of Design｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-42cd935d7124&q=BoostDraft&intent=general",
+        "linkedin": "GWR Market Alert BoostDraft｜Head of Design｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-42cd935d7124&q=BoostDraft&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7d60d9f63a90&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-42cd935d7124&q=BoostDraft&intent=general",
       "evidence": [
         {
-          "job_id": "workable-766cd1fae9",
-          "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "job_id": "workable-0e4cd16d16",
+          "employer": "BoostDraft",
+          "title": "Head of Design",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/766CD1FAE9",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
+          "official_url": "https://apply.workable.com/j/0E4CD16D16",
+          "last_verified_at": "2026-10-13T16:35:42.375Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-409b1fde8672",
+      "candidate_id": "gwr-alert-2431808fc2f7",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 102,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 98,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-409b1f…",
-        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-409b1fde8672&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-409b1fde8672&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2431808fc2f7&q=Mindrift…",
+        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2431808fc2f7&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2431808fc2f7&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-409b1fde8672&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2431808fc2f7&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a24461ca39",
+          "job_id": "workable-e44f729af4",
           "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A24461CA39",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/E44F729AF4",
+          "last_verified_at": "2026-10-13T16:35:42.375Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-a8c501ad2762",
+      "candidate_id": "gwr-open-383cc2da347f",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 91,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a8c501ad2762&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a8c501ad2762&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a8c501ad2762&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-383cc2…",
+        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-383cc2da347f&q=Welo+Global&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-383cc2da347f&q=Welo+Global&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a8c501ad2762&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-383cc2da347f&q=Welo+Global&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-aa14415719",
-          "employer": "Mindrift",
-          "title": "CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AA14415719",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-13T16:35:17.716Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-8b6910ea4956",
+      "candidate_id": "gwr-open-c356ffdd9958",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 91,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8b6910ea4956&q=Mindrift&inte…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8b6910ea4956&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8b6910ea4956&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Localisation Quality Coordinator｜Keywords Studios｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c356ffdd9958&q=Keywords+Studios&in…",
+        "bluesky": "GWR OPEN｜Localisation Quality Coordinator｜Keywords Studios｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c356ffdd9958&q=Keywords+Studios&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Localisation Quality Coordinator｜Keywords Studios｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c356ffdd9958&q=Keywords+Studios&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8b6910ea4956&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c356ffdd9958&q=Keywords+Studios&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-e44f729af4",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+          "job_id": "workable-b7e8e21aa3",
+          "employer": "Keywords Studios",
+          "title": "Localisation Quality Coordinator",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E44F729AF4",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
+          "official_url": "https://apply.workable.com/j/B7E8E21AA3",
+          "last_verified_at": "2026-10-13T16:35:42.375Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-bed9c452fcd4",
+      "candidate_id": "gwr-open-a6c8208f4cb2",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 91,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bed9c452fcd4&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bed9c452fcd4&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bed9c452fcd4&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Head of Design｜BoostDraft｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6c8208f4cb2&q=BoostDraft&intent=remote",
+        "bluesky": "GWR OPEN｜Head of Design｜BoostDraft｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6c8208f4cb2&q=BoostDraft&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Head of Design｜BoostDraft｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6c8208f4cb2&q=BoostDraft&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bed9c452fcd4&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6c8208f4cb2&q=BoostDraft&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-766cd1fae9",
-          "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "job_id": "workable-0e4cd16d16",
+          "employer": "BoostDraft",
+          "title": "Head of Design",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/766CD1FAE9",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
+          "official_url": "https://apply.workable.com/j/0E4CD16D16",
+          "last_verified_at": "2026-10-13T16:35:42.375Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-abaa7bfdb6d0",
+      "candidate_id": "gwr-open-cfb03ad2047e",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 95,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 91,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-abaa7bfdb6d0&q=Mi…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-abaa7bfdb6d0&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-abaa7bfdb6d0&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cfb03ad2047e&q=Mindrift&inte…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cfb03ad2047e&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cfb03ad2047e&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-abaa7bfdb6d0&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cfb03ad2047e&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-a24461ca39",
+          "job_id": "workable-e44f729af4",
           "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A24461CA39",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/E44F729AF4",
+          "last_verified_at": "2026-10-13T16:35:42.375Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -339,26 +339,26 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-a7ac43add318",
+      "candidate_id": "gwr-open-e0cfa9d41db6",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a7ac43…",
-        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a7ac43add318&q=Welo+Global&inte…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a7ac43add318&q=Welo+Global&intent=remote"
+        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e0cfa9d41db6&q=Mindrift&intent=remote",
+        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e0cfa9d41db6&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e0cfa9d41db6&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a7ac43add318&q=Welo+Global&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e0cfa9d41db6&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "lever-42ce648bca4d15849a24844a",
-          "employer": "Welo Global",
-          "title": "Japanese Sports Localization Specialist (Football)",
-          "source": "Lever / Welo Global",
-          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-13T12:42:58.862Z",
+          "job_id": "workable-766cd1fae9",
+          "employer": "Mindrift",
+          "title": "CAD Engineer - AI Trainer",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/766CD1FAE9",
+          "last_verified_at": "2026-10-13T16:35:42.375Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,27 +377,27 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-723c2f1c734b",
+      "candidate_id": "gwr-open-8dfd867287ff",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
+      "score": 86,
+      "source_generated_at": "2026-10-13T16:36:04.327Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Localisation Quality Coordinator｜Keywords Studios｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-723c2f1c734b&q=Keywords+Studios&in…",
-        "bluesky": "GWR OPEN｜Localisation Quality Coordinator｜Keywords Studios｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-723c2f1c734b&q=Keywords+Studios&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Localisation Quality Coordinator｜Keywords Studios｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-723c2f1c734b&q=Keywords+Studios&intent=remote"
+        "x": "【GWR OPEN】Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8dfd867287ff&q=Mi…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8dfd867287ff&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8dfd867287ff&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-723c2f1c734b&q=Keywords+Studios&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8dfd867287ff&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-b7e8e21aa3",
-          "employer": "Keywords Studios",
-          "title": "Localisation Quality Coordinator",
+          "job_id": "workable-a24461ca39",
+          "employer": "Mindrift",
+          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B7E8E21AA3",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/A24461CA39",
+          "last_verified_at": "2026-10-13T16:35:42.375Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -413,77 +413,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
-    },
-    {
-      "candidate_id": "gwr-shift-7fc8aef4c073",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-10-13T12:44:19.943Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Mindrift：GWR確認求人 5→6（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7fc8aef4c073&q=Mindrift&intent=general",
-        "bluesky": "GWR SHIFT｜Mindrift：GWR確認求人 5→6（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7fc8aef4c073&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Shift Mindrift：GWR確認求人 5→6（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7fc8aef4c073&q=Mindrift&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7fc8aef4c073&q=Mindrift&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-0fecba4b7c",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0FECBA4B7C",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-a85a82c14d",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A85A82C14D",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
-          "freshness_bucket": "FRESH_7D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-a24461ca39",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A24461CA39",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-aa14415719",
-          "employer": "Mindrift",
-          "title": "CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AA14415719",
-          "last_verified_at": "2026-10-13T12:44:02.288Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 11
     }
   ]
 }
