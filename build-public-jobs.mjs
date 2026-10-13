@@ -57,6 +57,7 @@ const worldwideRemoteLocation = (value = '') => /worldwide|global|remote/i.test(
 
 const leverAutoPublic = (leverStaging.records || [])
   .filter((job) =>
+    job.publishable === true &&
     job.source_status === 'active' &&
     job.japan_eligible === true &&
     hasJapaneseTitle(job.title) &&
