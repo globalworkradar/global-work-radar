@@ -1,0 +1,7 @@
+{
+  // GWR static-asset preview configuration; no production routing changes.
+  "name": "global-work-radar",
+  "compatibility_date": "2026-10-13",
+  "assets": { "directory": "." },
+  "previews": {}
+}
