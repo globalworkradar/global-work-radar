@@ -60,3 +60,10 @@ SENT 0 | VERIFIED REPLIES 0 | QUOTES 0 | CONTRACTS 0 | PAYMENTS 0.
 - Daijob dedicated vendor/business inquiry https://biz.daijob.com/en/register-biz explicitly accepts product/service sales and partnership inquiries. The form requires a company-domain email (free email domains rejected), phone number, name, and company name. No submission attempted; do not fabricate business identity or contact details.
 - TORANOMON https://www.toranomoncorp.com/en/contact/ publicly lists contact@toranomoncorp.com, but the embedded form asks candidate-specific questions (Japanese level/location). Do NOT use the candidate form for vendor sales. Email is a possible route only after suitability and permission are checked.
 - Decision: HOLD all external sending pending suitable sender identity, valid contact details, and explicit send approval. No buyer response or payment established.
+
+## Channel-risk decision — next action
+1. Daijob: HOLD. Do not invent corporate email, company identity, or phone number to satisfy its vendor form. Keep prospect researched, not contacted.
+2. TORANOMON: HOLD candidate form. A publicly listed general company email is not automatically an opt-in vendor sales channel. Verify business proposal suitability before any external message.
+3. Shift first outbound test to a buyer with an explicit vendor/partnership contact channel and no unsupported sender-identity requirements. Only use an authorized GWR sender identity and obtain external-send approval.
+4. In parallel, complete an internally auditable one-page sample from existing GWR official-source records and a scope/acceptance template. No new product or payment integration.
+5. Evidence counters remain SENT=0, REPLIED=0, QUALIFIED=0, CONTRACTED=0, PAID=0 unless verified independently.
