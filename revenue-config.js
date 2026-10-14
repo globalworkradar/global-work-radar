@@ -256,7 +256,7 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
         if (reactionEventMap[reaction]) window.posthog.capture(reactionEventMap[reaction], properties);
       }
       gwrSendSelfMakeEvent({
-        eventType: 'BUYER_SIGNAL',
+        eventType: 'REACTION_SELECTED',
         stage: 'buyer_reaction',
         externalId: properties.buyer_key || reaction,
         note: JSON.stringify({ reaction, signal_id: signal.id, buyer_key: properties.buyer_key || null })
@@ -371,7 +371,7 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
             });
           }
           gwrSendSelfMakeEvent({
-            eventType: 'BUYER_SIGNAL',
+            eventType: 'CONTACT_LINK_OPENED',
             stage: 'commercial_contact_opened',
             externalId: attribution.buyer_key || inquiry,
             note: JSON.stringify({ inquiry, signal_id: signal.id, contact_channel: 'email', buyer_key: attribution.buyer_key || null })
