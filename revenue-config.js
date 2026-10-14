@@ -213,7 +213,8 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
       <div class="gwr-reaction-status" id="gwrReactionStatus" aria-live="polite"></div>
       <div class="gwr-inquiry-step" id="gwrInquiryStep" hidden>
         <strong>NEXT · COMMERCIAL INQUIRY</strong>
-        <p>ここからは単なるReactionではなく、GWR Paid Intelligenceへの明示的な問い合わせとして記録します。</p>
+        <p>以下はGWRの既存B2B相談メニューです。項目の選択だけでは問い合わせは成立しません。メール送信後に個別確認します。</p>
+        <p><strong>7日間パイロットの相談内容：</strong>対象職種・対象地域を指定し、求人件数の変化、Remote条件、Japan eligibility、観測時点と根拠URLを比較するレポートの提供可否を確認します。具体的な対象範囲・納品形式・納期・価格は要件確認後の見積です。現時点で購入や自動納品は確約しません。</p>
         <div class="gwr-inquiry-options" role="group" aria-label="Commercial inquiry options">
           <button type="button" class="gwr-inquiry-option" data-inquiry="paid_pilot">7-Day Custom Labor Signal Pilotを相談</button>
           <button type="button" class="gwr-inquiry-option" data-inquiry="custom_sample">自社向けSampleを見たい</button>
@@ -245,7 +246,7 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
         source: signal.source,
         scope: signal.scope,
         reaction,
-        commercial_intent: true,
+        commercial_intent: 'reaction_only_unverified',
         evidence_stage: 'buyer_reaction',
         ...gwrAttributionProperties()
       };
@@ -255,7 +256,7 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
         if (reactionEventMap[reaction]) window.posthog.capture(reactionEventMap[reaction], properties);
       }
       gwrSendSelfMakeEvent({
-        eventType: 'BUYER_SIGNAL',
+        eventType: 'REACTION_SELECTED',
         stage: 'buyer_reaction',
         externalId: properties.buyer_key || reaction,
         note: JSON.stringify({ reaction, signal_id: signal.id, buyer_key: properties.buyer_key || null })
@@ -294,28 +295,28 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
         scope: signal.scope,
         inquiry,
         reaction_context: reactionContext,
-        commercial_intent: true,
-        evidence_stage: 'buyer_inquiry',
+        commercial_intent: 'option_selected_unverified',
+        evidence_stage: 'inquiry_option_selected',
         evidence_timestamp: new Date().toISOString(),
         evidence_channel: attribution.attribution_channel || 'site_direct',
         evidence_action: inquiry,
         evidence_asset: 'laborIntelligenceSignal',
         evidence_url: window.location.href.split('#')[0],
         recovery_qualified: recoveryQualified,
-        recovery_status: recoveryQualified ? 'explicit_inquiry' : 'unattributed_intent',
-        revenue_distance: 'inquiry_to_contract',
+        recovery_status: recoveryQualified ? 'attributed_option_selected' : 'unattributed_option_selected',
+        revenue_distance: 'option_to_verified_inquiry',
         ...attribution
       };
       if (window.posthog && typeof window.posthog.capture === 'function') {
-        window.posthog.capture('gwr_buyer_inquiry', evidence);
-        if (inquiry === 'paid_pilot') window.posthog.capture('gwr_paid_pilot_request', evidence);
-        if (inquiry === 'custom_sample') window.posthog.capture('gwr_custom_sample_request', evidence);
-        if (inquiry === 'commercial_terms') window.posthog.capture('gwr_commercial_terms_request', evidence);
+        window.posthog.capture('gwr_inquiry_option_selected', evidence);
+        if (inquiry === 'paid_pilot') window.posthog.capture('gwr_paid_pilot_option_selected', evidence);
+        if (inquiry === 'custom_sample') window.posthog.capture('gwr_custom_sample_option_selected', evidence);
+        if (inquiry === 'commercial_terms') window.posthog.capture('gwr_commercial_terms_option_selected', evidence);
         if (recoveryQualified) window.posthog.capture('gwr_buyer_reaction_recovered', evidence);
       }
       gwrSendSelfMakeEvent({
-        eventType: 'BUYER_SIGNAL',
-        stage: 'buyer_inquiry',
+        eventType: 'INQUIRY_OPTION_SELECTED',
+        stage: 'inquiry_option_selected',
         externalId: attribution.buyer_key || inquiry,
         note: JSON.stringify({ inquiry, reaction_context: reactionContext, signal_id: signal.id, buyer_key: attribution.buyer_key || null })
       });
@@ -327,8 +328,8 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
       const status = section.querySelector('#gwrInquiryStatus');
       if (status) {
         status.textContent = recoveryQualified
-          ? '問い合わせ意向を記録しました。次のボタンからGWR専用窓口へ要件を送れます。'
-          : '問い合わせ意向を記録しました。次のボタンからGWR専用窓口へ要件を送れます。';
+          ? '相談項目を選択しました。メール作成画面で必要事項を入力し、送信すると問い合わせが成立します。'
+          : '相談項目を選択しました。メール作成画面で必要事項を入力し、送信すると問い合わせが成立します。';
         const priorLink = section.querySelector('.gwr-contact-link');
         if (priorLink) priorLink.remove();
         const subjectMap = {
@@ -370,7 +371,7 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
             });
           }
           gwrSendSelfMakeEvent({
-            eventType: 'BUYER_SIGNAL',
+            eventType: 'CONTACT_LINK_OPENED',
             stage: 'commercial_contact_opened',
             externalId: attribution.buyer_key || inquiry,
             note: JSON.stringify({ inquiry, signal_id: signal.id, contact_channel: 'email', buyer_key: attribution.buyer_key || null })
