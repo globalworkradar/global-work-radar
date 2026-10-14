@@ -246,7 +246,7 @@ function gwrSendSelfMakeEvent({ eventType='BUYER_SIGNAL', stage, externalId='', 
         source: signal.source,
         scope: signal.scope,
         reaction,
-        commercial_intent: true,
+        commercial_intent: 'reaction_only_unverified',
         evidence_stage: 'buyer_reaction',
         ...gwrAttributionProperties()
       };
