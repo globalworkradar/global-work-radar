@@ -9,7 +9,7 @@ Buyer: Japan-oriented staffing firms, recruitment research teams, or HR consulti
 Paid outcome: an auditable 7-day change report that helps choose a target role, employer segment, or sourcing market. Not candidate matching, placements, application handling, or legal hiring advice.
 
 ## Proposed pilot terms — subject to buyer validation
-Test price: JPY 9,800 one-time, tax treatment and checkout not yet verified.
+Existing PR #11 contains an indicative JPY 29,800 quote for a scoped 7-day pilot. This is NOT an approved list price or live checkout. Final price, taxes, scope, terms, and payment method require buyer-specific confirmation. Do not publish the former JPY 9,800 draft price.
 Scope: one defined role/language segment and up to three agreed comparison cuts; seven calendar days of observable public-source snapshots, if available.
 Delivery: Japanese-language concise PDF or web report, a decision summary, and source-linked structured appendix where redistribution is permitted.
 Timing: agree the reporting period and delivery date before accepting any order. Do not promise coverage or turnaround unless source refresh and delivery capacity are verified.
