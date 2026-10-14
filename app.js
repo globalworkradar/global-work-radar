@@ -343,7 +343,7 @@ function escapeHtml(value=''){
 
 function card(j){
   const official=validOfficialDestination(j);
-  const cta=j.japan?'Japan eligible確認済み → 公式求人':'公式求人で条件を確認';
+  const cta=j.japan?'日本対象の求人条件を公式で確認':'公式求人で条件を確認';
   const accessibleCta=`${cta}：${j.title||'求人'}（新しいタブで公式サイトを開く）`;
   const link=official
     ?`<a class="official-apply" href="${escapeHtml(j.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(accessibleCta)}" data-job-id="${escapeHtml(j.id||'')}" data-source="${escapeHtml(j.source||'')}" data-score="${actionabilityScore(j,state.intent)}">${cta} ↗</a>`

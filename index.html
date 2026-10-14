@@ -107,7 +107,7 @@
   <div id="globalStatus" class="sr-only" role="status" aria-live="polite"></div>
   <header class="site-header">
     <a class="brand" href="#top" aria-label="Global Work Radar ホーム"><span class="brand-mark" aria-hidden="true"><span></span></span><span class="brand-copy"><strong>Global Work Radar</strong><small>LABOR INTELLIGENCE · JAPAN</small></span></a>
-    <nav aria-label="メインナビゲーション"><a href="#pulse">Today</a><a href="#signals">Signals</a><a href="#jobs">Jobs</a><a href="#about">Method</a></nav>
+    <nav aria-label="メインナビゲーション"><a href="#pulse">Today</a><a href="#signals">Signals</a><a href="#jobs">Jobs</a><a href="#about">Method</a><a href="#businessPilot">企業向け調査</a></nav>
     <a class="header-cta" href="#pulse"><span class="live-dot" aria-hidden="true"></span> Live</a>
   </header>
 
@@ -127,9 +127,10 @@
 
       <section class="market-board" id="marketSummary" aria-labelledby="marketHeading">
         <div class="board-head"><div><span class="kicker">TODAY · MARKET</span><h2 id="marketHeading">今日の市場。</h2></div><a class="board-link" href="#signals">Signalへ <span aria-hidden="true">→</span></a></div>
-        <div class="metrics" aria-label="市場スナップショット"><article class="metric-card"><span>VERIFIED</span><strong id="metricJobs">0</strong><small>確認済み・Active</small></article><article class="metric-card featured"><span>JAPAN ELIGIBLE</span><strong id="metricJapan">0</strong><small>日本から応募可を確認</small></article><article class="metric-card"><span>REMOTE</span><strong id="metricRemote">0</strong><small>Remote表記</small></article><article class="metric-card freshness-card"><span>LATEST CHECK</span><strong id="metricFresh">—</strong><small>最終確認からの経過</small></article></div>
-        <table class="sr-only" aria-label="市場スナップショットの表"><caption>Global Work Radar 今日の市場</caption><tbody><tr><th>確認済み求人</th><td id="metricJobsA11y">読込中</td></tr><tr><th>日本から応募可能</th><td id="metricJapanA11y">読込中</td></tr><tr><th>Remote</th><td id="metricRemoteA11y">読込中</td></tr><tr><th>最終確認</th><td id="metricFreshA11y">読込中</td></tr></tbody></table>
+        <div class="metrics" aria-label="市場スナップショット"><article class="metric-card"><span>VERIFIED</span><strong id="metricJobs">0</strong><small>確認済み・Active</small></article><article class="metric-card featured"><span>JAPAN ELIGIBLE</span><strong id="metricJapan">0</strong><small>日本対象・地域条件の根拠あり</small></article><article class="metric-card"><span>REMOTE</span><strong id="metricRemote">0</strong><small>Remote表記</small></article><article class="metric-card freshness-card"><span>LATEST CHECK</span><strong id="metricFresh">—</strong><small>最終確認からの経過</small></article></div>
+        <table class="sr-only" aria-label="市場スナップショットの表"><caption>Global Work Radar 今日の市場</caption><tbody><tr><th>確認済み求人</th><td id="metricJobsA11y">読込中</td></tr><tr><th>日本対象・地域条件の根拠あり</th><td id="metricJapanA11y">読込中</td></tr><tr><th>Remote</th><td id="metricRemoteA11y">読込中</td></tr><tr><th>最終確認</th><td id="metricFreshA11y">読込中</td></tr></tbody></table>
         <div class="market-rule"><strong>REMOTE ≠ WORLDWIDE ≠ JAPAN ELIGIBLE</strong></div>
+        <p class="partner-disclosure">Japan eligibleは公開求人の勤務地・対象地域に関する判定です。個人の応募資格、就労許可、採用可否を保証しません。</p>
         <div class="decision-strip" aria-label="判断支援">
           <article class="decision-card"><small>CHANGE</small><strong id="decisionChange">最新の変化を確認中。</strong><p id="decisionChangeContext">観測期間と対象範囲を分けて表示します。</p></article>
           <article class="decision-card"><small>MEANING</small><strong id="decisionMeaning">日本から実際に動ける求人を分離します。</strong><p>Remote表記だけでは応募地域を断定しません。</p></article>
@@ -163,6 +164,19 @@
 
     <section id="revenuePartner" class="partner-section revenue-panel" hidden aria-label="Global work setup partner"><div class="signal-index"><small>PARTNER</small><strong>↗</strong></div><div class="signal-copy"><span class="kicker">FOR GLOBAL TEAMS</span><h2>海外人材の契約・支払いをまとめる。</h2><p>外部サービス。GWRは仲介しません。</p><small id="revenueDisclosure" class="partner-disclosure"></small></div><a id="revenuePartnerLink" class="partner-cta revenue-cta" href="#" target="_blank" rel="sponsored noopener noreferrer">Partner <span aria-hidden="true">↗</span></a></section>
 
+    <section class="principles" id="businessPilot" aria-labelledby="businessPilotTitle">
+      <div class="principles-intro">
+        <span class="kicker">FOR BUSINESS · CUSTOM RESEARCH</span>
+        <h2 id="businessPilotTitle">採用市場の比較調査を、意思決定に。</h2>
+        <p>7-Day Custom Labor Signal Pilot：採用担当者・人材紹介会社・海外事業担当者向け。指定した職種・地域・競合企業の公開求人を比較し、採用市場の判断材料を7日間の調査でまとめます。</p>
+        <p><strong>初回価格案：29,800円（税込・税別などの取引条件は見積時に確定）。</strong> 確定価格ではありません。正式な調査範囲と納期は見積もり・双方の合意後に決定します。</p>
+        <p>納品案：企業・職種別の比較表、公式求人URL、Remote／日本対象地域の根拠、確認日時、差分が検証できる場合の変化、データの限界を記載した簡潔なレポート。採用成功・市場網羅性・個人の応募資格は保証しません。</p>
+        <p>進め方：調査テーマ相談 → 対象・納品条件・料金・修正回数・納期を文面で合意 → 安全な既存決済手段を案内 → 入金確認 → 調査開始 → 納品。問い合わせのみで契約・請求は発生しません。</p>
+        <p><a class="header-cta" href="mailto:globalworkradar@gmail.com?subject=GWR%207-Day%20Labor%20Signal%20Pilot%20%E7%9B%B8%E8%AB%87&body=%E3%80%90%E8%AA%BF%E6%9F%BB%E3%81%97%E3%81%9F%E3%81%84%E8%81%B7%E7%A8%AE%E3%80%91%0A%E3%80%90%E5%AF%BE%E8%B1%A1%E5%9C%B0%E5%9F%9F%E3%80%91%0A%E3%80%90%E6%AF%94%E8%BC%83%E3%81%97%E3%81%9F%E3%81%84%E4%BC%81%E6%A5%AD%EF%BC%88%E4%BB%BB%E6%84%8F%EF%BC%89%E3%80%91%0A%E3%80%90%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E5%88%A4%E6%96%AD%E3%80%91%0A%E3%80%90%E5%B8%8C%E6%9C%9B%E7%B4%8D%E6%9C%9F%EF%BC%88%E4%BB%BB%E6%84%8F%EF%BC%89%E3%80%91%0A">調査内容をメールで相談 <span aria-hidden="true">↗</span></a></p>
+        <p><small>メールソフトが開きます。ボタン操作だけでは問い合わせ送信・契約・決済は成立しません。</small></p>
+      </div>
+    </section>
+
     <section class="principles" id="about"><div class="principles-intro"><span class="kicker">METHOD</span><h2>数字を混ぜない。</h2><p>判断に使えることを優先し、表示件数そのものを価値にしません。</p></div><div class="principle-grid"><article><span>01</span><h3>Signal first</h3><p>変化を先に見る。</p></article><article><span>02</span><h3>Evidence first</h3><p>公式Sourceと鮮度を優先。</p></article><article><span>03</span><h3>Action first</h3><p>日本から動ける公式応募先へつなぐ。</p></article></div></section>
   </main>
 
@@ -185,7 +199,7 @@
     const mirrorMetrics=()=>{[['metricJobs','metricJobsA11y'],['metricJapan','metricJapanA11y'],['metricRemote','metricRemoteA11y'],['metricFresh','metricFreshA11y']].forEach(([from,to])=>{const a=document.getElementById(from),b=document.getElementById(to);if(a&&b)b.textContent=a.textContent||'—'});const jp=Number(document.getElementById('metricJapan')?.textContent)||0,remote=Number(document.getElementById('metricRemote')?.textContent)||0,verified=Number(document.getElementById('metricJobs')?.textContent)||0;const meaning=document.getElementById('decisionMeaning'),risk=document.getElementById('decisionRisk'),action=document.getElementById('decisionAction');if(meaning)meaning.textContent=jp?`確認済み${verified}件のうち、日本から応募可能を確認できた求人は${jp}件。`:'日本から応募可能な確認済み求人を抽出中。';if(risk)risk.textContent=remote>jp?`Remote ${remote}件すべてが日本から応募可能とは限りません。地域条件の取り違えが主要Riskです。`:'Remote表記とJapan eligibilityを別々に確認します。';if(action)action.textContent=jp?`${jp}件のJapan eligibleを、鮮度と公式応募先で優先確認。`:'条件を広げる前に最新データを確認。'};
     ['metricJobs','metricJapan','metricRemote','metricFresh'].forEach(id=>{const el=document.getElementById(id);if(el)new MutationObserver(mirrorMetrics).observe(el,{childList:true,subtree:true,characterData:true})});mirrorMetrics();
 
-    const syncDecisionSignal=()=>{const s=window.GWR_INTELLIGENCE_SIGNAL,change=document.getElementById('decisionChange'),ctx=document.getElementById('decisionChangeContext');if(!s||!change||!ctx)return;change.textContent=`日本語関連求人 ${s.startJapaneseJobs} → ${s.endJapaneseJobs}（+${s.japaneseGrowthPct}%）`;ctx.textContent=`${s.source} · 観測範囲限定。原因は断定せず、需要変化の候補Signalとして扱います。`};
+    const syncDecisionSignal=()=>{const s=window.GWR_INTELLIGENCE_SIGNAL,change=document.getElementById('decisionChange'),ctx=document.getElementById('decisionChangeContext');if(!s||!change||!ctx)return;const start=Number(s.startJapaneseJobs),end=Number(s.endJapaneseJobs),pct=Number(s.japaneseGrowthPct);if(s.startJapaneseJobs==null||s.endJapaneseJobs==null||s.japaneseGrowthPct==null||![start,end,pct].every(Number.isFinite)){change.textContent='日本語関連求人の変化：比較可能なデータを確認中';ctx.textContent='観測期間・母数が揃うまで増減率を表示しません。';return;}change.textContent=`日本語関連求人 ${start} → ${end}（${pct>0?'+':''}${pct}%）`;ctx.textContent=`${typeof s.source==='string'&&s.source.trim()?s.source:'公開求人データ'} · 観測範囲限定。原因は断定せず、需要変化の候補Signalとして扱います。`;};
     addEventListener('DOMContentLoaded',syncDecisionSignal,{once:true});
 
     const count=document.getElementById('resultCount');if(count)new MutationObserver(()=>{const n=Number(count.textContent)||0;if(status?.dataset.state==='ready'){status.textContent=n?`現在の条件で ${n}件`:'現在の条件では0件';setEmptyCopy('filters')}}).observe(count,{childList:true,subtree:true,characterData:true});
@@ -193,7 +207,7 @@
     const heroJobs=document.getElementById('heroJobsCta');heroJobs?.addEventListener('click',event=>{event.preventDefault();const button=document.getElementById('searchButton');if(button)button.click();else document.getElementById('jobs')?.scrollIntoView({behavior:reduced?'auto':'smooth'});document.getElementById('keyword')?.focus({preventScroll:true})});
     addEventListener('keydown',event=>{const tag=document.activeElement?.tagName?.toLowerCase();if(event.key==='/'&&!event.metaKey&&!event.ctrlKey&&!event.altKey&&!['input','select','textarea','button'].includes(tag)&&!document.activeElement?.isContentEditable){event.preventDefault();document.getElementById('keyword')?.focus()}});
 
-    const navLinks=[...document.querySelectorAll('.site-header nav a[href^="#"]')],sections=['pulse','signals','jobs','about'].map(id=>document.getElementById(id)).filter(Boolean);if('IntersectionObserver'in window&&sections.length){const io=new IntersectionObserver(entries=>entries.forEach(entry=>{if(!entry.isIntersecting)return;navLinks.forEach(a=>{const active=a.getAttribute('href')==='#'+entry.target.id;a.classList.toggle('is-current',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}),{rootMargin:'-28% 0px -62% 0px'});sections.forEach(s=>io.observe(s))}
+    const navLinks=[...document.querySelectorAll('.site-header nav a[href^="#"]')],sections=['pulse','signals','jobs','businessPilot','about'].map(id=>document.getElementById(id)).filter(Boolean);if('IntersectionObserver'in window&&sections.length){const io=new IntersectionObserver(entries=>entries.forEach(entry=>{if(!entry.isIntersecting)return;navLinks.forEach(a=>{const active=a.getAttribute('href')==='#'+entry.target.id;a.classList.toggle('is-current',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}),{rootMargin:'-28% 0px -62% 0px'});sections.forEach(s=>io.observe(s))}
 
     const heroTop=document.getElementById('heroTopOpportunity'),marketLink=document.getElementById('marketSignalLink'),marketTitle=document.getElementById('marketSignalTitle');const syncHero=()=>{const href=marketLink?.getAttribute('href')||'';if(!heroTop||!/^https:\/\//i.test(href))return;heroTop.href=href;heroTop.dataset.jobId=marketLink.dataset.jobId||'';heroTop.dataset.source=marketLink.dataset.source||'';heroTop.dataset.score=marketLink.dataset.score||'';heroTop.hidden=false;heroTop.setAttribute('aria-label',`今日の最有力求人を公式で見る：${marketTitle?.textContent||'verified opportunity'}`)};if(marketLink){new MutationObserver(syncHero).observe(marketLink,{attributes:true,attributeFilter:['href','data-job-id','data-source','data-score']});setTimeout(syncHero,0);setTimeout(syncHero,900)}
   }());
