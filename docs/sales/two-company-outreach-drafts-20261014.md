@@ -54,3 +54,9 @@ https://global-work-radar.pages.dev/
 TORANOMON: RESEARCHED → DRAFTED → AWAITING_CHANNEL_VERIFICATION_AND_SEND_APPROVAL.
 Daijob: RESEARCHED → DRAFTED → AWAITING_CHANNEL_VERIFICATION_AND_SEND_APPROVAL.
 SENT 0 | VERIFIED REPLIES 0 | QUOTES 0 | CONTRACTS 0 | PAYMENTS 0.
+
+## 2026-10-14 official-contact readback correction
+- Daijob ordinary inquiry https://biz.daijob.com/en/register explicitly prohibits sales inquiries. Do NOT use it for vendor pitches.
+- Daijob dedicated vendor/business inquiry https://biz.daijob.com/en/register-biz explicitly accepts product/service sales and partnership inquiries. The form requires a company-domain email (free email domains rejected), phone number, name, and company name. No submission attempted; do not fabricate business identity or contact details.
+- TORANOMON https://www.toranomoncorp.com/en/contact/ publicly lists contact@toranomoncorp.com, but the embedded form asks candidate-specific questions (Japanese level/location). Do NOT use the candidate form for vendor sales. Email is a possible route only after suitability and permission are checked.
+- Decision: HOLD all external sending pending suitable sender identity, valid contact details, and explicit send approval. No buyer response or payment established.
