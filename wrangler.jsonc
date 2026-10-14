@@ -1,0 +1,9 @@
+{
+  // GWR static-asset preview configuration. Keep production deployment unchanged.
+  "name": "global-work-radar",
+  "compatibility_date": "2026-10-13",
+  "assets": {
+    "directory": "."
+  },
+  "previews": {}
+}
