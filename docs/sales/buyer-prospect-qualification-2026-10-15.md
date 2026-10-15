@@ -25,3 +25,8 @@ One earlier outbound email to TORANOMON Corporation; do not resend or treat as a
 
 ## Next action
 Prioritize a verified vendor/partner intake channel and an individualized, evidence-based offer. No new product/site/scheduler; protect live job data and current deployment.
+
+## Tokyo Gateway channel verification (2026-10-15)
+- Official contact page: https://tokyogw.jp/s_-u2fvnjmv/
+- The page offers a contact form for companies seeking Tokyo Gateway's own Japan market-entry, staffing and research services. It does not explicitly solicit vendor/partnership pitches.
+- Decision: HOLD outreach via this customer-service form; do not count it as a permissioned supplier contact. Revisit only after finding an appropriate partnership/vendor intake channel or inbound request.
