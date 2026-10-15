@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T08:49:17.742Z",
-  "source_generated_at": "2026-10-15T08:49:17.549Z",
+  "generated_at": "2026-10-15T12:57:56.462Z",
+  "source_generated_at": "2026-10-15T12:57:56.267Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 10,
+  "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-da58a7d6077a",
+      "candidate_id": "gwr-alert-ffa7cd1986a6",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 100,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da58a7d6077a&q=W…",
-        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da58a7d6077a&q=Welo+Global&intent=general",
-        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da58a7d6077a&q=Welo+Global&intent=general"
+        "x": "【GWR ALERT】AI Robot Association｜STR-010 Alliance Business Development, Corporate Strategy Division｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
+        "bluesky": "GWR ALERT｜AI Robot Association｜STR-010 Alliance Business Development, Corporate Strategy Division｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ffa7cd1986a6&q=AI+Rob…",
+        "linkedin": "GWR Market Alert AI Robot Association｜STR-010 Alliance Business Development, Corporate Strategy Division｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ffa7cd1986a6&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da58a7d6077a&q=Welo+Global&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ffa7cd1986a6&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "lever-42ce648bca4d15849a24844a",
-          "employer": "Welo Global",
-          "title": "Japanese Sports Localization Specialist (Football)",
-          "source": "Lever / Welo Global",
-          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-15T08:48:17.845Z",
+          "job_id": "workable-1fed8fc063",
+          "employer": "AI Robot Association",
+          "title": "STR-010 Alliance Business Development, Corporate Strategy Division",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/1FED8FC063",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-2e20d2e35475",
+      "candidate_id": "gwr-alert-ee127190e9dc",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 100,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2e20d2e35475&q=Mindrift&intent=general",
-        "bluesky": "GWR ALERT｜Mindrift｜CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2e20d2e35475&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜CFD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2e20d2e35475&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】AI Robot Association｜STR-011 Business Operations, Corporate Strategy Division｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-a…",
+        "bluesky": "GWR ALERT｜AI Robot Association｜STR-011 Business Operations, Corporate Strategy Division｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ee127190e9dc&q=AI+Robot+Associa…",
+        "linkedin": "GWR Market Alert AI Robot Association｜STR-011 Business Operations, Corporate Strategy Division｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ee127190e9dc&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2e20d2e35475&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ee127190e9dc&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "workable-aa14415719",
-          "employer": "Mindrift",
-          "title": "CFD Engineer - AI Trainer",
+          "job_id": "workable-c2488c6f17",
+          "employer": "AI Robot Association",
+          "title": "STR-011 Business Operations, Corporate Strategy Division",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AA14415719",
-          "last_verified_at": "2026-10-15T08:48:55.353Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/C2488C6F17",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-40feca521296",
+      "candidate_id": "gwr-alert-272045b15da8",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 99,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】BoostDraft｜Head of Design｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-40feca521296&q=BoostDraft&intent=general",
-        "bluesky": "GWR ALERT｜BoostDraft｜Head of Design｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-40feca521296&q=BoostDraft&intent=general",
-        "linkedin": "GWR Market Alert BoostDraft｜Head of Design｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-40feca521296&q=BoostDraft&intent=general"
+        "x": "【GWR ALERT】Komodo Co., Ltd.｜財務データ基盤エンジニア Senior Accounting Engineer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-272045b15da8&q=K…",
+        "bluesky": "GWR ALERT｜Komodo Co., Ltd.｜財務データ基盤エンジニア Senior Accounting Engineer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-272045b15da8&q=Komodo+Co.%2C+Ltd.&intent=general",
+        "linkedin": "GWR Market Alert Komodo Co., Ltd.｜財務データ基盤エンジニア Senior Accounting Engineer｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-272045b15da8&q=Komodo+Co.%2C+Ltd.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-40feca521296&q=BoostDraft&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-272045b15da8&q=Komodo+Co.%2C+Ltd.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-0e4cd16d16",
-          "employer": "BoostDraft",
-          "title": "Head of Design",
+          "job_id": "workable-beb758ead3",
+          "employer": "Komodo Co., Ltd.",
+          "title": "財務データ基盤エンジニア Senior Accounting Engineer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0E4CD16D16",
-          "last_verified_at": "2026-10-15T08:48:55.353Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/BEB758EAD3",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -149,27 +149,27 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-ccd604f11441",
+      "candidate_id": "gwr-alert-372b450e5040",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 98,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ccd604f11441&q=Mindrift…",
-        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ccd604f11441&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ccd604f11441&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-372b450e5040&q=W…",
+        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-372b450e5040&q=Welo+Global&intent=general",
+        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-372b450e5040&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ccd604f11441&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-372b450e5040&q=Welo+Global&intent=general",
       "evidence": [
         {
-          "job_id": "workable-e44f729af4",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E44F729AF4",
-          "last_verified_at": "2026-10-15T08:48:55.353Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-15T12:56:58.872Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-0b19ad4e93b3",
+      "candidate_id": "gwr-open-c3e38b5caadc",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 93,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0b19ad…",
-        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0b19ad4e93b3&q=Welo+Global&inte…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0b19ad4e93b3&q=Welo+Global&intent=remote"
+        "x": "【GWR OPEN】STR-010 Alliance Business Development, Corporate Strategy Division｜AI Robot Association｜Heiwajima, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth…",
+        "bluesky": "GWR OPEN｜STR-010 Alliance Business Development, Corporate Strategy Division｜AI Robot Association｜Heiwajima, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c3e…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 STR-010 Alliance Business Development, Corporate Strategy Division｜AI Robot Association｜Heiwajima, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c3e38b5caadc&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0b19ad4e93b3&q=Welo+Global&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c3e38b5caadc&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "lever-42ce648bca4d15849a24844a",
-          "employer": "Welo Global",
-          "title": "Japanese Sports Localization Specialist (Football)",
-          "source": "Lever / Welo Global",
-          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
-          "last_verified_at": "2026-10-15T08:48:17.845Z",
+          "job_id": "workable-1fed8fc063",
+          "employer": "AI Robot Association",
+          "title": "STR-010 Alliance Business Development, Corporate Strategy Division",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/1FED8FC063",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-03bfd3d206ff",
+      "candidate_id": "gwr-open-7165ac652329",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 93,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-03bfd3d206ff&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-03bfd3d206ff&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-03bfd3d206ff&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】STR-011 Business Operations, Corporate Strategy Division｜AI Robot Association｜Heiwajima, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_conte…",
+        "bluesky": "GWR OPEN｜STR-011 Business Operations, Corporate Strategy Division｜AI Robot Association｜Heiwajima, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7165ac652329&…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 STR-011 Business Operations, Corporate Strategy Division｜AI Robot Association｜Heiwajima, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7165ac652329&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-03bfd3d206ff&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7165ac652329&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "workable-aa14415719",
-          "employer": "Mindrift",
-          "title": "CFD Engineer - AI Trainer",
+          "job_id": "workable-c2488c6f17",
+          "employer": "AI Robot Association",
+          "title": "STR-011 Business Operations, Corporate Strategy Division",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AA14415719",
-          "last_verified_at": "2026-10-15T08:48:55.353Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/C2488C6F17",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-b6a2ba076022",
+      "candidate_id": "gwr-open-e37fd72d2222",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 92,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Head of Design｜BoostDraft｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b6a2ba076022&q=BoostDraft&intent=remote",
-        "bluesky": "GWR OPEN｜Head of Design｜BoostDraft｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b6a2ba076022&q=BoostDraft&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Head of Design｜BoostDraft｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b6a2ba076022&q=BoostDraft&intent=remote"
+        "x": "【GWR OPEN】財務データ基盤エンジニア Senior Accounting Engineer｜Komodo Co., Ltd.｜Akihabara, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e37fd72d2…",
+        "bluesky": "GWR OPEN｜財務データ基盤エンジニア Senior Accounting Engineer｜Komodo Co., Ltd.｜Akihabara, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e37fd72d2222&q=Komodo+Co.%2C+Ltd.&…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 財務データ基盤エンジニア Senior Accounting Engineer｜Komodo Co., Ltd.｜Akihabara, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e37fd72d2222&q=Komodo+Co.%2C+Ltd.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b6a2ba076022&q=BoostDraft&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e37fd72d2222&q=Komodo+Co.%2C+Ltd.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-0e4cd16d16",
-          "employer": "BoostDraft",
-          "title": "Head of Design",
+          "job_id": "workable-beb758ead3",
+          "employer": "Komodo Co., Ltd.",
+          "title": "財務データ基盤エンジニア Senior Accounting Engineer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0E4CD16D16",
-          "last_verified_at": "2026-10-15T08:48:55.353Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/BEB758EAD3",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -301,27 +301,27 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-07930d7c6784",
+      "candidate_id": "gwr-open-e8b8c5210a9b",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 91,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-07930d7c6784&q=Mindrift&inte…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-07930d7c6784&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-07930d7c6784&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e8b8c5…",
+        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e8b8c5210a9b&q=Welo+Global&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e8b8c5210a9b&q=Welo+Global&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-07930d7c6784&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e8b8c5210a9b&q=Welo+Global&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-e44f729af4",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E44F729AF4",
-          "last_verified_at": "2026-10-15T08:48:55.353Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-15T12:56:58.872Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -339,29 +339,29 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-43ee5a041f31",
+      "candidate_id": "gwr-open-44565abcefab",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 88,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-43ee5a041f31&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-43ee5a041f31&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-43ee5a041f31&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】STR-008 International Standardization Lead, Corporate Strategy Division｜AI Robot Association｜Ota-ku, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_grow…",
+        "bluesky": "GWR OPEN｜STR-008 International Standardization Lead, Corporate Strategy Division｜AI Robot Association｜Ota-ku, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 STR-008 International Standardization Lead, Corporate Strategy Division｜AI Robot Association｜Ota-ku, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-44565abcefab&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-43ee5a041f31&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-44565abcefab&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "workable-766cd1fae9",
-          "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "job_id": "workable-6803e7667d",
+          "employer": "AI Robot Association",
+          "title": "STR-008 International Standardization Lead, Corporate Strategy Division",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/766CD1FAE9",
-          "last_verified_at": "2026-10-15T08:48:55.353Z",
+          "official_url": "https://apply.workable.com/j/6803E7667D",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
           "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -377,29 +377,29 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-b0454c7da22d",
+      "candidate_id": "gwr-open-935b2f24afe8",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 83,
-      "source_generated_at": "2026-10-15T08:49:17.549Z",
+      "score": 88,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b0454c7da22d&q=RWS+TrainAI&intent=gener…",
-        "bluesky": "GWR OPEN｜AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b0454c7da22d&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b0454c7da22d&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】STR-009 Manager, Corporate Strategy Division｜AI Robot Association｜Ota-ku, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-935…",
+        "bluesky": "GWR OPEN｜STR-009 Manager, Corporate Strategy Division｜AI Robot Association｜Ota-ku, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-935b2f24afe8&q=AI+Robot+Asso…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 STR-009 Manager, Corporate Strategy Division｜AI Robot Association｜Ota-ku, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-935b2f24afe8&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b0454c7da22d&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-935b2f24afe8&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "lever-d260f27c2b2c937206a47fee",
-          "employer": "RWS TrainAI",
-          "title": "AI Data Specialist - Japanese",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
-          "last_verified_at": "2026-10-15T08:48:17.845Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "job_id": "workable-83d5b6b6a1",
+          "employer": "AI Robot Association",
+          "title": "STR-009 Manager, Corporate Strategy Division",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/83D5B6B6A1",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -413,6 +413,148 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
+    },
+    {
+      "candidate_id": "gwr-shift-5126423be749",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 86,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】AI Robot Association：GWR確認求人 48→50（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5126423be749&q=AI+Robot+Association&intent=general",
+        "bluesky": "GWR SHIFT｜AI Robot Association：GWR確認求人 48→50（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5126423be749&q=AI+Robot+Association&intent=general",
+        "linkedin": "GWR Market Shift AI Robot Association：GWR確認求人 48→50（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5126423be749&q=AI+Robot+Association&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5126423be749&q=AI+Robot+Association&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-41f439e0a6",
+          "employer": "AI Robot Association",
+          "title": "R&D-023 MLOps Engineer",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/41F439E0A6",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-6b151a6914",
+          "employer": "AI Robot Association",
+          "title": "R&D-014 Intern Research Scientist (VLAs)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/6B151A6914",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-d27bc4d685",
+          "employer": "AI Robot Association",
+          "title": "R&D-013 Junior Research Scientist (VLAs)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/D27BC4D685",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-450c7cea45",
+          "employer": "AI Robot Association",
+          "title": "R&D-012 Research Scientist (VLAs)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/450C7CEA45",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 11
+    },
+    {
+      "candidate_id": "gwr-shift-5f26f746be43",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 82,
+      "source_generated_at": "2026-10-15T12:57:56.267Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】Komodo Co., Ltd.：GWR確認求人 7→8（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5f26f746be43&q=Komodo+Co.%2C+Ltd.&intent=general",
+        "bluesky": "GWR SHIFT｜Komodo Co., Ltd.：GWR確認求人 7→8（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5f26f746be43&q=Komodo+Co.%2C+Ltd.&intent=general",
+        "linkedin": "GWR Market Shift Komodo Co., Ltd.：GWR確認求人 7→8（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5f26f746be43&q=Komodo+Co.%2C+Ltd.&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5f26f746be43&q=Komodo+Co.%2C+Ltd.&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-9134732ca9",
+          "employer": "Komodo Co., Ltd.",
+          "title": "Senior Business Development Specialist / シニア事業開発 スペシャリスト",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/9134732CA9",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-cdd7f003d8",
+          "employer": "Komodo Co., Ltd.",
+          "title": "Senior Software Engineer / シニア･ソフトウェア･エンジニア",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/CDD7F003D8",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-8fadf03758",
+          "employer": "Komodo Co., Ltd.",
+          "title": "スペシャリスト、マーケティング/ Specialist, Marketing (Games and Manga)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/8FADF03758",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-c7a5c3e911",
+          "employer": "Komodo Co., Ltd.",
+          "title": "3D Animator / 3Dアニメーター",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/C7A5C3E911",
+          "last_verified_at": "2026-10-15T12:57:34.097Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 12
     }
   ]
 }
