@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-17T16:42:56.239Z",
+  "observed_at": "2026-10-17T20:40:09.630Z",
   "run": {
-    "github_run_id": "39050502213",
+    "github_run_id": "39067630085",
     "github_run_attempt": "1",
-    "github_sha": "b59188f9da66abaf79c8d0be91df121329939961",
+    "github_sha": "b88268b6542a86ebbdafff29daca65f505516cf8",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 507,
+    "previous_count": 508,
     "current_count": 508,
     "source_counts": {
       "lever": 29,
@@ -16,13 +16,11 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 5,
-    "added_count": 1,
+    "meaningful_change_count": 2,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 4,
-    "added_ids": [
-      "workable-8de0b05e5f"
-    ],
+    "changed_count": 2,
+    "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
@@ -33,24 +31,9 @@
         ]
       },
       {
-        "id": "workable-835ec95cdd",
+        "id": "workable-8de0b05e5f",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-68e84af5e4",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-36ab4fbe59",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
+          "hiring_momentum_state"
         ]
       }
     ]
@@ -72,7 +55,7 @@
         "REVIEW": 58
       },
       "reopened_after_confirmed_close_count": 2,
-      "changed_within_7d_count": 78,
+      "changed_within_7d_count": 79,
       "thresholds_days": {
         "aging": 30,
         "long_running": 60,
@@ -82,9 +65,9 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
-        "MODERATE_EVIDENCE": 136,
+        "MODERATE_EVIDENCE": 137,
         "WEAK_EVIDENCE": 362,
-        "STRONG_EVIDENCE": 10
+        "STRONG_EVIDENCE": 9
       },
       "score_is_probability": false,
       "ghost_job_classifier": false,
