@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-18T12:48:40.741Z",
+  "observed_at": "2026-10-18T16:42:33.636Z",
   "run": {
-    "github_run_id": "39128774069",
+    "github_run_id": "39146165979",
     "github_run_attempt": "1",
-    "github_sha": "8d3a596b08d65c739da16e4d3d64bf24aa0611d9",
+    "github_sha": "f242beebb5c2b3b514b2a974be03c5e05067c397",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,36 +16,22 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 4,
+    "meaningful_change_count": 2,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 4,
+    "changed_count": 2,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-fd7370d9ae",
+        "id": "workable-4dfbcff3e5",
         "fields": [
           "lifecycle_state",
-          "lifecycle_stale_risk"
+          "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-beb758ead3",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-1fed8fc063",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-c2488c6f17",
+        "id": "workable-8de0b05e5f",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
@@ -56,13 +42,13 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 27,
+        "NEW_24H": 26,
         "STALE_RISK_90D": 224,
-        "AGING_30D": 98,
+        "AGING_30D": 99,
         "LONG_RUNNING_60D": 58,
-        "ACTIVE": 78,
+        "ACTIVE": 77,
         "FRESH_7D": 17,
-        "NEW_3D": 9
+        "NEW_3D": 10
       },
       "stale_risk_counts": {
         "LOW": 227,
@@ -80,8 +66,8 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
-        "MODERATE_EVIDENCE": 132,
-        "WEAK_EVIDENCE": 367,
+        "MODERATE_EVIDENCE": 131,
+        "WEAK_EVIDENCE": 368,
         "STRONG_EVIDENCE": 12
       },
       "score_is_probability": false,
