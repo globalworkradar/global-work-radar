@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-19T00:57:14.334Z",
+  "observed_at": "2026-10-19T04:47:53.856Z",
   "run": {
-    "github_run_id": "39183004515",
+    "github_run_id": "39201155296",
     "github_run_attempt": "1",
-    "github_sha": "95a74806b31bef6c15994c7d3473f127e49935bd",
+    "github_sha": "3409887f502982dd969a948db35400335faf4436",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,38 +16,47 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 4,
+    "meaningful_change_count": 5,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 4,
+    "changed_count": 5,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-8ecfdd8a68",
+        "id": "workable-c26d31b1b9",
         "fields": [
           "freshness_bucket"
         ]
       },
       {
-        "id": "workable-12654a5789",
+        "id": "workable-8ecfdd8a68",
+        "fields": [
+          "lifecycle_state"
+        ]
+      },
+      {
+        "id": "workable-a98ace952e",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-bb185563db",
+        "id": "workable-0af03d9961",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-387dbf8c46",
+        "id": "workable-8bf3378732",
         "fields": [
+          "publishedAt",
           "freshness_bucket",
-          "lifecycle_state"
+          "lifecycle_state",
+          "lifecycle_stale_risk",
+          "hiring_intent_level"
         ]
       }
     ]
@@ -55,18 +64,18 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 23,
+        "NEW_24H": 24,
         "STALE_RISK_90D": 224,
         "AGING_30D": 99,
-        "LONG_RUNNING_60D": 58,
+        "LONG_RUNNING_60D": 57,
         "ACTIVE": 77,
-        "FRESH_7D": 17,
-        "NEW_3D": 13
+        "FRESH_7D": 20,
+        "NEW_3D": 10
       },
       "stale_risk_counts": {
-        "LOW": 227,
+        "LOW": 228,
         "ELEVATED": 224,
-        "REVIEW": 60
+        "REVIEW": 59
       },
       "reopened_after_confirmed_close_count": 2,
       "changed_within_7d_count": 80,
@@ -79,8 +88,8 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
-        "MODERATE_EVIDENCE": 131,
-        "WEAK_EVIDENCE": 368,
+        "MODERATE_EVIDENCE": 132,
+        "WEAK_EVIDENCE": 367,
         "STRONG_EVIDENCE": 12
       },
       "score_is_probability": false,
