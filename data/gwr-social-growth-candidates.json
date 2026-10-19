@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T12:57:08.305Z",
-  "source_generated_at": "2026-10-19T12:57:08.085Z",
+  "generated_at": "2026-10-19T16:49:10.937Z",
+  "source_generated_at": "2026-10-19T16:49:10.716Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 12,
+  "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-7edc826dd95d",
+      "candidate_id": "gwr-alert-f105017d5caf",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 98,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic…",
-        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_…",
-        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7edc826dd95d&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
+        "x": "【GWR ALERT】Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f105017d5caf&q=W…",
+        "bluesky": "GWR ALERT｜Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f105017d5caf&q=Welo+Global&intent=general",
+        "linkedin": "GWR Market Alert Welo Global｜Japanese Sports Localization Specialist (Football)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f105017d5caf&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7edc826dd95d&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f105017d5caf&q=Welo+Global&intent=general",
       "evidence": [
         {
-          "job_id": "workable-3d11a6c95c",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3D11A6C95C",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-19T16:48:09.841Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-8a08d347c0d9",
+      "candidate_id": "gwr-alert-253e3506835b",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 98,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8a08d3…",
-        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8a08d347c0d9&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8a08d347c0d9&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_c…",
+        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_conten…",
+        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-253e3506835b&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8a08d347c0d9&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-253e3506835b&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
       "evidence": [
         {
-          "job_id": "workable-74e71ee893",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+          "job_id": "workable-3d11a6c95c",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/74E71EE893",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
+          "official_url": "https://apply.workable.com/j/3D11A6C95C",
+          "last_verified_at": "2026-10-19T16:48:44.842Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-e058ca8ed87e",
+      "candidate_id": "gwr-alert-7a42c92059e5",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 98,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜CAD Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e058ca8ed87e&q=Mindrift&intent=general",
-        "bluesky": "GWR ALERT｜Mindrift｜CAD Engineer - AI Trainer｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e058ca8ed87e&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜CAD Engineer - AI Trainer｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e058ca8ed87e&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7a42c92059e5…",
+        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7a42c92059e5&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7a42c92059e5&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e058ca8ed87e&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7a42c92059e5&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-31293b76cd",
+          "job_id": "workable-74e71ee893",
           "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/31293B76CD",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
+          "official_url": "https://apply.workable.com/j/74E71EE893",
+          "last_verified_at": "2026-10-19T16:48:44.842Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-b318da6c20e9",
+      "candidate_id": "gwr-alert-ce3a13abffa9",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 102,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 98,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_sign…",
-        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b318…",
-        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b318da6c20e9&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
+        "x": "【GWR ALERT】Mindrift｜CAD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ce3a13abffa9&q=Mindrift&intent=general",
+        "bluesky": "GWR ALERT｜Mindrift｜CAD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ce3a13abffa9&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜CAD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ce3a13abffa9&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b318da6c20e9&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ce3a13abffa9&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-12654a5789",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff",
+          "job_id": "workable-31293b76cd",
+          "employer": "Mindrift",
+          "title": "CAD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/12654A5789",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/31293B76CD",
+          "last_verified_at": "2026-10-19T16:48:44.842Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-39e47b0f8b23",
+      "candidate_id": "gwr-open-f66e67c8e6ae",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 91,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campa…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-39e47b0f8b23&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "x": "【GWR OPEN】Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f66e67…",
+        "bluesky": "GWR OPEN｜Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f66e67c8e6ae&q=Welo+Global&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Sports Localization Specialist (Football)｜Welo Global｜Remote, Worldwide 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f66e67c8e6ae&q=Welo+Global&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-39e47b0f8b23&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f66e67c8e6ae&q=Welo+Global&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-3d11a6c95c",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3D11A6C95C",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
+          "job_id": "lever-42ce648bca4d15849a24844a",
+          "employer": "Welo Global",
+          "title": "Japanese Sports Localization Specialist (Football)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/56bad60e-04ec-4da6-bbfe-3a4c8e33cc81/apply",
+          "last_verified_at": "2026-10-19T16:48:09.841Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-0e3f123dd608",
+      "candidate_id": "gwr-open-7c6042a04759",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 91,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0e3f123dd608&q=Mi…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0e3f123dd608&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0e3f123dd608&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campa…",
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7c6042a04759&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0e3f123dd608&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7c6042a04759&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-74e71ee893",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+          "job_id": "workable-3d11a6c95c",
+          "employer": "Digital Technology Institute for Development (DTID)",
+          "title": "UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/74E71EE893",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
+          "official_url": "https://apply.workable.com/j/3D11A6C95C",
+          "last_verified_at": "2026-10-19T16:48:44.842Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-3a7881ee3e0c",
+      "candidate_id": "gwr-open-a096fca8cba6",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 91,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3a7881ee3e0c&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3a7881ee3e0c&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3a7881ee3e0c&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a096fca8cba6&q=Mi…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a096fca8cba6&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a096fca8cba6&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3a7881ee3e0c&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a096fca8cba6&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-31293b76cd",
+          "job_id": "workable-74e71ee893",
           "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/31293B76CD",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
+          "official_url": "https://apply.workable.com/j/74E71EE893",
+          "last_verified_at": "2026-10-19T16:48:44.842Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-c94c1600aebe",
+      "candidate_id": "gwr-open-139b57d69e64",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 95,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 91,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c94c…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c94c1600aebe&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-139b57d69e64&q=Mindrift&intent=remote",
+        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-139b57d69e64&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-139b57d69e64&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c94c1600aebe&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-139b57d69e64&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-12654a5789",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff",
+          "job_id": "workable-31293b76cd",
+          "employer": "Mindrift",
+          "title": "CAD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/12654A5789",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/31293B76CD",
+          "last_verified_at": "2026-10-19T16:48:44.842Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -339,29 +339,29 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-4b482b1cfc4d",
+      "candidate_id": "gwr-open-08991fde6ce8",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 95,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 86,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】UNPAID VOLUNTEER - Director of Programmes (DPG)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_c…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Director of Programmes (DPG)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4b482b1cf…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Director of Programmes (DPG)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4b482b1cfc4d&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "x": "【GWR OPEN】Principal Scientific Research Expert - Computational Theory & Physics｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_conten…",
+        "bluesky": "GWR OPEN｜Principal Scientific Research Expert - Computational Theory & Physics｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-08991fde6ce8&q…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Principal Scientific Research Expert - Computational Theory & Physics｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-08991fde6ce8&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4b482b1cfc4d&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-08991fde6ce8&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-bb185563db",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Director of Programmes (DPG)",
+          "job_id": "workable-8de0b05e5f",
+          "employer": "Gramian Consulting Group",
+          "title": "Principal Scientific Research Expert - Computational Theory & Physics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/BB185563DB",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
+          "official_url": "https://apply.workable.com/j/8DE0B05E5F",
+          "last_verified_at": "2026-10-19T16:48:44.842Z",
           "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "HIRING_DOWN",
+          "hiring_delta": -1
         }
       ],
       "measurement_chain": [
@@ -377,29 +377,29 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-5d4550a930fc",
+      "candidate_id": "gwr-open-f535e3994c54",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 95,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
+      "score": 86,
+      "source_generated_at": "2026-10-19T16:49:10.716Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】UNPAID VOLUNTEER - Strategy Officers (Principal / Senior / Officer)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Strategy Officers (Principal / Senior / Officer)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_conten…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Strategy Officers (Principal / Senior / Officer)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5d4550a930fc&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "x": "【GWR OPEN】UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&…",
+        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f535…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f535e3994c54&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5d4550a930fc&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f535e3994c54&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-387dbf8c46",
+          "job_id": "workable-12654a5789",
           "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Strategy Officers (Principal / Senior / Officer)",
+          "title": "UNPAID VOLUNTEER - Deputy / Assistant Chief of Staff",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/387DBF8C46",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
+          "official_url": "https://apply.workable.com/j/12654A5789",
+          "last_verified_at": "2026-10-19T16:48:44.842Z",
           "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -413,148 +413,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
-    },
-    {
-      "candidate_id": "gwr-shift-8738f90d497e",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Digital Technology Institute for Development (DTID)：GWR確認求人 18→19（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8738f90d497e&q=Digital+…",
-        "bluesky": "GWR SHIFT｜Digital Technology Institute for Development (DTID)：GWR確認求人 18→19（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8738f90d497e&q=Digital+Technology+Institute+for+Dev…",
-        "linkedin": "GWR Market Shift Digital Technology Institute for Development (DTID)：GWR確認求人 18→19（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8738f90d497e&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8738f90d497e&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-96e2307441",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Head of Recruitment",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/96E2307441",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-5352afe060",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - General Counsel",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5352AFE060",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-083cf27941",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Technology Officer -Artificial Intelligence (AI)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/083CF27941",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-3de10463c5",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Technology Officer - Internet of Things (IoT) & Data Engineer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3DE10463C5",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 11
-    },
-    {
-      "candidate_id": "gwr-shift-2444bba10c0f",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-10-19T12:57:08.085Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Mindrift：GWR確認求人 6→7（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2444bba10c0f&q=Mindrift&intent=general",
-        "bluesky": "GWR SHIFT｜Mindrift：GWR確認求人 6→7（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2444bba10c0f&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Shift Mindrift：GWR確認求人 6→7（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2444bba10c0f&q=Mindrift&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2444bba10c0f&q=Mindrift&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-aa14415719",
-          "employer": "Mindrift",
-          "title": "CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AA14415719",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "FRESH_7D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-e44f729af4",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E44F729AF4",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "FRESH_7D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-e856f17db2",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E856F17DB2",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "FRESH_7D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-92962d3b6f",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/92962D3B6F",
-          "last_verified_at": "2026-10-19T12:56:46.072Z",
-          "freshness_bucket": "FRESH_7D",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 12
     }
   ]
 }
