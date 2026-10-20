@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-19T20:45:22.178Z",
+  "observed_at": "2026-10-20T00:58:15.540Z",
   "run": {
-    "github_run_id": "39321813520",
+    "github_run_id": "39350670340",
     "github_run_attempt": "1",
-    "github_sha": "5418de5a20617d02c3baa52e63ddfc7bf0794b5e",
+    "github_sha": "7e82955a2d3df934954a6d9c90771b0722836b57",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 513,
+    "previous_count": 510,
     "current_count": 510,
     "source_counts": {
       "lever": 27,
@@ -16,16 +16,12 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 10,
+    "meaningful_change_count": 3,
     "added_count": 0,
-    "removed_count": 3,
-    "changed_count": 7,
+    "removed_count": 0,
+    "changed_count": 3,
     "added_ids": [],
-    "removed_ids": [
-      "lever-39edfd7815fb0356833c7cf6",
-      "appen-japanese-thai-translation",
-      "workable-718daf4e74"
-    ],
+    "removed_ids": [],
     "changed": [
       {
         "id": "lever-2388c44d85928c2fe6c2f095",
@@ -40,33 +36,10 @@
         ]
       },
       {
-        "id": "workable-8456d135c8",
+        "id": "workable-c7b164256b",
         "fields": [
-          "skill_salary_category_median"
-        ]
-      },
-      {
-        "id": "workable-8928b60bae",
-        "fields": [
-          "skill_salary_category_median"
-        ]
-      },
-      {
-        "id": "workable-bb3d68888f",
-        "fields": [
-          "skill_salary_category_median"
-        ]
-      },
-      {
-        "id": "workable-b14eeea0f6",
-        "fields": [
-          "skill_salary_category_median"
-        ]
-      },
-      {
-        "id": "workable-8de0b05e5f",
-        "fields": [
-          "hiring_momentum_state",
+          "lifecycle_state",
+          "lifecycle_stale_risk",
           "hiring_intent_level"
         ]
       }
@@ -77,16 +50,16 @@
       "state_counts": {
         "NEW_24H": 28,
         "STALE_RISK_90D": 223,
-        "AGING_30D": 102,
-        "LONG_RUNNING_60D": 57,
+        "AGING_30D": 101,
+        "LONG_RUNNING_60D": 58,
         "ACTIVE": 74,
         "FRESH_7D": 22,
         "NEW_3D": 4
       },
       "stale_risk_counts": {
-        "LOW": 228,
+        "LOW": 227,
         "ELEVATED": 223,
-        "REVIEW": 59
+        "REVIEW": 60
       },
       "reopened_after_confirmed_close_count": 2,
       "changed_within_7d_count": 83,
@@ -99,8 +72,8 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
-        "MODERATE_EVIDENCE": 131,
-        "WEAK_EVIDENCE": 365,
+        "MODERATE_EVIDENCE": 130,
+        "WEAK_EVIDENCE": 366,
         "STRONG_EVIDENCE": 14
       },
       "score_is_probability": false,
