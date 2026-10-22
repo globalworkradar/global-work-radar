@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T04:49:00.961Z",
-  "source_generated_at": "2026-10-22T04:49:00.800Z",
+  "generated_at": "2026-10-22T13:49:38.017Z",
+  "source_generated_at": "2026-10-22T13:49:37.309Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,29 +32,29 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 11,
+  "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-25bfef6f6546",
+      "candidate_id": "gwr-alert-7236a3897077",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 99,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】SAP Fioneer｜Sales Lead - Bank Finance Software Solutions (Japan)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-25bfef6f…",
-        "bluesky": "GWR ALERT｜SAP Fioneer｜Sales Lead - Bank Finance Software Solutions (Japan)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-25bfef6f6546&q=SAP+Fioneer&intent=general",
-        "linkedin": "GWR Market Alert SAP Fioneer｜Sales Lead - Bank Finance Software Solutions (Japan)｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-25bfef6f6546&q=SAP+Fioneer&intent=general"
+        "x": "【GWR ALERT】AI Robot Association｜STR-012 PEA事業 Woven City 現地オペレーション責任者｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7236a3897077&q…",
+        "bluesky": "GWR ALERT｜AI Robot Association｜STR-012 PEA事業 Woven City 現地オペレーション責任者｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7236a3897077&q=AI+Robot+Association&intent=general",
+        "linkedin": "GWR Market Alert AI Robot Association｜STR-012 PEA事業 Woven City 現地オペレーション責任者｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7236a3897077&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-25bfef6f6546&q=SAP+Fioneer&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7236a3897077&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "workable-af4f5b4979",
-          "employer": "SAP Fioneer",
-          "title": "Sales Lead - Bank Finance Software Solutions (Japan)",
+          "job_id": "workable-c890248902",
+          "employer": "AI Robot Association",
+          "title": "STR-012 PEA事業 Woven City 現地オペレーション責任者",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AF4F5B4979",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/C890248902",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-f2f12a4e1565",
+      "candidate_id": "gwr-alert-8f734a1e3c6a",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "score": 99,
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f2f12a4e1565&q=CXG&intent=…",
-        "bluesky": "GWR ALERT｜CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f2f12a4e1565&q=CXG&intent=general",
-        "linkedin": "GWR Market Alert CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f2f12a4e1565&q=CXG&intent=general"
+        "x": "【GWR ALERT】SmartNews｜スマートニュース メディア研究所 インターンシップ｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8f734a1e3c6a&q=SmartNews&intent=gener…",
+        "bluesky": "GWR ALERT｜SmartNews｜スマートニュース メディア研究所 インターンシップ｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8f734a1e3c6a&q=SmartNews&intent=general",
+        "linkedin": "GWR Market Alert SmartNews｜スマートニュース メディア研究所 インターンシップ｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8f734a1e3c6a&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f2f12a4e1565&q=CXG&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8f734a1e3c6a&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2063f8700e",
-          "employer": "CXG",
-          "title": "Operations Coordinator (Fluent Japanese Speaker)",
+          "job_id": "workable-0b86fd4c7e",
+          "employer": "SmartNews",
+          "title": "スマートニュース メディア研究所 インターンシップ",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2063F8700E",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/0B86FD4C7E",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-363ce73e07da",
+      "candidate_id": "gwr-alert-c5f13d68c5f3",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "score": 99,
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3…",
-        "bluesky": "GWR ALERT｜Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-363ce73e07da&q=Intuition+Machines%2C+…",
-        "linkedin": "GWR Market Alert Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-363ce73e07da&q=Intuition+Machines%2C+Inc.&intent=general"
+        "x": "【GWR ALERT】Rapyuta Robotics｜Senior Electronics Engineer - Robotics｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c5f13d68c5f3&q=Ra…",
+        "bluesky": "GWR ALERT｜Rapyuta Robotics｜Senior Electronics Engineer - Robotics｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c5f13d68c5f3&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Alert Rapyuta Robotics｜Senior Electronics Engineer - Robotics｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c5f13d68c5f3&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-363ce73e07da&q=Intuition+Machines%2C+Inc.&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c5f13d68c5f3&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-594506a5c9",
-          "employer": "Intuition Machines, Inc.",
-          "title": "SOC Manager, Bot Management & Fraud Prevention, APAC",
+          "job_id": "workable-2c27d4ed5c",
+          "employer": "Rapyuta Robotics",
+          "title": "Senior Electronics Engineer - Robotics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/594506A5C9",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/2C27D4ED5C",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -149,26 +149,26 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-3118a599016d",
+      "candidate_id": "gwr-alert-a728fc8dd892",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 93,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_c…",
-        "bluesky": "GWR ALERT｜Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_conten…",
-        "linkedin": "GWR Market Alert Digital Technology Institute for Development (DTID)｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3118a599016d&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general"
+        "x": "【GWR ALERT】Mindrift｜CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a728fc8dd892&q=Mindrift&intent=general",
+        "bluesky": "GWR ALERT｜Mindrift｜CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a728fc8dd892&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜CFD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a728fc8dd892&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3118a599016d&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a728fc8dd892&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-3d11a6c95c",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)",
+          "job_id": "workable-e2e7873912",
+          "employer": "Mindrift",
+          "title": "CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3D11A6C95C",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/E2E7873912",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -187,26 +187,26 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-f5859bb68822",
+      "candidate_id": "gwr-open-8a2ec9f80850",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 92,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Sales Lead - Bank Finance Software Solutions (Japan)｜SAP Fioneer｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f5859…",
-        "bluesky": "GWR OPEN｜Sales Lead - Bank Finance Software Solutions (Japan)｜SAP Fioneer｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f5859bb68822&q=SAP+Fioneer&int…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Sales Lead - Bank Finance Software Solutions (Japan)｜SAP Fioneer｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f5859bb68822&q=SAP+Fioneer&intent=general"
+        "x": "【GWR OPEN】STR-012 PEA事業 Woven City 現地オペレーション責任者｜AI Robot Association｜Susono, Shizuoka, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8a2ec9f…",
+        "bluesky": "GWR OPEN｜STR-012 PEA事業 Woven City 現地オペレーション責任者｜AI Robot Association｜Susono, Shizuoka, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8a2ec9f80850&q=AI+Robot+Associat…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 STR-012 PEA事業 Woven City 現地オペレーション責任者｜AI Robot Association｜Susono, Shizuoka, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8a2ec9f80850&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f5859bb68822&q=SAP+Fioneer&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8a2ec9f80850&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "workable-af4f5b4979",
-          "employer": "SAP Fioneer",
-          "title": "Sales Lead - Bank Finance Software Solutions (Japan)",
+          "job_id": "workable-c890248902",
+          "employer": "AI Robot Association",
+          "title": "STR-012 PEA事業 Woven City 現地オペレーション責任者",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AF4F5B4979",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/C890248902",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-b916fe320552",
+      "candidate_id": "gwr-open-2f2d9cc5039a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "score": 92,
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b916fe320552&q=CXG&intent=remote",
-        "bluesky": "GWR OPEN｜Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b916fe320552&q=CXG&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b916fe320552&q=CXG&intent=remote"
+        "x": "【GWR OPEN】スマートニュース メディア研究所 インターンシップ｜SmartNews｜Shibuya, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f2d9cc5039a&q=SmartNews&intent=…",
+        "bluesky": "GWR OPEN｜スマートニュース メディア研究所 インターンシップ｜SmartNews｜Shibuya, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f2d9cc5039a&q=SmartNews&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 スマートニュース メディア研究所 インターンシップ｜SmartNews｜Shibuya, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f2d9cc5039a&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b916fe320552&q=CXG&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f2d9cc5039a&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2063f8700e",
-          "employer": "CXG",
-          "title": "Operations Coordinator (Fluent Japanese Speaker)",
+          "job_id": "workable-0b86fd4c7e",
+          "employer": "SmartNews",
+          "title": "スマートニュース メディア研究所 インターンシップ",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2063F8700E",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/0B86FD4C7E",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-de0d2894f5ee",
+      "candidate_id": "gwr-open-91312134c7fc",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "score": 92,
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-de0d28…",
-        "bluesky": "GWR OPEN｜SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-de0d2894f5ee&q=Intuition+Machin…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-de0d2894f5ee&q=Intuition+Machines%2C+Inc.&intent=remote"
+        "x": "【GWR OPEN】Senior Electronics Engineer - Robotics｜Rapyuta Robotics｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-91312134c7fc&q…",
+        "bluesky": "GWR OPEN｜Senior Electronics Engineer - Robotics｜Rapyuta Robotics｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-91312134c7fc&q=Rapyuta+Robotics&intent=…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Electronics Engineer - Robotics｜Rapyuta Robotics｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-91312134c7fc&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-de0d2894f5ee&q=Intuition+Machines%2C+Inc.&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-91312134c7fc&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-594506a5c9",
-          "employer": "Intuition Machines, Inc.",
-          "title": "SOC Manager, Bot Management & Fraud Prevention, APAC",
+          "job_id": "workable-2c27d4ed5c",
+          "employer": "Rapyuta Robotics",
+          "title": "Senior Electronics Engineer - Robotics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/594506A5C9",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/2C27D4ED5C",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -301,26 +301,26 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-ffdff96c3899",
+      "candidate_id": "gwr-open-3f14facfb74f",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 86,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campa…",
-        "bluesky": "GWR OPEN｜UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)｜Digital Technology Institute for Development (DTID)｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ffdff96c3899&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote"
+        "x": "【GWR OPEN】CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3f14facfb74f&q=Mindrift&intent=remote",
+        "bluesky": "GWR OPEN｜CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3f14facfb74f&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3f14facfb74f&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ffdff96c3899&q=Digital+Technology+Institute+for+Development+%28DTID%29&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3f14facfb74f&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-3d11a6c95c",
-          "employer": "Digital Technology Institute for Development (DTID)",
-          "title": "UNPAID VOLUNTEER - Legal Advisors (Principal, Senior and Legal Assistants)",
+          "job_id": "workable-e2e7873912",
+          "employer": "Mindrift",
+          "title": "CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3D11A6C95C",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/E2E7873912",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -339,26 +339,26 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-722a485ca781",
+      "candidate_id": "gwr-open-226385bf5157",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 86,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-722a485ca781&q=Mi…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-722a485ca781&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-722a485ca781&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-226385bf5157&q=Mindrift&inte…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-226385bf5157&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-226385bf5157&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-722a485ca781&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-226385bf5157&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-74e71ee893",
+          "job_id": "workable-189ebcf720",
           "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/74E71EE893",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/189EBCF720",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,26 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-e89f6921e54d",
+      "candidate_id": "gwr-open-5853a4260d0d",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 86,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e89f6921e54d&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e89f6921e54d&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e89f6921e54d&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Senior Consultant, IP Services｜Anaqua｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5853a4260d0d&q=Anaqua&intent=remote",
+        "bluesky": "GWR OPEN｜Senior Consultant, IP Services｜Anaqua｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5853a4260d0d&q=Anaqua&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Consultant, IP Services｜Anaqua｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5853a4260d0d&q=Anaqua&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e89f6921e54d&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5853a4260d0d&q=Anaqua&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-31293b76cd",
-          "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "job_id": "workable-2fa1b07cad",
+          "employer": "Anaqua",
+          "title": "Senior Consultant, IP Services",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/31293B76CD",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/2FA1B07CAD",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -415,60 +415,60 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-f2f0e34b5de1",
+      "candidate_id": "gwr-shift-7583c3b9e2c0",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
       "score": 82,
-      "source_generated_at": "2026-10-22T04:49:00.800Z",
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】SAP Fioneer：GWR確認求人 3→4（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f2f0e34b5de1&q=SAP+Fioneer&intent=general",
-        "bluesky": "GWR SHIFT｜SAP Fioneer：GWR確認求人 3→4（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f2f0e34b5de1&q=SAP+Fioneer&intent=general",
-        "linkedin": "GWR Market Shift SAP Fioneer：GWR確認求人 3→4（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f2f0e34b5de1&q=SAP+Fioneer&intent=general"
+        "x": "【GWR SHIFT】AI Robot Association：GWR確認求人 50→51（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7583c3b9e2c0&q=AI+Robot+Association&intent=general",
+        "bluesky": "GWR SHIFT｜AI Robot Association：GWR確認求人 50→51（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7583c3b9e2c0&q=AI+Robot+Association&intent=general",
+        "linkedin": "GWR Market Shift AI Robot Association：GWR確認求人 50→51（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7583c3b9e2c0&q=AI+Robot+Association&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f2f0e34b5de1&q=SAP+Fioneer&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7583c3b9e2c0&q=AI+Robot+Association&intent=general",
       "evidence": [
         {
-          "job_id": "workable-85a4766c1d",
-          "employer": "SAP Fioneer",
-          "title": "Solutions Partner - Core Insurance Software Solutions - Japan",
+          "job_id": "workable-41f439e0a6",
+          "employer": "AI Robot Association",
+          "title": "R&D-023 MLOps Engineer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/85A4766C1D",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/41F439E0A6",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-69cc84d10f",
-          "employer": "SAP Fioneer",
-          "title": "Sales Lead - Core Insurance Software Solutions (Japan)",
+          "job_id": "workable-6b151a6914",
+          "employer": "AI Robot Association",
+          "title": "R&D-014 Intern Research Scientist (VLAs)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/69CC84D10F",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/6B151A6914",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-07cbc75f5c",
-          "employer": "SAP Fioneer",
-          "title": "Solutions Lead - Core Insurance Software Solutions - Japan",
+          "job_id": "workable-d27bc4d685",
+          "employer": "AI Robot Association",
+          "title": "R&D-013 Junior Research Scientist (VLAs)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/07CBC75F5C",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
+          "official_url": "https://apply.workable.com/j/D27BC4D685",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-af4f5b4979",
-          "employer": "SAP Fioneer",
-          "title": "Sales Lead - Bank Finance Software Solutions (Japan)",
+          "job_id": "workable-450c7cea45",
+          "employer": "AI Robot Association",
+          "title": "R&D-012 Research Scientist (VLAs)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AF4F5B4979",
-          "last_verified_at": "2026-10-22T04:48:45.034Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/450C7CEA45",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
+          "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         }
@@ -484,6 +484,77 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 11
+    },
+    {
+      "candidate_id": "gwr-shift-90aacd66389e",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 82,
+      "source_generated_at": "2026-10-22T13:49:37.309Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】Rapyuta Robotics：GWR確認求人 28→29（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-90aacd66389e&q=Rapyuta+Robotics&intent=general",
+        "bluesky": "GWR SHIFT｜Rapyuta Robotics：GWR確認求人 28→29（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-90aacd66389e&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Shift Rapyuta Robotics：GWR確認求人 28→29（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-90aacd66389e&q=Rapyuta+Robotics&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-90aacd66389e&q=Rapyuta+Robotics&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-1835a11bd7",
+          "employer": "Rapyuta Robotics",
+          "title": "Sales Open Position",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/1835A11BD7",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-e33749b0a4",
+          "employer": "Rapyuta Robotics",
+          "title": "Partner Sales",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/E33749B0A4",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-3ee3968348",
+          "employer": "Rapyuta Robotics",
+          "title": "Account Sales",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/3EE3968348",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-3863da2d2d",
+          "employer": "Rapyuta Robotics",
+          "title": "Field Sales",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/3863DA2D2D",
+          "last_verified_at": "2026-10-22T13:49:18.703Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 12
     }
   ]
 }
