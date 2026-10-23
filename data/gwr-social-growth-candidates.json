@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T13:28:55.768Z",
-  "source_generated_at": "2026-10-23T13:28:55.105Z",
+  "generated_at": "2026-10-23T19:58:32.175Z",
+  "source_generated_at": "2026-10-23T19:58:32.010Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 11,
+  "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-77faac61dfa1",
+      "candidate_id": "gwr-alert-cc55b4fd356a",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 93,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mercari, inc.｜28卒対象 / セキュリティエンジニア インターンシップ- Mercari Group｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-77faac61dfa1&q=…",
-        "bluesky": "GWR ALERT｜Mercari, inc.｜28卒対象 / セキュリティエンジニア インターンシップ- Mercari Group｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-77faac61dfa1&q=Mercari%2C+inc.&intent=general",
-        "linkedin": "GWR Market Alert Mercari, inc.｜28卒対象 / セキュリティエンジニア インターンシップ- Mercari Group｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-77faac61dfa1&q=Mercari%2C+inc.&intent=general"
+        "x": "【GWR ALERT】CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cc55b4fd356a&q=CXG&intent=…",
+        "bluesky": "GWR ALERT｜CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cc55b4fd356a&q=CXG&intent=general",
+        "linkedin": "GWR Market Alert CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cc55b4fd356a&q=CXG&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-77faac61dfa1&q=Mercari%2C+inc.&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cc55b4fd356a&q=CXG&intent=general",
       "evidence": [
         {
-          "job_id": "workable-34a6936c9f",
-          "employer": "Mercari, inc.",
-          "title": "28卒対象 / セキュリティエンジニア インターンシップ- Mercari Group",
+          "job_id": "workable-2063f8700e",
+          "employer": "CXG",
+          "title": "Operations Coordinator (Fluent Japanese Speaker)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/34A6936C9F",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/2063F8700E",
+          "last_verified_at": "2026-10-23T19:58:10.365Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-7c1c2a4b8f92",
+      "candidate_id": "gwr-alert-db0686a015b1",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 93,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mercari, inc.｜HR Business Partner - Mercari｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7c1c2a4b8f92&q=Mercari%2C+inc…",
-        "bluesky": "GWR ALERT｜Mercari, inc.｜HR Business Partner - Mercari｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7c1c2a4b8f92&q=Mercari%2C+inc.&intent=general",
-        "linkedin": "GWR Market Alert Mercari, inc.｜HR Business Partner - Mercari｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7c1c2a4b8f92&q=Mercari%2C+inc.&intent=general"
+        "x": "【GWR ALERT】Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-d…",
+        "bluesky": "GWR ALERT｜Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-db0686a015b1&q=Intuition+Machines%2C+…",
+        "linkedin": "GWR Market Alert Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-db0686a015b1&q=Intuition+Machines%2C+Inc.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7c1c2a4b8f92&q=Mercari%2C+inc.&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-db0686a015b1&q=Intuition+Machines%2C+Inc.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-6d37cda2bb",
-          "employer": "Mercari, inc.",
-          "title": "HR Business Partner - Mercari",
+          "job_id": "workable-594506a5c9",
+          "employer": "Intuition Machines, Inc.",
+          "title": "SOC Manager, Bot Management & Fraud Prevention, APAC",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/6D37CDA2BB",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/594506A5C9",
+          "last_verified_at": "2026-10-23T19:58:10.365Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-3e0fafbf507c",
+      "candidate_id": "gwr-alert-c24f135edea2",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 90,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mercari, inc.｜Talent Acquisition Manager (Mid-career) - Mercari｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3e0fafbf5…",
-        "bluesky": "GWR ALERT｜Mercari, inc.｜Talent Acquisition Manager (Mid-career) - Mercari｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3e0fafbf507c&q=Mercari%2C+inc.&intent=general",
-        "linkedin": "GWR Market Alert Mercari, inc.｜Talent Acquisition Manager (Mid-career) - Mercari｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3e0fafbf507c&q=Mercari%2C+inc.&intent=general"
+        "x": "【GWR ALERT】RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c24f135edea2&q=RWS+TrainAI&intent=gen…",
+        "bluesky": "GWR ALERT｜RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c24f135edea2&q=RWS+TrainAI&intent=general",
+        "linkedin": "GWR Market Alert RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c24f135edea2&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3e0fafbf507c&q=Mercari%2C+inc.&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c24f135edea2&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-d3c5d821fd",
-          "employer": "Mercari, inc.",
-          "title": "Talent Acquisition Manager (Mid-career) - Mercari",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D3C5D821FD",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
+          "job_id": "lever-d260f27c2b2c937206a47fee",
+          "employer": "RWS TrainAI",
+          "title": "AI Data Specialist - Japanese",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
+          "last_verified_at": "2026-10-23T19:57:28.514Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,27 +149,27 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-7123f846300b",
+      "candidate_id": "gwr-alert-e29ac32c5871",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 90,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7123f846300b&q=CXG&intent=…",
-        "bluesky": "GWR ALERT｜CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7123f846300b&q=CXG&intent=general",
-        "linkedin": "GWR Market Alert CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7123f846300b&q=CXG&intent=general"
+        "x": "【GWR ALERT】RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e29ac32c5871&q=RWS+Train…",
+        "bluesky": "GWR ALERT｜RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e29ac32c5871&q=RWS+TrainAI&intent=general",
+        "linkedin": "GWR Market Alert RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e29ac32c5871&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7123f846300b&q=CXG&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e29ac32c5871&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2063f8700e",
-          "employer": "CXG",
-          "title": "Operations Coordinator (Fluent Japanese Speaker)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2063F8700E",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-7f2322089d9e75091e9559f3",
+          "employer": "RWS TrainAI",
+          "title": "Search Engine Evaluator - Japanese (Japan)",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
+          "last_verified_at": "2026-10-23T19:57:28.514Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-4ae8e25c4b3a",
+      "candidate_id": "gwr-open-b1890284e37c",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 86,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】28卒対象 / セキュリティエンジニア インターンシップ- Mercari Group｜Mercari, inc.｜Minato City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4ae8e2…",
-        "bluesky": "GWR OPEN｜28卒対象 / セキュリティエンジニア インターンシップ- Mercari Group｜Mercari, inc.｜Minato City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4ae8e25c4b3a&q=Mercari%2C+inc.&…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 28卒対象 / セキュリティエンジニア インターンシップ- Mercari Group｜Mercari, inc.｜Minato City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4ae8e25c4b3a&q=Mercari%2C+inc.&intent=general"
+        "x": "【GWR OPEN】Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b1890284e37c&q=CXG&intent=remote",
+        "bluesky": "GWR OPEN｜Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b1890284e37c&q=CXG&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b1890284e37c&q=CXG&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4ae8e25c4b3a&q=Mercari%2C+inc.&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b1890284e37c&q=CXG&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-34a6936c9f",
-          "employer": "Mercari, inc.",
-          "title": "28卒対象 / セキュリティエンジニア インターンシップ- Mercari Group",
+          "job_id": "workable-2063f8700e",
+          "employer": "CXG",
+          "title": "Operations Coordinator (Fluent Japanese Speaker)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/34A6936C9F",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/2063F8700E",
+          "last_verified_at": "2026-10-23T19:58:10.365Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-48ba4ae6084f",
+      "candidate_id": "gwr-open-1ea9e43ee261",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 86,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】HR Business Partner - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-48ba4ae6084f&q=Merca…",
-        "bluesky": "GWR OPEN｜HR Business Partner - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-48ba4ae6084f&q=Mercari%2C+inc.&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 HR Business Partner - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-48ba4ae6084f&q=Mercari%2C+inc.&intent=general"
+        "x": "【GWR OPEN】SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1ea9e4…",
+        "bluesky": "GWR OPEN｜SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1ea9e43ee261&q=Intuition+Machin…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1ea9e43ee261&q=Intuition+Machines%2C+Inc.&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-48ba4ae6084f&q=Mercari%2C+inc.&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1ea9e43ee261&q=Intuition+Machines%2C+Inc.&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-6d37cda2bb",
-          "employer": "Mercari, inc.",
-          "title": "HR Business Partner - Mercari",
+          "job_id": "workable-594506a5c9",
+          "employer": "Intuition Machines, Inc.",
+          "title": "SOC Manager, Bot Management & Fraud Prevention, APAC",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/6D37CDA2BB",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/594506A5C9",
+          "last_verified_at": "2026-10-23T19:58:10.365Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-fe933cce3092",
+      "candidate_id": "gwr-open-672c2bc347af",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 83,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Talent Acquisition Manager (Mid-career) - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-…",
-        "bluesky": "GWR OPEN｜Talent Acquisition Manager (Mid-career) - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fe933cce3092&q=Mercari%2C…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Talent Acquisition Manager (Mid-career) - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fe933cce3092&q=Mercari%2C+inc.&intent=general"
+        "x": "【GWR OPEN】AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-672c2bc347af&q=RWS+TrainAI&intent=gener…",
+        "bluesky": "GWR OPEN｜AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-672c2bc347af&q=RWS+TrainAI&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-672c2bc347af&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fe933cce3092&q=Mercari%2C+inc.&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-672c2bc347af&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-d3c5d821fd",
-          "employer": "Mercari, inc.",
-          "title": "Talent Acquisition Manager (Mid-career) - Mercari",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D3C5D821FD",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
+          "job_id": "lever-d260f27c2b2c937206a47fee",
+          "employer": "RWS TrainAI",
+          "title": "AI Data Specialist - Japanese",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
+          "last_verified_at": "2026-10-23T19:57:28.514Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -301,27 +301,27 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-584c344d215b",
+      "candidate_id": "gwr-open-629f58530a96",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 83,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-584c344d215b&q=CXG&intent=remote",
-        "bluesky": "GWR OPEN｜Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-584c344d215b&q=CXG&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-584c344d215b&q=CXG&intent=remote"
+        "x": "【GWR OPEN】Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-629f58530a96&q=RWS+TrainAI…",
+        "bluesky": "GWR OPEN｜Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-629f58530a96&q=RWS+TrainAI&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-629f58530a96&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-584c344d215b&q=CXG&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-629f58530a96&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2063f8700e",
-          "employer": "CXG",
-          "title": "Operations Coordinator (Fluent Japanese Speaker)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2063F8700E",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-7f2322089d9e75091e9559f3",
+          "employer": "RWS TrainAI",
+          "title": "Search Engine Evaluator - Japanese (Japan)",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
+          "last_verified_at": "2026-10-23T19:57:28.514Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -339,27 +339,27 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-378862476111",
+      "candidate_id": "gwr-open-7633c68e9125",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "score": 83,
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-378862…",
-        "bluesky": "GWR OPEN｜SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-378862476111&q=Intuition+Machin…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-378862476111&q=Intuition+Machines%2C+Inc.&intent=remote"
+        "x": "【GWR OPEN】Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7633c68e9125&q=RWS…",
+        "bluesky": "GWR OPEN｜Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7633c68e9125&q=RWS+TrainAI&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7633c68e9125&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-378862476111&q=Intuition+Machines%2C+Inc.&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7633c68e9125&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-594506a5c9",
-          "employer": "Intuition Machines, Inc.",
-          "title": "SOC Manager, Bot Management & Fraud Prevention, APAC",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/594506A5C9",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-3606070ccc092bf91134afa5",
+          "employer": "RWS TrainAI",
+          "title": "Speech AI Evaluation Specialist - Japanese (Japan)",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/28b3d23d-7e18-4842-adfe-b708af798a9c/apply",
+          "last_verified_at": "2026-10-23T19:57:28.514Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -377,26 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-61a1c7a18198",
+      "candidate_id": "gwr-open-b249ee781fa6",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 83,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
+      "source_generated_at": "2026-10-23T19:58:32.010Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61a1c7a18198&q=RWS+TrainAI&intent=gener…",
-        "bluesky": "GWR OPEN｜AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61a1c7a18198&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61a1c7a18198&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b249ee781fa6&q…",
+        "bluesky": "GWR OPEN｜Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b249ee781fa6&q=CrowdGen+by+Appen&intent…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b249ee781fa6&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61a1c7a18198&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b249ee781fa6&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "lever-d260f27c2b2c937206a47fee",
-          "employer": "RWS TrainAI",
-          "title": "AI Data Specialist - Japanese",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
-          "last_verified_at": "2026-10-23T13:28:00.799Z",
+          "job_id": "lever-2388c44d85928c2fe6c2f095",
+          "employer": "CrowdGen by Appen",
+          "title": "Mobile Device Data Collection - Japanese (Japan)",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/b2f4799c-4adb-4f31-88a9-335a819c3cf9/apply",
+          "last_verified_at": "2026-10-23T19:57:28.514Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -413,77 +413,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
-    },
-    {
-      "candidate_id": "gwr-shift-8d72415ee6f1",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-10-23T13:28:55.105Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Mercari, inc.：GWR確認求人 64→65（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8d72415ee6f1&q=Mercari%2C+inc.&intent=general",
-        "bluesky": "GWR SHIFT｜Mercari, inc.：GWR確認求人 64→65（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8d72415ee6f1&q=Mercari%2C+inc.&intent=general",
-        "linkedin": "GWR Market Shift Mercari, inc.：GWR確認求人 64→65（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8d72415ee6f1&q=Mercari%2C+inc.&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-8d72415ee6f1&q=Mercari%2C+inc.&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-c2bdf5efab",
-          "employer": "Mercari, inc.",
-          "title": "Corporate Application Engineer - Mercari",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C2BDF5EFAB",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-2ed6e15a34",
-          "employer": "Mercari, inc.",
-          "title": "Art Director / アートディレクター - Mercari",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2ED6E15A34",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-650401fd75",
-          "employer": "Mercari, inc.",
-          "title": "UX Researcher - Merpay",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/650401FD75",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-a1ab519400",
-          "employer": "Mercari, inc.",
-          "title": "プレエントリー / Pre Entry (NewGrads)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A1AB519400",
-          "last_verified_at": "2026-10-23T13:28:30.369Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 11
     }
   ]
 }
