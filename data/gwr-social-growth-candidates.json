@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T04:39:06.307Z",
-  "source_generated_at": "2026-10-24T04:39:06.075Z",
+  "generated_at": "2026-10-24T12:42:06.198Z",
+  "source_generated_at": "2026-10-24T12:42:05.984Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -35,27 +35,27 @@
   "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-9ed9ca75377e",
+      "candidate_id": "gwr-alert-2852729409b5",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "score": 90,
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9ed9ca75377e&q=CXG&intent=…",
-        "bluesky": "GWR ALERT｜CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9ed9ca75377e&q=CXG&intent=general",
-        "linkedin": "GWR Market Alert CXG｜Operations Coordinator (Fluent Japanese Speaker)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9ed9ca75377e&q=CXG&intent=general"
+        "x": "【GWR ALERT】RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2852729409b5&q=RWS+TrainAI&intent=gen…",
+        "bluesky": "GWR ALERT｜RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2852729409b5&q=RWS+TrainAI&intent=general",
+        "linkedin": "GWR Market Alert RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2852729409b5&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9ed9ca75377e&q=CXG&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2852729409b5&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2063f8700e",
-          "employer": "CXG",
-          "title": "Operations Coordinator (Fluent Japanese Speaker)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2063F8700E",
-          "last_verified_at": "2026-10-24T04:38:40.041Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-d260f27c2b2c937206a47fee",
+          "employer": "RWS TrainAI",
+          "title": "AI Data Specialist - Japanese",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -73,27 +73,27 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-4b9f34ce4dd1",
+      "candidate_id": "gwr-alert-c26c419f880a",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "score": 90,
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4…",
-        "bluesky": "GWR ALERT｜Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4b9f34ce4dd1&q=Intuition+Machines%2C+…",
-        "linkedin": "GWR Market Alert Intuition Machines, Inc.｜SOC Manager, Bot Management & Fraud Prevention, APAC｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4b9f34ce4dd1&q=Intuition+Machines%2C+Inc.&intent=general"
+        "x": "【GWR ALERT】RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c26c419f880a&q=RWS+Train…",
+        "bluesky": "GWR ALERT｜RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c26c419f880a&q=RWS+TrainAI&intent=general",
+        "linkedin": "GWR Market Alert RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c26c419f880a&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4b9f34ce4dd1&q=Intuition+Machines%2C+Inc.&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c26c419f880a&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-594506a5c9",
-          "employer": "Intuition Machines, Inc.",
-          "title": "SOC Manager, Bot Management & Fraud Prevention, APAC",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/594506A5C9",
-          "last_verified_at": "2026-10-24T04:38:40.041Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-7f2322089d9e75091e9559f3",
+          "employer": "RWS TrainAI",
+          "title": "Search Engine Evaluator - Japanese (Japan)",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -111,26 +111,26 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-9b288ddcb98a",
+      "candidate_id": "gwr-alert-683ef1644c9b",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 90,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9b288ddcb98a&q=RWS+TrainAI&intent=gen…",
-        "bluesky": "GWR ALERT｜RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9b288ddcb98a&q=RWS+TrainAI&intent=general",
-        "linkedin": "GWR Market Alert RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9b288ddcb98a&q=RWS+TrainAI&intent=general"
+        "x": "【GWR ALERT】RWS TrainAI｜Speech AI Evaluation Specialist - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-683ef1644c9b&q=R…",
+        "bluesky": "GWR ALERT｜RWS TrainAI｜Speech AI Evaluation Specialist - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-683ef1644c9b&q=RWS+TrainAI&intent=general",
+        "linkedin": "GWR Market Alert RWS TrainAI｜Speech AI Evaluation Specialist - Japanese (Japan)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-683ef1644c9b&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9b288ddcb98a&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-683ef1644c9b&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "lever-d260f27c2b2c937206a47fee",
+          "job_id": "lever-3606070ccc092bf91134afa5",
           "employer": "RWS TrainAI",
-          "title": "AI Data Specialist - Japanese",
+          "title": "Speech AI Evaluation Specialist - Japanese (Japan)",
           "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
-          "last_verified_at": "2026-10-24T04:38:16.358Z",
+          "official_url": "https://jobs.lever.co/rws/28b3d23d-7e18-4842-adfe-b708af798a9c/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -149,26 +149,26 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-5c8b622fc6f0",
+      "candidate_id": "gwr-alert-4bb57e9bb8ee",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 90,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5c8b622fc6f0&q=RWS+Train…",
-        "bluesky": "GWR ALERT｜RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5c8b622fc6f0&q=RWS+TrainAI&intent=general",
-        "linkedin": "GWR Market Alert RWS TrainAI｜Search Engine Evaluator - Japanese (Japan)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5c8b622fc6f0&q=RWS+TrainAI&intent=general"
+        "x": "【GWR ALERT】CrowdGen by Appen｜Mobile Device Data Collection - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4bb57e9bb8ee…",
+        "bluesky": "GWR ALERT｜CrowdGen by Appen｜Mobile Device Data Collection - Japanese (Japan)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4bb57e9bb8ee&q=CrowdGen+by+Appen&intent=general",
+        "linkedin": "GWR Market Alert CrowdGen by Appen｜Mobile Device Data Collection - Japanese (Japan)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4bb57e9bb8ee&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5c8b622fc6f0&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4bb57e9bb8ee&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "lever-7f2322089d9e75091e9559f3",
-          "employer": "RWS TrainAI",
-          "title": "Search Engine Evaluator - Japanese (Japan)",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
-          "last_verified_at": "2026-10-24T04:38:16.358Z",
+          "job_id": "lever-2388c44d85928c2fe6c2f095",
+          "employer": "CrowdGen by Appen",
+          "title": "Mobile Device Data Collection - Japanese (Japan)",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/b2f4799c-4adb-4f31-88a9-335a819c3cf9/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -187,27 +187,27 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-51b54b4747a7",
+      "candidate_id": "gwr-open-0feb55ca10ff",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "score": 83,
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-51b54b4747a7&q=CXG&intent=remote",
-        "bluesky": "GWR OPEN｜Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-51b54b4747a7&q=CXG&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Operations Coordinator (Fluent Japanese Speaker)｜CXG｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-51b54b4747a7&q=CXG&intent=remote"
+        "x": "【GWR OPEN】AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0feb55ca10ff&q=RWS+TrainAI&intent=gener…",
+        "bluesky": "GWR OPEN｜AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0feb55ca10ff&q=RWS+TrainAI&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0feb55ca10ff&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-51b54b4747a7&q=CXG&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0feb55ca10ff&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2063f8700e",
-          "employer": "CXG",
-          "title": "Operations Coordinator (Fluent Japanese Speaker)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2063F8700E",
-          "last_verified_at": "2026-10-24T04:38:40.041Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-d260f27c2b2c937206a47fee",
+          "employer": "RWS TrainAI",
+          "title": "AI Data Specialist - Japanese",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -225,27 +225,27 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-68bd350a3ee7",
+      "candidate_id": "gwr-open-fd0e197732a8",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "score": 83,
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-68bd35…",
-        "bluesky": "GWR OPEN｜SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-68bd350a3ee7&q=Intuition+Machin…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 SOC Manager, Bot Management & Fraud Prevention, APAC｜Intuition Machines, Inc.｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-68bd350a3ee7&q=Intuition+Machines%2C+Inc.&intent=remote"
+        "x": "【GWR OPEN】Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd0e197732a8&q=RWS+TrainAI…",
+        "bluesky": "GWR OPEN｜Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd0e197732a8&q=RWS+TrainAI&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd0e197732a8&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-68bd350a3ee7&q=Intuition+Machines%2C+Inc.&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd0e197732a8&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "workable-594506a5c9",
-          "employer": "Intuition Machines, Inc.",
-          "title": "SOC Manager, Bot Management & Fraud Prevention, APAC",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/594506A5C9",
-          "last_verified_at": "2026-10-24T04:38:40.041Z",
-          "freshness_bucket": "NEW_3D",
+          "job_id": "lever-7f2322089d9e75091e9559f3",
+          "employer": "RWS TrainAI",
+          "title": "Search Engine Evaluator - Japanese (Japan)",
+          "source": "Lever / RWS TrainAI",
+          "official_url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -263,26 +263,26 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-1debd9826ad8",
+      "candidate_id": "gwr-open-201088f05019",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 83,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1debd9826ad8&q=RWS+TrainAI&intent=gener…",
-        "bluesky": "GWR OPEN｜AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1debd9826ad8&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1debd9826ad8&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-201088f05019&q=RWS…",
+        "bluesky": "GWR OPEN｜Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-201088f05019&q=RWS+TrainAI&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-201088f05019&q=RWS+TrainAI&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1debd9826ad8&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-201088f05019&q=RWS+TrainAI&intent=general",
       "evidence": [
         {
-          "job_id": "lever-d260f27c2b2c937206a47fee",
+          "job_id": "lever-3606070ccc092bf91134afa5",
           "employer": "RWS TrainAI",
-          "title": "AI Data Specialist - Japanese",
+          "title": "Speech AI Evaluation Specialist - Japanese (Japan)",
           "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
-          "last_verified_at": "2026-10-24T04:38:16.358Z",
+          "official_url": "https://jobs.lever.co/rws/28b3d23d-7e18-4842-adfe-b708af798a9c/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -301,26 +301,26 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-5db6d17babbf",
+      "candidate_id": "gwr-open-5532723a93bb",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 83,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5db6d17babbf&q=RWS+TrainAI…",
-        "bluesky": "GWR OPEN｜Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5db6d17babbf&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5db6d17babbf&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5532723a93bb&q…",
+        "bluesky": "GWR OPEN｜Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5532723a93bb&q=CrowdGen+by+Appen&intent…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5532723a93bb&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5db6d17babbf&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5532723a93bb&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "lever-7f2322089d9e75091e9559f3",
-          "employer": "RWS TrainAI",
-          "title": "Search Engine Evaluator - Japanese (Japan)",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
-          "last_verified_at": "2026-10-24T04:38:16.358Z",
+          "job_id": "lever-2388c44d85928c2fe6c2f095",
+          "employer": "CrowdGen by Appen",
+          "title": "Mobile Device Data Collection - Japanese (Japan)",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/b2f4799c-4adb-4f31-88a9-335a819c3cf9/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -339,26 +339,26 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-a792ffb41478",
+      "candidate_id": "gwr-open-2c0dedb56277",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 83,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a792ffb41478&q=RWS…",
-        "bluesky": "GWR OPEN｜Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a792ffb41478&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a792ffb41478&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Native Japanese Kansai Dialect Speakers｜CrowdGen by Appen｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2c0dedb56277&q=CrowdGen…",
+        "bluesky": "GWR OPEN｜Native Japanese Kansai Dialect Speakers｜CrowdGen by Appen｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2c0dedb56277&q=CrowdGen+by+Appen&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Native Japanese Kansai Dialect Speakers｜CrowdGen by Appen｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2c0dedb56277&q=CrowdGen+by+Appen&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a792ffb41478&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2c0dedb56277&q=CrowdGen+by+Appen&intent=general",
       "evidence": [
         {
-          "job_id": "lever-3606070ccc092bf91134afa5",
-          "employer": "RWS TrainAI",
-          "title": "Speech AI Evaluation Specialist - Japanese (Japan)",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/28b3d23d-7e18-4842-adfe-b708af798a9c/apply",
-          "last_verified_at": "2026-10-24T04:38:16.358Z",
+          "job_id": "lever-22f3c8a5cb5d381ab408f00b",
+          "employer": "CrowdGen by Appen",
+          "title": "Native Japanese Kansai Dialect Speakers",
+          "source": "Lever / CrowdGen by Appen",
+          "official_url": "https://jobs.lever.co/appen/bfc5b1f8-70a3-4be0-b8d3-15b18e620517/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,26 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-94620c931626",
+      "candidate_id": "gwr-open-5e6f6dd8e546",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 83,
-      "source_generated_at": "2026-10-24T04:39:06.075Z",
+      "source_generated_at": "2026-10-24T12:42:05.984Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-94620c931626&q…",
-        "bluesky": "GWR OPEN｜Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-94620c931626&q=CrowdGen+by+Appen&intent…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Mobile Device Data Collection - Japanese (Japan)｜CrowdGen by Appen｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-94620c931626&q=CrowdGen+by+Appen&intent=general"
+        "x": "【GWR OPEN】*Scout Search Quality Rater - Japanese | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)｜Welo Global｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_cont…",
+        "bluesky": "GWR OPEN｜*Scout Search Quality Rater - Japanese | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)｜Welo Global｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e6f6dd8e546…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 *Scout Search Quality Rater - Japanese | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)｜Welo Global｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e6f6dd8e546&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-94620c931626&q=CrowdGen+by+Appen&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e6f6dd8e546&q=Welo+Global&intent=general",
       "evidence": [
         {
-          "job_id": "lever-2388c44d85928c2fe6c2f095",
-          "employer": "CrowdGen by Appen",
-          "title": "Mobile Device Data Collection - Japanese (Japan)",
-          "source": "Lever / CrowdGen by Appen",
-          "official_url": "https://jobs.lever.co/appen/b2f4799c-4adb-4f31-88a9-335a819c3cf9/apply",
-          "last_verified_at": "2026-10-24T04:38:16.358Z",
+          "job_id": "lever-8041b266fb404a565d93ca6c",
+          "employer": "Welo Global",
+          "title": "*Scout Search Quality Rater - Japanese  | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/fd03d02c-3430-4174-abcd-d2b5f8f6f0dc/apply",
+          "last_verified_at": "2026-10-24T12:41:16.471Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
