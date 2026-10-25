@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-10-25T13:12:44.553Z",
+  "observed_at": "2026-10-25T22:34:42.694Z",
   "run": {
-    "github_run_id": "40196490199",
+    "github_run_id": "40240777933",
     "github_run_attempt": "1",
-    "github_sha": "89069c411f4b2dcb561a8327e9a58e3ff4cd660b",
+    "github_sha": "8cbcb93864054718ed2b8cab9bd935fb5e8e9726",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,52 +16,20 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 6,
-    "added_count": 0,
-    "removed_count": 0,
-    "changed_count": 6,
-    "added_ids": [],
-    "removed_ids": [],
+    "meaningful_change_count": 3,
+    "added_count": 1,
+    "removed_count": 1,
+    "changed_count": 1,
+    "added_ids": [
+      "workable-0b20b1211b"
+    ],
+    "removed_ids": [
+      "workable-e856f17db2"
+    ],
     "changed": [
       {
-        "id": "workable-9ea51a69fe",
+        "id": "workable-be7cbf40db",
         "fields": [
-          "lifecycle_state",
-          "lifecycle_stale_risk"
-        ]
-      },
-      {
-        "id": "workable-4795570eef",
-        "fields": [
-          "lifecycle_state",
-          "lifecycle_stale_risk"
-        ]
-      },
-      {
-        "id": "workable-c890248902",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-0b86fd4c7e",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-2c27d4ed5c",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-4ac886a912",
-        "fields": [
-          "freshness_bucket",
           "lifecycle_state"
         ]
       }
@@ -70,11 +38,11 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 17,
+        "NEW_24H": 18,
         "STALE_RISK_90D": 226,
-        "AGING_30D": 98,
+        "AGING_30D": 99,
         "LONG_RUNNING_60D": 57,
-        "ACTIVE": 84,
+        "ACTIVE": 82,
         "FRESH_7D": 22,
         "NEW_3D": 4
       },
@@ -84,7 +52,7 @@
         "REVIEW": 59
       },
       "reopened_after_confirmed_close_count": 2,
-      "changed_within_7d_count": 79,
+      "changed_within_7d_count": 78,
       "thresholds_days": {
         "aging": 30,
         "long_running": 60,
