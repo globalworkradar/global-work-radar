@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T04:49:28.859Z",
-  "source_generated_at": "2026-10-26T04:49:28.717Z",
+  "generated_at": "2026-10-26T15:13:25.757Z",
+  "source_generated_at": "2026-10-26T15:13:25.545Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -35,29 +35,29 @@
   "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-6e2f5e201ff7",
+      "candidate_id": "gwr-alert-4035184998a5",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 100,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】moomoo｜クリエティブデザイナー（ブランド＆マーケティング）- Creatve Designer (Brand & Marketing)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6e…",
-        "bluesky": "GWR ALERT｜moomoo｜クリエティブデザイナー（ブランド＆マーケティング）- Creatve Designer (Brand & Marketing)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6e2f5e201ff7&q=moomoo&intent=general",
-        "linkedin": "GWR Market Alert moomoo｜クリエティブデザイナー（ブランド＆マーケティング）- Creatve Designer (Brand & Marketing)｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6e2f5e201ff7&q=moomoo&intent=general"
+        "x": "【GWR ALERT】Teltonika｜Head of Sales | Telematics｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4035184998a5&q=Teltonika&intent=gene…",
+        "bluesky": "GWR ALERT｜Teltonika｜Head of Sales | Telematics｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4035184998a5&q=Teltonika&intent=general",
+        "linkedin": "GWR Market Alert Teltonika｜Head of Sales | Telematics｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4035184998a5&q=Teltonika&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6e2f5e201ff7&q=moomoo&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4035184998a5&q=Teltonika&intent=general",
       "evidence": [
         {
-          "job_id": "workable-9bf63ae8a4",
-          "employer": "moomoo",
-          "title": "クリエティブデザイナー（ブランド＆マーケティング）- Creatve Designer (Brand & Marketing)",
+          "job_id": "workable-92154ec0bc",
+          "employer": "Teltonika",
+          "title": "Head of Sales | Telematics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/9BF63AE8A4",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/92154EC0BC",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-3beb8e206d99",
+      "candidate_id": "gwr-alert-f9fe63fcc234",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 100,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Side｜Localization Coordinator-Game Audio Localization｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3beb8e206d99&q=Side…",
-        "bluesky": "GWR ALERT｜Side｜Localization Coordinator-Game Audio Localization｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3beb8e206d99&q=Side&intent=general",
-        "linkedin": "GWR Market Alert Side｜Localization Coordinator-Game Audio Localization｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3beb8e206d99&q=Side&intent=general"
+        "x": "【GWR ALERT】Teltonika｜テレマティクス営業部長（日本および韓国市場担当）｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f9fe63fcc234&q=Teltonika&intent=general",
+        "bluesky": "GWR ALERT｜Teltonika｜テレマティクス営業部長（日本および韓国市場担当）｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f9fe63fcc234&q=Teltonika&intent=general",
+        "linkedin": "GWR Market Alert Teltonika｜テレマティクス営業部長（日本および韓国市場担当）｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f9fe63fcc234&q=Teltonika&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3beb8e206d99&q=Side&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f9fe63fcc234&q=Teltonika&intent=general",
       "evidence": [
         {
-          "job_id": "workable-3fd2fba80a",
-          "employer": "Side",
-          "title": "Localization Coordinator-Game Audio Localization",
+          "job_id": "workable-af0207390d",
+          "employer": "Teltonika",
+          "title": "テレマティクス営業部長（日本および韓国市場担当）",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3FD2FBA80A",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/AF0207390D",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-16241f922e57",
+      "candidate_id": "gwr-alert-8c3273a4944c",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 99,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-16241f922e57&q=Mindr…",
-        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-16241f922e57&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-16241f922e57&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Ten Group｜Account Manager - Tokyo｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c3273a4944c&q=Ten+Group&intent=general",
+        "bluesky": "GWR ALERT｜Ten Group｜Account Manager - Tokyo｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c3273a4944c&q=Ten+Group&intent=general",
+        "linkedin": "GWR Market Alert Ten Group｜Account Manager - Tokyo｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c3273a4944c&q=Ten+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-16241f922e57&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c3273a4944c&q=Ten+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-0b20b1211b",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-78c338f873",
+          "employer": "Ten Group",
+          "title": "Account Manager - Tokyo",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0B20B1211B",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/78C338F873",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-open-18801a294820",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-72035464af61",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 98,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】クリエティブデザイナー（ブランド＆マーケティング）- Creatve Designer (Brand & Marketing)｜moomoo｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open…",
-        "bluesky": "GWR OPEN｜クリエティブデザイナー（ブランド＆マーケティング）- Creatve Designer (Brand & Marketing)｜moomoo｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-18801a294820&q=moomoo&in…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 クリエティブデザイナー（ブランド＆マーケティング）- Creatve Designer (Brand & Marketing)｜moomoo｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-18801a294820&q=moomoo&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-72035464af61&q=Mindr…",
+        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-72035464af61&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-72035464af61&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-18801a294820&q=moomoo&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-72035464af61&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-9bf63ae8a4",
-          "employer": "moomoo",
-          "title": "クリエティブデザイナー（ブランド＆マーケティング）- Creatve Designer (Brand & Marketing)",
+          "job_id": "workable-0b20b1211b",
+          "employer": "Mindrift",
+          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/9BF63AE8A4",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/0B20B1211B",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-cf4437241045",
+      "candidate_id": "gwr-open-86922c149e26",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 93,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Localization Coordinator-Game Audio Localization｜Side｜Shinjuku City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cf443724…",
-        "bluesky": "GWR OPEN｜Localization Coordinator-Game Audio Localization｜Side｜Shinjuku City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cf4437241045&q=Side&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Localization Coordinator-Game Audio Localization｜Side｜Shinjuku City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cf4437241045&q=Side&intent=general"
+        "x": "【GWR OPEN】Head of Sales | Telematics｜Teltonika｜Minato City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-86922c149e26&q=Teltonika&in…",
+        "bluesky": "GWR OPEN｜Head of Sales | Telematics｜Teltonika｜Minato City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-86922c149e26&q=Teltonika&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Head of Sales | Telematics｜Teltonika｜Minato City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-86922c149e26&q=Teltonika&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cf4437241045&q=Side&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-86922c149e26&q=Teltonika&intent=general",
       "evidence": [
         {
-          "job_id": "workable-3fd2fba80a",
-          "employer": "Side",
-          "title": "Localization Coordinator-Game Audio Localization",
+          "job_id": "workable-92154ec0bc",
+          "employer": "Teltonika",
+          "title": "Head of Sales | Telematics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3FD2FBA80A",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/92154EC0BC",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-1cf809c2503f",
+      "candidate_id": "gwr-open-52be925becfe",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 93,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1cf809c2503f&q=Mindrift&i…",
-        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1cf809c2503f&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1cf809c2503f&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】テレマティクス営業部長（日本および韓国市場担当）｜Teltonika｜Minato City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-52be925becfe&q=Teltonika&inte…",
+        "bluesky": "GWR OPEN｜テレマティクス営業部長（日本および韓国市場担当）｜Teltonika｜Minato City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-52be925becfe&q=Teltonika&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 テレマティクス営業部長（日本および韓国市場担当）｜Teltonika｜Minato City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-52be925becfe&q=Teltonika&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1cf809c2503f&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-52be925becfe&q=Teltonika&intent=general",
       "evidence": [
         {
-          "job_id": "workable-0b20b1211b",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-af0207390d",
+          "employer": "Teltonika",
+          "title": "テレマティクス営業部長（日本および韓国市場担当）",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0B20B1211B",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/AF0207390D",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-alert-a27997189c49",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-0772ec88d906",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 90,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 92,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a27997189c49&q=RWS+TrainAI&intent=gen…",
-        "bluesky": "GWR ALERT｜RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a27997189c49&q=RWS+TrainAI&intent=general",
-        "linkedin": "GWR Market Alert RWS TrainAI｜AI Data Specialist - Japanese｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a27997189c49&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Account Manager - Tokyo｜Ten Group｜Nishishinjuku, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0772ec88d906&q=Ten+Group&int…",
+        "bluesky": "GWR OPEN｜Account Manager - Tokyo｜Ten Group｜Nishishinjuku, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0772ec88d906&q=Ten+Group&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Account Manager - Tokyo｜Ten Group｜Nishishinjuku, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0772ec88d906&q=Ten+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-a27997189c49&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0772ec88d906&q=Ten+Group&intent=general",
       "evidence": [
         {
-          "job_id": "lever-d260f27c2b2c937206a47fee",
-          "employer": "RWS TrainAI",
-          "title": "AI Data Specialist - Japanese",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
-          "last_verified_at": "2026-10-26T04:48:42.041Z",
+          "job_id": "workable-78c338f873",
+          "employer": "Ten Group",
+          "title": "Account Manager - Tokyo",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/78C338F873",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -301,26 +301,26 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-aea923fb1fdb",
+      "candidate_id": "gwr-open-20156bdab04e",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 83,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 91,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-aea923fb1fdb&q=RWS+TrainAI&intent=gener…",
-        "bluesky": "GWR OPEN｜AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-aea923fb1fdb&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 AI Data Specialist - Japanese｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-aea923fb1fdb&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-20156bdab04e&q=Mindrift&i…",
+        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-20156bdab04e&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-20156bdab04e&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-aea923fb1fdb&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-20156bdab04e&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "lever-d260f27c2b2c937206a47fee",
-          "employer": "RWS TrainAI",
-          "title": "AI Data Specialist - Japanese",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088/apply",
-          "last_verified_at": "2026-10-26T04:48:42.041Z",
+          "job_id": "workable-0b20b1211b",
+          "employer": "Mindrift",
+          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/0B20B1211B",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -339,26 +339,26 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-215e876c236b",
+      "candidate_id": "gwr-open-148094a17aa7",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 83,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 91,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-215e876c236b&q=RWS+TrainAI…",
-        "bluesky": "GWR OPEN｜Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-215e876c236b&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Search Engine Evaluator - Japanese (Japan)｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-215e876c236b&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-148094a17aa7&q=Mindrift&…",
+        "bluesky": "GWR OPEN｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-148094a17aa7&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-148094a17aa7&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-215e876c236b&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-148094a17aa7&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "lever-7f2322089d9e75091e9559f3",
-          "employer": "RWS TrainAI",
-          "title": "Search Engine Evaluator - Japanese (Japan)",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26/apply",
-          "last_verified_at": "2026-10-26T04:48:42.041Z",
+          "job_id": "workable-59bad123e1",
+          "employer": "Mindrift",
+          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/59BAD123E1",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,26 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-7fcd7bc3aa76",
+      "candidate_id": "gwr-open-61b085ed3f50",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 83,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 91,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7fcd7bc3aa76&q=RWS…",
-        "bluesky": "GWR OPEN｜Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7fcd7bc3aa76&q=RWS+TrainAI&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Speech AI Evaluation Specialist - Japanese (Japan)｜RWS TrainAI｜Tokyo 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7fcd7bc3aa76&q=RWS+TrainAI&intent=general"
+        "x": "【GWR OPEN】Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61b085ed3f50&q=Mindrift&intent=re…",
+        "bluesky": "GWR OPEN｜Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61b085ed3f50&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61b085ed3f50&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7fcd7bc3aa76&q=RWS+TrainAI&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61b085ed3f50&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "lever-3606070ccc092bf91134afa5",
-          "employer": "RWS TrainAI",
-          "title": "Speech AI Evaluation Specialist - Japanese (Japan)",
-          "source": "Lever / RWS TrainAI",
-          "official_url": "https://jobs.lever.co/rws/28b3d23d-7e18-4842-adfe-b708af798a9c/apply",
-          "last_verified_at": "2026-10-26T04:48:42.041Z",
+          "job_id": "workable-7070da7c02",
+          "employer": "Mindrift",
+          "title": "Physician (MD/DO) - Medical AI Evaluation",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/7070DA7C02",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -415,62 +415,62 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-c9e0e964df32",
+      "candidate_id": "gwr-shift-a34929f29839",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "score": 86,
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Side：GWR確認求人 16→17（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c9e0e964df32&q=Side&intent=general",
-        "bluesky": "GWR SHIFT｜Side：GWR確認求人 16→17（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c9e0e964df32&q=Side&intent=general",
-        "linkedin": "GWR Market Shift Side：GWR確認求人 16→17（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c9e0e964df32&q=Side&intent=general"
+        "x": "【GWR SHIFT】Teltonika：GWR確認求人 2→4（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-a34929f29839&q=Teltonika&intent=general",
+        "bluesky": "GWR SHIFT｜Teltonika：GWR確認求人 2→4（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-a34929f29839&q=Teltonika&intent=general",
+        "linkedin": "GWR Market Shift Teltonika：GWR確認求人 2→4（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-a34929f29839&q=Teltonika&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c9e0e964df32&q=Side&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-a34929f29839&q=Teltonika&intent=general",
       "evidence": [
         {
-          "job_id": "workable-35a8b8be51",
-          "employer": "Side",
-          "title": "Localization Project coordinator",
+          "job_id": "workable-9a29453184",
+          "employer": "Teltonika",
+          "title": "Sales Manager | Networking Solutions",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/35A8B8BE51",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/9A29453184",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
-          "job_id": "workable-79d89ebb01",
-          "employer": "Side",
-          "title": "LQA Game tester: Brazilian Portuguese",
+          "job_id": "workable-fad5b6920f",
+          "employer": "Teltonika",
+          "title": "Sales Manager | Telematics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/79D89EBB01",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/FAD5B6920F",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
-          "job_id": "workable-daab432a6a",
-          "employer": "Side",
-          "title": "Russian LQA tester",
+          "job_id": "workable-92154ec0bc",
+          "employer": "Teltonika",
+          "title": "Head of Sales | Telematics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/DAAB432A6A",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
-          "freshness_bucket": "LONG_RUNNING",
+          "official_url": "https://apply.workable.com/j/92154EC0BC",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
-          "job_id": "workable-a61a878bf8",
-          "employer": "Side",
-          "title": "Polish LQA tester",
+          "job_id": "workable-af0207390d",
+          "employer": "Teltonika",
+          "title": "テレマティクス営業部長（日本および韓国市場担当）",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A61A878BF8",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
-          "freshness_bucket": "LONG_RUNNING",
+          "official_url": "https://apply.workable.com/j/AF0207390D",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -486,59 +486,59 @@
       "rank": 11
     },
     {
-      "candidate_id": "gwr-shift-048e96bfc0c2",
+      "candidate_id": "gwr-shift-602027010c3a",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
       "score": 82,
-      "source_generated_at": "2026-10-26T04:49:28.717Z",
+      "source_generated_at": "2026-10-26T15:13:25.545Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】moomoo：GWR確認求人 10→11（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-048e96bfc0c2&q=moomoo&intent=general",
-        "bluesky": "GWR SHIFT｜moomoo：GWR確認求人 10→11（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-048e96bfc0c2&q=moomoo&intent=general",
-        "linkedin": "GWR Market Shift moomoo：GWR確認求人 10→11（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-048e96bfc0c2&q=moomoo&intent=general"
+        "x": "【GWR SHIFT】Ten Group：GWR確認求人 10→11（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-602027010c3a&q=Ten+Group&intent=general",
+        "bluesky": "GWR SHIFT｜Ten Group：GWR確認求人 10→11（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-602027010c3a&q=Ten+Group&intent=general",
+        "linkedin": "GWR Market Shift Ten Group：GWR確認求人 10→11（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-602027010c3a&q=Ten+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-048e96bfc0c2&q=moomoo&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-602027010c3a&q=Ten+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-31ec65c469",
-          "employer": "moomoo",
-          "title": "口座開設・顧客口座管理業務",
+          "job_id": "workable-5ea3cb073b",
+          "employer": "Ten Group",
+          "title": "障害者雇用 総務",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/31EC65C469",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/5EA3CB073B",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-2cd6e6eff4",
-          "employer": "moomoo",
-          "title": "シニアマーケティングビジネス開発マネージャー",
+          "job_id": "workable-54c8ebaa07",
+          "employer": "Ten Group",
+          "title": "総務",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2CD6E6EFF4",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/54C8EBAA07",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-d52d556b86",
-          "employer": "moomoo",
-          "title": "カスタマーサポートスタッフ NASDAQ上場最先端フィンテック",
+          "job_id": "workable-b0f69c7bbe",
+          "employer": "Ten Group",
+          "title": "旅行コンシェルジュ",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/D52D556B86",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/B0F69C7BBE",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-743fbcd790",
-          "employer": "moomoo",
-          "title": "Senior Compliance Officer シニアコンプライアンスオフィサー",
+          "job_id": "workable-5390ba1808",
+          "employer": "Ten Group",
+          "title": "総務アルバイト",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/743FBCD790",
-          "last_verified_at": "2026-10-26T04:49:14.587Z",
+          "official_url": "https://apply.workable.com/j/5390BA1808",
+          "last_verified_at": "2026-10-26T15:13:02.970Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
