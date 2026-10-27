@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T05:07:47.610Z",
-  "source_generated_at": "2026-10-27T05:07:47.465Z",
+  "generated_at": "2026-10-27T14:33:56.385Z",
+  "source_generated_at": "2026-10-27T14:33:56.168Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -35,29 +35,29 @@
   "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-b5ff3b3e951a",
+      "candidate_id": "gwr-alert-eae859de550f",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
+      "score": 112,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b5…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b5ff3b3e951a&q=Gramian+Consulting+Grou…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b5ff3b3e951a&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】GoMining｜Business Development Manager｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eae859de550f&q=GoMining&i…",
+        "bluesky": "GWR ALERT｜GoMining｜Business Development Manager｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eae859de550f&q=GoMining&intent=general",
+        "linkedin": "GWR Market Alert GoMining｜Business Development Manager｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eae859de550f&q=GoMining&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b5ff3b3e951a&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eae859de550f&q=GoMining&intent=general",
       "evidence": [
         {
-          "job_id": "workable-237ede85b9",
-          "employer": "Gramian Consulting Group",
-          "title": "Rust Backend Architect - AI Training Projects",
+          "job_id": "workable-fab8af8720",
+          "employer": "GoMining",
+          "title": "Business Development Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/237EDE85B9",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/FAB8AF8720",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-18db1adb6892",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-fd5e3260f958",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 105,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Machine Learning Research & Engineering Specialist｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-ale…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Machine Learning Research & Engineering Specialist｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-18db1adb6892&q=Gramian+Consulting…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Machine Learning Research & Engineering Specialist｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-18db1adb6892&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR OPEN】Business Development Manager｜GoMining｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd5e3260f958&q=GoMining&intent=remote",
+        "bluesky": "GWR OPEN｜Business Development Manager｜GoMining｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd5e3260f958&q=GoMining&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Business Development Manager｜GoMining｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd5e3260f958&q=GoMining&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-18db1adb6892&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fd5e3260f958&q=GoMining&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-8147b966af",
-          "employer": "Gramian Consulting Group",
-          "title": "Machine Learning Research & Engineering Specialist",
+          "job_id": "workable-fab8af8720",
+          "employer": "GoMining",
+          "title": "Business Development Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8147B966AF",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/FAB8AF8720",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -111,26 +111,26 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-fe474c6e4459",
+      "candidate_id": "gwr-alert-f8ce21de701b",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
+      "score": 99,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Stellar Cyber｜Senior Sales Director - Japan｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fe474c6e4459&q=Stellar+Cyber&…",
-        "bluesky": "GWR ALERT｜Stellar Cyber｜Senior Sales Director - Japan｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fe474c6e4459&q=Stellar+Cyber&intent=general",
-        "linkedin": "GWR Market Alert Stellar Cyber｜Senior Sales Director - Japan｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fe474c6e4459&q=Stellar+Cyber&intent=general"
+        "x": "【GWR ALERT】Mercari, inc.｜Outreach Specialist (Driver of Research PR & Co-innovation) - Mercari｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content…",
+        "bluesky": "GWR ALERT｜Mercari, inc.｜Outreach Specialist (Driver of Research PR & Co-innovation) - Mercari｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f8ce21de701b&q=Mercari%2C…",
+        "linkedin": "GWR Market Alert Mercari, inc.｜Outreach Specialist (Driver of Research PR & Co-innovation) - Mercari｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f8ce21de701b&q=Mercari%2C+inc.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fe474c6e4459&q=Stellar+Cyber&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f8ce21de701b&q=Mercari%2C+inc.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a1d4793263",
-          "employer": "Stellar Cyber",
-          "title": "Senior Sales Director - Japan",
+          "job_id": "workable-d10bcc41cb",
+          "employer": "Mercari, inc.",
+          "title": "Outreach Specialist (Driver of Research PR & Co-innovation) - Mercari",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A1D4793263",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/D10BCC41CB",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-open-8a1d0cf47fff",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-1c8608283edd",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 98,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8a1d0cf47fff&…",
-        "bluesky": "GWR OPEN｜Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8a1d0cf47fff&q=Gramian+Consulting+Grou…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8a1d0cf47fff&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR ALERT】Stellar Cyber｜Senior Sales Director - Japan｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1c8608283edd&q=Stellar+Cyber&intent…",
+        "bluesky": "GWR ALERT｜Stellar Cyber｜Senior Sales Director - Japan｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1c8608283edd&q=Stellar+Cyber&intent=general",
+        "linkedin": "GWR Market Alert Stellar Cyber｜Senior Sales Director - Japan｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1c8608283edd&q=Stellar+Cyber&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8a1d0cf47fff&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1c8608283edd&q=Stellar+Cyber&intent=general",
       "evidence": [
         {
-          "job_id": "workable-237ede85b9",
-          "employer": "Gramian Consulting Group",
-          "title": "Rust Backend Architect - AI Training Projects",
+          "job_id": "workable-a1d4793263",
+          "employer": "Stellar Cyber",
+          "title": "Senior Sales Director - Japan",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/237EDE85B9",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/A1D4793263",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-61dd560cf4d6",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-997ccda27462",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 98,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61dd560c…",
-        "bluesky": "GWR OPEN｜Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61dd560cf4d6&q=Gramian+Consulting…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61dd560cf4d6&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-997ccda2…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-997ccda27462&q=Gramian+Consulting+Group&inte…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-997ccda27462&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-61dd560cf4d6&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-997ccda27462&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8147b966af",
+          "job_id": "workable-237ede85b9",
           "employer": "Gramian Consulting Group",
-          "title": "Machine Learning Research & Engineering Specialist",
+          "title": "Rust Backend Architect - AI Training Projects",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8147B966AF",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/237EDE85B9",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -225,26 +225,26 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-5e34882c2b6f",
+      "candidate_id": "gwr-open-7d8465fc63fd",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
+      "score": 92,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Senior Sales Director - Japan｜Stellar Cyber｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e34882c2b6f&q=Stellar+Cyber&intent=remo…",
-        "bluesky": "GWR OPEN｜Senior Sales Director - Japan｜Stellar Cyber｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e34882c2b6f&q=Stellar+Cyber&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Sales Director - Japan｜Stellar Cyber｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e34882c2b6f&q=Stellar+Cyber&intent=remote"
+        "x": "【GWR OPEN】Outreach Specialist (Driver of Research PR & Co-innovation) - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&u…",
+        "bluesky": "GWR OPEN｜Outreach Specialist (Driver of Research PR & Co-innovation) - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7d846…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Outreach Specialist (Driver of Research PR & Co-innovation) - Mercari｜Mercari, inc.｜Minato City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7d8465fc63fd&q=Mercari%2C+inc.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e34882c2b6f&q=Stellar+Cyber&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7d8465fc63fd&q=Mercari%2C+inc.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a1d4793263",
-          "employer": "Stellar Cyber",
-          "title": "Senior Sales Director - Japan",
+          "job_id": "workable-d10bcc41cb",
+          "employer": "Mercari, inc.",
+          "title": "Outreach Specialist (Driver of Research PR & Co-innovation) - Mercari",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A1D4793263",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/D10BCC41CB",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -263,26 +263,26 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-alert-1706f6c387f7",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-ed219b4df3c0",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 91,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1706f6c387f7&q=Mind…",
-        "bluesky": "GWR ALERT｜Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1706f6c387f7&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1706f6c387f7&q=Mindrift&intent=general"
+        "x": "【GWR OPEN】Senior Sales Director - Japan｜Stellar Cyber｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed219b4df3c0&q=Stellar+Cyber&intent=remo…",
+        "bluesky": "GWR OPEN｜Senior Sales Director - Japan｜Stellar Cyber｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed219b4df3c0&q=Stellar+Cyber&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Sales Director - Japan｜Stellar Cyber｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed219b4df3c0&q=Stellar+Cyber&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1706f6c387f7&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed219b4df3c0&q=Stellar+Cyber&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-59bad123e1",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-a1d4793263",
+          "employer": "Stellar Cyber",
+          "title": "Senior Sales Director - Japan",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/59BAD123E1",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/A1D4793263",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -301,26 +301,26 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-d3efc576ab78",
+      "candidate_id": "gwr-open-a3eab1407537",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d3efc576ab78&q=Mindrift&…",
-        "bluesky": "GWR OPEN｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d3efc576ab78&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d3efc576ab78&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a3eab1407537&…",
+        "bluesky": "GWR OPEN｜Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a3eab1407537&q=Gramian+Consulting+Grou…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a3eab1407537&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d3efc576ab78&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a3eab1407537&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-59bad123e1",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-237ede85b9",
+          "employer": "Gramian Consulting Group",
+          "title": "Rust Backend Architect - AI Training Projects",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/59BAD123E1",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/237EDE85B9",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -339,26 +339,26 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-dcf2e527bea5",
+      "candidate_id": "gwr-open-77fa0d7acbaa",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-dcf2e527bea5&q=Mindrift&intent=re…",
-        "bluesky": "GWR OPEN｜Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-dcf2e527bea5&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-dcf2e527bea5&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-77fa0d7a…",
+        "bluesky": "GWR OPEN｜Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-77fa0d7acbaa&q=Gramian+Consulting…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-77fa0d7acbaa&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-dcf2e527bea5&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-77fa0d7acbaa&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-7070da7c02",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-8147b966af",
+          "employer": "Gramian Consulting Group",
+          "title": "Machine Learning Research & Engineering Specialist",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/7070DA7C02",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/8147B966AF",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,27 +377,27 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-972372bff378",
+      "candidate_id": "gwr-open-4556db103787",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
+      "score": 91,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-972372bff378&q=Mindrift&i…",
-        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-972372bff378&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-972372bff378&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4556db103787&q=Mindrift&inte…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4556db103787&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4556db103787&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-972372bff378&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4556db103787&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-0b20b1211b",
+          "job_id": "workable-5ca767f004",
           "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0B20B1211B",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
-          "freshness_bucket": "NEW_3D",
+          "official_url": "https://apply.workable.com/j/5CA767F004",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -415,51 +415,62 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-5024409b99e6",
+      "candidate_id": "gwr-shift-86ccc0cae2b9",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 84,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
+      "score": 82,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Gramian Consulting Group：GWR確認求人 1→3（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5024409b99e6&q=Gramian+Consulting+Group&intent=gener…",
-        "bluesky": "GWR SHIFT｜Gramian Consulting Group：GWR確認求人 1→3（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5024409b99e6&q=Gramian+Consulting+Group&intent=general",
-        "linkedin": "GWR Market Shift Gramian Consulting Group：GWR確認求人 1→3（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5024409b99e6&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR SHIFT】Mercari, inc.：GWR確認求人 65→66（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-86ccc0cae2b9&q=Mercari%2C+inc.&intent=general",
+        "bluesky": "GWR SHIFT｜Mercari, inc.：GWR確認求人 65→66（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-86ccc0cae2b9&q=Mercari%2C+inc.&intent=general",
+        "linkedin": "GWR Market Shift Mercari, inc.：GWR確認求人 65→66（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-86ccc0cae2b9&q=Mercari%2C+inc.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-5024409b99e6&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-86ccc0cae2b9&q=Mercari%2C+inc.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8de0b05e5f",
-          "employer": "Gramian Consulting Group",
-          "title": "Principal Scientific Research Expert - Computational Theory & Physics",
+          "job_id": "workable-c2bdf5efab",
+          "employer": "Mercari, inc.",
+          "title": "Corporate Application Engineer - Mercari",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8DE0B05E5F",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/C2BDF5EFAB",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_delta": 1
         },
         {
-          "job_id": "workable-237ede85b9",
-          "employer": "Gramian Consulting Group",
-          "title": "Rust Backend Architect - AI Training Projects",
+          "job_id": "workable-2ed6e15a34",
+          "employer": "Mercari, inc.",
+          "title": "Art Director / アートディレクター - Mercari",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/237EDE85B9",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/2ED6E15A34",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
+          "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_delta": 1
         },
         {
-          "job_id": "workable-8147b966af",
-          "employer": "Gramian Consulting Group",
-          "title": "Machine Learning Research & Engineering Specialist",
+          "job_id": "workable-650401fd75",
+          "employer": "Mercari, inc.",
+          "title": "UX Researcher - Merpay",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8147B966AF",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/650401FD75",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
+          "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-a1ab519400",
+          "employer": "Mercari, inc.",
+          "title": "プレエントリー / Pre Entry (NewGrads)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/A1AB519400",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -475,61 +486,28 @@
       "rank": 11
     },
     {
-      "candidate_id": "gwr-shift-f8bbecbb22cb",
+      "candidate_id": "gwr-shift-fc7db4c08d06",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-10-27T05:07:47.465Z",
+      "score": 76,
+      "source_generated_at": "2026-10-27T14:33:56.168Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Stellar Cyber：GWR確認求人 3→4（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f8bbecbb22cb&q=Stellar+Cyber&intent=general",
-        "bluesky": "GWR SHIFT｜Stellar Cyber：GWR確認求人 3→4（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f8bbecbb22cb&q=Stellar+Cyber&intent=general",
-        "linkedin": "GWR Market Shift Stellar Cyber：GWR確認求人 3→4（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f8bbecbb22cb&q=Stellar+Cyber&intent=general"
+        "x": "【GWR SHIFT】GoMining：GWR確認求人 0→1（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-fc7db4c08d06&q=GoMining&intent=general",
+        "bluesky": "GWR SHIFT｜GoMining：GWR確認求人 0→1（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-fc7db4c08d06&q=GoMining&intent=general",
+        "linkedin": "GWR Market Shift GoMining：GWR確認求人 0→1（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-fc7db4c08d06&q=GoMining&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f8bbecbb22cb&q=Stellar+Cyber&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-fc7db4c08d06&q=GoMining&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2d2d6fd52b",
-          "employer": "Stellar Cyber",
-          "title": "Senior Technical Support Engineer-Japan",
+          "job_id": "workable-fab8af8720",
+          "employer": "GoMining",
+          "title": "Business Development Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2D2D6FD52B",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-7f93a46503",
-          "employer": "Stellar Cyber",
-          "title": "Senior Technical Account Manager (TAM) - Japan",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/7F93A46503",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-ee71ac85d6",
-          "employer": "Stellar Cyber",
-          "title": "シニアテクニカルサポートエンジニア（日本）",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/EE71AC85D6",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-a1d4793263",
-          "employer": "Stellar Cyber",
-          "title": "Senior Sales Director - Japan",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A1D4793263",
-          "last_verified_at": "2026-10-27T05:07:28.062Z",
+          "official_url": "https://apply.workable.com/j/FAB8AF8720",
+          "last_verified_at": "2026-10-27T14:33:33.930Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
           "hiring_delta": 1
         }
       ],
