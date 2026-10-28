@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T20:44:00.361Z",
-  "source_generated_at": "2026-10-27T20:44:00.150Z",
+  "generated_at": "2026-10-28T05:44:51.666Z",
+  "source_generated_at": "2026-10-28T05:44:51.524Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -35,26 +35,26 @@
   "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-98b06ae52028",
+      "candidate_id": "gwr-alert-918f9826bef1",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "score": 99,
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】LMG Staffing Solutions｜Local Digital Marketer - Japan (Contractor)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-98b06a…",
-        "bluesky": "GWR ALERT｜LMG Staffing Solutions｜Local Digital Marketer - Japan (Contractor)｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-98b06ae52028&q=LMG+Staffing+Solutions&inte…",
-        "linkedin": "GWR Market Alert LMG Staffing Solutions｜Local Digital Marketer - Japan (Contractor)｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-98b06ae52028&q=LMG+Staffing+Solutions&intent=general"
+        "x": "【GWR ALERT】moomoo｜コンテンツマーケティングマネージャー- Content Marketing Manager｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-918f9826bef1&q=moomo…",
+        "bluesky": "GWR ALERT｜moomoo｜コンテンツマーケティングマネージャー- Content Marketing Manager｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-918f9826bef1&q=moomoo&intent=general",
+        "linkedin": "GWR Market Alert moomoo｜コンテンツマーケティングマネージャー- Content Marketing Manager｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-918f9826bef1&q=moomoo&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-98b06ae52028&q=LMG+Staffing+Solutions&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-918f9826bef1&q=moomoo&intent=general",
       "evidence": [
         {
-          "job_id": "workable-196a4135d8",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan (Contractor)",
+          "job_id": "workable-0faef24db1",
+          "employer": "moomoo",
+          "title": "コンテンツマーケティングマネージャー- Content Marketing Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/196A4135D8",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/0FAEF24DB1",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -73,26 +73,26 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-open-31dd75ff457a",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-192eafe38d77",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 99,
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-31dd75ff45…",
-        "bluesky": "GWR OPEN｜Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-31dd75ff457a&q=LMG+Staffing+Solutio…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Local Digital Marketer - Japan (Contractor)｜LMG Staffing Solutions｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-31dd75ff457a&q=LMG+Staffing+Solutions&intent=remote"
+        "x": "【GWR ALERT】Rapyuta Robotics｜SCM Specialist｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-192eafe38d77&q=Rapyuta+Robotics&intent=ge…",
+        "bluesky": "GWR ALERT｜Rapyuta Robotics｜SCM Specialist｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-192eafe38d77&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Alert Rapyuta Robotics｜SCM Specialist｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-192eafe38d77&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-31dd75ff457a&q=LMG+Staffing+Solutions&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-192eafe38d77&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-196a4135d8",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan (Contractor)",
+          "job_id": "workable-3483bf4785",
+          "employer": "Rapyuta Robotics",
+          "title": "SCM Specialist",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/196A4135D8",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/3483BF4785",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-0c77a4998933",
+      "candidate_id": "gwr-alert-90e03552e0b7",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "score": 98,
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Keywords Studios｜Arabic LQA Specialist｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0c77a4998933&q=Keywords+Studios&in…",
-        "bluesky": "GWR ALERT｜Keywords Studios｜Arabic LQA Specialist｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0c77a4998933&q=Keywords+Studios&intent=general",
-        "linkedin": "GWR Market Alert Keywords Studios｜Arabic LQA Specialist｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0c77a4998933&q=Keywords+Studios&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-90e03552e0b7&q=Mindrift…",
+        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-90e03552e0b7&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-90e03552e0b7&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0c77a4998933&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-90e03552e0b7&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-3e1de14eab",
-          "employer": "Keywords Studios",
-          "title": "Arabic LQA Specialist",
+          "job_id": "workable-5ca767f004",
+          "employer": "Mindrift",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3E1DE14EAB",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/5CA767F004",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,26 +149,26 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-cb993e395fff",
+      "candidate_id": "gwr-alert-12f3db5bede6",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 98,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cb993e39…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cb993e395fff&q=Gramian+Consulting+Group&inte…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Rust Backend Architect - AI Training Projects｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cb993e395fff&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】GoMining｜Business Development Manager｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-12f3db5bede6&q=GoMining&intent=general",
+        "bluesky": "GWR ALERT｜GoMining｜Business Development Manager｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-12f3db5bede6&q=GoMining&intent=general",
+        "linkedin": "GWR Market Alert GoMining｜Business Development Manager｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-12f3db5bede6&q=GoMining&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cb993e395fff&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-12f3db5bede6&q=GoMining&intent=general",
       "evidence": [
         {
-          "job_id": "workable-237ede85b9",
-          "employer": "Gramian Consulting Group",
-          "title": "Rust Backend Architect - AI Training Projects",
+          "job_id": "workable-fab8af8720",
+          "employer": "GoMining",
+          "title": "Business Development Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/237EDE85B9",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/FAB8AF8720",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-alert-5cb90c19babc",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-0ae7f7ebcc26",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 92,
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Machine Learning Research & Engineering Specialist｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5cb…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Machine Learning Research & Engineering Specialist｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5cb90c19babc&q=Gramian+Consulting+Group…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Machine Learning Research & Engineering Specialist｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5cb90c19babc&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR OPEN】コンテンツマーケティングマネージャー- Content Marketing Manager｜moomoo｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0ae7f7ebcc26&q=mo…",
+        "bluesky": "GWR OPEN｜コンテンツマーケティングマネージャー- Content Marketing Manager｜moomoo｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0ae7f7ebcc26&q=moomoo&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 コンテンツマーケティングマネージャー- Content Marketing Manager｜moomoo｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0ae7f7ebcc26&q=moomoo&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5cb90c19babc&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0ae7f7ebcc26&q=moomoo&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8147b966af",
-          "employer": "Gramian Consulting Group",
-          "title": "Machine Learning Research & Engineering Specialist",
+          "job_id": "workable-0faef24db1",
+          "employer": "moomoo",
+          "title": "コンテンツマーケティングマネージャー- Content Marketing Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8147B966AF",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/0FAEF24DB1",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -225,26 +225,26 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-0049dda379ab",
+      "candidate_id": "gwr-open-efb9db429306",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 92,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Arabic LQA Specialist｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0049dda379ab&q=Keywords…",
-        "bluesky": "GWR OPEN｜Arabic LQA Specialist｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0049dda379ab&q=Keywords+Studios&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Arabic LQA Specialist｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0049dda379ab&q=Keywords+Studios&intent=general"
+        "x": "【GWR OPEN】SCM Specialist｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-efb9db429306&q=Rapyuta+Robotics&in…",
+        "bluesky": "GWR OPEN｜SCM Specialist｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-efb9db429306&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 SCM Specialist｜Rapyuta Robotics｜Koto City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-efb9db429306&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0049dda379ab&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-efb9db429306&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-3e1de14eab",
-          "employer": "Keywords Studios",
-          "title": "Arabic LQA Specialist",
+          "job_id": "workable-3483bf4785",
+          "employer": "Rapyuta Robotics",
+          "title": "SCM Specialist",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/3E1DE14EAB",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/3483BF4785",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -263,26 +263,26 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-09c0449ca281",
+      "candidate_id": "gwr-open-2976a1a91eed",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-09c0449ca281&…",
-        "bluesky": "GWR OPEN｜Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-09c0449ca281&q=Gramian+Consulting+Grou…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-09c0449ca281&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2976a1a91eed&q=Mindrift&inte…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2976a1a91eed&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2976a1a91eed&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-09c0449ca281&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2976a1a91eed&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-237ede85b9",
-          "employer": "Gramian Consulting Group",
-          "title": "Rust Backend Architect - AI Training Projects",
+          "job_id": "workable-5ca767f004",
+          "employer": "Mindrift",
+          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/237EDE85B9",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/5CA767F004",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -301,26 +301,26 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-29f0a14b6b6b",
+      "candidate_id": "gwr-open-3282c40d278b",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-29f0a14b…",
-        "bluesky": "GWR OPEN｜Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-29f0a14b6b6b&q=Gramian+Consulting…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Machine Learning Research & Engineering Specialist｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-29f0a14b6b6b&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Business Development Manager｜GoMining｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3282c40d278b&q=GoMining&intent=remote",
+        "bluesky": "GWR OPEN｜Business Development Manager｜GoMining｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3282c40d278b&q=GoMining&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Business Development Manager｜GoMining｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3282c40d278b&q=GoMining&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-29f0a14b6b6b&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3282c40d278b&q=GoMining&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-8147b966af",
-          "employer": "Gramian Consulting Group",
-          "title": "Machine Learning Research & Engineering Specialist",
+          "job_id": "workable-fab8af8720",
+          "employer": "GoMining",
+          "title": "Business Development Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8147B966AF",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/FAB8AF8720",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -339,26 +339,26 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-89aaf38b154d",
+      "candidate_id": "gwr-open-7052a4f0b41e",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-89aaf38b154d&q=Mindrift&inte…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-89aaf38b154d&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-89aaf38b154d&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7052a4f0b41e&q=Mindrift&intent=remote",
+        "bluesky": "GWR OPEN｜CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7052a4f0b41e&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7052a4f0b41e&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-89aaf38b154d&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7052a4f0b41e&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-5ca767f004",
+          "job_id": "workable-bf4c1049af",
           "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+          "title": "CFD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5CA767F004",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/BF4C1049AF",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -377,26 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-8aefac12d1cf",
+      "candidate_id": "gwr-open-a7e9680e9a79",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Business Development Manager｜GoMining｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8aefac12d1cf&q=GoMining&intent=remote",
-        "bluesky": "GWR OPEN｜Business Development Manager｜GoMining｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8aefac12d1cf&q=GoMining&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Business Development Manager｜GoMining｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8aefac12d1cf&q=GoMining&intent=remote"
+        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a7e9680e9a79&q=Mindrift&intent=remote",
+        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a7e9680e9a79&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a7e9680e9a79&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8aefac12d1cf&q=GoMining&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a7e9680e9a79&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-fab8af8720",
-          "employer": "GoMining",
-          "title": "Business Development Manager",
+          "job_id": "workable-5d9e867992",
+          "employer": "Mindrift",
+          "title": "CAD Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/FAB8AF8720",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/5D9E867992",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -415,59 +415,59 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-fa0d7462e6fa",
+      "candidate_id": "gwr-shift-84a0c3df12f7",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
       "score": 82,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Keywords Studios：GWR確認求人 26→27（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-fa0d7462e6fa&q=Keywords+Studios&intent=general",
-        "bluesky": "GWR SHIFT｜Keywords Studios：GWR確認求人 26→27（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-fa0d7462e6fa&q=Keywords+Studios&intent=general",
-        "linkedin": "GWR Market Shift Keywords Studios：GWR確認求人 26→27（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-fa0d7462e6fa&q=Keywords+Studios&intent=general"
+        "x": "【GWR SHIFT】Rapyuta Robotics：GWR確認求人 27→28（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-84a0c3df12f7&q=Rapyuta+Robotics&intent=general",
+        "bluesky": "GWR SHIFT｜Rapyuta Robotics：GWR確認求人 27→28（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-84a0c3df12f7&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Shift Rapyuta Robotics：GWR確認求人 27→28（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-84a0c3df12f7&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-fa0d7462e6fa&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-84a0c3df12f7&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c0bf8df48a",
-          "employer": "Keywords Studios",
-          "title": "English to Japanese MOBA Game Translator (Freelance/remote Job) 英日ゲームフリーランス翻訳者",
+          "job_id": "workable-1835a11bd7",
+          "employer": "Rapyuta Robotics",
+          "title": "Sales Open Position",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C0BF8DF48A",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/1835A11BD7",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-82fcd309b3",
-          "employer": "Keywords Studios",
-          "title": "English to Japanese Freelance Translators (Games) 英日ゲームフリーランス翻訳者",
+          "job_id": "workable-e33749b0a4",
+          "employer": "Rapyuta Robotics",
+          "title": "Partner Sales",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/82FCD309B3",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/E33749B0A4",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-6f2f664d12",
-          "employer": "Keywords Studios",
-          "title": "Japanese & English Customer Support Agent - Gaming",
+          "job_id": "workable-3ee3968348",
+          "employer": "Rapyuta Robotics",
+          "title": "Account Sales",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/6F2F664D12",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/3EE3968348",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-6ff703f4b7",
-          "employer": "Keywords Studios",
-          "title": "Norwegian Game Localization Testers",
+          "job_id": "workable-3863da2d2d",
+          "employer": "Rapyuta Robotics",
+          "title": "Field Sales",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/6FF703F4B7",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/3863DA2D2D",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -486,59 +486,59 @@
       "rank": 11
     },
     {
-      "candidate_id": "gwr-shift-40c1b385e485",
+      "candidate_id": "gwr-shift-bf8e87afc6dd",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
       "score": 82,
-      "source_generated_at": "2026-10-27T20:44:00.150Z",
+      "source_generated_at": "2026-10-28T05:44:51.524Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】LMG Staffing Solutions：GWR確認求人 4→5（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-40c1b385e485&q=LMG+Staffing+Solutions&intent=general",
-        "bluesky": "GWR SHIFT｜LMG Staffing Solutions：GWR確認求人 4→5（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-40c1b385e485&q=LMG+Staffing+Solutions&intent=general",
-        "linkedin": "GWR Market Shift LMG Staffing Solutions：GWR確認求人 4→5（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-40c1b385e485&q=LMG+Staffing+Solutions&intent=general"
+        "x": "【GWR SHIFT】moomoo：GWR確認求人 11→12（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-bf8e87afc6dd&q=moomoo&intent=general",
+        "bluesky": "GWR SHIFT｜moomoo：GWR確認求人 11→12（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-bf8e87afc6dd&q=moomoo&intent=general",
+        "linkedin": "GWR Market Shift moomoo：GWR確認求人 11→12（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-bf8e87afc6dd&q=moomoo&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-40c1b385e485&q=LMG+Staffing+Solutions&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-bf8e87afc6dd&q=moomoo&intent=general",
       "evidence": [
         {
-          "job_id": "workable-35ebac8977",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan",
+          "job_id": "workable-31ec65c469",
+          "employer": "moomoo",
+          "title": "口座開設・顧客口座管理業務",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/35EBAC8977",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/31EC65C469",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-a50a720307",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan",
+          "job_id": "workable-2cd6e6eff4",
+          "employer": "moomoo",
+          "title": "シニアマーケティングビジネス開発マネージャー",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A50A720307",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/2CD6E6EFF4",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-5e1f2ddb25",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan",
+          "job_id": "workable-d52d556b86",
+          "employer": "moomoo",
+          "title": "カスタマーサポートスタッフ NASDAQ上場最先端フィンテック",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5E1F2DDB25",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/D52D556B86",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
         },
         {
-          "job_id": "workable-b20c8dea11",
-          "employer": "LMG Staffing Solutions",
-          "title": "Local Digital Marketer - Japan (Contractor)",
+          "job_id": "workable-743fbcd790",
+          "employer": "moomoo",
+          "title": "Senior Compliance Officer シニアコンプライアンスオフィサー",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B20C8DEA11",
-          "last_verified_at": "2026-10-27T20:43:37.766Z",
+          "official_url": "https://apply.workable.com/j/743FBCD790",
+          "last_verified_at": "2026-10-28T05:44:36.810Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
