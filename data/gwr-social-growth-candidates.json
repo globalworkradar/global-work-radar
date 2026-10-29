@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T21:08:20.757Z",
-  "source_generated_at": "2026-10-28T21:08:20.588Z",
+  "generated_at": "2026-10-29T05:51:02.568Z",
+  "source_generated_at": "2026-10-29T05:51:02.350Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 10,
+  "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-9a30d2eb7982",
+      "candidate_id": "gwr-alert-0d8aba6e9c24",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
+      "score": 112,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Keywords Studios｜Localization Quality Coordinator｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9a30d2eb7982&q=Keywords+Studi…",
-        "bluesky": "GWR ALERT｜Keywords Studios｜Localization Quality Coordinator｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9a30d2eb7982&q=Keywords+Studios&intent=general",
-        "linkedin": "GWR Market Alert Keywords Studios｜Localization Quality Coordinator｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9a30d2eb7982&q=Keywords+Studios&intent=general"
+        "x": "【GWR ALERT】United Imaging Healthcare｜Customer Service Engineer｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0d8aba6e9c2…",
+        "bluesky": "GWR ALERT｜United Imaging Healthcare｜Customer Service Engineer｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0d8aba6e9c24&q=United+Imaging+Healthcare&intent…",
+        "linkedin": "GWR Market Alert United Imaging Healthcare｜Customer Service Engineer｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0d8aba6e9c24&q=United+Imaging+Healthcare&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9a30d2eb7982&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0d8aba6e9c24&q=United+Imaging+Healthcare&intent=general",
       "evidence": [
         {
-          "job_id": "workable-b7e8e21aa3",
-          "employer": "Keywords Studios",
-          "title": "Localization Quality Coordinator",
+          "job_id": "workable-6afee81768",
+          "employer": "United Imaging Healthcare",
+          "title": "Customer Service Engineer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B7E8E21AA3",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
+          "official_url": "https://apply.workable.com/j/6AFEE81768",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-cbe03bb86596",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-c4a120bc86fe",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 105,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbe03bb86596…",
-        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbe03bb86596&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbe03bb86596&q=Mindrift&intent=general"
+        "x": "【GWR OPEN】Customer Service Engineer｜United Imaging Healthcare｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c4a120bc86fe&q=Uni…",
+        "bluesky": "GWR OPEN｜Customer Service Engineer｜United Imaging Healthcare｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c4a120bc86fe&q=United+Imaging+Healthcare&in…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Customer Service Engineer｜United Imaging Healthcare｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c4a120bc86fe&q=United+Imaging+Healthcare&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbe03bb86596&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c4a120bc86fe&q=United+Imaging+Healthcare&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-a2a117b29a",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+          "job_id": "workable-6afee81768",
+          "employer": "United Imaging Healthcare",
+          "title": "Customer Service Engineer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A2A117B29A",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
+          "official_url": "https://apply.workable.com/j/6AFEE81768",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-1ac49e26a808",
+      "candidate_id": "gwr-alert-fbf3ca2e7d6c",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
+      "score": 100,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1ac49e26a808&q=Mind…",
-        "bluesky": "GWR ALERT｜Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1ac49e26a808&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1ac49e26a808&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Rapyuta Robotics｜Engineering Manager - Warehouse Execution｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fbf3ca2e7d6c&q…",
+        "bluesky": "GWR ALERT｜Rapyuta Robotics｜Engineering Manager - Warehouse Execution｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fbf3ca2e7d6c&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Alert Rapyuta Robotics｜Engineering Manager - Warehouse Execution｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fbf3ca2e7d6c&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1ac49e26a808&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-fbf3ca2e7d6c&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-59bad123e1",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-e40553c9cf",
+          "employer": "Rapyuta Robotics",
+          "title": "Engineering Manager - Warehouse Execution",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/59BAD123E1",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/E40553C9CF",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-07c5267ff6d8",
+      "candidate_id": "gwr-alert-0cf23f63c8bc",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
+      "score": 100,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-07c5267ff6d8&q=Mindrift&inte…",
-        "bluesky": "GWR ALERT｜Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-07c5267ff6d8&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-07c5267ff6d8&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Rapyuta Robotics｜Engineering Manager｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0cf23f63c8bc&q=Rapyuta+Robotics&inte…",
+        "bluesky": "GWR ALERT｜Rapyuta Robotics｜Engineering Manager｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0cf23f63c8bc&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Alert Rapyuta Robotics｜Engineering Manager｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0cf23f63c8bc&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-07c5267ff6d8&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0cf23f63c8bc&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-7070da7c02",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-7899692b69",
+          "employer": "Rapyuta Robotics",
+          "title": "Engineering Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/7070DA7C02",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/7899692B69",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-7a8aa3bb06a4",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-cbe1721a662f",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 99,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Localization Quality Coordinator｜Keywords Studios｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7a8aa3bb06a4&q=Keywords+Studios&in…",
-        "bluesky": "GWR OPEN｜Localization Quality Coordinator｜Keywords Studios｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7a8aa3bb06a4&q=Keywords+Studios&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Localization Quality Coordinator｜Keywords Studios｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7a8aa3bb06a4&q=Keywords+Studios&intent=remote"
+        "x": "【GWR ALERT】Teltonika｜IoT Solutions Engineer | Telematics｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbe1721a662f&q=Teltonika&in…",
+        "bluesky": "GWR ALERT｜Teltonika｜IoT Solutions Engineer | Telematics｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbe1721a662f&q=Teltonika&intent=general",
+        "linkedin": "GWR Market Alert Teltonika｜IoT Solutions Engineer | Telematics｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbe1721a662f&q=Teltonika&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7a8aa3bb06a4&q=Keywords+Studios&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbe1721a662f&q=Teltonika&intent=general",
       "evidence": [
         {
-          "job_id": "workable-b7e8e21aa3",
-          "employer": "Keywords Studios",
-          "title": "Localization Quality Coordinator",
+          "job_id": "workable-2d26f0e7ad",
+          "employer": "Teltonika",
+          "title": "IoT Solutions Engineer | Telematics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/B7E8E21AA3",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
+          "official_url": "https://apply.workable.com/j/2D26F0E7AD",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-06a394ad0e8a",
+      "candidate_id": "gwr-open-6921ec1cfc66",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
+      "score": 93,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-06a394ad0e8a&q=Mi…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-06a394ad0e8a&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-06a394ad0e8a&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Engineering Manager - Warehouse Execution｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6921ec1…",
+        "bluesky": "GWR OPEN｜Engineering Manager - Warehouse Execution｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6921ec1cfc66&q=Rapyuta+Robotics&…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Engineering Manager - Warehouse Execution｜Rapyuta Robotics｜Koto City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6921ec1cfc66&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-06a394ad0e8a&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6921ec1cfc66&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a2a117b29a",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+          "job_id": "workable-e40553c9cf",
+          "employer": "Rapyuta Robotics",
+          "title": "Engineering Manager - Warehouse Execution",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A2A117B29A",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
+          "official_url": "https://apply.workable.com/j/E40553C9CF",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-e280e22be16c",
+      "candidate_id": "gwr-open-f4a33755a4c6",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
+      "score": 93,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e280e22be16c&q=Mindrift&…",
-        "bluesky": "GWR OPEN｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e280e22be16c&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e280e22be16c&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Engineering Manager｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f4a33755a4c6&q=Rapyuta+Roboti…",
+        "bluesky": "GWR OPEN｜Engineering Manager｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f4a33755a4c6&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Engineering Manager｜Rapyuta Robotics｜Koto City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f4a33755a4c6&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e280e22be16c&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f4a33755a4c6&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-59bad123e1",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-7899692b69",
+          "employer": "Rapyuta Robotics",
+          "title": "Engineering Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/59BAD123E1",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/7899692B69",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-482a99977b3b",
+      "candidate_id": "gwr-open-ce6912872f41",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
+      "score": 92,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-482a99977b3b&q=Mindrift&intent=re…",
-        "bluesky": "GWR OPEN｜Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-482a99977b3b&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-482a99977b3b&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】IoT Solutions Engineer | Telematics｜Teltonika｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ce6912872f41&q=Teltonika…",
+        "bluesky": "GWR OPEN｜IoT Solutions Engineer | Telematics｜Teltonika｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ce6912872f41&q=Teltonika&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 IoT Solutions Engineer | Telematics｜Teltonika｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ce6912872f41&q=Teltonika&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-482a99977b3b&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ce6912872f41&q=Teltonika&intent=general",
       "evidence": [
         {
-          "job_id": "workable-7070da7c02",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-2d26f0e7ad",
+          "employer": "Teltonika",
+          "title": "IoT Solutions Engineer | Telematics",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/7070DA7C02",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/2D26F0E7AD",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -339,27 +339,27 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-60e27a26821d",
+      "candidate_id": "gwr-open-aadd370ae789",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
+      "score": 91,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Senior Sales Director - Japan｜Stellar Cyber｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-60e27a26821d&q=Stellar+Cyber&intent=remo…",
-        "bluesky": "GWR OPEN｜Senior Sales Director - Japan｜Stellar Cyber｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-60e27a26821d&q=Stellar+Cyber&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Sales Director - Japan｜Stellar Cyber｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-60e27a26821d&q=Stellar+Cyber&intent=remote"
+        "x": "【GWR OPEN】Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-aadd370ae789&q=Mi…",
+        "bluesky": "GWR OPEN｜Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-aadd370ae789&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CAD&Simulation Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-aadd370ae789&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-60e27a26821d&q=Stellar+Cyber&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-aadd370ae789&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-a1d4793263",
-          "employer": "Stellar Cyber",
-          "title": "Senior Sales Director - Japan",
+          "job_id": "workable-a2a117b29a",
+          "employer": "Mindrift",
+          "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A1D4793263",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
-          "freshness_bucket": "NEW_3D",
+          "official_url": "https://apply.workable.com/j/A2A117B29A",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -377,29 +377,29 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-2042f483f166",
+      "candidate_id": "gwr-open-0aeb9f57cf0a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-10-28T21:08:20.588Z",
+      "score": 88,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2042f483f166&…",
-        "bluesky": "GWR OPEN｜Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2042f483f166&q=Gramian+Consulting+Grou…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Rust Backend Architect - AI Training Projects｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2042f483f166&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】SCM Specialist｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0aeb9f57cf0a&q=Rapyuta+Robotics&in…",
+        "bluesky": "GWR OPEN｜SCM Specialist｜Rapyuta Robotics｜Koto City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0aeb9f57cf0a&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 SCM Specialist｜Rapyuta Robotics｜Koto City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0aeb9f57cf0a&q=Rapyuta+Robotics&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2042f483f166&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0aeb9f57cf0a&q=Rapyuta+Robotics&intent=general",
       "evidence": [
         {
-          "job_id": "workable-237ede85b9",
-          "employer": "Gramian Consulting Group",
-          "title": "Rust Backend Architect - AI Training Projects",
+          "job_id": "workable-3483bf4785",
+          "employer": "Rapyuta Robotics",
+          "title": "SCM Specialist",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/237EDE85B9",
-          "last_verified_at": "2026-10-28T21:08:02.505Z",
+          "official_url": "https://apply.workable.com/j/3483BF4785",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
           "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -413,6 +413,148 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
+    },
+    {
+      "candidate_id": "gwr-shift-c70c9281bd31",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 86,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】Rapyuta Robotics：GWR確認求人 28→30（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c70c9281bd31&q=Rapyuta+Robotics&intent=general",
+        "bluesky": "GWR SHIFT｜Rapyuta Robotics：GWR確認求人 28→30（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c70c9281bd31&q=Rapyuta+Robotics&intent=general",
+        "linkedin": "GWR Market Shift Rapyuta Robotics：GWR確認求人 28→30（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c70c9281bd31&q=Rapyuta+Robotics&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c70c9281bd31&q=Rapyuta+Robotics&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-1835a11bd7",
+          "employer": "Rapyuta Robotics",
+          "title": "Sales Open Position",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/1835A11BD7",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-e33749b0a4",
+          "employer": "Rapyuta Robotics",
+          "title": "Partner Sales",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/E33749B0A4",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-3ee3968348",
+          "employer": "Rapyuta Robotics",
+          "title": "Account Sales",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/3EE3968348",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-3863da2d2d",
+          "employer": "Rapyuta Robotics",
+          "title": "Field Sales",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/3863DA2D2D",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 11
+    },
+    {
+      "candidate_id": "gwr-shift-dd8d05614b38",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 82,
+      "source_generated_at": "2026-10-29T05:51:02.350Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】Teltonika：GWR確認求人 4→5（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-dd8d05614b38&q=Teltonika&intent=general",
+        "bluesky": "GWR SHIFT｜Teltonika：GWR確認求人 4→5（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-dd8d05614b38&q=Teltonika&intent=general",
+        "linkedin": "GWR Market Shift Teltonika：GWR確認求人 4→5（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-dd8d05614b38&q=Teltonika&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-dd8d05614b38&q=Teltonika&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-9a29453184",
+          "employer": "Teltonika",
+          "title": "Sales Manager | Networking Solutions",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/9A29453184",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-fad5b6920f",
+          "employer": "Teltonika",
+          "title": "Sales Manager | Telematics",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/FAD5B6920F",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-92154ec0bc",
+          "employer": "Teltonika",
+          "title": "Head of Sales | Telematics",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/92154EC0BC",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "FRESH_7D",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-af0207390d",
+          "employer": "Teltonika",
+          "title": "テレマティクス営業部長（日本および韓国市場担当）",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/AF0207390D",
+          "last_verified_at": "2026-10-29T05:50:39.609Z",
+          "freshness_bucket": "FRESH_7D",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 12
     }
   ]
 }
