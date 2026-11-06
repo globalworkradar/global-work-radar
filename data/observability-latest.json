@@ -1,33 +1,30 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-11-05T22:00:42.985Z",
+  "observed_at": "2026-11-06T06:49:48.196Z",
   "run": {
-    "github_run_id": "42117519536",
+    "github_run_id": "42176750309",
     "github_run_attempt": "1",
-    "github_sha": "25cade9739c67a4aaf428d9d6f939fe88f712462",
+    "github_sha": "9f73a043643684ba25b26ad5f9f9647fc866a325",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 515,
-    "current_count": 513,
+    "previous_count": 513,
+    "current_count": 515,
     "source_counts": {
       "lever": 21,
-      "workable_publishable": 593
+      "workable_publishable": 595
     }
   },
   "change_detection": {
-    "meaningful_change_count": 160,
-    "added_count": 1,
-    "removed_count": 3,
-    "changed_count": 156,
+    "meaningful_change_count": 56,
+    "added_count": 2,
+    "removed_count": 0,
+    "changed_count": 54,
     "added_ids": [
-      "workable-c3736dcf0f"
+      "workable-8244dc95eb",
+      "workable-dc1a93b2f6"
     ],
-    "removed_ids": [
-      "lever-3606070ccc092bf91134afa5",
-      "workable-195b599a2c",
-      "workable-bf4c1049af"
-    ],
+    "removed_ids": [],
     "changed": [
       {
         "id": "lever-d260f27c2b2c937206a47fee",
@@ -42,91 +39,7 @@
         ]
       },
       {
-        "id": "workable-1835a11bd7",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
         "id": "workable-c0bf8df48a",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-c2bdf5efab",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-2ed6e15a34",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-650401fd75",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-a1ab519400",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-e33749b0a4",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-3ee3968348",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-3863da2d2d",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-b9964f098a",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-2c84eab49c",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-3fd706417c",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-225b4123b8",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-acb8ceab30",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-511b3ecff5",
         "fields": [
           "hiring_momentum_state"
         ]
@@ -138,212 +51,37 @@
         ]
       },
       {
-        "id": "workable-86941312bb",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-4e88c4845e",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
         "id": "workable-6f2f664d12",
         "fields": [
           "hiring_momentum_state"
         ]
       },
       {
-        "id": "workable-e37cb454e0",
+        "id": "workable-35a8b8be51",
         "fields": [
           "hiring_momentum_state"
         ]
       },
       {
-        "id": "workable-3f37a8f3c8",
+        "id": "workable-79d89ebb01",
         "fields": [
           "hiring_momentum_state"
         ]
       },
       {
-        "id": "workable-6a42996879",
+        "id": "workable-77e347facb",
         "fields": [
           "hiring_momentum_state"
         ]
       },
       {
-        "id": "workable-6ce68c228e",
+        "id": "workable-1077d54ed8",
         "fields": [
           "hiring_momentum_state"
         ]
       },
       {
-        "id": "workable-650d64cd6f",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-ec5a1078c4",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-eaa43ae136",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-37f7a528f4",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-adf7837e4d",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-c6edb915ef",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-f4a1e04198",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-624f89f225",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-d16157a33a",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-6b4cb5b1e7",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-94d956e7b1",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-e15a83320b",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-6d37f9f9a1",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-c550458f01",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-a29021cc47",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-ae781d676e",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-70e115d7f8",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-560e7958c6",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-7ae97f8a2c",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-23f01534a6",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-a17df7f126",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-e9eec9f115",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-73043bfe04",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-d938a9a8ed",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-315ec3ea7f",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-7a8b56f354",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-9589b39b72",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-f89512f650",
+        "id": "workable-71c65b4331",
         "fields": [
           "hiring_momentum_state"
         ]
@@ -361,63 +99,13 @@
         ]
       },
       {
-        "id": "workable-450acf7407",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-12b87eeeef",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-2badf69cc3",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-f1153aa5a8",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-52747ba8b0",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-d354fd74a2",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
         "id": "workable-88dd10188c",
         "fields": [
           "hiring_momentum_state"
         ]
       },
       {
-        "id": "workable-9273f121d0",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-94dd2b30cc",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-0cfbf11b9e",
+        "id": "workable-041092f470",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
@@ -430,59 +118,28 @@
         ]
       },
       {
-        "id": "workable-c395d150f8",
+        "id": "workable-75dbff3ff1",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-235dce3779",
+        "id": "workable-28988426ef",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-163ac78409",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-fd7370d9ae",
+        "id": "workable-96c59496c8",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-c504070dfe",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-b8c14f2b5c",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-a2c418a2d3",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-9ea51a69fe",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-63a7e740f6",
+        "id": "workable-eefeefbdc9",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
@@ -495,99 +152,14 @@
         ]
       },
       {
-        "id": "workable-93bc2dbdb6",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-59def8cdc3",
+        "id": "workable-30629d418b",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-5cad2fc7ee",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-d7548f5238",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-704f38da2a",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-6cc6595778",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-5931538b09",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-c3bb459090",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-342f7cf490",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-daa2520ec0",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-49f696176f",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-1c4ab92422",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-c1a9d1b0bc",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-bd51cdab6e",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-05994213a3",
+        "id": "workable-534d694ae5",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
@@ -684,176 +256,34 @@
         ]
       },
       {
-        "id": "workable-ecc8350a25",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-1336ec9757",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-587174a08a",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-1bc8a1ed0c",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
         "id": "workable-fde0b59648",
         "fields": [
           "hiring_momentum_state"
         ]
       },
       {
-        "id": "workable-35ac69f256",
+        "id": "workable-68557ec55c",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-7dd6104127",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-5f0b0d6c40",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-22c24f7712",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-f099d9e249",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-37076a668c",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-3e590e34ea",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-5e1f2ddb25",
+        "id": "workable-411206a43d",
         "fields": [
           "lifecycle_state",
           "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-574c7d9f03",
+        "id": "workable-d2c2ecf786",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-7a2502bce8",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-21e5e580e6",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-ba49fe81d9",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-a98ace952e",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-0af03d9961",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-0b86fd4c7e",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-2c27d4ed5c",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-34a6936c9f",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-6d37cda2bb",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-d3c5d821fd",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-6b27e32c31",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-d10bcc41cb",
+        "id": "workable-27e1efbf9c",
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
@@ -867,73 +297,46 @@
         ]
       },
       {
-        "id": "workable-3483bf4785",
+        "id": "workable-3fd2fba80a",
         "fields": [
+          "freshness_bucket",
           "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-e40553c9cf",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-7899692b69",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-b7576c4848",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-0dfada958f",
-        "fields": [
-          "hiring_momentum_state",
-          "lifecycle_state",
-          "hiring_intent_level"
+          "lifecycle_state"
         ]
       },
       {
         "id": "workable-18969e5cce",
         "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       },
       {
         "id": "workable-f2c8ece955",
         "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       },
       {
         "id": "workable-b26936ae85",
         "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
+          "freshness_bucket"
         ]
       },
       {
-        "id": "workable-4b3bbb211d",
+        "id": "workable-db6e683d8f",
         "fields": [
+          "freshness_bucket",
           "hiring_momentum_state",
-          "hiring_intent_level"
+          "lifecycle_state"
         ]
       },
       {
-        "id": "workable-683500c09e",
+        "id": "workable-328eba7853",
         "fields": [
-          "hiring_momentum_state"
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       },
       {
@@ -943,41 +346,7 @@
         ]
       },
       {
-        "id": "workable-77ec448aa2",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-ba572a7e2a",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-774a97ca83",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-5e5cd89387",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-428381ca10",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-8797002c13",
+        "id": "workable-4bc6a4e204",
         "fields": [
           "freshness_bucket",
           "lifecycle_state"
@@ -986,38 +355,19 @@
       {
         "id": "workable-fe3aa43a9b",
         "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       },
       {
-        "id": "workable-d86178cfa3",
+        "id": "workable-2063f8700e",
         "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
+          "freshness_bucket",
+          "lifecycle_state"
         ]
       },
       {
-        "id": "workable-dacc9b1208",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-cc7b2aa541",
-        "fields": [
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-ba7495a89e",
-        "fields": [
-          "hiring_momentum_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-5511b6a4ff",
+        "id": "workable-c3736dcf0f",
         "fields": [
           "hiring_intent_level"
         ]
@@ -1027,20 +377,20 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 25,
+        "NEW_24H": 24,
         "STALE_RISK_90D": 235,
-        "AGING_30D": 99,
+        "AGING_30D": 100,
         "LONG_RUNNING_60D": 49,
-        "ACTIVE": 77,
-        "FRESH_7D": 13,
-        "NEW_3D": 15
+        "ACTIVE": 79,
+        "FRESH_7D": 12,
+        "NEW_3D": 16
       },
       "stale_risk_counts": {
-        "LOW": 224,
+        "LOW": 225,
         "ELEVATED": 235,
-        "REVIEW": 54
+        "REVIEW": 55
       },
-      "reopened_after_confirmed_close_count": 5,
+      "reopened_after_confirmed_close_count": 6,
       "changed_within_7d_count": 81,
       "thresholds_days": {
         "aging": 30,
@@ -1051,9 +401,9 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
-        "MODERATE_EVIDENCE": 134,
-        "WEAK_EVIDENCE": 367,
-        "STRONG_EVIDENCE": 12
+        "MODERATE_EVIDENCE": 136,
+        "WEAK_EVIDENCE": 361,
+        "STRONG_EVIDENCE": 18
       },
       "score_is_probability": false,
       "ghost_job_classifier": false,
