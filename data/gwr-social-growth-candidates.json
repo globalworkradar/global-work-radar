@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T06:49:47.807Z",
-  "source_generated_at": "2026-11-06T06:49:47.595Z",
+  "generated_at": "2026-11-06T15:57:04.725Z",
+  "source_generated_at": "2026-11-06T15:57:04.506Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -35,29 +35,29 @@
   "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-b063c8f7f805",
+      "candidate_id": "gwr-alert-4a2685eac00e",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
+      "score": 108,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】ThreeTrader｜シニアグラフィックデザイナー｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b063c8f7f805&q=ThreeTrader&intent=general",
-        "bluesky": "GWR ALERT｜ThreeTrader｜シニアグラフィックデザイナー｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b063c8f7f805&q=ThreeTrader&intent=general",
-        "linkedin": "GWR Market Alert ThreeTrader｜シニアグラフィックデザイナー｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b063c8f7f805&q=ThreeTrader&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Set and Production Design Expert｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4a2685eac00e&q=…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Set and Production Design Expert｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4a2685eac00e&q=Gramian+Consulting+Group&intent=gene…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Set and Production Design Expert｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4a2685eac00e&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b063c8f7f805&q=ThreeTrader&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4a2685eac00e&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8244dc95eb",
-          "employer": "ThreeTrader",
-          "title": "シニアグラフィックデザイナー",
+          "job_id": "workable-7dcd35ec23",
+          "employer": "Gramian Consulting Group",
+          "title": "Set and Production Design Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8244DC95EB",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/7DCD35EC23",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-open-cacfe46072b5",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-11dcbee90e1c",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 108,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】シニアグラフィックデザイナー｜ThreeTrader｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cacfe46072b5&q=ThreeTrader&intent=remote",
-        "bluesky": "GWR OPEN｜シニアグラフィックデザイナー｜ThreeTrader｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cacfe46072b5&q=ThreeTrader&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 シニアグラフィックデザイナー｜ThreeTrader｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cacfe46072b5&q=ThreeTrader&intent=remote"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Art Buying and Photography Representation Expert｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Art Buying and Photography Representation Expert｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-11dcbee90e1c&q=Gramian+Consulting+G…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Art Buying and Photography Representation Expert｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-11dcbee90e1c&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cacfe46072b5&q=ThreeTrader&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-11dcbee90e1c&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8244dc95eb",
-          "employer": "ThreeTrader",
-          "title": "シニアグラフィックデザイナー",
+          "job_id": "workable-1f2e2d1beb",
+          "employer": "Gramian Consulting Group",
+          "title": "Art Buying and Photography Representation Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8244DC95EB",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/1F2E2D1BEB",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-f43cd5066a2a",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-759396150778",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 101,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Side｜簡体字ゲームテスタ｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f43cd5066a2a&q=Side&intent=general",
-        "bluesky": "GWR ALERT｜Side｜簡体字ゲームテスタ｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f43cd5066a2a&q=Side&intent=general",
-        "linkedin": "GWR Market Alert Side｜簡体字ゲームテスタ｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f43cd5066a2a&q=Side&intent=general"
+        "x": "【GWR OPEN】Set and Production Design Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-759396150778&q=Gramian+Con…",
+        "bluesky": "GWR OPEN｜Set and Production Design Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-759396150778&q=Gramian+Consulting+Group&intent=remo…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Set and Production Design Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-759396150778&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f43cd5066a2a&q=Side&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-759396150778&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-dc1a93b2f6",
-          "employer": "Side",
-          "title": "簡体字ゲームテスタ",
+          "job_id": "workable-7dcd35ec23",
+          "employer": "Gramian Consulting Group",
+          "title": "Set and Production Design Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/DC1A93B2F6",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/7DCD35EC23",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-758885dac4f1",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-681de4987192",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 101,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Cloudlinux｜Senior Account Executive - Japan & East Asia (remote work)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-758885dac…",
-        "bluesky": "GWR ALERT｜Cloudlinux｜Senior Account Executive - Japan & East Asia (remote work)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-758885dac4f1&q=Cloudlinux&intent=general",
-        "linkedin": "GWR Market Alert Cloudlinux｜Senior Account Executive - Japan & East Asia (remote work)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-758885dac4f1&q=Cloudlinux&intent=general"
+        "x": "【GWR OPEN】Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-681de49871…",
+        "bluesky": "GWR OPEN｜Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-681de4987192&q=Gramian+Consulting+G…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-681de4987192&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-758885dac4f1&q=Cloudlinux&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-681de4987192&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-dacc9b1208",
-          "employer": "Cloudlinux",
-          "title": "Senior Account Executive - Japan & East Asia (remote work)",
+          "job_id": "workable-1f2e2d1beb",
+          "employer": "Gramian Consulting Group",
+          "title": "Art Buying and Photography Representation Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/DACC9B1208",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/1F2E2D1BEB",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-alert-17e1dccd8592",
+      "candidate_id": "gwr-alert-3f8e84210f44",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
+      "score": 100,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜CAD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-17e1dccd8592&q=Mindrift&intent=general",
-        "bluesky": "GWR ALERT｜Mindrift｜CAD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-17e1dccd8592&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜CAD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-17e1dccd8592&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Side｜簡体字ゲームテスタ｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f8e84210f44&q=Side&intent=general",
+        "bluesky": "GWR ALERT｜Side｜簡体字ゲームテスタ｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f8e84210f44&q=Side&intent=general",
+        "linkedin": "GWR Market Alert Side｜簡体字ゲームテスタ｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f8e84210f44&q=Side&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-17e1dccd8592&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f8e84210f44&q=Side&intent=general",
       "evidence": [
         {
-          "job_id": "workable-cc7b2aa541",
-          "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "job_id": "workable-dc1a93b2f6",
+          "employer": "Side",
+          "title": "簡体字ゲームテスタ",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CC7B2AA541",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/DC1A93B2F6",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-1fca6b453d63",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-ede81dffe4c6",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 100,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】簡体字ゲームテスタ｜Side｜Shinjuku City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1fca6b453d63&q=Side&intent=general",
-        "bluesky": "GWR OPEN｜簡体字ゲームテスタ｜Side｜Shinjuku City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1fca6b453d63&q=Side&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 簡体字ゲームテスタ｜Side｜Shinjuku City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1fca6b453d63&q=Side&intent=general"
+        "x": "【GWR ALERT】Side｜Japanese Player support Tier 1｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ede81dffe4c6&q=Side&intent=general",
+        "bluesky": "GWR ALERT｜Side｜Japanese Player support Tier 1｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ede81dffe4c6&q=Side&intent=general",
+        "linkedin": "GWR Market Alert Side｜Japanese Player support Tier 1｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ede81dffe4c6&q=Side&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-1fca6b453d63&q=Side&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-ede81dffe4c6&q=Side&intent=general",
       "evidence": [
         {
-          "job_id": "workable-dc1a93b2f6",
+          "job_id": "workable-4c3b148b7f",
           "employer": "Side",
-          "title": "簡体字ゲームテスタ",
+          "title": "Japanese Player support Tier 1",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/DC1A93B2F6",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/4C3B148B7F",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-569e03aca84e",
+      "candidate_id": "gwr-open-01fe9dbf5b50",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
+      "score": 93,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Senior Account Executive - Japan & East Asia (remote work)｜Cloudlinux｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-569e03a…",
-        "bluesky": "GWR OPEN｜Senior Account Executive - Japan & East Asia (remote work)｜Cloudlinux｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-569e03aca84e&q=Cloudlinux&intent…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Account Executive - Japan & East Asia (remote work)｜Cloudlinux｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-569e03aca84e&q=Cloudlinux&intent=remote"
+        "x": "【GWR OPEN】簡体字ゲームテスタ｜Side｜Shinjuku City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-01fe9dbf5b50&q=Side&intent=general",
+        "bluesky": "GWR OPEN｜簡体字ゲームテスタ｜Side｜Shinjuku City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-01fe9dbf5b50&q=Side&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 簡体字ゲームテスタ｜Side｜Shinjuku City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-01fe9dbf5b50&q=Side&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-569e03aca84e&q=Cloudlinux&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-01fe9dbf5b50&q=Side&intent=general",
       "evidence": [
         {
-          "job_id": "workable-dacc9b1208",
-          "employer": "Cloudlinux",
-          "title": "Senior Account Executive - Japan & East Asia (remote work)",
+          "job_id": "workable-dc1a93b2f6",
+          "employer": "Side",
+          "title": "簡体字ゲームテスタ",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/DACC9B1208",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/DC1A93B2F6",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-244f1f18fe5c",
+      "candidate_id": "gwr-open-030a456f2d73",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
+      "score": 93,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-244f1f18fe5c&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-244f1f18fe5c&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-244f1f18fe5c&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Japanese Player support Tier 1｜Side｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-030a456f2d73&q=Side&intent=general",
+        "bluesky": "GWR OPEN｜Japanese Player support Tier 1｜Side｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-030a456f2d73&q=Side&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Player support Tier 1｜Side｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-030a456f2d73&q=Side&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-244f1f18fe5c&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-030a456f2d73&q=Side&intent=general",
       "evidence": [
         {
-          "job_id": "workable-cc7b2aa541",
-          "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "job_id": "workable-4c3b148b7f",
+          "employer": "Side",
+          "title": "Japanese Player support Tier 1",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CC7B2AA541",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/4C3B148B7F",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -339,29 +339,29 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-bd02b9b0ed9f",
+      "candidate_id": "gwr-open-5ef4507cc878",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
+      "score": 93,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bd02b9b0ed9f&q=Mindrift&inte…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bd02b9b0ed9f&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bd02b9b0ed9f&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Japanese Player support Tier 2｜Side｜Shinjuku City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5ef4507cc878&q=Side&intent…",
+        "bluesky": "GWR OPEN｜Japanese Player support Tier 2｜Side｜Shinjuku City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5ef4507cc878&q=Side&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese Player support Tier 2｜Side｜Shinjuku City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5ef4507cc878&q=Side&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bd02b9b0ed9f&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5ef4507cc878&q=Side&intent=general",
       "evidence": [
         {
-          "job_id": "workable-5511b6a4ff",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+          "job_id": "workable-b1b9aa45d4",
+          "employer": "Side",
+          "title": "Japanese Player support Tier 2",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5511B6A4FF",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/B1B9AA45D4",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -377,29 +377,29 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-30e4735047e4",
+      "candidate_id": "gwr-open-9d824ff358ef",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
+      "score": 92,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-30e4735047e4&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-30e4735047e4&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-30e4735047e4&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】*Scout Search Quality Rater - Japanese | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)｜Welo Global｜Japan。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_cont…",
+        "bluesky": "GWR OPEN｜*Scout Search Quality Rater - Japanese | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)｜Welo Global｜Japan。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9d824ff358ef…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 *Scout Search Quality Rater - Japanese | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)｜Welo Global｜Japan 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9d824ff358ef&q=Welo+Global&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-30e4735047e4&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9d824ff358ef&q=Welo+Global&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c3736dcf0f",
-          "employer": "Mindrift",
-          "title": "CFD Engineer - AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C3736DCF0F",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "job_id": "lever-8041b266fb404a565d93ca6c",
+          "employer": "Welo Global",
+          "title": "*Scout Search Quality Rater - Japanese  | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)",
+          "source": "Lever / Welo Global",
+          "official_url": "https://jobs.lever.co/weloglobal/fd03d02c-3430-4174-abcd-d2b5f8f6f0dc/apply",
+          "last_verified_at": "2026-11-06T15:56:16.680Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -415,18 +415,18 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-695ad276ee9c",
+      "candidate_id": "gwr-shift-2ebce24ac440",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
+      "score": 86,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Side：GWR確認求人 13→14（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-695ad276ee9c&q=Side&intent=general",
-        "bluesky": "GWR SHIFT｜Side：GWR確認求人 13→14（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-695ad276ee9c&q=Side&intent=general",
-        "linkedin": "GWR Market Shift Side：GWR確認求人 13→14（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-695ad276ee9c&q=Side&intent=general"
+        "x": "【GWR SHIFT】Side：GWR確認求人 14→16（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2ebce24ac440&q=Side&intent=general",
+        "bluesky": "GWR SHIFT｜Side：GWR確認求人 14→16（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2ebce24ac440&q=Side&intent=general",
+        "linkedin": "GWR Market Shift Side：GWR確認求人 14→16（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2ebce24ac440&q=Side&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-695ad276ee9c&q=Side&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2ebce24ac440&q=Side&intent=general",
       "evidence": [
         {
           "job_id": "workable-35a8b8be51",
@@ -434,10 +434,10 @@
           "title": "Localization Project coordinator",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/35A8B8BE51",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
           "job_id": "workable-79d89ebb01",
@@ -445,10 +445,10 @@
           "title": "LQA Game tester: Brazilian Portuguese",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/79D89EBB01",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
           "job_id": "workable-1077d54ed8",
@@ -456,10 +456,10 @@
           "title": "Spanish (EU) LQA tester",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/1077D54ED8",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
           "job_id": "workable-71c65b4331",
@@ -467,10 +467,10 @@
           "title": "繁体字ゲームテスタ",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/71C65B4331",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
@@ -486,62 +486,62 @@
       "rank": 11
     },
     {
-      "candidate_id": "gwr-shift-0de20fc7d7d4",
+      "candidate_id": "gwr-shift-b08efbfd7543",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-11-06T06:49:47.595Z",
+      "score": 86,
+      "source_generated_at": "2026-11-06T15:57:04.506Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】ThreeTrader：GWR確認求人 4→5（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-0de20fc7d7d4&q=ThreeTrader&intent=general",
-        "bluesky": "GWR SHIFT｜ThreeTrader：GWR確認求人 4→5（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-0de20fc7d7d4&q=ThreeTrader&intent=general",
-        "linkedin": "GWR Market Shift ThreeTrader：GWR確認求人 4→5（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-0de20fc7d7d4&q=ThreeTrader&intent=general"
+        "x": "【GWR SHIFT】Gramian Consulting Group：GWR確認求人 2→4（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b08efbfd7543&q=Gramian+Consulting+Group&intent=gener…",
+        "bluesky": "GWR SHIFT｜Gramian Consulting Group：GWR確認求人 2→4（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b08efbfd7543&q=Gramian+Consulting+Group&intent=general",
+        "linkedin": "GWR Market Shift Gramian Consulting Group：GWR確認求人 2→4（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b08efbfd7543&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-0de20fc7d7d4&q=ThreeTrader&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-b08efbfd7543&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-77e347facb",
-          "employer": "ThreeTrader",
-          "title": "Senior Graphic Designer",
+          "job_id": "workable-237ede85b9",
+          "employer": "Gramian Consulting Group",
+          "title": "Rust Backend Architect - AI Training Projects",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/77E347FACB",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/237EDE85B9",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
-          "job_id": "workable-534d694ae5",
-          "employer": "ThreeTrader",
-          "title": "Senior Social Media Manager",
+          "job_id": "workable-8147b966af",
+          "employer": "Gramian Consulting Group",
+          "title": "Machine Learning Research & Engineering Specialist",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/534D694AE5",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
+          "official_url": "https://apply.workable.com/j/8147B966AF",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
           "freshness_bucket": "LONG_RUNNING",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
-          "job_id": "workable-68557ec55c",
-          "employer": "ThreeTrader",
-          "title": "Broker Operations Specialist-Japanese Speaking",
+          "job_id": "workable-7dcd35ec23",
+          "employer": "Gramian Consulting Group",
+          "title": "Set and Production Design Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/68557EC55C",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
-          "freshness_bucket": "LONG_RUNNING",
+          "official_url": "https://apply.workable.com/j/7DCD35EC23",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         },
         {
-          "job_id": "workable-db6e683d8f",
-          "employer": "ThreeTrader",
-          "title": "Lifecycle Marketing Manager",
+          "job_id": "workable-1f2e2d1beb",
+          "employer": "Gramian Consulting Group",
+          "title": "Art Buying and Photography Representation Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/DB6E683D8F",
-          "last_verified_at": "2026-11-06T06:49:24.787Z",
-          "freshness_bucket": "FRESH_7D",
+          "official_url": "https://apply.workable.com/j/1F2E2D1BEB",
+          "last_verified_at": "2026-11-06T15:56:41.945Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_delta": 2
         }
       ],
       "measurement_chain": [
