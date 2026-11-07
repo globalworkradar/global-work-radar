@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T21:32:07.655Z",
-  "source_generated_at": "2026-11-06T21:32:07.477Z",
+  "generated_at": "2026-11-07T06:00:15.377Z",
+  "source_generated_at": "2026-11-07T06:00:15.172Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 12,
+  "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-70d8217cb077",
+      "candidate_id": "gwr-alert-b361f38aaaa4",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 112,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 98,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】1Kosmos｜Country Manager, Japan｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-70d8217cb077&q=1Kosmos&intent=ge…",
-        "bluesky": "GWR ALERT｜1Kosmos｜Country Manager, Japan｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-70d8217cb077&q=1Kosmos&intent=general",
-        "linkedin": "GWR Market Alert 1Kosmos｜Country Manager, Japan｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-70d8217cb077&q=1Kosmos&intent=general"
+        "x": "【GWR ALERT】Ten Group｜夜勤バイリンガルコンシェルジュ 在宅勤務可能｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b361f38aaaa4&q=Ten+Group&intent=general",
+        "bluesky": "GWR ALERT｜Ten Group｜夜勤バイリンガルコンシェルジュ 在宅勤務可能｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b361f38aaaa4&q=Ten+Group&intent=general",
+        "linkedin": "GWR Market Alert Ten Group｜夜勤バイリンガルコンシェルジュ 在宅勤務可能｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b361f38aaaa4&q=Ten+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-70d8217cb077&q=1Kosmos&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-b361f38aaaa4&q=Ten+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-ffdddd5863",
-          "employer": "1Kosmos",
-          "title": "Country Manager, Japan",
+          "job_id": "workable-43dacfeb6e",
+          "employer": "Ten Group",
+          "title": "夜勤バイリンガルコンシェルジュ 在宅勤務可能",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/FFDDDD5863",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "official_url": "https://apply.workable.com/j/43DACFEB6E",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -73,18 +73,18 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-00c0450538f8",
+      "candidate_id": "gwr-alert-4079cb75529b",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 98,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Set and Production Design Expert｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-00c0450538f8&q=…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Set and Production Design Expert｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-00c0450538f8&q=Gramian+Consulting+Group&intent=gene…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Set and Production Design Expert｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-00c0450538f8&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Set and Production Design Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4079cb75529b&q=Gramia…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Set and Production Design Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4079cb75529b&q=Gramian+Consulting+Group&intent=general",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Set and Production Design Expert｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4079cb75529b&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-00c0450538f8&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4079cb75529b&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
           "job_id": "workable-7dcd35ec23",
@@ -92,10 +92,10 @@
           "title": "Set and Production Design Expert",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/7DCD35EC23",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -111,18 +111,18 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-0b6ebfdeaae0",
+      "candidate_id": "gwr-alert-732a05a86810",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 98,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Art Buying and Photography Representation Expert｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Art Buying and Photography Representation Expert｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0b6ebfdeaae0&q=Gramian+Consulting+G…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Art Buying and Photography Representation Expert｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0b6ebfdeaae0&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Art Buying and Photography Representation Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-732a0…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Art Buying and Photography Representation Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-732a05a86810&q=Gramian+Consulting+Group&i…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Art Buying and Photography Representation Expert｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-732a05a86810&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0b6ebfdeaae0&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-732a05a86810&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
           "job_id": "workable-1f2e2d1beb",
@@ -130,10 +130,10 @@
           "title": "Art Buying and Photography Representation Expert",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/1F2E2D1BEB",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-515d8376111e",
+      "candidate_id": "gwr-alert-f7e3f7a4d19d",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 98,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Chief Engineer / Mechanical Engineering Project Lead｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-a…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Chief Engineer / Mechanical Engineering Project Lead｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-515d8376111e&q=Gramian+Consulti…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Chief Engineer / Mechanical Engineering Project Lead｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-515d8376111e&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Physician (MD/DO) - Put Medical AI to the Test, Remote｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f7e3f7a4d19d&q=…",
+        "bluesky": "GWR ALERT｜Mindrift｜Physician (MD/DO) - Put Medical AI to the Test, Remote｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f7e3f7a4d19d&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Physician (MD/DO) - Put Medical AI to the Test, Remote｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f7e3f7a4d19d&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-515d8376111e&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f7e3f7a4d19d&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-1de02f5e01",
-          "employer": "Gramian Consulting Group",
-          "title": "Chief Engineer / Mechanical Engineering Project Lead",
+          "job_id": "workable-2acd93388b",
+          "employer": "Mindrift",
+          "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1DE02F5E01",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "official_url": "https://apply.workable.com/j/2ACD93388B",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-693451ba4305",
+      "candidate_id": "gwr-open-6a9b883ceb3b",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 105,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 91,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Country Manager, Japan｜1Kosmos｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-693451ba4305&q=1Kosmos&intent=remote",
-        "bluesky": "GWR OPEN｜Country Manager, Japan｜1Kosmos｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-693451ba4305&q=1Kosmos&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Country Manager, Japan｜1Kosmos｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-693451ba4305&q=1Kosmos&intent=remote"
+        "x": "【GWR OPEN】夜勤バイリンガルコンシェルジュ 在宅勤務可能｜Ten Group｜Nishishinjuku, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6a9b883ceb3b&q=Ten+Group&inte…",
+        "bluesky": "GWR OPEN｜夜勤バイリンガルコンシェルジュ 在宅勤務可能｜Ten Group｜Nishishinjuku, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6a9b883ceb3b&q=Ten+Group&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 夜勤バイリンガルコンシェルジュ 在宅勤務可能｜Ten Group｜Nishishinjuku, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6a9b883ceb3b&q=Ten+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-693451ba4305&q=1Kosmos&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6a9b883ceb3b&q=Ten+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-ffdddd5863",
-          "employer": "1Kosmos",
-          "title": "Country Manager, Japan",
+          "job_id": "workable-43dacfeb6e",
+          "employer": "Ten Group",
+          "title": "夜勤バイリンガルコンシェルジュ 在宅勤務可能",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/FFDDDD5863",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "official_url": "https://apply.workable.com/j/43DACFEB6E",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -225,18 +225,18 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-b778506adeaf",
+      "candidate_id": "gwr-open-77e209512812",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 91,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Set and Production Design Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b778506adeaf&q=Gramian+Con…",
-        "bluesky": "GWR OPEN｜Set and Production Design Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b778506adeaf&q=Gramian+Consulting+Group&intent=remo…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Set and Production Design Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b778506adeaf&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Set and Production Design Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-77e209512812&q=Gramian+Con…",
+        "bluesky": "GWR OPEN｜Set and Production Design Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-77e209512812&q=Gramian+Consulting+Group&intent=remo…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Set and Production Design Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-77e209512812&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b778506adeaf&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-77e209512812&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
           "job_id": "workable-7dcd35ec23",
@@ -244,10 +244,10 @@
           "title": "Set and Production Design Expert",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/7DCD35EC23",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -263,18 +263,18 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-58d8c533089b",
+      "candidate_id": "gwr-open-2f7abecce947",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 91,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58d8c53308…",
-        "bluesky": "GWR OPEN｜Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58d8c533089b&q=Gramian+Consulting+G…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58d8c533089b&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f7abecce9…",
+        "bluesky": "GWR OPEN｜Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f7abecce947&q=Gramian+Consulting+G…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f7abecce947&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58d8c533089b&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f7abecce947&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
           "job_id": "workable-1f2e2d1beb",
@@ -282,10 +282,10 @@
           "title": "Art Buying and Photography Representation Expert",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/1F2E2D1BEB",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-98ef1018248b",
+      "candidate_id": "gwr-open-beb90dd4f301",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 91,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-98ef10…",
-        "bluesky": "GWR OPEN｜Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-98ef1018248b&q=Gramian+Consulti…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-98ef1018248b&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-beb90dd4f301&q=Mindr…",
+        "bluesky": "GWR OPEN｜Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-beb90dd4f301&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-beb90dd4f301&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-98ef1018248b&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-beb90dd4f301&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-1de02f5e01",
-          "employer": "Gramian Consulting Group",
-          "title": "Chief Engineer / Mechanical Engineering Project Lead",
+          "job_id": "workable-2acd93388b",
+          "employer": "Mindrift",
+          "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1DE02F5E01",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "official_url": "https://apply.workable.com/j/2ACD93388B",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -339,29 +339,29 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-dd7a6c6ad2c3",
+      "candidate_id": "gwr-open-7ebb824e879a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "score": 91,
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Systems Architect / Engineering Architecture Lead｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-dd7a6c6ad…",
-        "bluesky": "GWR OPEN｜Systems Architect / Engineering Architecture Lead｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-dd7a6c6ad2c3&q=Gramian+Consulting+…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Systems Architect / Engineering Architecture Lead｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-dd7a6c6ad2c3&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7ebb82…",
+        "bluesky": "GWR OPEN｜Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7ebb824e879a&q=Gramian+Consulti…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7ebb824e879a&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-dd7a6c6ad2c3&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7ebb824e879a&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-9248b96505",
+          "job_id": "workable-1de02f5e01",
           "employer": "Gramian Consulting Group",
-          "title": "Systems Architect / Engineering Architecture Lead",
+          "title": "Chief Engineer / Mechanical Engineering Project Lead",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/9248B96505",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "official_url": "https://apply.workable.com/j/1DE02F5E01",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -377,26 +377,26 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-264faf60fd33",
+      "candidate_id": "gwr-open-5230b3feb09a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
+      "source_generated_at": "2026-11-07T06:00:15.172Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Senior Graphic Designer｜ThreeTrader｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-264faf60fd33&q=ThreeTrader&intent=remote",
-        "bluesky": "GWR OPEN｜Senior Graphic Designer｜ThreeTrader｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-264faf60fd33&q=ThreeTrader&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Graphic Designer｜ThreeTrader｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-264faf60fd33&q=ThreeTrader&intent=remote"
+        "x": "【GWR OPEN】Systems Architect / Engineering Architecture Lead｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5230b3feb…",
+        "bluesky": "GWR OPEN｜Systems Architect / Engineering Architecture Lead｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5230b3feb09a&q=Gramian+Consulting+…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Systems Architect / Engineering Architecture Lead｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5230b3feb09a&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-264faf60fd33&q=ThreeTrader&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5230b3feb09a&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-8244dc95eb",
-          "employer": "ThreeTrader",
-          "title": "Senior Graphic Designer",
+          "job_id": "workable-9248b96505",
+          "employer": "Gramian Consulting Group",
+          "title": "Systems Architect / Engineering Architecture Lead",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8244DC95EB",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
+          "official_url": "https://apply.workable.com/j/9248B96505",
+          "last_verified_at": "2026-11-07T05:59:49.980Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -413,115 +413,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
-    },
-    {
-      "candidate_id": "gwr-shift-1ce5edce700b",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Gramian Consulting Group：GWR確認求人 4→6（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-1ce5edce700b&q=Gramian+Consulting+Group&intent=gener…",
-        "bluesky": "GWR SHIFT｜Gramian Consulting Group：GWR確認求人 4→6（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-1ce5edce700b&q=Gramian+Consulting+Group&intent=general",
-        "linkedin": "GWR Market Shift Gramian Consulting Group：GWR確認求人 4→6（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-1ce5edce700b&q=Gramian+Consulting+Group&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-1ce5edce700b&q=Gramian+Consulting+Group&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-237ede85b9",
-          "employer": "Gramian Consulting Group",
-          "title": "Rust Backend Architect - AI Training Projects",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/237EDE85B9",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
-        },
-        {
-          "job_id": "workable-8147b966af",
-          "employer": "Gramian Consulting Group",
-          "title": "Machine Learning Research & Engineering Specialist",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8147B966AF",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
-        },
-        {
-          "job_id": "workable-7dcd35ec23",
-          "employer": "Gramian Consulting Group",
-          "title": "Set and Production Design Expert",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/7DCD35EC23",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
-        },
-        {
-          "job_id": "workable-1f2e2d1beb",
-          "employer": "Gramian Consulting Group",
-          "title": "Art Buying and Photography Representation Expert",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1F2E2D1BEB",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 11
-    },
-    {
-      "candidate_id": "gwr-shift-d96e30bfada6",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 76,
-      "source_generated_at": "2026-11-06T21:32:07.477Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】1Kosmos：GWR確認求人 0→1（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-d96e30bfada6&q=1Kosmos&intent=general",
-        "bluesky": "GWR SHIFT｜1Kosmos：GWR確認求人 0→1（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-d96e30bfada6&q=1Kosmos&intent=general",
-        "linkedin": "GWR Market Shift 1Kosmos：GWR確認求人 0→1（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-d96e30bfada6&q=1Kosmos&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-d96e30bfada6&q=1Kosmos&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-ffdddd5863",
-          "employer": "1Kosmos",
-          "title": "Country Manager, Japan",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/FFDDDD5863",
-          "last_verified_at": "2026-11-06T21:31:49.139Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 12
     }
   ]
 }
