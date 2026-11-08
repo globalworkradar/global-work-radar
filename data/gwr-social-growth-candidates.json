@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T06:03:04.593Z",
-  "source_generated_at": "2026-11-08T06:03:04.374Z",
+  "generated_at": "2026-11-08T15:14:42.776Z",
+  "source_generated_at": "2026-11-08T15:14:42.556Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 10,
+  "candidate_count": 11,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-5b5d1ffbd711",
+      "candidate_id": "gwr-alert-08488dd3b66c",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 108,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5b5d1ffbd711&q=Mind…",
-        "bluesky": "GWR ALERT｜Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5b5d1ffbd711&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5b5d1ffbd711&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Keywords Studios｜Arabic Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-08488dd3b66c&q=Keyword…",
+        "bluesky": "GWR ALERT｜Keywords Studios｜Arabic Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-08488dd3b66c&q=Keywords+Studios&intent=general",
+        "linkedin": "GWR Market Alert Keywords Studios｜Arabic Game Localization Testers｜前回スナップショット比 +10。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-08488dd3b66c&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5b5d1ffbd711&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-08488dd3b66c&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a78821e4c6",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-33ffd227f4",
+          "employer": "Keywords Studios",
+          "title": "Arabic Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A78821E4C6",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
+          "official_url": "https://apply.workable.com/j/33FFD227F4",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-52f1c5e23fd7",
+      "candidate_id": "gwr-alert-69046ac5f2f3",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 108,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Cloudlinux｜Senior Account Executive - Japan & East Asia (remote work)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-52f1c5e23…",
-        "bluesky": "GWR ALERT｜Cloudlinux｜Senior Account Executive - Japan & East Asia (remote work)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-52f1c5e23fd7&q=Cloudlinux&intent=general",
-        "linkedin": "GWR Market Alert Cloudlinux｜Senior Account Executive - Japan & East Asia (remote work)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-52f1c5e23fd7&q=Cloudlinux&intent=general"
+        "x": "【GWR ALERT】Keywords Studios｜Brazilian Portuguese Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-69046ac5…",
+        "bluesky": "GWR ALERT｜Keywords Studios｜Brazilian Portuguese Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-69046ac5f2f3&q=Keywords+Studios&intent=gener…",
+        "linkedin": "GWR Market Alert Keywords Studios｜Brazilian Portuguese Game Localization Testers｜前回スナップショット比 +10。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-69046ac5f2f3&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-52f1c5e23fd7&q=Cloudlinux&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-69046ac5f2f3&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-dacc9b1208",
-          "employer": "Cloudlinux",
-          "title": "Senior Account Executive - Japan & East Asia (remote work)",
+          "job_id": "workable-0257fc6a22",
+          "employer": "Keywords Studios",
+          "title": "Brazilian Portuguese Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/DACC9B1208",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/0257FC6A22",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-1da3121ddfbc",
+      "candidate_id": "gwr-alert-763d8537ace7",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 108,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜CAD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1da3121ddfbc&q=Mindrift&intent=general",
-        "bluesky": "GWR ALERT｜Mindrift｜CAD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1da3121ddfbc&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜CAD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1da3121ddfbc&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Keywords Studios｜Chinese (Simplified/Traditional) Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-al…",
+        "bluesky": "GWR ALERT｜Keywords Studios｜Chinese (Simplified/Traditional) Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-763d8537ace7&q=Keywords+Studios&…",
+        "linkedin": "GWR Market Alert Keywords Studios｜Chinese (Simplified/Traditional) Game Localization Testers｜前回スナップショット比 +10。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-763d8537ace7&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-1da3121ddfbc&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-763d8537ace7&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-cc7b2aa541",
-          "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "job_id": "workable-781d37ba11",
+          "employer": "Keywords Studios",
+          "title": "Chinese (Simplified/Traditional) Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CC7B2AA541",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/781D37BA11",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-5dcc61e55a0d",
+      "candidate_id": "gwr-alert-5eab79ec8557",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 108,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5dcc61e55a0d&q=Mindrift…",
-        "bluesky": "GWR ALERT｜Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5dcc61e55a0d&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Freelance Mechanical CFD Engineer - AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5dcc61e55a0d&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Keywords Studios｜English Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5eab79ec8557&q=Keywor…",
+        "bluesky": "GWR ALERT｜Keywords Studios｜English Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5eab79ec8557&q=Keywords+Studios&intent=general",
+        "linkedin": "GWR Market Alert Keywords Studios｜English Game Localization Testers｜前回スナップショット比 +10。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5eab79ec8557&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5dcc61e55a0d&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5eab79ec8557&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-5511b6a4ff",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+          "job_id": "workable-0605fb0427",
+          "employer": "Keywords Studios",
+          "title": "English Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5511B6A4FF",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/0605FB0427",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,62 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-a6ae71c58422",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-shift-55e866ce9d10",
+      "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 103,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR OPEN】Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6ae71c58422&q=Mindrift&…",
-        "bluesky": "GWR OPEN｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6ae71c58422&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6ae71c58422&q=Mindrift&intent=remote"
+        "x": "【GWR SHIFT】Keywords Studios：GWR確認求人 13→23（+10）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-55e866ce9d10&q=Keywords+Studios&intent=general",
+        "bluesky": "GWR SHIFT｜Keywords Studios：GWR確認求人 13→23（+10）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-55e866ce9d10&q=Keywords+Studios&intent=general",
+        "linkedin": "GWR Market Shift Keywords Studios：GWR確認求人 13→23（+10）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-55e866ce9d10&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6ae71c58422&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-55e866ce9d10&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a78821e4c6",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-c0bf8df48a",
+          "employer": "Keywords Studios",
+          "title": "English to Japanese MOBA Game Translator (Freelance/remote Job) 英日ゲームフリーランス翻訳者",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A78821E4C6",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/C0BF8DF48A",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
+        },
+        {
+          "job_id": "workable-82fcd309b3",
+          "employer": "Keywords Studios",
+          "title": "English to Japanese Freelance Translators (Games) 英日ゲームフリーランス翻訳者",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/82FCD309B3",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
+        },
+        {
+          "job_id": "workable-6f2f664d12",
+          "employer": "Keywords Studios",
+          "title": "Japanese & English Customer Support Agent - Gaming",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/6F2F664D12",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
+        },
+        {
+          "job_id": "workable-6ff703f4b7",
+          "employer": "Keywords Studios",
+          "title": "Norwegian Game Localization Testers",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/6FF703F4B7",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -225,29 +258,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-b01b49a489b8",
+      "candidate_id": "gwr-open-548865cb9b5f",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 101,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Senior Account Executive - Japan & East Asia (remote work)｜Cloudlinux｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b01b49a…",
-        "bluesky": "GWR OPEN｜Senior Account Executive - Japan & East Asia (remote work)｜Cloudlinux｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b01b49a489b8&q=Cloudlinux&intent…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Account Executive - Japan & East Asia (remote work)｜Cloudlinux｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b01b49a489b8&q=Cloudlinux&intent=remote"
+        "x": "【GWR OPEN】Arabic Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-548865cb9b5f…",
+        "bluesky": "GWR OPEN｜Arabic Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-548865cb9b5f&q=Keywords+Studios&inten…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Arabic Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-548865cb9b5f&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b01b49a489b8&q=Cloudlinux&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-548865cb9b5f&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-dacc9b1208",
-          "employer": "Cloudlinux",
-          "title": "Senior Account Executive - Japan & East Asia (remote work)",
+          "job_id": "workable-33ffd227f4",
+          "employer": "Keywords Studios",
+          "title": "Arabic Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/DACC9B1208",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/33FFD227F4",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -263,29 +296,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-17e9ffc07ded",
+      "candidate_id": "gwr-open-d386d97f2165",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 101,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-17e9ffc07ded&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CAD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-17e9ffc07ded&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CAD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-17e9ffc07ded&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Brazilian Portuguese Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-ope…",
+        "bluesky": "GWR OPEN｜Brazilian Portuguese Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d386d97f2165&q=Keywords…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Brazilian Portuguese Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d386d97f2165&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-17e9ffc07ded&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d386d97f2165&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-cc7b2aa541",
-          "employer": "Mindrift",
-          "title": "CAD Engineer - AI Trainer",
+          "job_id": "workable-0257fc6a22",
+          "employer": "Keywords Studios",
+          "title": "Brazilian Portuguese Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CC7B2AA541",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/0257FC6A22",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -301,29 +334,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-8eba53397146",
+      "candidate_id": "gwr-open-2f064c901c62",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 101,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8eba53397146&q=Mindrift&inte…",
-        "bluesky": "GWR OPEN｜Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8eba53397146&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance Mechanical CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8eba53397146&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Chinese (Simplified/Traditional) Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
+        "bluesky": "GWR OPEN｜Chinese (Simplified/Traditional) Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f064c901c6…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Chinese (Simplified/Traditional) Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f064c901c62&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8eba53397146&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f064c901c62&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-5511b6a4ff",
-          "employer": "Mindrift",
-          "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+          "job_id": "workable-781d37ba11",
+          "employer": "Keywords Studios",
+          "title": "Chinese (Simplified/Traditional) Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/5511B6A4FF",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/781D37BA11",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -339,29 +372,29 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-303c835f8f7f",
+      "candidate_id": "gwr-open-12fc43db6951",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 101,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-303c835f8f7f&q=Mindrift&intent=remote",
-        "bluesky": "GWR OPEN｜CFD Engineer - AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-303c835f8f7f&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 CFD Engineer - AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-303c835f8f7f&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】English Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-12fc43db695…",
+        "bluesky": "GWR OPEN｜English Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-12fc43db6951&q=Keywords+Studios&inte…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 English Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-12fc43db6951&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-303c835f8f7f&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-12fc43db6951&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c3736dcf0f",
-          "employer": "Mindrift",
-          "title": "CFD Engineer - AI Trainer",
+          "job_id": "workable-0605fb0427",
+          "employer": "Keywords Studios",
+          "title": "English Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C3736DCF0F",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/0605FB0427",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -377,29 +410,29 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-cb91e80b1651",
+      "candidate_id": "gwr-open-7eac0b34bdb2",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-08T06:03:04.374Z",
+      "score": 101,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Senior Graphic Designer｜ThreeTrader｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb91e80b1651&q=ThreeTrader&intent=remote",
-        "bluesky": "GWR OPEN｜Senior Graphic Designer｜ThreeTrader｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb91e80b1651&q=ThreeTrader&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Graphic Designer｜ThreeTrader｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb91e80b1651&q=ThreeTrader&intent=remote"
+        "x": "【GWR OPEN】French Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7eac0b34bdb2…",
+        "bluesky": "GWR OPEN｜French Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7eac0b34bdb2&q=Keywords+Studios&inten…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 French Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7eac0b34bdb2&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cb91e80b1651&q=ThreeTrader&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7eac0b34bdb2&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8244dc95eb",
-          "employer": "ThreeTrader",
-          "title": "Senior Graphic Designer",
+          "job_id": "workable-ee87f3673c",
+          "employer": "Keywords Studios",
+          "title": "French Game Localization Testers",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8244DC95EB",
-          "last_verified_at": "2026-11-08T06:02:38.788Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/EE87F3673C",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
         }
       ],
       "measurement_chain": [
@@ -413,6 +446,44 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
+    },
+    {
+      "candidate_id": "gwr-open-40a47132d20c",
+      "signal_type": "GWR_OPEN",
+      "objective": "qualified_revenue_growth",
+      "score": 101,
+      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "claim_scope": "verified_active_structured_facts_only",
+      "text": {
+        "x": "【GWR OPEN】German Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-40a47132d20c…",
+        "bluesky": "GWR OPEN｜German Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-40a47132d20c&q=Keywords+Studios&inten…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 German Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-40a47132d20c&q=Keywords+Studios&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-40a47132d20c&q=Keywords+Studios&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-7b9e42baf9",
+          "employer": "Keywords Studios",
+          "title": "German Game Localization Testers",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/7B9E42BAF9",
+          "last_verified_at": "2026-11-08T15:14:17.978Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 10
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 11
     }
   ]
 }
