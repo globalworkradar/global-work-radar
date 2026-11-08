@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T15:14:42.776Z",
-  "source_generated_at": "2026-11-08T15:14:42.556Z",
+  "generated_at": "2026-11-08T20:30:14.723Z",
+  "source_generated_at": "2026-11-08T20:30:14.306Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 11,
+  "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-08488dd3b66c",
+      "candidate_id": "gwr-alert-19d487cd72cf",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 93,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Keywords Studios｜Arabic Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-08488dd3b66c&q=Keyword…",
-        "bluesky": "GWR ALERT｜Keywords Studios｜Arabic Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-08488dd3b66c&q=Keywords+Studios&intent=general",
-        "linkedin": "GWR Market Alert Keywords Studios｜Arabic Game Localization Testers｜前回スナップショット比 +10。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-08488dd3b66c&q=Keywords+Studios&intent=general"
+        "x": "【GWR ALERT】ThreeTrader｜Senior Graphic Designer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-19d487cd72cf&q=ThreeTrader&intent=general",
+        "bluesky": "GWR ALERT｜ThreeTrader｜Senior Graphic Designer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-19d487cd72cf&q=ThreeTrader&intent=general",
+        "linkedin": "GWR Market Alert ThreeTrader｜Senior Graphic Designer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-19d487cd72cf&q=ThreeTrader&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-08488dd3b66c&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-19d487cd72cf&q=ThreeTrader&intent=general",
       "evidence": [
         {
-          "job_id": "workable-33ffd227f4",
-          "employer": "Keywords Studios",
-          "title": "Arabic Game Localization Testers",
+          "job_id": "workable-8244dc95eb",
+          "employer": "ThreeTrader",
+          "title": "Senior Graphic Designer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/33FFD227F4",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/8244DC95EB",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-69046ac5f2f3",
+      "candidate_id": "gwr-alert-de0dcdc28c3c",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 93,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Keywords Studios｜Brazilian Portuguese Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-69046ac5…",
-        "bluesky": "GWR ALERT｜Keywords Studios｜Brazilian Portuguese Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-69046ac5f2f3&q=Keywords+Studios&intent=gener…",
-        "linkedin": "GWR Market Alert Keywords Studios｜Brazilian Portuguese Game Localization Testers｜前回スナップショット比 +10。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-69046ac5f2f3&q=Keywords+Studios&intent=general"
+        "x": "【GWR ALERT】Ten Group｜夜勤バイリンガルコンシェルジュ 在宅勤務可能｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-de0dcdc28c3c&q=Ten+Group&intent=general",
+        "bluesky": "GWR ALERT｜Ten Group｜夜勤バイリンガルコンシェルジュ 在宅勤務可能｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-de0dcdc28c3c&q=Ten+Group&intent=general",
+        "linkedin": "GWR Market Alert Ten Group｜夜勤バイリンガルコンシェルジュ 在宅勤務可能｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-de0dcdc28c3c&q=Ten+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-69046ac5f2f3&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-de0dcdc28c3c&q=Ten+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-0257fc6a22",
-          "employer": "Keywords Studios",
-          "title": "Brazilian Portuguese Game Localization Testers",
+          "job_id": "workable-43dacfeb6e",
+          "employer": "Ten Group",
+          "title": "夜勤バイリンガルコンシェルジュ 在宅勤務可能",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0257FC6A22",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/43DACFEB6E",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-763d8537ace7",
+      "candidate_id": "gwr-alert-62ec0f0d8cda",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 93,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Keywords Studios｜Chinese (Simplified/Traditional) Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-al…",
-        "bluesky": "GWR ALERT｜Keywords Studios｜Chinese (Simplified/Traditional) Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-763d8537ace7&q=Keywords+Studios&…",
-        "linkedin": "GWR Market Alert Keywords Studios｜Chinese (Simplified/Traditional) Game Localization Testers｜前回スナップショット比 +10。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-763d8537ace7&q=Keywords+Studios&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Set and Production Design Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-62ec0f0d8cda&q=Gramia…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Set and Production Design Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-62ec0f0d8cda&q=Gramian+Consulting+Group&intent=general",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Set and Production Design Expert｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-62ec0f0d8cda&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-763d8537ace7&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-62ec0f0d8cda&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-781d37ba11",
-          "employer": "Keywords Studios",
-          "title": "Chinese (Simplified/Traditional) Game Localization Testers",
+          "job_id": "workable-7dcd35ec23",
+          "employer": "Gramian Consulting Group",
+          "title": "Set and Production Design Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/781D37BA11",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/7DCD35EC23",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-5eab79ec8557",
+      "candidate_id": "gwr-alert-62945121078d",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 93,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Keywords Studios｜English Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5eab79ec8557&q=Keywor…",
-        "bluesky": "GWR ALERT｜Keywords Studios｜English Game Localization Testers｜前回スナップショット比 +10。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5eab79ec8557&q=Keywords+Studios&intent=general",
-        "linkedin": "GWR Market Alert Keywords Studios｜English Game Localization Testers｜前回スナップショット比 +10。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5eab79ec8557&q=Keywords+Studios&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Art Buying and Photography Representation Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-62945…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Art Buying and Photography Representation Expert｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-62945121078d&q=Gramian+Consulting+Group&i…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Art Buying and Photography Representation Expert｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-62945121078d&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5eab79ec8557&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-62945121078d&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-0605fb0427",
-          "employer": "Keywords Studios",
-          "title": "English Game Localization Testers",
+          "job_id": "workable-1f2e2d1beb",
+          "employer": "Gramian Consulting Group",
+          "title": "Art Buying and Photography Representation Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0605FB0427",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/1F2E2D1BEB",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,62 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-shift-55e866ce9d10",
-      "signal_type": "GWR_SHIFT",
+      "candidate_id": "gwr-open-ed6cd5353987",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 103,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "score": 86,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR SHIFT】Keywords Studios：GWR確認求人 13→23（+10）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-55e866ce9d10&q=Keywords+Studios&intent=general",
-        "bluesky": "GWR SHIFT｜Keywords Studios：GWR確認求人 13→23（+10）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-55e866ce9d10&q=Keywords+Studios&intent=general",
-        "linkedin": "GWR Market Shift Keywords Studios：GWR確認求人 13→23（+10）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-55e866ce9d10&q=Keywords+Studios&intent=general"
+        "x": "【GWR OPEN】Senior Graphic Designer｜ThreeTrader｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed6cd5353987&q=ThreeTrader&intent=remote",
+        "bluesky": "GWR OPEN｜Senior Graphic Designer｜ThreeTrader｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed6cd5353987&q=ThreeTrader&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Graphic Designer｜ThreeTrader｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed6cd5353987&q=ThreeTrader&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-55e866ce9d10&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-ed6cd5353987&q=ThreeTrader&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-c0bf8df48a",
-          "employer": "Keywords Studios",
-          "title": "English to Japanese MOBA Game Translator (Freelance/remote Job) 英日ゲームフリーランス翻訳者",
+          "job_id": "workable-8244dc95eb",
+          "employer": "ThreeTrader",
+          "title": "Senior Graphic Designer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C0BF8DF48A",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
-        },
-        {
-          "job_id": "workable-82fcd309b3",
-          "employer": "Keywords Studios",
-          "title": "English to Japanese Freelance Translators (Games) 英日ゲームフリーランス翻訳者",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/82FCD309B3",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
-        },
-        {
-          "job_id": "workable-6f2f664d12",
-          "employer": "Keywords Studios",
-          "title": "Japanese & English Customer Support Agent - Gaming",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/6F2F664D12",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
-        },
-        {
-          "job_id": "workable-6ff703f4b7",
-          "employer": "Keywords Studios",
-          "title": "Norwegian Game Localization Testers",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/6FF703F4B7",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/8244DC95EB",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -258,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-548865cb9b5f",
+      "candidate_id": "gwr-open-c50118cbd643",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 86,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Arabic Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-548865cb9b5f…",
-        "bluesky": "GWR OPEN｜Arabic Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-548865cb9b5f&q=Keywords+Studios&inten…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Arabic Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-548865cb9b5f&q=Keywords+Studios&intent=general"
+        "x": "【GWR OPEN】夜勤バイリンガルコンシェルジュ 在宅勤務可能｜Ten Group｜Nishishinjuku, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c50118cbd643&q=Ten+Group&inte…",
+        "bluesky": "GWR OPEN｜夜勤バイリンガルコンシェルジュ 在宅勤務可能｜Ten Group｜Nishishinjuku, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c50118cbd643&q=Ten+Group&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 夜勤バイリンガルコンシェルジュ 在宅勤務可能｜Ten Group｜Nishishinjuku, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c50118cbd643&q=Ten+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-548865cb9b5f&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c50118cbd643&q=Ten+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-33ffd227f4",
-          "employer": "Keywords Studios",
-          "title": "Arabic Game Localization Testers",
+          "job_id": "workable-43dacfeb6e",
+          "employer": "Ten Group",
+          "title": "夜勤バイリンガルコンシェルジュ 在宅勤務可能",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/33FFD227F4",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/43DACFEB6E",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -296,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-d386d97f2165",
+      "candidate_id": "gwr-open-b6aeff893d31",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 86,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Brazilian Portuguese Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-ope…",
-        "bluesky": "GWR OPEN｜Brazilian Portuguese Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d386d97f2165&q=Keywords…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Brazilian Portuguese Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d386d97f2165&q=Keywords+Studios&intent=general"
+        "x": "【GWR OPEN】Set and Production Design Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b6aeff893d31&q=Gramian+Con…",
+        "bluesky": "GWR OPEN｜Set and Production Design Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b6aeff893d31&q=Gramian+Consulting+Group&intent=remo…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Set and Production Design Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b6aeff893d31&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d386d97f2165&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b6aeff893d31&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-0257fc6a22",
-          "employer": "Keywords Studios",
-          "title": "Brazilian Portuguese Game Localization Testers",
+          "job_id": "workable-7dcd35ec23",
+          "employer": "Gramian Consulting Group",
+          "title": "Set and Production Design Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0257FC6A22",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/7DCD35EC23",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -334,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-2f064c901c62",
+      "candidate_id": "gwr-open-479a4a604bc7",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 86,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Chinese (Simplified/Traditional) Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
-        "bluesky": "GWR OPEN｜Chinese (Simplified/Traditional) Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f064c901c6…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Chinese (Simplified/Traditional) Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f064c901c62&q=Keywords+Studios&intent=general"
+        "x": "【GWR OPEN】Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-479a4a604b…",
+        "bluesky": "GWR OPEN｜Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-479a4a604bc7&q=Gramian+Consulting+G…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Art Buying and Photography Representation Expert｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-479a4a604bc7&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2f064c901c62&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-479a4a604bc7&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-781d37ba11",
-          "employer": "Keywords Studios",
-          "title": "Chinese (Simplified/Traditional) Game Localization Testers",
+          "job_id": "workable-1f2e2d1beb",
+          "employer": "Gramian Consulting Group",
+          "title": "Art Buying and Photography Representation Expert",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/781D37BA11",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/1F2E2D1BEB",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -372,29 +339,29 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-12fc43db6951",
+      "candidate_id": "gwr-open-46c83da05774",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 86,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】English Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-12fc43db695…",
-        "bluesky": "GWR OPEN｜English Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-12fc43db6951&q=Keywords+Studios&inte…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 English Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-12fc43db6951&q=Keywords+Studios&intent=general"
+        "x": "【GWR OPEN】Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-46c83da05774&q=Mindr…",
+        "bluesky": "GWR OPEN｜Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-46c83da05774&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-46c83da05774&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-12fc43db6951&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-46c83da05774&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-0605fb0427",
-          "employer": "Keywords Studios",
-          "title": "English Game Localization Testers",
+          "job_id": "workable-2acd93388b",
+          "employer": "Mindrift",
+          "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0605FB0427",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/2ACD93388B",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -410,29 +377,29 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-7eac0b34bdb2",
+      "candidate_id": "gwr-open-abde4cfcd6c3",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
+      "score": 86,
+      "source_generated_at": "2026-11-08T20:30:14.306Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】French Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7eac0b34bdb2…",
-        "bluesky": "GWR OPEN｜French Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7eac0b34bdb2&q=Keywords+Studios&inten…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 French Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7eac0b34bdb2&q=Keywords+Studios&intent=general"
+        "x": "【GWR OPEN】Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-abde4c…",
+        "bluesky": "GWR OPEN｜Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-abde4cfcd6c3&q=Gramian+Consulti…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Chief Engineer / Mechanical Engineering Project Lead｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-abde4cfcd6c3&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-7eac0b34bdb2&q=Keywords+Studios&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-abde4cfcd6c3&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-ee87f3673c",
-          "employer": "Keywords Studios",
-          "title": "French Game Localization Testers",
+          "job_id": "workable-1de02f5e01",
+          "employer": "Gramian Consulting Group",
+          "title": "Chief Engineer / Mechanical Engineering Project Lead",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/EE87F3673C",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
+          "official_url": "https://apply.workable.com/j/1DE02F5E01",
+          "last_verified_at": "2026-11-08T20:29:55.770Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -446,44 +413,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
-    },
-    {
-      "candidate_id": "gwr-open-40a47132d20c",
-      "signal_type": "GWR_OPEN",
-      "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-08T15:14:42.556Z",
-      "claim_scope": "verified_active_structured_facts_only",
-      "text": {
-        "x": "【GWR OPEN】German Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-40a47132d20c…",
-        "bluesky": "GWR OPEN｜German Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-40a47132d20c&q=Keywords+Studios&inten…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 German Game Localization Testers｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-40a47132d20c&q=Keywords+Studios&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-40a47132d20c&q=Keywords+Studios&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-7b9e42baf9",
-          "employer": "Keywords Studios",
-          "title": "German Game Localization Testers",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/7B9E42BAF9",
-          "last_verified_at": "2026-11-08T15:14:17.978Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 10
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 11
     }
   ]
 }
