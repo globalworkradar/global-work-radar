@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T12:40:43.661Z",
-  "source_generated_at": "2026-11-10T12:40:43.439Z",
+  "generated_at": "2026-11-10T21:49:51.895Z",
+  "source_generated_at": "2026-11-10T21:49:51.657Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,29 +32,29 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 12,
+  "candidate_count": 11,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-0fb4bfe7d83a",
+      "candidate_id": "gwr-alert-7ac699a0c74f",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 104,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "score": 112,
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Navig8｜Junior Bunker Trader｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0fb4bfe7d83a&q=Navig8&intent=general",
-        "bluesky": "GWR ALERT｜Navig8｜Junior Bunker Trader｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0fb4bfe7d83a&q=Navig8&intent=general",
-        "linkedin": "GWR Market Alert Navig8｜Junior Bunker Trader｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0fb4bfe7d83a&q=Navig8&intent=general"
+        "x": "【GWR ALERT】Azeus Convene｜Business Development & Partnership Manager｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7ac699…",
+        "bluesky": "GWR ALERT｜Azeus Convene｜Business Development & Partnership Manager｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7ac699a0c74f&q=Azeus+Convene&intent=general",
+        "linkedin": "GWR Market Alert Azeus Convene｜Business Development & Partnership Manager｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7ac699a0c74f&q=Azeus+Convene&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0fb4bfe7d83a&q=Navig8&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7ac699a0c74f&q=Azeus+Convene&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a6d02ae5e2",
-          "employer": "Navig8",
-          "title": "Junior Bunker Trader",
+          "job_id": "workable-64cebf134e",
+          "employer": "Azeus Convene",
+          "title": "Business Development & Partnership Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A6D02AE5E2",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/64CEBF134E",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
           "hiring_delta": 1
@@ -73,28 +73,28 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-5cca16692ab6",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-3ff0d7807c0f",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 105,
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Exotec｜Marketing Specialist APAC｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5cca16692ab6&q=Exotec&intent=general",
-        "bluesky": "GWR ALERT｜Exotec｜Marketing Specialist APAC｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5cca16692ab6&q=Exotec&intent=general",
-        "linkedin": "GWR Market Alert Exotec｜Marketing Specialist APAC｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5cca16692ab6&q=Exotec&intent=general"
+        "x": "【GWR OPEN】Business Development & Partnership Manager｜Azeus Convene｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3ff0d7807c0f&q=Azeus…",
+        "bluesky": "GWR OPEN｜Business Development & Partnership Manager｜Azeus Convene｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3ff0d7807c0f&q=Azeus+Convene&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Business Development & Partnership Manager｜Azeus Convene｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3ff0d7807c0f&q=Azeus+Convene&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-5cca16692ab6&q=Exotec&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3ff0d7807c0f&q=Azeus+Convene&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-849fe86228",
-          "employer": "Exotec",
-          "title": "Marketing Specialist APAC",
+          "job_id": "workable-64cebf134e",
+          "employer": "Azeus Convene",
+          "title": "Business Development & Partnership Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/849FE86228",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/64CEBF134E",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
           "hiring_delta": 1
         }
       ],
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-699c32174173",
+      "candidate_id": "gwr-alert-3f02c3b977c7",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "score": 98,
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Exotec｜Integrator Performance Manager APAC｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-699c32174173&q=Exotec&intent=g…",
-        "bluesky": "GWR ALERT｜Exotec｜Integrator Performance Manager APAC｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-699c32174173&q=Exotec&intent=general",
-        "linkedin": "GWR Market Alert Exotec｜Integrator Performance Manager APAC｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-699c32174173&q=Exotec&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f02c3b977c7&q=Gramian+Consul…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f02c3b977c7&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-699c32174173&q=Exotec&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f02c3b977c7&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-31f3d70a7a",
-          "employer": "Exotec",
-          "title": "Integrator Performance Manager APAC",
+          "job_id": "workable-1f240d31d3",
+          "employer": "Gramian Consulting Group",
+          "title": "Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/31F3D70A7A",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/1F240D31D3",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,26 +149,26 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-26262c26438d",
+      "candidate_id": "gwr-alert-94d5e2a59c00",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
       "score": 98,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-26262c26438d&q=Gramian+Consulting+G…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-26262c26438d&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gw…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-94d5e2a59c00&q=Gramian+Consu…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-94d5e2a59c00&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-26262c26438d&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-94d5e2a59c00&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-cded94b3a1",
+          "job_id": "workable-2fdb69376f",
           "employer": "Gramian Consulting Group",
-          "title": "Biology & Bioinformatics Research Specialist (MSc/PhD)",
+          "title": "Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CDED94B3A1",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/2FDB69376F",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-4531277f1258",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-3938d0c30199",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 97,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 98,
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Junior Bunker Trader｜Navig8｜Marunouchi, Chiyoda-Ku, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4531277f1258&q=Navig8&int…",
-        "bluesky": "GWR OPEN｜Junior Bunker Trader｜Navig8｜Marunouchi, Chiyoda-Ku, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4531277f1258&q=Navig8&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Junior Bunker Trader｜Navig8｜Marunouchi, Chiyoda-Ku, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4531277f1258&q=Navig8&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Life Sciences Research & Python Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Life Sciences Research & Python Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3938d0c30199&q=Gramian+Consulting+Gro…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Life Sciences Research & Python Specialist (MSc/PhD)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3938d0c30199&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4531277f1258&q=Navig8&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3938d0c30199&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a6d02ae5e2",
-          "employer": "Navig8",
-          "title": "Junior Bunker Trader",
+          "job_id": "workable-48f8a0b6af",
+          "employer": "Gramian Consulting Group",
+          "title": "Life Sciences Research & Python Specialist (MSc/PhD)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A6D02AE5E2",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/48F8A0B6AF",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-c5d58f4598e0",
+      "candidate_id": "gwr-open-5e1d63de264f",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "score": 91,
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Marketing Specialist APAC｜Exotec｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c5d58f4598e0&q=Exotec&intent=general",
-        "bluesky": "GWR OPEN｜Marketing Specialist APAC｜Exotec｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c5d58f4598e0&q=Exotec&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Marketing Specialist APAC｜Exotec｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c5d58f4598e0&q=Exotec&intent=general"
+        "x": "【GWR OPEN】Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-ope…",
+        "bluesky": "GWR OPEN｜Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e1d63de264f&q=Gramian+…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e1d63de264f&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c5d58f4598e0&q=Exotec&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-5e1d63de264f&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-849fe86228",
-          "employer": "Exotec",
-          "title": "Marketing Specialist APAC",
+          "job_id": "workable-1f240d31d3",
+          "employer": "Gramian Consulting Group",
+          "title": "Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/849FE86228",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/1F240D31D3",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-e4c87530ec74",
+      "candidate_id": "gwr-open-9d32354a62c4",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "score": 91,
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Integrator Performance Manager APAC｜Exotec｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e4c87530ec74&q=Exotec&inten…",
-        "bluesky": "GWR OPEN｜Integrator Performance Manager APAC｜Exotec｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e4c87530ec74&q=Exotec&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Integrator Performance Manager APAC｜Exotec｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e4c87530ec74&q=Exotec&intent=general"
+        "x": "【GWR OPEN】Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-op…",
+        "bluesky": "GWR OPEN｜Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9d32354a62c4&q=Gramian…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9d32354a62c4&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e4c87530ec74&q=Exotec&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9d32354a62c4&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-31f3d70a7a",
-          "employer": "Exotec",
-          "title": "Integrator Performance Manager APAC",
+          "job_id": "workable-2fdb69376f",
+          "employer": "Gramian Consulting Group",
+          "title": "Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/31F3D70A7A",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/2FDB69376F",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -301,26 +301,26 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-fbfc183a7608",
+      "candidate_id": "gwr-open-0df54b17d86e",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
       "score": 91,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fbfc…",
-        "bluesky": "GWR OPEN｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fbfc183a7608&q=Gramian+Consul…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fbfc183a7608&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Life Sciences Research & Python Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0df54b…",
+        "bluesky": "GWR OPEN｜Life Sciences Research & Python Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0df54b17d86e&q=Gramian+Consulti…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Life Sciences Research & Python Specialist (MSc/PhD)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0df54b17d86e&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fbfc183a7608&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0df54b17d86e&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-cded94b3a1",
+          "job_id": "workable-48f8a0b6af",
           "employer": "Gramian Consulting Group",
-          "title": "Biology & Bioinformatics Research Specialist (MSc/PhD)",
+          "title": "Life Sciences Research & Python Specialist (MSc/PhD)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CDED94B3A1",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/48F8A0B6AF",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
@@ -339,27 +339,27 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-9f08c8889fbb",
+      "candidate_id": "gwr-open-0c6c1b712e9d",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "score": 86,
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9f08c8889fbb&q=Keywords+Studi…",
-        "bluesky": "GWR OPEN｜Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9f08c8889fbb&q=Keywords+Studios&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9f08c8889fbb&q=Keywords+Studios&intent=remote"
+        "x": "【GWR OPEN】Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0c6c…",
+        "bluesky": "GWR OPEN｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0c6c1b712e9d&q=Gramian+Consul…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0c6c1b712e9d&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9f08c8889fbb&q=Keywords+Studios&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0c6c1b712e9d&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-840cb95b38",
-          "employer": "Keywords Studios",
-          "title": "Community Game Tester (Paid, On-Call)",
+          "job_id": "workable-cded94b3a1",
+          "employer": "Gramian Consulting Group",
+          "title": "Biology & Bioinformatics Research Specialist (MSc/PhD)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/840CB95B38",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/CDED94B3A1",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -377,27 +377,27 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-c0badabb0422",
+      "candidate_id": "gwr-open-666d78912a63",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "score": 86,
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-ope…",
-        "bluesky": "GWR OPEN｜Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c0badabb0422&q=Gramian+…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c0badabb0422&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-666d78912a63&q=Keywords+Studi…",
+        "bluesky": "GWR OPEN｜Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-666d78912a63&q=Keywords+Studios&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-666d78912a63&q=Keywords+Studios&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c0badabb0422&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-666d78912a63&q=Keywords+Studios&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-1f240d31d3",
-          "employer": "Gramian Consulting Group",
-          "title": "Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)",
+          "job_id": "workable-840cb95b38",
+          "employer": "Keywords Studios",
+          "title": "Community Game Tester (Paid, On-Call)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1F240D31D3",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/840CB95B38",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -415,97 +415,26 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-57d52323f017",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Exotec：GWR確認求人 5→6（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-57d52323f017&q=Exotec&intent=general",
-        "bluesky": "GWR SHIFT｜Exotec：GWR確認求人 5→6（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-57d52323f017&q=Exotec&intent=general",
-        "linkedin": "GWR Market Shift Exotec：GWR確認求人 5→6（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-57d52323f017&q=Exotec&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-57d52323f017&q=Exotec&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-e10b2ac6b0",
-          "employer": "Exotec",
-          "title": "Senior Sales Executive - Japan",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/E10B2AC6B0",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-53aaa48c7f",
-          "employer": "Exotec",
-          "title": "Maintenance Technician / メンテナンス技術者",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/53AAA48C7F",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-228cd639a2",
-          "employer": "Exotec",
-          "title": "Financial Performance Manager - APAC",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/228CD639A2",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-0d5cdb123c",
-          "employer": "Exotec",
-          "title": "Account Manager - Warehouse Automation",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/0D5CDB123C",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 11
-    },
-    {
-      "candidate_id": "gwr-shift-f905583f5d9d",
+      "candidate_id": "gwr-shift-2be61aaa3fb5",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
       "score": 76,
-      "source_generated_at": "2026-11-10T12:40:43.439Z",
+      "source_generated_at": "2026-11-10T21:49:51.657Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Navig8：GWR確認求人 0→1（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f905583f5d9d&q=Navig8&intent=general",
-        "bluesky": "GWR SHIFT｜Navig8：GWR確認求人 0→1（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f905583f5d9d&q=Navig8&intent=general",
-        "linkedin": "GWR Market Shift Navig8：GWR確認求人 0→1（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f905583f5d9d&q=Navig8&intent=general"
+        "x": "【GWR SHIFT】Azeus Convene：GWR確認求人 0→1（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2be61aaa3fb5&q=Azeus+Convene&intent=general",
+        "bluesky": "GWR SHIFT｜Azeus Convene：GWR確認求人 0→1（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2be61aaa3fb5&q=Azeus+Convene&intent=general",
+        "linkedin": "GWR Market Shift Azeus Convene：GWR確認求人 0→1（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2be61aaa3fb5&q=Azeus+Convene&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f905583f5d9d&q=Navig8&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2be61aaa3fb5&q=Azeus+Convene&intent=general",
       "evidence": [
         {
-          "job_id": "workable-a6d02ae5e2",
-          "employer": "Navig8",
-          "title": "Junior Bunker Trader",
+          "job_id": "workable-64cebf134e",
+          "employer": "Azeus Convene",
+          "title": "Business Development & Partnership Manager",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A6D02AE5E2",
-          "last_verified_at": "2026-11-10T12:40:21.227Z",
+          "official_url": "https://apply.workable.com/j/64CEBF134E",
+          "last_verified_at": "2026-11-10T21:49:28.767Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
           "hiring_delta": 1
@@ -521,7 +450,7 @@
       ],
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 12
+      "rank": 11
     }
   ]
 }
