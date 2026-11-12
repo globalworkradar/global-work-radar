@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T22:43:16.338Z",
-  "source_generated_at": "2026-11-11T22:43:16.114Z",
+  "generated_at": "2026-11-12T07:13:03.653Z",
+  "source_generated_at": "2026-11-12T07:13:03.480Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 11,
+  "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-54eb9f566f70",
+      "candidate_id": "gwr-alert-7cf42e300527",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 112,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 101,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】JoVE｜Key Account Manager, Edtech｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-54eb9f566f70&q=JoVE&intent=gen…",
-        "bluesky": "GWR ALERT｜JoVE｜Key Account Manager, Edtech｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-54eb9f566f70&q=JoVE&intent=general",
-        "linkedin": "GWR Market Alert JoVE｜Key Account Manager, Edtech｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-54eb9f566f70&q=JoVE&intent=general"
+        "x": "【GWR ALERT】SmartNews｜Ad Quality Operations Associate (Trust and Safety)｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7cf42e300527…",
+        "bluesky": "GWR ALERT｜SmartNews｜Ad Quality Operations Associate (Trust and Safety)｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7cf42e300527&q=SmartNews&intent=general",
+        "linkedin": "GWR Market Alert SmartNews｜Ad Quality Operations Associate (Trust and Safety)｜前回スナップショット比 +3。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7cf42e300527&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-54eb9f566f70&q=JoVE&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-7cf42e300527&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8aa5f994f9",
-          "employer": "JoVE",
-          "title": "Key Account Manager, Edtech",
+          "job_id": "workable-ed3a70b7c8",
+          "employer": "SmartNews",
+          "title": "Ad Quality Operations Associate (Trust and Safety)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8AA5F994F9",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
+          "official_url": "https://apply.workable.com/j/ED3A70B7C8",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-open-68d557309d9b",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-e3b92074a01a",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 105,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 101,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Key Account Manager, Edtech｜JoVE｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-68d557309d9b&q=JoVE&intent=remote",
-        "bluesky": "GWR OPEN｜Key Account Manager, Edtech｜JoVE｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-68d557309d9b&q=JoVE&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Key Account Manager, Edtech｜JoVE｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-68d557309d9b&q=JoVE&intent=remote"
+        "x": "【GWR ALERT】SmartNews｜Machine Learning Engineer, Ads Ranking｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e3b92074a01a&q=SmartNews…",
+        "bluesky": "GWR ALERT｜SmartNews｜Machine Learning Engineer, Ads Ranking｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e3b92074a01a&q=SmartNews&intent=general",
+        "linkedin": "GWR Market Alert SmartNews｜Machine Learning Engineer, Ads Ranking｜前回スナップショット比 +3。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e3b92074a01a&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-68d557309d9b&q=JoVE&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e3b92074a01a&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8aa5f994f9",
-          "employer": "JoVE",
-          "title": "Key Account Manager, Edtech",
+          "job_id": "workable-94966199d5",
+          "employer": "SmartNews",
+          "title": "Machine Learning Engineer, Ads Ranking",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8AA5F994F9",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
+          "official_url": "https://apply.workable.com/j/94966199D5",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-e76343fe16d0",
+      "candidate_id": "gwr-alert-275e7e2c1070",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 101,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】CXG｜Operations & Community Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e76343fe16d0&q…",
-        "bluesky": "GWR ALERT｜CXG｜Operations & Community Coordinator (Fluent Japanese Speaker)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e76343fe16d0&q=CXG&intent=general",
-        "linkedin": "GWR Market Alert CXG｜Operations & Community Coordinator (Fluent Japanese Speaker)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e76343fe16d0&q=CXG&intent=general"
+        "x": "【GWR ALERT】SmartNews｜メディア研究所 アシスタント（アルバイト）｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-275e7e2c1070&q=SmartNews&intent=general",
+        "bluesky": "GWR ALERT｜SmartNews｜メディア研究所 アシスタント（アルバイト）｜前回スナップショット比 +3。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-275e7e2c1070&q=SmartNews&intent=general",
+        "linkedin": "GWR Market Alert SmartNews｜メディア研究所 アシスタント（アルバイト）｜前回スナップショット比 +3。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-275e7e2c1070&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e76343fe16d0&q=CXG&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-275e7e2c1070&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2063f8700e",
-          "employer": "CXG",
-          "title": "Operations & Community Coordinator (Fluent Japanese Speaker)",
+          "job_id": "workable-ece6208d4a",
+          "employer": "SmartNews",
+          "title": "メディア研究所 アシスタント（アルバイト）",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2063F8700E",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
+          "official_url": "https://apply.workable.com/j/ECE6208D4A",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-0bf25391ff63",
+      "candidate_id": "gwr-alert-190128b64796",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 99,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Digital｜Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0bf25391ff63…",
-        "bluesky": "GWR ALERT｜Digital｜Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0bf25391ff63&q=Digital&intent=general",
-        "linkedin": "GWR Market Alert Digital｜Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0bf25391ff63&q=Digital&intent=general"
+        "x": "【GWR ALERT】SORACOM｜Solutions Architect for Automotive/MVNE｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-190128b64796&q=SORACOM&in…",
+        "bluesky": "GWR ALERT｜SORACOM｜Solutions Architect for Automotive/MVNE｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-190128b64796&q=SORACOM&intent=general",
+        "linkedin": "GWR Market Alert SORACOM｜Solutions Architect for Automotive/MVNE｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-190128b64796&q=SORACOM&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0bf25391ff63&q=Digital&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-190128b64796&q=SORACOM&intent=general",
       "evidence": [
         {
-          "job_id": "workable-92408384aa",
-          "employer": "Digital",
-          "title": "Freelance B2B Marketing & Content Writer (JP-EN Bilingual)",
+          "job_id": "workable-eda40b9ae6",
+          "employer": "SORACOM",
+          "title": "Solutions Architect for Automotive/MVNE",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/92408384AA",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
+          "official_url": "https://apply.workable.com/j/EDA40B9AE6",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-alert-4b525e912e33",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-bc394c39eaca",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 94,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4b525e912e33&q=Gramian+Consulting+G…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4b525e912e33&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR OPEN】Ad Quality Operations Associate (Trust and Safety)｜SmartNews｜Shibuya, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bc394c3…",
+        "bluesky": "GWR OPEN｜Ad Quality Operations Associate (Trust and Safety)｜SmartNews｜Shibuya, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bc394c39eaca&q=SmartNews&intent=…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Ad Quality Operations Associate (Trust and Safety)｜SmartNews｜Shibuya, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bc394c39eaca&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4b525e912e33&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-bc394c39eaca&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-cded94b3a1",
-          "employer": "Gramian Consulting Group",
-          "title": "Biology & Bioinformatics Research Specialist (MSc/PhD)",
+          "job_id": "workable-ed3a70b7c8",
+          "employer": "SmartNews",
+          "title": "Ad Quality Operations Associate (Trust and Safety)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CDED94B3A1",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/ED3A70B7C8",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-9f61454db806",
+      "candidate_id": "gwr-open-58465a414e2b",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 94,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Operations & Community Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9f61454db806&q=CXG&…",
-        "bluesky": "GWR OPEN｜Operations & Community Coordinator (Fluent Japanese Speaker)｜CXG｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9f61454db806&q=CXG&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Operations & Community Coordinator (Fluent Japanese Speaker)｜CXG｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9f61454db806&q=CXG&intent=remote"
+        "x": "【GWR OPEN】Machine Learning Engineer, Ads Ranking｜SmartNews｜Shibuya, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58465a414e2b&q=Smar…",
+        "bluesky": "GWR OPEN｜Machine Learning Engineer, Ads Ranking｜SmartNews｜Shibuya, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58465a414e2b&q=SmartNews&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Machine Learning Engineer, Ads Ranking｜SmartNews｜Shibuya, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58465a414e2b&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9f61454db806&q=CXG&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58465a414e2b&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-2063f8700e",
-          "employer": "CXG",
-          "title": "Operations & Community Coordinator (Fluent Japanese Speaker)",
+          "job_id": "workable-94966199d5",
+          "employer": "SmartNews",
+          "title": "Machine Learning Engineer, Ads Ranking",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2063F8700E",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
+          "official_url": "https://apply.workable.com/j/94966199D5",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-d4c52f96c37c",
+      "candidate_id": "gwr-open-9bed327b4b20",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 94,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜Digital｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d4c52f96c3…",
-        "bluesky": "GWR OPEN｜Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜Digital｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d4c52f96c37c&q=Digital&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜Digital｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d4c52f96c37c&q=Digital&intent=remote"
+        "x": "【GWR OPEN】メディア研究所 アシスタント（アルバイト）｜SmartNews｜Shibuya, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9bed327b4b20&q=SmartNews&intent=gene…",
+        "bluesky": "GWR OPEN｜メディア研究所 アシスタント（アルバイト）｜SmartNews｜Shibuya, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9bed327b4b20&q=SmartNews&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 メディア研究所 アシスタント（アルバイト）｜SmartNews｜Shibuya, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9bed327b4b20&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d4c52f96c37c&q=Digital&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-9bed327b4b20&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-92408384aa",
-          "employer": "Digital",
-          "title": "Freelance B2B Marketing & Content Writer (JP-EN Bilingual)",
+          "job_id": "workable-ece6208d4a",
+          "employer": "SmartNews",
+          "title": "メディア研究所 アシスタント（アルバイト）",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/92408384AA",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
+          "official_url": "https://apply.workable.com/j/ECE6208D4A",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-0404c8e9293c",
+      "candidate_id": "gwr-open-b43c9b702515",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 92,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0404…",
-        "bluesky": "GWR OPEN｜Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0404c8e9293c&q=Gramian+Consul…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Biology & Bioinformatics Research Specialist (MSc/PhD)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0404c8e9293c&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Solutions Architect for Automotive/MVNE｜SORACOM｜Motoakasaka, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b43c9b702515&q=S…",
+        "bluesky": "GWR OPEN｜Solutions Architect for Automotive/MVNE｜SORACOM｜Motoakasaka, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b43c9b702515&q=SORACOM&intent=general",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Solutions Architect for Automotive/MVNE｜SORACOM｜Motoakasaka, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b43c9b702515&q=SORACOM&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0404c8e9293c&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-b43c9b702515&q=SORACOM&intent=general",
       "evidence": [
         {
-          "job_id": "workable-cded94b3a1",
-          "employer": "Gramian Consulting Group",
-          "title": "Biology & Bioinformatics Research Specialist (MSc/PhD)",
+          "job_id": "workable-eda40b9ae6",
+          "employer": "SORACOM",
+          "title": "Solutions Architect for Automotive/MVNE",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CDED94B3A1",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/EDA40B9AE6",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -339,27 +339,27 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-2650e4035e12",
+      "candidate_id": "gwr-open-6e2d7d0459bf",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 91,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2650e4035e12&q=Keywords+Studi…",
-        "bluesky": "GWR OPEN｜Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2650e4035e12&q=Keywords+Studios&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Community Game Tester (Paid, On-Call)｜Keywords Studios｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2650e4035e12&q=Keywords+Studios&intent=remote"
+        "x": "【GWR OPEN】Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜Digital｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6e2d7d0459…",
+        "bluesky": "GWR OPEN｜Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜Digital｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6e2d7d0459bf&q=Digital&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Freelance B2B Marketing & Content Writer (JP-EN Bilingual)｜Digital｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6e2d7d0459bf&q=Digital&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2650e4035e12&q=Keywords+Studios&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6e2d7d0459bf&q=Digital&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-840cb95b38",
-          "employer": "Keywords Studios",
-          "title": "Community Game Tester (Paid, On-Call)",
+          "job_id": "workable-92408384aa",
+          "employer": "Digital",
+          "title": "Freelance B2B Marketing & Content Writer (JP-EN Bilingual)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/840CB95B38",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
-          "freshness_bucket": "NEW_3D",
+          "official_url": "https://apply.workable.com/j/92408384AA",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -377,27 +377,27 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-3f326a25fd44",
+      "candidate_id": "gwr-open-d19ee6fb3326",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 91,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-ope…",
-        "bluesky": "GWR OPEN｜Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3f326a25fd44&q=Gramian+…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3f326a25fd44&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Key Account Manager, Edtech｜JoVE｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d19ee6fb3326&q=JoVE&intent=remote",
+        "bluesky": "GWR OPEN｜Key Account Manager, Edtech｜JoVE｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d19ee6fb3326&q=JoVE&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Key Account Manager, Edtech｜JoVE｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d19ee6fb3326&q=JoVE&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-3f326a25fd44&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d19ee6fb3326&q=JoVE&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-1f240d31d3",
-          "employer": "Gramian Consulting Group",
-          "title": "Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)",
+          "job_id": "workable-8aa5f994f9",
+          "employer": "JoVE",
+          "title": "Key Account Manager, Edtech",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1F240D31D3",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
-          "freshness_bucket": "NEW_3D",
+          "official_url": "https://apply.workable.com/j/8AA5F994F9",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "NEW_24H",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -415,29 +415,62 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-1367b36cc805",
+      "candidate_id": "gwr-shift-7b4d30ea1b39",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 76,
-      "source_generated_at": "2026-11-11T22:43:16.114Z",
+      "score": 90,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】JoVE：GWR確認求人 0→1（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-1367b36cc805&q=JoVE&intent=general",
-        "bluesky": "GWR SHIFT｜JoVE：GWR確認求人 0→1（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-1367b36cc805&q=JoVE&intent=general",
-        "linkedin": "GWR Market Shift JoVE：GWR確認求人 0→1（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-1367b36cc805&q=JoVE&intent=general"
+        "x": "【GWR SHIFT】SmartNews：GWR確認求人 22→25（+3）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7b4d30ea1b39&q=SmartNews&intent=general",
+        "bluesky": "GWR SHIFT｜SmartNews：GWR確認求人 22→25（+3）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7b4d30ea1b39&q=SmartNews&intent=general",
+        "linkedin": "GWR Market Shift SmartNews：GWR確認求人 22→25（+3）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7b4d30ea1b39&q=SmartNews&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-1367b36cc805&q=JoVE&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-7b4d30ea1b39&q=SmartNews&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8aa5f994f9",
-          "employer": "JoVE",
-          "title": "Key Account Manager, Edtech",
+          "job_id": "workable-511b3ecff5",
+          "employer": "SmartNews",
+          "title": "Senior Accountant",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8AA5F994F9",
-          "last_verified_at": "2026-11-11T22:42:53.648Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/511B3ECFF5",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
+        },
+        {
+          "job_id": "workable-73043bfe04",
+          "employer": "SmartNews",
+          "title": "Sales Operations（Manager）",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/73043BFE04",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
+        },
+        {
+          "job_id": "workable-450acf7407",
+          "employer": "SmartNews",
+          "title": "AI推進(イネーブルメント) リード",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/450ACF7407",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
+        },
+        {
+          "job_id": "workable-12b87eeeef",
+          "employer": "SmartNews",
+          "title": "AI推進(イネーブルメント)エンジニア",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/12B87EEEEF",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 3
         }
       ],
       "measurement_chain": [
@@ -451,6 +484,77 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 11
+    },
+    {
+      "candidate_id": "gwr-shift-cebcaa0742d6",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 82,
+      "source_generated_at": "2026-11-12T07:13:03.480Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】SORACOM：GWR確認求人 9→10（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-cebcaa0742d6&q=SORACOM&intent=general",
+        "bluesky": "GWR SHIFT｜SORACOM：GWR確認求人 9→10（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-cebcaa0742d6&q=SORACOM&intent=general",
+        "linkedin": "GWR Market Shift SORACOM：GWR確認求人 9→10（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-cebcaa0742d6&q=SORACOM&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-cebcaa0742d6&q=SORACOM&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-089e240467",
+          "employer": "SORACOM",
+          "title": "Corporate Development / 経営企画",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/089E240467",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-498e9dc0f9",
+          "employer": "SORACOM",
+          "title": "Technical Account Manager",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/498E9DC0F9",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-274f6b4a1d",
+          "employer": "SORACOM",
+          "title": "Solutions Architect",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/274F6B4A1D",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        },
+        {
+          "job_id": "workable-568d94c5a0",
+          "employer": "SORACOM",
+          "title": "Professional Services Consultant",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/568D94C5A0",
+          "last_verified_at": "2026-11-12T07:12:47.311Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 12
     }
   ]
 }
