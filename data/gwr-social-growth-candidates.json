@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T19:48:26.089Z",
-  "source_generated_at": "2026-11-13T19:48:25.925Z",
+  "generated_at": "2026-11-14T00:54:30.733Z",
+  "source_generated_at": "2026-11-14T00:54:30.531Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,32 +32,32 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 12,
+  "candidate_count": 11,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-cbbd9dbb5e0a",
+      "candidate_id": "gwr-alert-0addc068b56d",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 104,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbbd9dbb5e0a&q…",
-        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbbd9dbb5e0a&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbbd9dbb5e0a&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】AppGate Cybersecurity, Inc.｜Sales Architect (Pre-Sales)｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0addc06…",
+        "bluesky": "GWR ALERT｜AppGate Cybersecurity, Inc.｜Sales Architect (Pre-Sales)｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0addc068b56d&q=AppGate+Cybersecurity%2C+Inc…",
+        "linkedin": "GWR Market Alert AppGate Cybersecurity, Inc.｜Sales Architect (Pre-Sales)｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0addc068b56d&q=AppGate+Cybersecurity%2C+Inc.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-cbbd9dbb5e0a&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0addc068b56d&q=AppGate+Cybersecurity%2C+Inc.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c27dab6780",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-c23eb1215c",
+          "employer": "AppGate Cybersecurity, Inc.",
+          "title": "Sales Architect (Pre-Sales)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C27DAB6780",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/C23EB1215C",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-e75160564981",
+      "candidate_id": "gwr-alert-8c4240855247",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 98,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e75160564981&q…",
-        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e75160564981&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e75160564981&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c4240855247&q=Mindr…",
+        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c4240855247&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c4240855247&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e75160564981&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-8c4240855247&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-1a43fc5a37",
+          "job_id": "workable-c27dab6780",
           "employer": "Mindrift",
           "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1A43FC5A37",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/C27DAB6780",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-6be928758fc3",
+      "candidate_id": "gwr-alert-eadd20bc143b",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 98,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6be928758fc3&…",
-        "bluesky": "GWR ALERT｜Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6be928758fc3&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6be928758fc3&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eadd20bc143b&q=Mindr…",
+        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eadd20bc143b&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eadd20bc143b&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-6be928758fc3&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-eadd20bc143b&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8b429111ed",
+          "job_id": "workable-1a43fc5a37",
           "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8B429111ED",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/1A43FC5A37",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-da2f38f52389",
+      "candidate_id": "gwr-alert-da020149149c",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 108,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 98,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da2f38f52389&q=Mindrif…",
-        "bluesky": "GWR ALERT｜Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜前回スナップショット比 +2。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da2f38f52389&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Physician (MD/DO) - Medical AI Evaluation｜前回スナップショット比 +2。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da2f38f52389&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da020149149c&q=Mind…",
+        "bluesky": "GWR ALERT｜Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da020149149c&q=Mindrift&intent=general",
+        "linkedin": "GWR Market Alert Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da020149149c&q=Mindrift&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da2f38f52389&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-da020149149c&q=Mindrift&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c335d5a11c",
+          "job_id": "workable-8b429111ed",
           "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
+          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C335D5A11C",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/8B429111ED",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-2711acf6ab30",
+      "candidate_id": "gwr-open-58f0a7ac3e16",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 97,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2711acf6ab30&q=Mindrift&i…",
-        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2711acf6ab30&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2711acf6ab30&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Sales Architect (Pre-Sales)｜AppGate Cybersecurity, Inc.｜Tsuruga, Fukui, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58f0a7ac3e16…",
+        "bluesky": "GWR OPEN｜Sales Architect (Pre-Sales)｜AppGate Cybersecurity, Inc.｜Tsuruga, Fukui, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58f0a7ac3e16&q=AppGate+Cybersecurity%…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Sales Architect (Pre-Sales)｜AppGate Cybersecurity, Inc.｜Tsuruga, Fukui, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58f0a7ac3e16&q=AppGate+Cybersecurity%2C+Inc.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2711acf6ab30&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-58f0a7ac3e16&q=AppGate+Cybersecurity%2C+Inc.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c27dab6780",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-c23eb1215c",
+          "employer": "AppGate Cybersecurity, Inc.",
+          "title": "Sales Architect (Pre-Sales)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C27DAB6780",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/C23EB1215C",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-990cb0cb0580",
+      "candidate_id": "gwr-open-4f0aefd4fec8",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 91,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-990cb0cb0580&q=Mindrift&i…",
-        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-990cb0cb0580&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-990cb0cb0580&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4f0aefd4fec8&q=Mindrift&i…",
+        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4f0aefd4fec8&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4f0aefd4fec8&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-990cb0cb0580&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4f0aefd4fec8&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-1a43fc5a37",
+          "job_id": "workable-c27dab6780",
           "employer": "Mindrift",
           "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1A43FC5A37",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/C27DAB6780",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-open-6f774455e528",
+      "candidate_id": "gwr-open-6610ebe9727d",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 91,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6f774455e528&q=Mindrift&…",
-        "bluesky": "GWR OPEN｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6f774455e528&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6f774455e528&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6610ebe9727d&q=Mindrift&i…",
+        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6610ebe9727d&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6610ebe9727d&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6f774455e528&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-6610ebe9727d&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-8b429111ed",
+          "job_id": "workable-1a43fc5a37",
           "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8B429111ED",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/1A43FC5A37",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -301,29 +301,29 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-edcaad335683",
+      "candidate_id": "gwr-open-2d06089338fc",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 91,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-edcaad335683&q=Mindrift&intent=re…",
-        "bluesky": "GWR OPEN｜Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-edcaad335683&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-edcaad335683&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2d06089338fc&q=Mindrift&…",
+        "bluesky": "GWR OPEN｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2d06089338fc&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2d06089338fc&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-edcaad335683&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2d06089338fc&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-c335d5a11c",
+          "job_id": "workable-8b429111ed",
           "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
+          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C335D5A11C",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/8B429111ED",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -339,29 +339,29 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-4e5ea801a92d",
+      "candidate_id": "gwr-open-d0b71dc8ea42",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 101,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 91,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4e5ea801a92d&q=Mindr…",
-        "bluesky": "GWR OPEN｜Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4e5ea801a92d&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4e5ea801a92d&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d0b71dc8ea42&q=Mindrift&intent=re…",
+        "bluesky": "GWR OPEN｜Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d0b71dc8ea42&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d0b71dc8ea42&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4e5ea801a92d&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d0b71dc8ea42&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-a152375959",
+          "job_id": "workable-c335d5a11c",
           "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
+          "title": "Physician (MD/DO) - Medical AI Evaluation",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A152375959",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/C335D5A11C",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -377,29 +377,29 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-a01435c5dc42",
+      "candidate_id": "gwr-open-e98a88e706dc",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 91,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Production Assistant｜Side｜Otsuka, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a01435c5dc42&q=Side&intent=general",
-        "bluesky": "GWR OPEN｜Production Assistant｜Side｜Otsuka, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a01435c5dc42&q=Side&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Production Assistant｜Side｜Otsuka, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a01435c5dc42&q=Side&intent=general"
+        "x": "【GWR OPEN】Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e98a88e706dc&q=Mindr…",
+        "bluesky": "GWR OPEN｜Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e98a88e706dc&q=Mindrift&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e98a88e706dc&q=Mindrift&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a01435c5dc42&q=Side&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e98a88e706dc&q=Mindrift&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-90e0eaed0b",
-          "employer": "Side",
-          "title": "Production Assistant",
+          "job_id": "workable-a152375959",
+          "employer": "Mindrift",
+          "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/90E0EAED0B",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/A152375959",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -415,62 +415,29 @@
       "rank": 10
     },
     {
-      "candidate_id": "gwr-shift-57b9d67d0f55",
+      "candidate_id": "gwr-shift-2804b81d186f",
       "signal_type": "GWR_SHIFT",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
+      "score": 76,
+      "source_generated_at": "2026-11-14T00:54:30.531Z",
       "claim_scope": "verified_inventory_snapshot_delta_only",
       "text": {
-        "x": "【GWR SHIFT】Mindrift：GWR確認求人 3→5（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-57b9d67d0f55&q=Mindrift&intent=general",
-        "bluesky": "GWR SHIFT｜Mindrift：GWR確認求人 3→5（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-57b9d67d0f55&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Shift Mindrift：GWR確認求人 3→5（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-57b9d67d0f55&q=Mindrift&intent=general"
+        "x": "【GWR SHIFT】AppGate Cybersecurity, Inc.：GWR確認求人 0→1（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2804b81d186f&q=AppGate+Cybersecurity%2C+Inc.&inte…",
+        "bluesky": "GWR SHIFT｜AppGate Cybersecurity, Inc.：GWR確認求人 0→1（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2804b81d186f&q=AppGate+Cybersecurity%2C+Inc.&intent=general",
+        "linkedin": "GWR Market Shift AppGate Cybersecurity, Inc.：GWR確認求人 0→1（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2804b81d186f&q=AppGate+Cybersecurity%2C+Inc.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-57b9d67d0f55&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-2804b81d186f&q=AppGate+Cybersecurity%2C+Inc.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c27dab6780",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-c23eb1215c",
+          "employer": "AppGate Cybersecurity, Inc.",
+          "title": "Sales Architect (Pre-Sales)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C27DAB6780",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
+          "official_url": "https://apply.workable.com/j/C23EB1215C",
+          "last_verified_at": "2026-11-14T00:54:04.960Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
-        },
-        {
-          "job_id": "workable-1a43fc5a37",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1A43FC5A37",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
-        },
-        {
-          "job_id": "workable-8b429111ed",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8B429111ED",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
-        },
-        {
-          "job_id": "workable-c335d5a11c",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C335D5A11C",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 2
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -484,77 +451,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 11
-    },
-    {
-      "candidate_id": "gwr-shift-c9e0e964df32",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-11-13T19:48:25.925Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Side：GWR確認求人 16→17（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c9e0e964df32&q=Side&intent=general",
-        "bluesky": "GWR SHIFT｜Side：GWR確認求人 16→17（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c9e0e964df32&q=Side&intent=general",
-        "linkedin": "GWR Market Shift Side：GWR確認求人 16→17（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c9e0e964df32&q=Side&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-c9e0e964df32&q=Side&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-35a8b8be51",
-          "employer": "Side",
-          "title": "Localization Project coordinator",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/35A8B8BE51",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-79d89ebb01",
-          "employer": "Side",
-          "title": "LQA Game tester: Brazilian Portuguese",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/79D89EBB01",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-1077d54ed8",
-          "employer": "Side",
-          "title": "Spanish (EU) LQA tester",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1077D54ED8",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-71c65b4331",
-          "employer": "Side",
-          "title": "繁体字ゲームテスタ",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/71C65B4331",
-          "last_verified_at": "2026-11-13T19:48:10.329Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 12
     }
   ]
 }
