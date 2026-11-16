@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T06:32:06.383Z",
-  "source_generated_at": "2026-11-16T06:32:06.146Z",
+  "generated_at": "2026-11-16T18:34:51.782Z",
+  "source_generated_at": "2026-11-16T18:34:51.189Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,31 +32,31 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 11,
+  "candidate_count": 12,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-3269403b828c",
+      "candidate_id": "gwr-alert-f805e2984532",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 99,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
+      "score": 112,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Control Risks｜Partner, Geomarket Head- Japan｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3269403b828c&q=Control+Risks…",
-        "bluesky": "GWR ALERT｜Control Risks｜Partner, Geomarket Head- Japan｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3269403b828c&q=Control+Risks&intent=general",
-        "linkedin": "GWR Market Alert Control Risks｜Partner, Geomarket Head- Japan｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3269403b828c&q=Control+Risks&intent=general"
+        "x": "【GWR ALERT】RealAdvisor S.A.｜Sales Development Representatives Mercado Español (Remote Asia)｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_…",
+        "bluesky": "GWR ALERT｜RealAdvisor S.A.｜Sales Development Representatives Mercado Español (Remote Asia)｜GWR観測内で新規Employer Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f805e2984532&q=Rea…",
+        "linkedin": "GWR Market Alert RealAdvisor S.A.｜Sales Development Representatives Mercado Español (Remote Asia)｜GWR観測内で新規Employer Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f805e2984532&q=RealAdvisor+S.A.&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3269403b828c&q=Control+Risks&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-f805e2984532&q=RealAdvisor+S.A.&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8e99dbd85e",
-          "employer": "Control Risks",
-          "title": "Partner, Geomarket Head- Japan",
+          "job_id": "workable-32357f0e6a",
+          "employer": "RealAdvisor S.A.",
+          "title": "Sales Development Representatives Mercado Español (Remote Asia)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8E99DBD85E",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
+          "official_url": "https://apply.workable.com/j/32357F0E6A",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
           "hiring_delta": 1
         }
       ],
@@ -73,29 +73,29 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-310f131f736a",
+      "candidate_id": "gwr-alert-02bd5fa518bc",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
+      "score": 107,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-310f131f736a&q=Mindr…",
-        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-310f131f736a&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-310f131f736a&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Side｜JP & EN Customer support coordinator｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-02bd5fa518bc&q=Side&intent=gene…",
+        "bluesky": "GWR ALERT｜Side｜JP & EN Customer support coordinator｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-02bd5fa518bc&q=Side&intent=general",
+        "linkedin": "GWR Market Alert Side｜JP & EN Customer support coordinator｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-02bd5fa518bc&q=Side&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-310f131f736a&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-02bd5fa518bc&q=Side&intent=general",
       "evidence": [
         {
-          "job_id": "workable-c27dab6780",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-3c7347cd40",
+          "employer": "Side",
+          "title": "JP & EN Customer support coordinator",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C27DAB6780",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/3C7347CD40",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -111,29 +111,29 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-2c0e41a6fa6b",
+      "candidate_id": "gwr-alert-aed882aa371f",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
+      "score": 107,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2c0e41a6fa6b&q=Mindr…",
-        "bluesky": "GWR ALERT｜Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2c0e41a6fa6b&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Licensed Physician (MD/DO) - Freelance AI Trainer｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2c0e41a6fa6b&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】Keywords Studios｜Agent - ( Internal Job Posting )｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-aed882aa371f&q=Keywords…",
+        "bluesky": "GWR ALERT｜Keywords Studios｜Agent - ( Internal Job Posting )｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-aed882aa371f&q=Keywords+Studios&intent=general",
+        "linkedin": "GWR Market Alert Keywords Studios｜Agent - ( Internal Job Posting )｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-aed882aa371f&q=Keywords+Studios&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-2c0e41a6fa6b&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-aed882aa371f&q=Keywords+Studios&intent=general",
       "evidence": [
         {
-          "job_id": "workable-1a43fc5a37",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-1c29060998",
+          "employer": "Keywords Studios",
+          "title": "Agent - ( Internal Job Posting )",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1A43FC5A37",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/1C29060998",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-alert-94580b566f13",
+      "candidate_id": "gwr-alert-9611375594ca",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 93,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
+      "score": 107,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-94580b566f13&q=Mind…",
-        "bluesky": "GWR ALERT｜Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-94580b566f13&q=Mindrift&intent=general",
-        "linkedin": "GWR Market Alert Mindrift｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-94580b566f13&q=Mindrift&intent=general"
+        "x": "【GWR ALERT】BoostDraft｜アカウントマネージャー｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9611375594ca&q=BoostDraft&intent=general",
+        "bluesky": "GWR ALERT｜BoostDraft｜アカウントマネージャー｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9611375594ca&q=BoostDraft&intent=general",
+        "linkedin": "GWR Market Alert BoostDraft｜アカウントマネージャー｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9611375594ca&q=BoostDraft&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-94580b566f13&q=Mindrift&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-9611375594ca&q=BoostDraft&intent=general",
       "evidence": [
         {
-          "job_id": "workable-8b429111ed",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+          "job_id": "workable-ecbae7f72e",
+          "employer": "BoostDraft",
+          "title": "アカウントマネージャー",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8B429111ED",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "official_url": "https://apply.workable.com/j/ECBAE7F72E",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
         }
       ],
       "measurement_chain": [
@@ -187,28 +187,28 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-44a489da6ce9",
+      "candidate_id": "gwr-open-415afc4ba0b2",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 92,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
+      "score": 105,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Partner, Geomarket Head- Japan｜Control Risks｜Tokyo, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-44a489da6ce9&q=Control+Ri…",
-        "bluesky": "GWR OPEN｜Partner, Geomarket Head- Japan｜Control Risks｜Tokyo, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-44a489da6ce9&q=Control+Risks&intent=general",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Partner, Geomarket Head- Japan｜Control Risks｜Tokyo, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-44a489da6ce9&q=Control+Risks&intent=general"
+        "x": "【GWR OPEN】Sales Development Representatives Mercado Español (Remote Asia)｜RealAdvisor S.A.｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-415…",
+        "bluesky": "GWR OPEN｜Sales Development Representatives Mercado Español (Remote Asia)｜RealAdvisor S.A.｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-415afc4ba0b2&q=RealAdvisor+S…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Sales Development Representatives Mercado Español (Remote Asia)｜RealAdvisor S.A.｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-415afc4ba0b2&q=RealAdvisor+S.A.&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-44a489da6ce9&q=Control+Risks&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-415afc4ba0b2&q=RealAdvisor+S.A.&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-8e99dbd85e",
-          "employer": "Control Risks",
-          "title": "Partner, Geomarket Head- Japan",
+          "job_id": "workable-32357f0e6a",
+          "employer": "RealAdvisor S.A.",
+          "title": "Sales Development Representatives Mercado Español (Remote Asia)",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8E99DBD85E",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
+          "official_url": "https://apply.workable.com/j/32357F0E6A",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
           "hiring_delta": 1
         }
       ],
@@ -225,249 +225,26 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-8845965d5826",
+      "candidate_id": "gwr-open-fa3be936e42a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
+      "score": 100,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8845965d5826&q=Mindrift&i…",
-        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8845965d5826&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8845965d5826&q=Mindrift&intent=remote"
+        "x": "【GWR OPEN】JP & EN Customer support coordinator｜Side｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fa3be936e42a&q=Side&intent=remote",
+        "bluesky": "GWR OPEN｜JP & EN Customer support coordinator｜Side｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fa3be936e42a&q=Side&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 JP & EN Customer support coordinator｜Side｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fa3be936e42a&q=Side&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-8845965d5826&q=Mindrift&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fa3be936e42a&q=Side&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-c27dab6780",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+          "job_id": "workable-3c7347cd40",
+          "employer": "Side",
+          "title": "JP & EN Customer support coordinator",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C27DAB6780",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 6
-    },
-    {
-      "candidate_id": "gwr-open-0943728bbaf1",
-      "signal_type": "GWR_OPEN",
-      "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
-      "claim_scope": "verified_active_structured_facts_only",
-      "text": {
-        "x": "【GWR OPEN】Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0943728bbaf1&q=Mindrift&i…",
-        "bluesky": "GWR OPEN｜Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0943728bbaf1&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Licensed Physician (MD/DO) - Freelance AI Trainer｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0943728bbaf1&q=Mindrift&intent=remote"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0943728bbaf1&q=Mindrift&intent=remote",
-      "evidence": [
-        {
-          "job_id": "workable-1a43fc5a37",
-          "employer": "Mindrift",
-          "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1A43FC5A37",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 7
-    },
-    {
-      "candidate_id": "gwr-open-03f89093ceeb",
-      "signal_type": "GWR_OPEN",
-      "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
-      "claim_scope": "verified_active_structured_facts_only",
-      "text": {
-        "x": "【GWR OPEN】Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-03f89093ceeb&q=Mindrift&…",
-        "bluesky": "GWR OPEN｜Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-03f89093ceeb&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician Reviewer (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-03f89093ceeb&q=Mindrift&intent=remote"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-03f89093ceeb&q=Mindrift&intent=remote",
-      "evidence": [
-        {
-          "job_id": "workable-8b429111ed",
-          "employer": "Mindrift",
-          "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8B429111ED",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 8
-    },
-    {
-      "candidate_id": "gwr-open-79d465fa9972",
-      "signal_type": "GWR_OPEN",
-      "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
-      "claim_scope": "verified_active_structured_facts_only",
-      "text": {
-        "x": "【GWR OPEN】Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-79d465fa9972&q=Mindrift&intent=re…",
-        "bluesky": "GWR OPEN｜Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-79d465fa9972&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Medical AI Evaluation｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-79d465fa9972&q=Mindrift&intent=remote"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-79d465fa9972&q=Mindrift&intent=remote",
-      "evidence": [
-        {
-          "job_id": "workable-c335d5a11c",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Medical AI Evaluation",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/C335D5A11C",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 9
-    },
-    {
-      "candidate_id": "gwr-open-486dadf80bc8",
-      "signal_type": "GWR_OPEN",
-      "objective": "qualified_revenue_growth",
-      "score": 86,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
-      "claim_scope": "verified_active_structured_facts_only",
-      "text": {
-        "x": "【GWR OPEN】Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-486dadf80bc8&q=Mindr…",
-        "bluesky": "GWR OPEN｜Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-486dadf80bc8&q=Mindrift&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Physician (MD/DO) - Put Medical AI to the Test, Remote｜Mindrift｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-486dadf80bc8&q=Mindrift&intent=remote"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-486dadf80bc8&q=Mindrift&intent=remote",
-      "evidence": [
-        {
-          "job_id": "workable-a152375959",
-          "employer": "Mindrift",
-          "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/A152375959",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "NEW_3D",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 10
-    },
-    {
-      "candidate_id": "gwr-shift-83662681939a",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-11-16T06:32:06.146Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Control Risks：GWR確認求人 3→4（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-83662681939a&q=Control+Risks&intent=general",
-        "bluesky": "GWR SHIFT｜Control Risks：GWR確認求人 3→4（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-83662681939a&q=Control+Risks&intent=general",
-        "linkedin": "GWR Market Shift Control Risks：GWR確認求人 3→4（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-83662681939a&q=Control+Risks&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-83662681939a&q=Control+Risks&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-abf352e9e5",
-          "employer": "Control Risks",
-          "title": "Associate Consultant",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/ABF352E9E5",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-8bf3378732",
-          "employer": "Control Risks",
-          "title": "Associate Director",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8BF3378732",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-01ac92e25e",
-          "employer": "Control Risks",
-          "title": "Researcher",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/01AC92E25E",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-8e99dbd85e",
-          "employer": "Control Risks",
-          "title": "Partner, Geomarket Head- Japan",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8E99DBD85E",
-          "last_verified_at": "2026-11-16T06:31:43.379Z",
+          "official_url": "https://apply.workable.com/j/3C7347CD40",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
           "freshness_bucket": "NEW_24H",
           "hiring_momentum": "HIRING_UP",
           "hiring_delta": 1
@@ -483,7 +260,301 @@
       ],
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 6
+    },
+    {
+      "candidate_id": "gwr-open-d9cde822ead2",
+      "signal_type": "GWR_OPEN",
+      "objective": "qualified_revenue_growth",
+      "score": 100,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
+      "claim_scope": "verified_active_structured_facts_only",
+      "text": {
+        "x": "【GWR OPEN】Agent - ( Internal Job Posting )｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d9cde822ead2…",
+        "bluesky": "GWR OPEN｜Agent - ( Internal Job Posting )｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d9cde822ead2&q=Keywords+Studios&inten…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Agent - ( Internal Job Posting )｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d9cde822ead2&q=Keywords+Studios&intent=remote"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-d9cde822ead2&q=Keywords+Studios&intent=remote",
+      "evidence": [
+        {
+          "job_id": "workable-1c29060998",
+          "employer": "Keywords Studios",
+          "title": "Agent - ( Internal Job Posting )",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/1C29060998",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 7
+    },
+    {
+      "candidate_id": "gwr-open-cc9a6a49e8de",
+      "signal_type": "GWR_OPEN",
+      "objective": "qualified_revenue_growth",
+      "score": 100,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
+      "claim_scope": "verified_active_structured_facts_only",
+      "text": {
+        "x": "【GWR OPEN】アカウントマネージャー｜BoostDraft｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cc9a6a49e8de&q=BoostDraft&intent=remote",
+        "bluesky": "GWR OPEN｜アカウントマネージャー｜BoostDraft｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cc9a6a49e8de&q=BoostDraft&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 アカウントマネージャー｜BoostDraft｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cc9a6a49e8de&q=BoostDraft&intent=remote"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-cc9a6a49e8de&q=BoostDraft&intent=remote",
+      "evidence": [
+        {
+          "job_id": "workable-ecbae7f72e",
+          "employer": "BoostDraft",
+          "title": "アカウントマネージャー",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/ECBAE7F72E",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 1
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 8
+    },
+    {
+      "candidate_id": "gwr-shift-a8aeb5130aa1",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 94,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】Hire Digital：GWR確認求人 0→4（+4）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-a8aeb5130aa1&q=Hire+Digital&intent=general",
+        "bluesky": "GWR SHIFT｜Hire Digital：GWR確認求人 0→4（+4）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-a8aeb5130aa1&q=Hire+Digital&intent=general",
+        "linkedin": "GWR Market Shift Hire Digital：GWR確認求人 0→4（+4）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-a8aeb5130aa1&q=Hire+Digital&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-a8aeb5130aa1&q=Hire+Digital&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-87e0e9610e",
+          "employer": "Hire Digital",
+          "title": "Micro-Influencer",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/87E0E9610E",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 4
+        },
+        {
+          "job_id": "workable-83b0d19556",
+          "employer": "Hire Digital",
+          "title": "Travel Content Creator",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/83B0D19556",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 4
+        },
+        {
+          "job_id": "workable-d5f0a06681",
+          "employer": "Hire Digital",
+          "title": "Content Creator",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/D5F0A06681",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 4
+        },
+        {
+          "job_id": "workable-92408384aa",
+          "employer": "Hire Digital",
+          "title": "Freelance B2B Marketing & Content Writer (JP-EN Bilingual)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/92408384AA",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "FRESH_7D",
+          "hiring_momentum": "NEW_EMPLOYER_SIGNAL",
+          "hiring_delta": 4
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 9
+    },
+    {
+      "candidate_id": "gwr-open-2d84a42de525",
+      "signal_type": "GWR_OPEN",
+      "objective": "qualified_revenue_growth",
+      "score": 93,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
+      "claim_scope": "verified_active_structured_facts_only",
+      "text": {
+        "x": "【GWR OPEN】COM-103 External Relations Manager / 渉外マネージャー｜AI Robot Association｜Heiwajima, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open…",
+        "bluesky": "GWR OPEN｜COM-103 External Relations Manager / 渉外マネージャー｜AI Robot Association｜Heiwajima, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2d84a42de525&q=AI+Robot+…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 COM-103 External Relations Manager / 渉外マネージャー｜AI Robot Association｜Heiwajima, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2d84a42de525&q=AI+Robot+Association&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-2d84a42de525&q=AI+Robot+Association&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-5c53c2abb4",
+          "employer": "AI Robot Association",
+          "title": "COM-103 External Relations Manager / 渉外マネージャー",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/5C53C2ABB4",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 10
+    },
+    {
+      "candidate_id": "gwr-open-f8e3e732c181",
+      "signal_type": "GWR_OPEN",
+      "objective": "qualified_revenue_growth",
+      "score": 93,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
+      "claim_scope": "verified_active_structured_facts_only",
+      "text": {
+        "x": "【GWR OPEN】COM-104 External Relations Officer / Specialist/ 渉外担当｜AI Robot Association｜Heiwajima, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=…",
+        "bluesky": "GWR OPEN｜COM-104 External Relations Officer / Specialist/ 渉外担当｜AI Robot Association｜Heiwajima, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f8e3e732c181&q=A…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 COM-104 External Relations Officer / Specialist/ 渉外担当｜AI Robot Association｜Heiwajima, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f8e3e732c181&q=AI+Robot+Association&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-f8e3e732c181&q=AI+Robot+Association&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-6d835c8be0",
+          "employer": "AI Robot Association",
+          "title": "COM-104 External Relations Officer / Specialist/ 渉外担当",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/6D835C8BE0",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "NEW_24H",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 11
+    },
+    {
+      "candidate_id": "gwr-shift-dde8848e7240",
+      "signal_type": "GWR_SHIFT",
+      "objective": "qualified_revenue_growth",
+      "score": 86,
+      "source_generated_at": "2026-11-16T18:34:51.189Z",
+      "claim_scope": "verified_inventory_snapshot_delta_only",
+      "text": {
+        "x": "【GWR SHIFT】AI Robot Association：GWR確認求人 51→53（+2）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-dde8848e7240&q=AI+Robot+Association&intent=general",
+        "bluesky": "GWR SHIFT｜AI Robot Association：GWR確認求人 51→53（+2）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-dde8848e7240&q=AI+Robot+Association&intent=general",
+        "linkedin": "GWR Market Shift AI Robot Association：GWR確認求人 51→53（+2）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-dde8848e7240&q=AI+Robot+Association&intent=general"
+      },
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-dde8848e7240&q=AI+Robot+Association&intent=general",
+      "evidence": [
+        {
+          "job_id": "workable-6b151a6914",
+          "employer": "AI Robot Association",
+          "title": "R&D-014 Intern Research Scientist (VLAs)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/6B151A6914",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-d27bc4d685",
+          "employer": "AI Robot Association",
+          "title": "R&D-013 Junior Research Scientist (VLAs)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/D27BC4D685",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-450c7cea45",
+          "employer": "AI Robot Association",
+          "title": "R&D-012 Research Scientist (VLAs)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/450C7CEA45",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        },
+        {
+          "job_id": "workable-d71790711b",
+          "employer": "AI Robot Association",
+          "title": "R&D-011 Senior Research Scientist (VLAs)",
+          "source": "Workable",
+          "official_url": "https://apply.workable.com/j/D71790711B",
+          "last_verified_at": "2026-11-16T18:34:32.468Z",
+          "freshness_bucket": "LONG_RUNNING",
+          "hiring_momentum": "HIRING_UP",
+          "hiring_delta": 2
+        }
+      ],
+      "measurement_chain": [
+        "social_publish",
+        "gwr_visit",
+        "gwr_return_visit",
+        "gwr_search",
+        "gwr_buyer_reaction",
+        "gwr_official_apply_click"
+      ],
+      "publish_state": "CANDIDATE_NOT_PUBLISHED",
+      "channel_rule": "GWR_CHANNEL_ONLY",
+      "rank": 12
     }
   ]
 }
