@@ -1,44 +1,190 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-11-17T13:29:26.358Z",
+  "observed_at": "2026-11-17T23:31:32.318Z",
   "run": {
-    "github_run_id": "44093014238",
+    "github_run_id": "44199934550",
     "github_run_attempt": "1",
-    "github_sha": "5c775637742b16356f89666d0da503a316e6e7db",
+    "github_sha": "4b44b96260b9897d7fba80e34c790a2213ea5f35",
     "baseline_ref": "HEAD"
   },
   "inventory": {
-    "previous_count": 529,
-    "current_count": 523,
+    "previous_count": 523,
+    "current_count": 524,
     "source_counts": {
       "lever": 18,
-      "workable_publishable": 613
+      "workable_publishable": 614
     }
   },
   "change_detection": {
-    "meaningful_change_count": 63,
+    "meaningful_change_count": 69,
     "added_count": 3,
-    "removed_count": 9,
-    "changed_count": 51,
+    "removed_count": 2,
+    "changed_count": 64,
     "added_ids": [
-      "workable-ba54fc78c9",
-      "workable-fd039b5c88",
-      "workable-eff8198209"
+      "workable-af8a58873e",
+      "workable-7c9acccb92",
+      "workable-8d2ed1c905"
     ],
     "removed_ids": [
-      "workable-ecc8350a25",
-      "workable-dc1a93b2f6",
-      "workable-7dcd35ec23",
-      "workable-9248b96505",
-      "workable-c27dab6780",
-      "workable-1a43fc5a37",
-      "workable-8b429111ed",
-      "workable-c335d5a11c",
-      "workable-a152375959"
+      "workable-a1d4793263",
+      "workable-1de02f5e01"
     ],
     "changed": [
       {
+        "id": "workable-802cc6e102",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-ccb1816009",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-4006265775",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-a335b713f4",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-8bbd3702f9",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-4c15cdd484",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-35e51b79a9",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-2584b2186b",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-0b1d27bd70",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-82d7518973",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-7afb08df16",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-0eb2685003",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-52a535b707",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-adcea5c63d",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-04ed5aa65f",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-60c504e70b",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-2491771220",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-7066a95e5c",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-9700794743",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-880a60b611",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-c489180ebf",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
         "id": "workable-511b3ecff5",
+        "fields": [
+          "hiring_momentum_state"
+        ]
+      },
+      {
+        "id": "workable-8928b60bae",
         "fields": [
           "hiring_momentum_state"
         ]
@@ -65,20 +211,6 @@
         "id": "workable-163ac78409",
         "fields": [
           "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-3765fbbe93",
-        "fields": [
-          "lifecycle_state",
-          "lifecycle_stale_risk"
-        ]
-      },
-      {
-        "id": "workable-fd7370d9ae",
-        "fields": [
-          "lifecycle_state",
-          "lifecycle_stale_risk"
         ]
       },
       {
@@ -144,21 +276,7 @@
         ]
       },
       {
-        "id": "workable-abf352e9e5",
-        "fields": [
-          "lifecycle_state",
-          "lifecycle_stale_risk"
-        ]
-      },
-      {
-        "id": "workable-fde0b59648",
-        "fields": [
-          "lifecycle_state",
-          "lifecycle_stale_risk"
-        ]
-      },
-      {
-        "id": "workable-35ac69f256",
+        "id": "workable-4dfbcff3e5",
         "fields": [
           "lifecycle_state",
           "lifecycle_stale_risk"
@@ -174,6 +292,13 @@
         "id": "workable-22c24f7712",
         "fields": [
           "hiring_momentum_state"
+        ]
+      },
+      {
+        "id": "workable-685a52348a",
+        "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
         ]
       },
       {
@@ -199,7 +324,8 @@
       {
         "id": "workable-8147b966af",
         "fields": [
-          "hiring_momentum_state"
+          "hiring_momentum_state",
+          "hiring_intent_level"
         ]
       },
       {
@@ -207,12 +333,6 @@
         "fields": [
           "hiring_momentum_state",
           "hiring_intent_level"
-        ]
-      },
-      {
-        "id": "workable-18969e5cce",
-        "fields": [
-          "title"
         ]
       },
       {
@@ -230,47 +350,44 @@
         ]
       },
       {
-        "id": "workable-1de02f5e01",
-        "fields": [
-          "hiring_momentum_state"
-        ]
-      },
-      {
         "id": "workable-cded94b3a1",
         "fields": [
-          "hiring_momentum_state"
+          "hiring_momentum_state",
+          "hiring_intent_level"
         ]
       },
       {
         "id": "workable-1f240d31d3",
         "fields": [
-          "hiring_momentum_state"
+          "hiring_momentum_state",
+          "hiring_intent_level"
         ]
       },
       {
         "id": "workable-2fdb69376f",
         "fields": [
-          "hiring_momentum_state"
+          "hiring_momentum_state",
+          "hiring_intent_level"
         ]
       },
       {
         "id": "workable-48f8a0b6af",
         "fields": [
+          "hiring_momentum_state",
+          "hiring_intent_level"
+        ]
+      },
+      {
+        "id": "workable-64cebf134e",
+        "fields": [
+          "freshness_bucket",
+          "lifecycle_state"
+        ]
+      },
+      {
+        "id": "workable-2063f8700e",
+        "fields": [
           "hiring_momentum_state"
-        ]
-      },
-      {
-        "id": "workable-a6d02ae5e2",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-31f3d70a7a",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
         ]
       },
       {
@@ -316,52 +433,24 @@
         ]
       },
       {
-        "id": "workable-8e99dbd85e",
+        "id": "workable-440ba7f6bb",
         "fields": [
           "freshness_bucket",
+          "hiring_momentum_state",
           "lifecycle_state"
         ]
       },
       {
-        "id": "workable-3c7347cd40",
+        "id": "workable-fd039b5c88",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
+          "hiring_momentum_state",
+          "hiring_intent_level"
         ]
       },
       {
-        "id": "workable-1c29060998",
+        "id": "workable-eff8198209",
         "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-5c53c2abb4",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-ecbae7f72e",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-6d835c8be0",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-32357f0e6a",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
+          "hiring_momentum_state"
         ]
       }
     ]
@@ -369,18 +458,18 @@
   "intelligence": {
     "lifecycle": {
       "state_counts": {
-        "NEW_24H": 18,
+        "NEW_24H": 20,
         "STALE_RISK_90D": 243,
-        "LONG_RUNNING_60D": 62,
-        "AGING_30D": 75,
-        "ACTIVE": 100,
-        "FRESH_7D": 18,
-        "NEW_3D": 7
+        "LONG_RUNNING_60D": 63,
+        "AGING_30D": 74,
+        "ACTIVE": 99,
+        "FRESH_7D": 17,
+        "NEW_3D": 8
       },
       "stale_risk_counts": {
         "LOW": 212,
         "ELEVATED": 243,
-        "REVIEW": 68
+        "REVIEW": 69
       },
       "reopened_after_confirmed_close_count": 6,
       "changed_within_7d_count": 83,
@@ -393,9 +482,9 @@
     },
     "hiring_intent": {
       "signal_level_counts": {
-        "MODERATE_EVIDENCE": 162,
-        "WEAK_EVIDENCE": 354,
-        "STRONG_EVIDENCE": 7
+        "MODERATE_EVIDENCE": 137,
+        "WEAK_EVIDENCE": 372,
+        "STRONG_EVIDENCE": 15
       },
       "score_is_probability": false,
       "ghost_job_classifier": false,
