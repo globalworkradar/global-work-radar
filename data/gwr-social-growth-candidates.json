@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T07:31:14.668Z",
-  "source_generated_at": "2026-11-18T07:31:14.448Z",
+  "generated_at": "2026-11-18T17:17:32.739Z",
+  "source_generated_at": "2026-11-18T17:17:32.502Z",
   "brand": "Global Work Radar",
   "purpose": "Turn verified market changes into GWR-owned traffic, explicit buyer-reaction evidence, and revenue opportunities without fabricating publication state.",
   "channel_policy": "GWR_CHANNEL_ONLY",
@@ -32,21 +32,21 @@
     ],
     "revenue_first": true
   },
-  "candidate_count": 11,
+  "candidate_count": 10,
   "candidates": [
     {
-      "candidate_id": "gwr-alert-17a7e0639d60",
+      "candidate_id": "gwr-alert-c367ce3699a1",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
+      "score": 98,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Mechanical Engineering & Computational Simulation Specialist｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_conte…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Mechanical Engineering & Computational Simulation Specialist｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-17a7e0639d60&q=Gramian+…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Mechanical Engineering & Computational Simulation Specialist｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-17a7e0639d60&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Mechanical Engineering & Computational Simulation Specialist｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Mechanical Engineering & Computational Simulation Specialist｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c367ce3699a1&q=Gramian+Consul…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Mechanical Engineering & Computational Simulation Specialist｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c367ce3699a1&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-17a7e0639d60&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-c367ce3699a1&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
           "job_id": "workable-7c9acccb92",
@@ -54,10 +54,10 @@
           "title": "Mechanical Engineering & Computational Simulation Specialist",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/7C9ACCCB92",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "HIRING_DOWN",
+          "hiring_delta": -1
         }
       ],
       "measurement_chain": [
@@ -73,18 +73,18 @@
       "rank": 1
     },
     {
-      "candidate_id": "gwr-alert-e08047d27e9a",
+      "candidate_id": "gwr-alert-bb44e6de9b59",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
+      "score": 98,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Computational Life Sciences & Scientific Python Specialist｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Computational Life Sciences & Scientific Python Specialist｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e08047d27e9a&q=Gramian+Co…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Computational Life Sciences & Scientific Python Specialist｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e08047d27e9a&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Computational Life Sciences & Scientific Python Specialist｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-a…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Computational Life Sciences & Scientific Python Specialist｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-bb44e6de9b59&q=Gramian+Consulti…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Computational Life Sciences & Scientific Python Specialist｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-bb44e6de9b59&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-e08047d27e9a&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-bb44e6de9b59&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
           "job_id": "workable-8d2ed1c905",
@@ -92,10 +92,10 @@
           "title": "Computational Life Sciences & Scientific Python Specialist",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/8D2ED1C905",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "HIRING_DOWN",
+          "hiring_delta": -1
         }
       ],
       "measurement_chain": [
@@ -111,18 +111,18 @@
       "rank": 2
     },
     {
-      "candidate_id": "gwr-alert-bf2c54442721",
+      "candidate_id": "gwr-alert-3f887c19114e",
       "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 107,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
+      "score": 98,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
       "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR ALERT】Gramian Consulting Group｜Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_grow…",
-        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜前回スナップショット比 +1。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-bf2c5444272…",
-        "linkedin": "GWR Market Alert Gramian Consulting Group｜Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜前回スナップショット比 +1。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-bf2c54442721&q=Gramian+Consulting+Group&intent=general"
+        "x": "【GWR ALERT】Gramian Consulting Group｜Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm…",
+        "bluesky": "GWR ALERT｜Gramian Consulting Group｜Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f887c19114e&q=Gr…",
+        "linkedin": "GWR Market Alert Gramian Consulting Group｜Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f887c19114e&q=Gramian+Consulting+Group&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-bf2c54442721&q=Gramian+Consulting+Group&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-3f887c19114e&q=Gramian+Consulting+Group&intent=general",
       "evidence": [
         {
           "job_id": "workable-bc32e9e228",
@@ -130,10 +130,10 @@
           "title": "Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care",
           "source": "Workable",
           "official_url": "https://apply.workable.com/j/BC32E9E228",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "HIRING_DOWN",
+          "hiring_delta": -1
         }
       ],
       "measurement_chain": [
@@ -149,29 +149,29 @@
       "rank": 3
     },
     {
-      "candidate_id": "gwr-open-48b6eef80b48",
-      "signal_type": "GWR_OPEN",
+      "candidate_id": "gwr-alert-4ae1844b83db",
+      "signal_type": "GWR_ALERT",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
-      "claim_scope": "verified_active_structured_facts_only",
+      "score": 93,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
+      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
       "text": {
-        "x": "【GWR OPEN】Mechanical Engineering & Computational Simulation Specialist｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-ope…",
-        "bluesky": "GWR OPEN｜Mechanical Engineering & Computational Simulation Specialist｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-48b6eef80b48&q=Gramian+…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Mechanical Engineering & Computational Simulation Specialist｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-48b6eef80b48&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR ALERT】Side｜JP & EN Customer support coordinator｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4ae1844b83db&q=Side&intent=general",
+        "bluesky": "GWR ALERT｜Side｜JP & EN Customer support coordinator｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4ae1844b83db&q=Side&intent=general",
+        "linkedin": "GWR Market Alert Side｜JP & EN Customer support coordinator｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4ae1844b83db&q=Side&intent=general"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-48b6eef80b48&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-4ae1844b83db&q=Side&intent=general",
       "evidence": [
         {
-          "job_id": "workable-7c9acccb92",
-          "employer": "Gramian Consulting Group",
-          "title": "Mechanical Engineering & Computational Simulation Specialist",
+          "job_id": "workable-3c7347cd40",
+          "employer": "Side",
+          "title": "JP & EN Customer support coordinator",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/7C9ACCCB92",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
-          "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "official_url": "https://apply.workable.com/j/3C7347CD40",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
+          "freshness_bucket": "NEW_3D",
+          "hiring_momentum": "STEADY",
+          "hiring_delta": 0
         }
       ],
       "measurement_chain": [
@@ -187,29 +187,29 @@
       "rank": 4
     },
     {
-      "candidate_id": "gwr-open-e48912a4d69e",
+      "candidate_id": "gwr-open-0cfb823d260a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
+      "score": 91,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Computational Life Sciences & Scientific Python Specialist｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-…",
-        "bluesky": "GWR OPEN｜Computational Life Sciences & Scientific Python Specialist｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e48912a4d69e&q=Gramian+Co…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Computational Life Sciences & Scientific Python Specialist｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e48912a4d69e&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Mechanical Engineering & Computational Simulation Specialist｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-ope…",
+        "bluesky": "GWR OPEN｜Mechanical Engineering & Computational Simulation Specialist｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0cfb823d260a&q=Gramian+…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Mechanical Engineering & Computational Simulation Specialist｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0cfb823d260a&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e48912a4d69e&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-0cfb823d260a&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-8d2ed1c905",
+          "job_id": "workable-7c9acccb92",
           "employer": "Gramian Consulting Group",
-          "title": "Computational Life Sciences & Scientific Python Specialist",
+          "title": "Mechanical Engineering & Computational Simulation Specialist",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8D2ED1C905",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
+          "official_url": "https://apply.workable.com/j/7C9ACCCB92",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "HIRING_DOWN",
+          "hiring_delta": -1
         }
       ],
       "measurement_chain": [
@@ -225,29 +225,29 @@
       "rank": 5
     },
     {
-      "candidate_id": "gwr-open-a6ec62dfca35",
+      "candidate_id": "gwr-open-20f2025164c8",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 100,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
+      "score": 91,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
-        "bluesky": "GWR OPEN｜Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6ec62dfca3…",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6ec62dfca35&q=Gramian+Consulting+Group&intent=remote"
+        "x": "【GWR OPEN】Computational Life Sciences & Scientific Python Specialist｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-…",
+        "bluesky": "GWR OPEN｜Computational Life Sciences & Scientific Python Specialist｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-20f2025164c8&q=Gramian+Co…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Computational Life Sciences & Scientific Python Specialist｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-20f2025164c8&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-a6ec62dfca35&q=Gramian+Consulting+Group&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-20f2025164c8&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-bc32e9e228",
+          "job_id": "workable-8d2ed1c905",
           "employer": "Gramian Consulting Group",
-          "title": "Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care",
+          "title": "Computational Life Sciences & Scientific Python Specialist",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/BC32E9E228",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
+          "official_url": "https://apply.workable.com/j/8D2ED1C905",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
+          "hiring_momentum": "HIRING_DOWN",
+          "hiring_delta": -1
         }
       ],
       "measurement_chain": [
@@ -263,29 +263,29 @@
       "rank": 6
     },
     {
-      "candidate_id": "gwr-alert-0825f6f9f872",
-      "signal_type": "GWR_ALERT",
+      "candidate_id": "gwr-open-4b3c525f10bc",
+      "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 98,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
-      "claim_scope": "snapshot_change_only_no_hiring_outcome_inference",
+      "score": 91,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
+      "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR ALERT】AIRS Medical Inc｜JP - Business Development Director｜新着Signal。日本対象可否・公式求人・鮮度を確認して追跡しています。次の変化もGWRで更新。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0825f6f9f872&q=AIRS+Medical…",
-        "bluesky": "GWR ALERT｜AIRS Medical Inc｜JP - Business Development Director｜新着Signal。日本対象可否・公式求人・鮮度を確認して継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0825f6f9f872&q=AIRS+Medical+Inc&intent=general",
-        "linkedin": "GWR Market Alert AIRS Medical Inc｜JP - Business Development Director｜新着Signal。採用結果の予測ではなく、GWRの検証済み求人スナップショットで確認できた変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0825f6f9f872&q=AIRS+Medical+Inc&intent=general"
+        "x": "【GWR OPEN】Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜Gramian Consulting Group｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_con…",
+        "bluesky": "GWR OPEN｜Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜Gramian Consulting Group｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4b3c525f10b…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care｜Gramian Consulting Group｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4b3c525f10bc&q=Gramian+Consulting+Group&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-alert-0825f6f9f872&q=AIRS+Medical+Inc&intent=general",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-4b3c525f10bc&q=Gramian+Consulting+Group&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-fd039b5c88",
-          "employer": "AIRS Medical Inc",
-          "title": "JP - Business Development Director",
+          "job_id": "workable-bc32e9e228",
+          "employer": "Gramian Consulting Group",
+          "title": "Japanese-English Bilingual Physician - Internal Medicine & Diabetes Care",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/FD039B5C88",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
+          "official_url": "https://apply.workable.com/j/BC32E9E228",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
           "freshness_bucket": "NEW_24H",
-          "hiring_momentum": "STEADY",
-          "hiring_delta": 0
+          "hiring_momentum": "HIRING_DOWN",
+          "hiring_delta": -1
         }
       ],
       "measurement_chain": [
@@ -301,27 +301,27 @@
       "rank": 7
     },
     {
-      "candidate_id": "gwr-open-c1dea9aa4940",
+      "candidate_id": "gwr-open-242673800a5a",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
+      "score": 86,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】JP - Business Development Director｜AIRS Medical Inc｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c1dea9aa4940&q=AIRS+Medical+Inc&…",
-        "bluesky": "GWR OPEN｜JP - Business Development Director｜AIRS Medical Inc｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c1dea9aa4940&q=AIRS+Medical+Inc&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 JP - Business Development Director｜AIRS Medical Inc｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c1dea9aa4940&q=AIRS+Medical+Inc&intent=remote"
+        "x": "【GWR OPEN】JP & EN Customer support coordinator｜Side｜Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-242673800a5a&q=Side&intent=remote",
+        "bluesky": "GWR OPEN｜JP & EN Customer support coordinator｜Side｜Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-242673800a5a&q=Side&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 JP & EN Customer support coordinator｜Side｜Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-242673800a5a&q=Side&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c1dea9aa4940&q=AIRS+Medical+Inc&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-242673800a5a&q=Side&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-fd039b5c88",
-          "employer": "AIRS Medical Inc",
-          "title": "JP - Business Development Director",
+          "job_id": "workable-3c7347cd40",
+          "employer": "Side",
+          "title": "JP & EN Customer support coordinator",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/FD039B5C88",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/3C7347CD40",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -339,27 +339,27 @@
       "rank": 8
     },
     {
-      "candidate_id": "gwr-open-e3aefa6c1922",
+      "candidate_id": "gwr-open-c60f2d2e04a3",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
+      "score": 86,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Operations Trainee (Part-Time)｜CXG｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e3aefa6c1922&q=CXG&intent=remote",
-        "bluesky": "GWR OPEN｜Operations Trainee (Part-Time)｜CXG｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e3aefa6c1922&q=CXG&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Operations Trainee (Part-Time)｜CXG｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e3aefa6c1922&q=CXG&intent=remote"
+        "x": "【GWR OPEN】Agent - ( Internal Job Posting )｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c60f2d2e04a3…",
+        "bluesky": "GWR OPEN｜Agent - ( Internal Job Posting )｜Keywords Studios｜Suginami City, Tokyo, JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c60f2d2e04a3&q=Keywords+Studios&inten…",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Agent - ( Internal Job Posting )｜Keywords Studios｜Suginami City, Tokyo, JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c60f2d2e04a3&q=Keywords+Studios&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-e3aefa6c1922&q=CXG&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c60f2d2e04a3&q=Keywords+Studios&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-eff8198209",
-          "employer": "CXG",
-          "title": "Operations Trainee (Part-Time)",
+          "job_id": "workable-1c29060998",
+          "employer": "Keywords Studios",
+          "title": "Agent - ( Internal Job Posting )",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/EFF8198209",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/1C29060998",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -377,27 +377,27 @@
       "rank": 9
     },
     {
-      "candidate_id": "gwr-open-c9b96facac1d",
+      "candidate_id": "gwr-open-fab77c7680d8",
       "signal_type": "GWR_OPEN",
       "objective": "qualified_revenue_growth",
-      "score": 91,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
+      "score": 86,
+      "source_generated_at": "2026-11-18T17:17:32.502Z",
       "claim_scope": "verified_active_structured_facts_only",
       "text": {
-        "x": "【GWR OPEN】Technical Support Engineer (APAC)｜Laravel｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c9b96facac1d&q=Laravel&intent=remote",
-        "bluesky": "GWR OPEN｜Technical Support Engineer (APAC)｜Laravel｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c9b96facac1d&q=Laravel&intent=remote",
-        "linkedin": "Global Work Radarで新しい求人Signalを確認。 Technical Support Engineer (APAC)｜Laravel｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c9b96facac1d&q=Laravel&intent=remote"
+        "x": "【GWR OPEN】アカウントマネージャー｜BoostDraft｜JP。公式求人の確認先まで検証済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fab77c7680d8&q=BoostDraft&intent=remote",
+        "bluesky": "GWR OPEN｜アカウントマネージャー｜BoostDraft｜JP。公式求人まで確認済み。GWRは日本から確認できる海外求人の変化を継続観測中。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fab77c7680d8&q=BoostDraft&intent=remote",
+        "linkedin": "Global Work Radarで新しい求人Signalを確認。 アカウントマネージャー｜BoostDraft｜JP 公開対象はVERIFIED ACTIVEかつ公式応募先を確認できたものに限定しています。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fab77c7680d8&q=BoostDraft&intent=remote"
       },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-c9b96facac1d&q=Laravel&intent=remote",
+      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-open-fab77c7680d8&q=BoostDraft&intent=remote",
       "evidence": [
         {
-          "job_id": "workable-af8a58873e",
-          "employer": "Laravel",
-          "title": "Technical Support Engineer (APAC)",
+          "job_id": "workable-ecbae7f72e",
+          "employer": "BoostDraft",
+          "title": "アカウントマネージャー",
           "source": "Workable",
-          "official_url": "https://apply.workable.com/j/AF8A58873E",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
-          "freshness_bucket": "NEW_24H",
+          "official_url": "https://apply.workable.com/j/ECBAE7F72E",
+          "last_verified_at": "2026-11-18T17:17:08.921Z",
+          "freshness_bucket": "NEW_3D",
           "hiring_momentum": "STEADY",
           "hiring_delta": 0
         }
@@ -413,77 +413,6 @@
       "publish_state": "CANDIDATE_NOT_PUBLISHED",
       "channel_rule": "GWR_CHANNEL_ONLY",
       "rank": 10
-    },
-    {
-      "candidate_id": "gwr-shift-f825613f7dce",
-      "signal_type": "GWR_SHIFT",
-      "objective": "qualified_revenue_growth",
-      "score": 82,
-      "source_generated_at": "2026-11-18T07:31:14.448Z",
-      "claim_scope": "verified_inventory_snapshot_delta_only",
-      "text": {
-        "x": "【GWR SHIFT】Gramian Consulting Group：GWR確認求人 7→8（+1）。採用成否の予測ではなく、検証済み公開求人のスナップショット変化です。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f825613f7dce&q=Gramian+Consulting+Group&intent=gener…",
-        "bluesky": "GWR SHIFT｜Gramian Consulting Group：GWR確認求人 7→8（+1）。検証済み公開求人のスナップショット変化として継続追跡。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f825613f7dce&q=Gramian+Consulting+Group&intent=general",
-        "linkedin": "GWR Market Shift Gramian Consulting Group：GWR確認求人 7→8（+1）。企業の採用意欲や採用成否を断定せず、VERIFIED ACTIVE求人の差分として追跡します。 https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f825613f7dce&q=Gramian+Consulting+Group&intent=general"
-      },
-      "destination_url": "https://global-work-radar.pages.dev/?japan=1&utm_source=social&utm_medium=organic&utm_campaign=gwr_signal_growth&utm_content=gwr-shift-f825613f7dce&q=Gramian+Consulting+Group&intent=general",
-      "evidence": [
-        {
-          "job_id": "workable-8147b966af",
-          "employer": "Gramian Consulting Group",
-          "title": "Machine Learning Research & Engineering Specialist",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/8147B966AF",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-cded94b3a1",
-          "employer": "Gramian Consulting Group",
-          "title": "Biology & Bioinformatics Research Specialist (MSc/PhD)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/CDED94B3A1",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-1f240d31d3",
-          "employer": "Gramian Consulting Group",
-          "title": "Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/1F240D31D3",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        },
-        {
-          "job_id": "workable-2fdb69376f",
-          "employer": "Gramian Consulting Group",
-          "title": "Senior Hardware Engineering & AI Systems Specialist (MSc/PhD)",
-          "source": "Workable",
-          "official_url": "https://apply.workable.com/j/2FDB69376F",
-          "last_verified_at": "2026-11-18T07:30:49.074Z",
-          "freshness_bucket": "LONG_RUNNING",
-          "hiring_momentum": "HIRING_UP",
-          "hiring_delta": 1
-        }
-      ],
-      "measurement_chain": [
-        "social_publish",
-        "gwr_visit",
-        "gwr_return_visit",
-        "gwr_search",
-        "gwr_buyer_reaction",
-        "gwr_official_apply_click"
-      ],
-      "publish_state": "CANDIDATE_NOT_PUBLISHED",
-      "channel_rule": "GWR_CHANNEL_ONLY",
-      "rank": 11
     }
   ]
 }
