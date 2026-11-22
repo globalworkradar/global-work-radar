@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "observed_at": "2026-11-22T16:17:51.863Z",
+  "observed_at": "2026-11-22T21:54:52.359Z",
   "run": {
-    "github_run_id": "45042937855",
+    "github_run_id": "45074629802",
     "github_run_attempt": "1",
-    "github_sha": "7d85264f3adadcbf9f556488de956e4dcb523584",
+    "github_sha": "cbc98c3f4fa5a51821c0f7f24caf5eb3c73248c7",
     "baseline_ref": "HEAD"
   },
   "inventory": {
@@ -16,44 +16,17 @@
     }
   },
   "change_detection": {
-    "meaningful_change_count": 5,
+    "meaningful_change_count": 1,
     "added_count": 0,
     "removed_count": 0,
-    "changed_count": 5,
+    "changed_count": 1,
     "added_ids": [],
     "removed_ids": [],
     "changed": [
       {
-        "id": "workable-d3c5d821fd",
-        "fields": [
-          "lifecycle_state",
-          "hiring_intent_level"
-        ]
-      },
-      {
         "id": "workable-92408384aa",
         "fields": [
           "location"
-        ]
-      },
-      {
-        "id": "workable-90dea04b34",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-c02b74c563",
-        "fields": [
-          "freshness_bucket",
-          "lifecycle_state"
-        ]
-      },
-      {
-        "id": "workable-038999eeca",
-        "fields": [
-          "lifecycle_state"
         ]
       }
     ]
